@@ -12,7 +12,7 @@ profession: 40 let, člen Pirátů, člen Koalice Trojmezí, projektový manaže
 img: people/t-jiri-dohnal.jpg
 mail:
   - jiri.dohnal@pirati.cz
-mob: +420 608 770 778 
+mob: +420 608 770 778
 profiles:
   facebook: https://www.facebook.com/jiridohnal.cz
 ---
