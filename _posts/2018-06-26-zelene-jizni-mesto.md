@@ -25,4 +25,8 @@ Volte Českou pirátskou stranu do zastupitelstva MČ Praha 11 a do Magistrátu 
 
 Milan Minařík, Piráti Praha 11
 
+---
+
+Pirátské listy Praha 11 [ke stažení zde](/assets/pdf/2018-07-10-praha-11.pdf) (velikost 10 Mb).
+
 - - -

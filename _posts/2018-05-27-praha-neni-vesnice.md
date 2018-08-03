@@ -30,5 +30,8 @@ Praha se zahušťovat bude, ale není možné přestavovat kotelny na 10-patrov�
 
 Mgr. Jan Mejsnar, Piráti Praha 11
 
+---
+
+Pirátské listy Praha 11 [ke stažení zde](/assets/pdf/2018-07-10-praha-11.pdf) (velikost 10 Mb).
 
 - - -

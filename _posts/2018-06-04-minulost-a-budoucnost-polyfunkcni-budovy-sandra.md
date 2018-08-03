@@ -19,5 +19,8 @@ A jaká je budoucnost objektu Sandra? Plánované využití mělo být např. st
 
 Podle našeho názoru MČ zakoupila budovu, jejíž cena byla při nákupu v roce 2013 předražená a náklady na její revitalizaci jsou v současné době vysoké. Celkové náklady na nákup a rekonstrukci tak ve finále dosáhnou více než půl miliardy korun, což je podle našeho názoru nehospodárné a neefektivní.
 
+---
+
+Pirátské listy Praha 11 [ke stažení zde](/assets/pdf/2018-07-10-praha-11.pdf) (velikost 10 Mb).
 
 - - -

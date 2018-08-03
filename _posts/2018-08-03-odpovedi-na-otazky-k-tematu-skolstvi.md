@@ -42,4 +42,8 @@ Dále by bylo možné navázat spolupráci se studenty z Pedf UK (podpora praxí
 
 6. Je to jedna z našich největších priorit. Nejde nám jen o alternativní a specializované třídy, ale i o proměnu klimatu ve školách dle zásad moderní pedagogiky s ohledem na přání a představy rodičů.
 
+---
+
+Pirátské listy Praha 11 [ke stažení zde](/assets/pdf/2018-07-10-praha-11.pdf) (velikost 10 Mb).
+
 - - -

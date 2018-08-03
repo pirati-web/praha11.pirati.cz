@@ -19,4 +19,8 @@ Panelové sídliště není méně kvalitní bydlení, naopak je to skutečný d
 
 Bc. Martin Duška
 
+---
+
+Pirátské listy Praha 11 [ke stažení zde](/assets/pdf/2018-07-10-praha-11.pdf) (velikost 10 Mb).
+
 - - -
