@@ -6,7 +6,7 @@ layout: post
 title: Odpovědi na otázky k tématu školství
 author: Mgr. Zuzana Ujhelyiová
 authorId: zuzana.ujhelyiova
-#image: posts/2018-05-27-praha-neni-vesnice.jpg
+image: posts/2018-05-27-praha-neni-vesnice.jpg
 ---
 
 OTÁZKY
