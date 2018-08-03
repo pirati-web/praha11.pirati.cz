@@ -10,6 +10,7 @@ authorId: zuzana.ujhelyiova
 ---
 
 OTÁZKY
+==========
 
 1. Jaké jsou tři hlavní cíle v oblasti školství Prahy 11 pro následující čtyři roky?
 2. Kdo se ve vaší straně věnuje oblasti školství, kdo je připraven být radním pro školství?
