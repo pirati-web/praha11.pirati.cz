@@ -29,6 +29,7 @@ ODPOVĚDI
 - dostatečné kapacity
 - kvalitní strava
 
+
 2. Tým pro oblast školství je složen z následujících osob:
 Mgr. Zuzana Böhmová, Mgr. Zuzana Ujhelyiová, Milan Minařík, Jan Suchánek. Případný kandidát na radního za školství je Mgr. Zuzana Ujhelyiová.
 
