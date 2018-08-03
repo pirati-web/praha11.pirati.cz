@@ -23,24 +23,22 @@ OTÁZKY
 ODPOVĚDI
 ==========
 
-1) Naše cíle jsou následující:
-1. inovativní vzdělávání do veřejného školství (jasný koncept škol)
-2. více peněz na kvalitní vzdělávání, méně na zbytečnosti
-3. dostatečné kapacity
-4. kvalitní strava
+1. Naše cíle jsou následující:
+- inovativní vzdělávání do veřejného školství (jasný koncept škol)
+- více peněz na kvalitní vzdělávání, méně na zbytečnosti
+- dostatečné kapacity
+- kvalitní strava
 
-2) Tým pro oblast školství je složen z následujících osob:
+2. Tým pro oblast školství je složen z následujících osob:
 Mgr. Zuzana Böhmová, Mgr. Zuzana Ujhelyiová, Milan Minařík, Jan Suchánek. Případný kandidát na radního za školství je Mgr. Zuzana Ujhelyiová.
 
-3) Lákadlem pro nové učitele může být: jasná koncepce škol, podpora dalšího vzdělávání učitelů, byty pro učitele.
+3. Lákadlem pro nové učitele může být: jasná koncepce škol, podpora dalšího vzdělávání učitelů, byty pro učitele.
 Dále by bylo možné navázat spolupráci se studenty z Pedf UK (podpora praxí, semináře z praxe), případně zapojit kvalifikované pedagogy cizince (intenzivní jazykové kurzy apod.)
 
-4) Vypisování konkurzů považujeme za samozřejmý nástroj udržení kvality školských zařízení obecně. Konkurz nemusí nutně znamenat personální změny, ale vždy slouží ke stanovení cílů a směřování celé školy. Podporujeme učitele v dalším vzdělávání v oblasti školského managementu (možné dotace, nutnost výchovy nových vedoucích pracovníků).
+4. Vypisování konkurzů považujeme za samozřejmý nástroj udržení kvality školských zařízení obecně. Konkurz nemusí nutně znamenat personální změny, ale vždy slouží ke stanovení cílů a směřování celé školy. Podporujeme učitele v dalším vzdělávání v oblasti školského managementu (možné dotace, nutnost výchovy nových vedoucích pracovníků).
 
-5) Kvalitně vystavěný a nezávislý sociologický průzkum kvality školských zařízení a preferencí rodičů, vybudování komunikační platformy pro hodnocení škol, zřízení role školského ombutsmana, spolupráce MČ se školskými radami a SRPŠ, motivování škol k lepší a moderní komunikaci s rodiči, elektronické žákovské a třídní kniha.
+5. Kvalitně vystavěný a nezávislý sociologický průzkum kvality školských zařízení a preferencí rodičů, vybudování komunikační platformy pro hodnocení škol, zřízení role školského ombutsmana, spolupráce MČ se školskými radami a SRPŠ, motivování škol k lepší a moderní komunikaci s rodiči, elektronické žákovské a třídní kniha.
 
-6) Je to jedna z našich největších priorit. Nejde nám jen o alternativní a specializované třídy, ale i o proměnu klimatu ve školách dle zásad moderní pedagogiky s ohledem na přání a představy rodičů.
-
-
+6. Je to jedna z našich největších priorit. Nejde nám jen o alternativní a specializované třídy, ale i o proměnu klimatu ve školách dle zásad moderní pedagogiky s ohledem na přání a představy rodičů.
 
 - - -
