@@ -1,7 +1,7 @@
 ---
-uid: michaela.al.ali.polakova
-name:     Michaela Al-Ali Poláková
-fullname: Ing. Michaela Al-Ali Poláková
+uid: michaela.polakova
+name:     Michaela Poláková
+fullname: Ing. Michaela Poláková
 category:
   - priznivci
   - kandidat-obec
