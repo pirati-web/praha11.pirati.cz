@@ -1,5 +1,5 @@
 ---
-uid: zuzana.boehmova
+uid: 8.zuzana.boehmova
 name:     Zuzana Böhmová  	# běžně používáné jméno
 fullname: Mgr. Zuzana Böhmová  	# jméno s tituly etc.
 category:

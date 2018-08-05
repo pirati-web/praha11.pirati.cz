@@ -5,7 +5,7 @@ category: blog
 layout: post
 title: Výtvarnice Martina Walterová Ráda dávám věci do nezvyklých souvislostí.
 author: Michal Kovařík
-authorId: michal.kovarik    # uid nekoho z _people (nepoviné)
+authorId: 5.michal.kovarik    # uid nekoho z _people (nepoviné)
 image: posts/2018-05-27-rozhovor-walterova.jpg
 ---
 

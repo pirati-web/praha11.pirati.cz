@@ -1,5 +1,5 @@
 ---
-uid: michal.kovarik
+uid: 5.michal.kovarik
 name:     Michal Kovařík
 fullname: Michal Kovařík
 category:

@@ -1,5 +1,5 @@
 ---
-uid: ladislav.kos
+uid: 4.ladislav.kos
 name:     Ladislav Kos
 fullname: Ing. Ladislav Kos
 category:

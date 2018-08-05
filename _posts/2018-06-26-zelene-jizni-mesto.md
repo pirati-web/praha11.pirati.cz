@@ -5,7 +5,7 @@ category: blog
 layout: post
 title: Zelené Jižní Město?
 author: Milan Minařík
-authorId: milan.minarik    # uid nekoho z _people (nepoviné)
+authorId: 5.milan.minarik    # uid nekoho z _people (nepoviné)
 image: posts/2018-06-26-zelene-jizni-mesto.jpg
 ---
 

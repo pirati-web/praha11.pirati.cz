@@ -3,17 +3,17 @@ title: Kandidátka na radnici MČ Praha 11
 uid: radnice
 # number: 13 # číslo kandidátky odkomentujte až bude známé
 leader:
-  uid: jiri.dohnal
+  uid: 1.jiri.dohnal
   age: 40
   profession: projektový manažer
   party: Piráti
   description: Zastupitel MČ Praha 11, člen Koalice Trojmezí
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
-  - uid: zuzana.ujhelyiova
+  - uid: 2.zuzana.ujhelyiova
     profession: Teoložka
     age: 35
     party: Piráti
-  - uid: duska.martin
+  - uid: 3.duska.martin
     age: 26
     profession: Politolog
     party: Piráti  

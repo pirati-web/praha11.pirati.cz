@@ -5,7 +5,7 @@ category: blog
 layout: post
 title: Praha není vesnice, bohužel nebo bohudík?
 author: Mgr. Jan Mejsnar
-authorId: jan.mejsnar    # uid nekoho z _people (nepoviné)
+authorId: 7.jan.mejsnar    # uid nekoho z _people (nepoviné)
 image: posts/2018-05-27-praha-neni-vesnice.jpg
 ---
 

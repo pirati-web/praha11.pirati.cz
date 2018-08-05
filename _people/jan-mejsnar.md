@@ -1,5 +1,5 @@
 ---
-uid: jan.mejsnar
+uid: 7.jan.mejsnar
 name:     Jan Mejsnar  	# běžně používáné jméno
 fullname: Jan Mejsnar  	# jméno s tituly etc.
 category:

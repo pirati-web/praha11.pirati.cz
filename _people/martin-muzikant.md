@@ -1,5 +1,5 @@
 ---
-uid: martin.muzikant
+uid: 9.martin.muzikant
 name:     Martin Muzikant
 fullname: Mag. Martin Muzikant, Ph.D.
 category:

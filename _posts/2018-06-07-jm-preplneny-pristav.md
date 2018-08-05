@@ -5,7 +5,7 @@ category: blog
 layout: post
 title: Jižní Město - přeplněný přístav
 author: Ing. Ladislav Kos ml.
-authorId: ladislav.kos    # uid nekoho z _people (nepoviné)
+authorId: 4.ladislav.kos    # uid nekoho z _people (nepoviné)
 image: posts/2018-06-07-jm-preplneny-pristav.jpg
 ---
 
