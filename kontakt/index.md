@@ -7,7 +7,7 @@ residence: yes #vyplňte pokud chcete přidat adresu nejbližšího pice
 
 ## Přidejte se
 
-Zajámá vás co Piráti dělají a jak? Ozvěte se [Jiřímu Dohnalovi](/lide/jiri-dohnal) nebo přijďte k nám na otevřenou schůzi. Pořádáme je obvykle první pondělí v měsíci v pražském pirátském centru (PiCe) na Žižkově.
+Zajámá vás co Piráti dělají a jak? [Ozvěte se nám](/praha11@pirati.cz) nebo přijďte k nám na otevřenou schůzi. Pořádáme je obvykle poslední pondělí v měsíci, lokalita je vždy upřesněna, sledujte náš [Facebook](/https://www.facebook.com/pg/pirati11.cz/events/?ref=page_internal) .
 
 
 
