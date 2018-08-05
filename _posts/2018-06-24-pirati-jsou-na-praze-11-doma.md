@@ -5,7 +5,7 @@ category: blog
 layout: post
 title: Piráti jsou na Praze 11 doma!
 author: Jiří Dohnal
-authorId: jiri.dohnal    # uid nekoho z _people (nepoviné)
+authorId: 1.jiri.dohnal    # uid nekoho z _people (nepoviné)
 image: posts/2018-06-24-pirati-jsou-na-praze-11-doma.jpg
 ---
 

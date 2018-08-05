@@ -5,7 +5,7 @@ category: blog
 layout: post
 title: Minulost a budoucnost polyfunkční budovy Sandra
 author: Jiří Dohnal
-authorId: jiri.dohnal    # uid nekoho z _people (nepoviné)
+authorId: 1.jiri.dohnal    # uid nekoho z _people (nepoviné)
 image: posts/2018-06-04-minulost-a-budoucnost-polyfunkcni-budovy-sandra.jpg
 ---
 

@@ -1,5 +1,5 @@
 ---
-uid: zuzana.ujhelyiova
+uid: 2.zuzana.ujhelyiova
 name:     Zuzana Ujhelyiová
 fullname: Mgr. Zuzana Ujhelyiová 
 category:

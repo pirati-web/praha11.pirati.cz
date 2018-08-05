@@ -5,7 +5,7 @@ category: blog
 layout: post
 title: Proč potřebuje Jižní Město Piráty?
 author: Bc. Martin Duška
-authorId: duska.martin    # uid nekoho z _people (nepoviné)
+authorId: 3.duska.martin    # uid nekoho z _people (nepoviné)
 image: posts/2018-07-03-proc-potrebuje-jm-piraty.jpg
 ---
 

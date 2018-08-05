@@ -1,5 +1,5 @@
 ---
-uid: duska.martin
+uid: 3.duska.martin
 name:     Martin Duška
 fullname: Mgr. Martin Duška
 category:

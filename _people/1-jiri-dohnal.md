@@ -1,5 +1,5 @@
 ---
-uid: jiri.dohnal
+uid: 1.jiri.dohnal
 name:     Jiří Dohnal  	# běžně používáné jméno
 fullname: Jiří Dohnal  	# jméno s tituly etc.
 category:

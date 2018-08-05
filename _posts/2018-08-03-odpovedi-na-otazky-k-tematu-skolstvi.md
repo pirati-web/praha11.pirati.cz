@@ -5,7 +5,7 @@ category: blog
 layout: post
 title: Odpovědi na otázky k tématu školství
 author: Mgr. Zuzana Ujhelyiová
-authorId: zuzana.ujhelyiova
+authorId: 2.zuzana.ujhelyiova
 image: posts/2018-08-03-odpovedi-na-otazky-k-tematu-skolstvi.jpg
 ---
 

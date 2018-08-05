@@ -5,7 +5,7 @@ category: blog
 layout: post
 title: Svěží vítr do jihoměstských škol
 author: Mgr. Zuzana Ujhelyiová
-authorId: zuzana.ujhelyiova    # uid nekoho z _people (nepoviné)
+authorId: 2.zuzana.ujhelyiova    # uid nekoho z _people (nepoviné)
 image: posts/2018-06-10-svezi-vitr-do-jihomestskych-skol.jpg
 ---
 
