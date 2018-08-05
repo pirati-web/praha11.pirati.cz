@@ -6,7 +6,7 @@ category:
   - priznivci
   - kandidat-obec
 description: stavební inženýrka
-#img: people/t-michaela-polakova.jpg
+img: people/t-michaela-polakova.jpg
 ---
 
 44 let, bez PP, stavební inženýrka
