@@ -17,32 +17,32 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 26
     profession: Politolog
     party: Piráti  
-  - uid: ladislav.kos
+  - uid: 4.ladislav.kos
     age: 32
     profession: Konzultatnt online marketingu
     party: Piráti
-  - uid: michal.kovarik
+  - uid: 5.michal.kovarik
     age: 30
     profession: Nakladatelský pracovník, publicista
     party: Piráti  
-  - uid: josef.kocourek
+  - uid: 6.josef.kocourek
     age: 54
     profession: Provozní dispečer
     party: Piráti
-  - uid: jan.mejsnar
+  - uid: 7.jan.mejsnar
     age: 33
     profession: Meteorolog, vědecký pracovník
     party: Piráti
-  - uid: zuzana.boehmova
+  - uid: 8.zuzana.boehmova
     age: 28
     profession: Učitelka
     party: Piráti    
-  - uid: martin.muzikant
+  - uid: 9.martin.muzikant
     age: 47 
     profession: Manažer kvality
-  - uid: michal.veselsky
+  - uid: 10.michal.veselsky
     profession: Výzkumný pracovník, šachista a koloběžkář
-  - uid: milan.minarik
+  - uid: 11.milan.minarik
     age: 34
     profession: Manažer
 
