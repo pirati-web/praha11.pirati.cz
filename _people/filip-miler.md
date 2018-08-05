@@ -1,5 +1,5 @@
 ---
-uid: filip.miler
+uid: 42.filip.miler
 name:     Filip Miler  	# běžně používáné jméno
 fullname: Filip Miler  	# jméno s tituly etc.
 category:
