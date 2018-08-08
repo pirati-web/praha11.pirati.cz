@@ -16,5 +16,9 @@ profiles:
 33 let, software Engineer
 
 Na Jižním městě se žije skvěle, přesto zde vidím mnoho věcí, které lze zlepšit. Zajímá mě především oblast životního prostředí a školství. Nicméně, za zásadní považuji to, aby v politice vládla slušnost, transparentnost, občanská informovanost a snaha změnit k lepšímu život občanů, nejen svůj vlastní. Bez toho to nepůjde.
+---
+
+
+Reklama: Líčení kosmetikou <a href="mailto:Daniela01@seznam.cz">Mary Kay</a>, vizážistka Daniela Kuželová  
 
 ---

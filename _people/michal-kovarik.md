@@ -19,5 +19,9 @@ profiles:
 Dlouhodobě se zajímám o oblast kultury v Praze, zejména v Jihoměstské části.
 V zastupitelstvu MČ Praha 11 bych chtěl podporovat nejen rozšíření a všestranný pozitivní rozvoj kulturní oblasti na Jižním Městě, ale vše, co souvisí se zájmem o blaho občana, prevencí kriminality, udržitelným rozvojem a myšlením zdravého rozumu.
 Mezi mé kompetence patří zejména kultura a volný čas, dále bezpečnost a eliminace sociálně-patologických jevů.
+---
+
+
+Reklama: Líčení kosmetikou <a href="mailto:Daniela01@seznam.cz">Mary Kay</a>, vizážistka Daniela Kuželová  
 
 ---

@@ -22,5 +22,9 @@ Vystudoval střední průmyslovou školu elektrotechnickou v Ječné ulici, obor
 Prošel několika firmami, kde se věnoval vývoji informačních systémů. V současnosti pracuje jako kontraktor na vývoji informačních systémů pro zahraniční zákazníky.
 
 Angažuje se v aktivitách souvisejících s hudbou a nezávislým filmem. Jeho zájmy jsou hudba, film, věda, technika, politika.
+---
+
+
+Reklama: Líčení kosmetikou <a href="mailto:Daniela01@seznam.cz">Mary Kay</a>, vizážistka Daniela Kuželová 
 
 ---

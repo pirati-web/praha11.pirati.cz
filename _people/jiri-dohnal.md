@@ -24,5 +24,9 @@ Na Jižním Městě žiji rád již od roku 1980, vidím tak jeho pozitivní i n
 Co mohou Piráti nabídnout Jižnímu Městu pro volební období 2018 až 2022? Jednoznačně transparentní řízení radnice, optimální a efektivní financování místní samosprávy, její digitalizaci a především tým mladých, pracovitých a schopných lidí, kteří nemají žádnou korupční historii. To v dnešní době, bohužel, není samozřejmostí.
  
 V letošních komunálních volbách Vám přeji šťastnou ruku ve prospěch našeho Jižního Města.
+---
+
+
+Reklama: Líčení kosmetikou <a href="mailto:Daniela01@seznam.cz">Mary Kay</a>, vizážistka Daniela Kuželová  
 
 ---

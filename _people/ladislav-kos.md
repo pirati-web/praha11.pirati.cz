@@ -22,5 +22,9 @@ Chci se věnovat třem oblastem:
 - Řešení dopravy – parkování, renovaci a výstavbě chodníků a cyklostezek a rozumné koordinaci linek MHD. 
 - Transparentní radnici, úřad nesmí lidem přidělávat práci, naopak jim musí sloužit. 
 - Rozvoji Prahy 11, chránit a rozšiřovat plochy, kde občané relaxují a aktivně tráví svůj volný čas.
+---
+
+
+Reklama: Líčení kosmetikou <a href="mailto:Daniela01@seznam.cz">Mary Kay</a>, vizážistka Daniela Kuželová  
 
 ---
