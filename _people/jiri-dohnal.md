@@ -25,9 +25,5 @@ Co mohou Piráti nabídnout Jižnímu Městu pro volební období 2018 až 2022?
  
 V letošních komunálních volbách Vám přeji šťastnou ruku ve prospěch našeho Jižního Města.
 
----
-
-
-Reklama: Líčení kosmetikou <a href="mailto:Daniela01@seznam.cz">Mary Kay</a>, vizážistka Daniela Kuželová  
 
 ---
