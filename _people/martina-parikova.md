@@ -5,7 +5,7 @@ fullname: Mgr. Martina Paříková
 category:
   - priznivci
   - kandidat-obec
-description: software Engineer
+description: Software Engineer
 img: people/t-martina-parikova.jpg
 mail:
   - martina.parikova@gmail.com
