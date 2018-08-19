@@ -49,16 +49,16 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 34
     profession: Manažer
     party: Piráti 
-
-tail:
-  - name: Jan Suchánek
+  - uid: 12.jan.suchanek
     age: 42
     profession: Webmaster
-    party: BEZPP    
-  - name: Ing. Michaela Al-Ali Poláková
+    party: BEZPP
+  - name: 13.michaela.polakova
     age: 44
     profession: Stavební inženýrka
-    party: BEZPP    
+    party: BEZPP     
+tail:
+
   - name: Mgr. Martin Petrtýl
     age: 41
     profession: Fundraiser

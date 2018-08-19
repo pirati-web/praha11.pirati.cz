@@ -1,5 +1,5 @@
 ---
-uid: michaela.polakova
+uid: 13.michaela.polakova
 name:     Michaela Poláková
 fullname: Ing. Michaela Poláková
 category:
