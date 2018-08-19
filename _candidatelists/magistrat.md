@@ -53,7 +53,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 42
     profession: Webmaster
     party: BEZPP
-  - name: 13.michaela.polakova
+  - uid: 13.michaela.polakova
     age: 44
     profession: Stavební inženýrka
     party: BEZPP     
