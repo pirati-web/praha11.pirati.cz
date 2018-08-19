@@ -6,7 +6,7 @@ category:
   - priznivci
   - kandidat-obec
 ordclenove: 14
-description: 
+description: Fundraiser
 img: people/t-martin-petrtyl.jpg
 
 profiles:
