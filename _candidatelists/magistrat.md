@@ -5,11 +5,9 @@ uid: magistrat
 leader:
   uid: 1.jiri.dohnal
   age: 40
-  profession: projektový manažer
+  profession: Projektový manažer
   party: Piráti
   description: Zastupitel MČ Praha 11, člen Koalice Trojmezí
-
-
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
   - uid: 2.zuzana.ujhelyiova
     profession: Teoložka
@@ -45,6 +43,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     party: Piráti 
   - uid: 10.michal.veselsky
     profession: Výzkumný pracovník, šachista a koloběžkář
+    age: 38
   - uid: 11.milan.minarik
     age: 34
     profession: Manažer
@@ -112,7 +111,7 @@ tail:
     party: BEZPP    
   - name: Marcela Pecharová
     age: 31
-    profession: umělkyně
+    profession: Umělkyně
     party: BEZPP    
   - name: Ing. Vít Zikmund
     age: 33
