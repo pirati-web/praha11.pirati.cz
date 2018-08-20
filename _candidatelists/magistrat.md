@@ -56,21 +56,20 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: 13.michaela.polakova
     age: 44
     profession: Stavební inženýrka
-    party: BEZPP     
-tail:
-
-  - name: Mgr. Martin Petrtýl
+    party: BEZPP
+  - uid: martin.petrtyl
     age: 41
     profession: Fundraiser
     party: BEZPP    
-  - name: Mgr. Martina Paříková
+  - uid: martina.parikova
     age: 33
     profession: Software engineer
     party: BEZPP    
-  - name: Mgr. Lada Peksová
+  - uid: lada.peksova
     age: 28
     profession: Studentka MFF Univerzity Karlovy
-    party: BEZPP    
+    party: BEZPP        
+tail: 
   - name: Mgr. Van Anh Tranová
     age: 32
     profession: Tlumočnice
