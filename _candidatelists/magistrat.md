@@ -64,7 +64,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 33
     profession: Software engineer
     party: BEZPP    
-  - uid: lada.peksova
+  - uid: lada.pexova
     age: 28
     profession: Studentka MFF Univerzity Karlovy
     party: BEZPP        
