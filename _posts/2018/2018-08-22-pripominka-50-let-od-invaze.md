@@ -5,8 +5,8 @@ category: blog
 layout: post
 title: Piráti z Prahy 11 si připomněli 50 let od invaze vojsk Varšavské smlouvy
 author: Milan Minařík
-authorId: 11.milan.minarik    # uid nekoho z _people (nepoviné)
-image: articles/2018/2018-08-22-pripominka-50-let-od-invaze-12.jpg
+authorId: 11.milan.minarik
+image: articles/2018/2018-08-22-pripominka-50-let-od-invaze-01.jpg
 ---
 
 Piráti z Prahy 11 si připomněli 50 let od invaze vojsk Varšavské smlouvy. Sešli jsme se na Jižním Městě v Parku u Chodovské tvrze před Památníkem svobody. Spolu s námi přišli vzpomenout na začátek okupace Československa a na její oběti i občané Jižního Města. Symbolicky se nás sešlo celkem 21 lidí.
