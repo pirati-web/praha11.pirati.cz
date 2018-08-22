@@ -38,7 +38,6 @@ Před 50 lety vtrhla vojska Varšavské smlouvy do Československa a nastartoval
 ![50 let od invaze vojsk Varšavské smlouvy](/assets/img/articles/2018/2018-08-22-pripominka-50-let-od-invaze-07.jpg)
 ![50 let od invaze vojsk Varšavské smlouvy](/assets/img/articles/2018/2018-08-22-pripominka-50-let-od-invaze-08.jpg)
 ![50 let od invaze vojsk Varšavské smlouvy](/assets/img/articles/2018/2018-08-22-pripominka-50-let-od-invaze-09.jpg)
-![50 let od invaze vojsk Varšavské smlouvy](/assets/img/articles/2018/2018-08-22-pripominka-50-let-od-invaze-10.jpg)
 ![50 let od invaze vojsk Varšavské smlouvy](/assets/img/articles/2018/2018-08-22-pripominka-50-let-od-invaze-11.jpg)
 ![50 let od invaze vojsk Varšavské smlouvy](/assets/img/articles/2018/2018-08-22-pripominka-50-let-od-invaze-12.jpg)
 ![50 let od invaze vojsk Varšavské smlouvy](/assets/img/articles/2018/2018-08-22-pripominka-50-let-od-invaze-13.jpg)
