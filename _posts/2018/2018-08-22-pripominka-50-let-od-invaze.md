@@ -9,26 +9,28 @@ authorId: 11.milan.minarik    # uid nekoho z _people (nepoviné)
 image: articles/2018/2018-08-22-pripominka-50-let-od-invaze-12.jpg
 ---
 
-Pocházíte z maloměsta nebo vesnice? Jste zvyklí, že pokud se má měnit územní plán nebo stavět nový dům, tak o tom za chvíli ví celé město? Tohle v Praze nečekejte. Praha je moloch, stát ve státě a něco se dozvědět, natož změnit, je obtížné.
+Piráti z Prahy 11 si připomněli 50 let od invaze vojsk Varšavské smlouvy. Sešli jsme se na Jižním Městě v Parku u Chodovské tvrze před Památníkem svobody. Spolu s námi přišli vzpomenout na začátek okupace Československa a na její oběti i občané Jižního Města. Symbolicky se nás sešlo celkem 21 lidí.
 
-Prahu zvládne jen tým
+V noci z 20. na 21. srpna 1968 překročily státní hranice Československa armády pěti do té doby spřátelených republik. V čele se Sovětským svazem s takzvanou bratrskou pomocí česká a slovenská města obsazovala vojska Polska, Maďarska, Bulharska a východního Německa. 
+ 
+Celkem půl milionu mužů, více než šest tisíc tanků a 800 letadel se podílelo na historické zradě, která náš národ uvrhla na dalších více než 20 let do hluboké a tvrdé totality. Nejvyšší představitelé Československa byli násilně uneseni do Moskvy.  Začalo pro Československo těžké období, takzvaná „Normalizace“. 
+ 
+„Normalizace poměrů“ původně byla oficiálním zdůvodněním represivních opatření na počátku této epochy, jako byly čistky v komunistické straně, propouštění ze zaměstnání, obnovení cenzury, zrušení mnoha zájmových a politických sdružení a organizací a další.
+ 
+Během srpnové invaze bylo zabito 137 československých občanů. Celkem v průběhu okupace v roce 1968 položilo svůj život 400 Čechoslováků. Tři sta tisíc lidí opustilo svou rodnou zemi a bylo nuceno k emigraci. 
+ 
+Připomněli jsme tak nejen historickou zradu na našem národě, ale především také památku hrdinů, kteří položili svůj život při pasivní obraně vlasti a vyjadřování svého svobodného názoru.
+ 
+Z důvodu invaze však neumírali jen Čechoslováci a my bychom měli vzpomenout i na lidi, kteří nemohli strpět to, že se jejich země účastní zločinu na mírumilovném národě, který nechtěl víc, než kapku svobody a demokracie v těžkých časech vlády jedné strany. 
+ 
+25. srpna 1968 se na moskevském Rudém náměstí sešla skupinka osmi sovětských občanů, u nás označovaných za „osm statečných“ - Konstantin Babickij, Taťána Bajevová, Larisa Bogorazová, Natalja Gorbaněvská, Vadim Delone, Vladimir Dremljuga, Pavel Litvinov a Viktor Fajnberg – kteří nesli československou vlaječku a transparenty s nápisy Ztrácíme nejlepší přátele, Hanba okupantům, Ruce pryč od ČSSR, Za vaši i naši svobodu, Svobodu Dubčekovi, Ať žije svobodné a nezávislé Československo. Během okamžiku byli zatčeni a následně strávili mnoho let ve vězeních a psychiatrických léčebnách.
+ 
+Invaze vojsk Varšavské smlouvy do Československa byla natolik frustrující, že někteří lidé neviděli jinou možnost, jak vyjádřit nesouhlas se zločinem páchaným na jejich národu a v některých případech i jejich národem, než položit dobrovolně oběť nejvyšší. 
+ 
+Už 8. září 1968 se na celostátních dožínkových slavnostech na varšavském stadiónu na protest proti okupaci zapálil Ryszard Siwiec. I pro Rádio Svobodná Evropa byla informace o jeho činu v té době natolik neuvěřitelná, že ji zveřejnilo až v lednu 1969 po smrti Jana Palacha. 5. listopadu se na kyjevském Chreščatyku v centru hlavního města tehdy ještě sovětské Ukrajiny na protest proti zotročení země sovětským režimem a srpnové okupaci Československa upálil Ukrajinec Vasyl Makuch. 16. ledna 1969 se v horní části Václavského náměstí v Praze zapálil Jan Palach, který obětoval svůj život na protest proti potlačování svobod a pasivnímu přístupu veřejnosti po invazi. 20. ledna 1969 se v centru Budapešti na protest proti sovětské okupaci Československa a z lásky k maďarské vlasti upálil Sándor Bauer. Následovaly zoufalé činy nejvyššího protestu Jana Zajíce, Evžena Plocka, Josefa Hlavatého a Michala Lefčíka.
+ 
+Před 50 lety vtrhla vojska Varšavské smlouvy do Československa a nastartovala tak turbulentní éru změn, utahování šroubů a boje o svobodu, ze které jsme se jako společnost nevzpamatovali dodnes. A právě na to bychom dnes měli vzpomenout. Proto připomínáme slova Ryszarda Siwce: „Lidé, v nichž ještě tkví jiskřička lidského citu! Vzpamatujte se! Slyšte můj křik! Křik šedého, obyčejného člověka, syna národa, který vlastní i cizí svobodu miloval nade všechno, i nad vlastní život! Vzpamatujte se! Ještě není pozdě!“
 
-Chcete-li něco změnit na vesnici, v Trutnově, nebo v malé firmě, stačí na to jednotlivec. V Praze ne, Praha je konglomerát magistrátu, městských částí, městských firem, státních úřadů, lobbistů a kdoví
-čeho ještě. Na změnu Prahy # je potřeba tým. Tým, co hraje s otevřenými kartami. Takový tým tu ještě nikdy nebyl, vždy se tu objevovaly jen partičky sólistů a s tím související #velkádomů. 
-
-Zapojíme lidi a nápady neskončí v koši
-
-Většina lidí se o svoje okolí zajímá. Lidé mají spoustu nápadů a některé z nich jsou výborné. Neefektivní sběr nápadů od lidí a neefektivní archivace je škoda pro celou společnost. Lidé nevědí, proč se něco děje nebo neděje, a když se někoho zeptají, tak jsou často odkázáni na někoho jiného. Je
-potřeba změnit atmosféru jednání zastupitelstva MČ Praha 11, zpřehlednit web městské části a časopis Klíč, zlepšit formu setkávání s občany. 
-
-Výměna generací
-
-Komunistické plánování před rokem 1989 rozdělilo místa bydlení od továren, kanceláří i od divadel. Stereotypem se stalo zmizet na víkend na chatu nebo chalupu. Po revoluci se v tom pokračovalo. Investovaly se peníze do vnitřního okruhu a radiál, ať se autem rychle projede do centra a zpět. Veřejná doprava byla popelkou, na brownfieldy se uvalila stavební uzávěra a sto tisíc Pražanů se přestěhovalo do Středních Čech. Doba se ale mění, nové generace nechtějí vlastnit auta, natož chalupy. Chtějí si užívat veřejný prostor, tam kde zrovna bydlí, neplatit daň z nabytí nemovitosti, popít víno v pěkném parku, dojet sdíleným autem na letiště.
-
-#HustáPraha
-Praha se zahušťovat bude, ale není možné přestavovat kotelny na 10-patrové domy a zničit výhled obyvatelům okolních paneláků ve stabilizovaném území. Jestli si developer za Bémovy éry uplatil změny kódů využitelnosti parcel, nemůže čekat, že mu za to budou občané a čestní politici tleskat.
-
-Mgr. Jan Mejsnar, Piráti Praha 11
 
 ---
 
