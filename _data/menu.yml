@@ -21,10 +21,9 @@ main:
     match: clenove
   - link: /podporte-nas/
     name: Podpořte nás
-        
-  #- link: /komunalni-volby-2018/
-  #  name: Komunální volby 2018
-  #  match: komunalni-volby-2018
+  - link: /komunalni-volby-2018/
+    name: Komunální volby 2018
+    match: komunalni-volby-2018
   #  submenu:
   #    - link: /komunalni-volby-2018/
   #      name: Radnice
