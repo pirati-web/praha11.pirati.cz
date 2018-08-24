@@ -38,6 +38,11 @@ Piráti Praha 11
 ![Úklid Blankytu](/assets/img/articles/2018/2018-08-23-uklid-blankytu-12.jpg)
 
 ![Úklid Blankytu](/assets/img/articles/2018/2018-08-23-uklid-blankytu-13.jpg)
+
+![Úklid Blankytu](/assets/img/articles/2018/2018-08-23-uklid-blankytu-14.jpg)
+
+![Úklid Blankytu](/assets/img/articles/2018/2018-08-23-uklid-blankytu-15.jpg)
+
 ---
 
 Pirátské listy Praha 11 [ke stažení zde](/assets/pdf/2018-07-10-praha-11.pdf) (velikost 10 Mb).
