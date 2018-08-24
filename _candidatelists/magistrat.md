@@ -43,6 +43,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     party: Piráti 
   - uid: 10.michal.veselsky
     profession: Výzkumný pracovník, šachista a koloběžkář
+    party: Zelení
     age: 38
   - uid: 11.milan.minarik
     age: 34
