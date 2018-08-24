@@ -15,7 +15,7 @@ Když to nedokázalo zajistit současné vedení Městské části, tak to musel
 
 Piráti Praha 11
 
-![Úklid Blankytu](/assets/img/articles/2018/2018-08-23-uklid-blankytu-02.jpg)
+#![Úklid Blankytu](/assets/img/articles/2018/2018-08-23-uklid-blankytu-02.jpg)
 
 ![Úklid Blankytu](/assets/img/articles/2018/2018-08-23-uklid-blankytu-03.jpg)
 
