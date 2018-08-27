@@ -5,9 +5,9 @@ title: Sociální služby
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 #img: miscellaneous/volebni-rozcestnik.png
-perex: 
-description: 
-keywords: radnice
+perex: Budeme rozvíjet domovy pro seniory, mezigenerační komunitní domy a sdílené bydlení. Nabídneme volnočasové aktivity mladým lidem ze všech socioekonomických vrstev. Zapojíme seniory do rozhodování. Budeme řešit příčiny i důsledky bezdomovectví.
+description: Budeme rozvíjet domovy pro seniory, mezigenerační komunitní domy a sdílené bydlení. Nabídneme volnočasové aktivity mladým lidem ze všech socioekonomických vrstev. Zapojíme seniory do rozhodování. Budeme řešit příčiny i důsledky bezdomovectví.
+keywords: sociální služby
 order: 4
 ---
 
