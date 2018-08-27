@@ -1,6 +1,6 @@
 ---
 uid: uzemni-rozvoj
-garant: 1.jiri.dohnal
+garant: 4.ladislav.kos
 title: Územní rozvoj, bydlení
 
 campaignCategoryUid: magistrat
