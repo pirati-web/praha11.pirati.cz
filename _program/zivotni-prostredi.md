@@ -1,6 +1,6 @@
 ---
 uid: zivotni-prostredi
-garant: 1.jiri.dohnal
+garant: 11.milan.minarik
 title: Životní prostředí
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
