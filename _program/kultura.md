@@ -5,8 +5,8 @@ title: Kultura, volný čas a sport
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 #img: miscellaneous/volebni-rozcestnik.png
-perex: 
-description: 
+perex: Zřídíme Jihoměstský kalendář kulturních a společenských akcí pro všechny věkové kategorie. Chceme společně s občany vytvořit kalendář kulturních a společenských akcí pro všechny věkové kategorie, jejichž organizaci bude městská část zaštiťovat a finančně podporovat. Dohlédneme na jejich kvalitu. To vše transparentně ve spolupráci s obyvateli Jižního Města a pod jejich kontrolou.
+description: Zřídíme Jihoměstský kalendář kulturních a společenských akcí pro všechny věkové kategorie. Chceme společně s občany vytvořit kalendář kulturních a společenských akcí pro všechny věkové kategorie, jejichž organizaci bude městská část zaštiťovat a finančně podporovat. Dohlédneme na jejich kvalitu. To vše transparentně ve spolupráci s obyvateli Jižního Města a pod jejich kontrolou.
 keywords: radnice
 order: 3
 ---
