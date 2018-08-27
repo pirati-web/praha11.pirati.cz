@@ -11,53 +11,29 @@ keywords: radnice
 order: 1
 ---
 
-**Zlepšíme dostupnost a kvalitu MHD**
-
-Podporujeme rozvoj tramvajové trati na Jižní Město.
-Chceme vyvolat veřejnou diskusi o zřízení tramvajové trati, vedoucí z oblasti Nuslí a Spořilova na Jižní Město. Veškerá jednání o této trati prozatím probíhala bez účasti obyvatel Jižního Města.
+## DIGITÁLNÍ MĚSTO JE CHYTRÉ MĚSTO
  
-**Metro má být naše chlouba**
+**Zdigitalizujeme úřední procesy a odlehčíme tím občanům i úředníkům.**
 
-Chceme zlepšit vizuální stav vestibulů stanic metra na území Městské části Praha 11. Domluvíme s Dopravním podnikem, aby provedl alespoň kosmetické úpravy zevnějšku vestibulů, zintenzivnil uklízecí práce apod.
+Vylepšíme informační servis pro občany tak, aby měli snadný přístup k relevantním informacím ze svého okolí. Umožníme přihlášení k odběru relevantních zpráv na úředních deskách městských částí i magistrátu. Je na občanovi, zda chce být informován e-mailem, mobilní aplikací, sms či prostřednictvím RSS.
  
-**Zlepšíme situaci v oblasti parkování**
-
-Zasadíme se o zvýšení počtu parkovacích míst tam, kde to občané potřebují.
-V řadě lokalit je nedostatek parkovacích míst pro rezidenty největším problémem, který je potřeba řešit. Vhodné řešení vidíme v lokálních úpravách současného režimu stání (změnou z podélného na příčné), tam kde to situace umožní.
+Namísto zbytečností typu chytré lavičky nainstalujeme mobiliář, který je ve městě potřeba, jako jsou například pítka či cyklostojany. Též nezapomeneme na průběžnou údržbu stávajícího mobiliáře.
  
-**Podporujeme výstavbu parkovacích domů, zahloubených parkovišť a lehkých nástaveb na současných parkovacích plochách.**
-
-Pod podmínkou souhlasu obyvatel v dané lokalitě. Parkovací domy jsou v současné době nejefektivnějším způsobem, jak obyvatelům Jižního Města umožnit večer zaparkovat v relativně krátké docházkové vzdálenosti.
+## ZAJISTÍME TRANSPARENTNÍ RADNICI
  
-**Podporujeme vznik záchytných kapacitních parkovišť pro krátkodobé i dlouhodobé stání návštěvníků za hranicemi Prahy 11. **
-
-Je nutné, aby záchytná parkoviště na hranicích i mimo území Prahy byla dobře propojena s kapacitní hromadnou dopravou.
-
-
-**Investice do silniční infrastruktury s rozvahou a tam, kde je to potřeba**
-
-Spolu s našimi zástupci v Parlamentu budeme usilovat o urychlenou dostavbu Pražského okruhu.
-Podpoříme řešení okruhu, které se ukáže jako nejvhodnější z hlediska dopadů na obyvatele, bezpečnosti dopravy, nákladů, termínu realizace atd. Cílem je vyvést tranzitní, zejména kamionovou dopravu z Prahy.
-
-**Nesouhlasíme se současným návrhem trasování tzv. Vestecké spojky**
-
-Tzv. Vestecká spojka má propojit vnější Pražský okruh a budoucí dálnici D3 s dálnicí D1. Tím by přivedla do oblasti Jižního Města další tisíce dalších automobilů. Chceme otevřít diskuzi o alternativních řešení.
-
+Ukážeme data veřejnosti. Přehled faktur a nájemních smluv, analýzy, které si město nechává zpracovat – to vše a mnohé další údaje budou zveřejněné na portálu otevřených dat.
+Občané mají nárok na to vědět, co je z jejich daní placeno. Chceme transparentní radnici, která lidem ukáže, za co vynakládá peníze.
  
-**Podporujeme moderní a ekologické způsoby dopravy**
+**Zajistíme větší konkurenci u veřejných zakázek.**
 
-Podpoříme smysluplnou elektrifikaci dopravy.
-Budeme uvažovat o zavedení elektrobusů a trolejbusů tam, kde to bude mít ekonomický a ekologický smysl. Na vhodných místech (např. na parkovištích a v garážích) podpoříme rozvoj nabíjecích stanic pro elektromobily.
-
-**Cyklisté jsou náš respektovaný partner**
-
-Budeme prosazovat dobudování sítě cyklotras na Jižním Městě.
-Zaměříme se na okrajové oblasti Prahy 11, které vhodně propojíme se stávající páteřní trasou, která již vede naší městskou částí.
+Pomocí otevřených řízení, dostatečných lhůt pro přihlášení a nepřemrštěných požadavků umožníme účast ve výběrových řízení všem zájemcům. Tím dosáhneme lepších cen i kvalitnějších služeb.
  
-**Chceme větší bezpečnost pro cyklisty**
+**Agenda občanských podnětů. Občanské podněty nezůstanou bez odpovědi.**
 
-Upravíme současné podchody a lávky tak, aby je mohli využívat cyklisté bez nutnosti úrovňového křížení s pozemní komunikací. Důležité je, aby cyklostezky byly osvětlené veřejným osvětlením, což umožní jejich využívání i mimo sezónu. Cyklostezky by měly být budovány s ohledem na společný režim s chodci, aby mezi nimi nevznikaly konflikty.
+Veřejné vedení agendy umožní i ostatním občanům vidět všechny podněty včetně jejich řešení. Zásadní podněty budou zařazovány na jednání výborů, komisí i zastupitelstva.
  
-**Budeme rozvíjet spolupráci městské části s poskytovateli sdílení kol**
+Chceme, aby se veřejnost zapojovala do politického života skrze **veřejné besedy a participativní rozpočty.**
 
-Jižní Město je rovinná plocha, skvěle se hodí k místnímu cestování na kole. Naším cílem je na Praze 11 zavést půjčování kol, budeme poptávat firmy, které již úspěšně působí v centru města.
+Veřejné besedy k aktuálním problémům nebo záměrům metropole budeme pořádat za účasti odborné i laické veřejnosti.
+
+Participativní rozpočty - část městských peněz bude rozdělena na projekty iniciované občany.
