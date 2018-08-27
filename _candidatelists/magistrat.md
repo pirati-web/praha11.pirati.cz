@@ -36,7 +36,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: 8.zuzana.boehmova
     age: 28
     profession: Učitelka
-    party: Piráti    
+    party: BEZ PP    
   - uid: 9.martin.muzikant
     age: 47 
     profession: Manažer kvality
@@ -52,124 +52,124 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: 12.jan.suchanek
     age: 42
     profession: Webmaster
-    party: BEZPP
+    party: BEZ PP
   - uid: 13.michaela.polakova
     age: 44
     profession: Stavební inženýrka
-    party: BEZPP
+    party: BEZ PP
   - uid: martin.petrtyl
     age: 41
     profession: Fundraiser
-    party: BEZPP    
+    party: BEZ PP    
   - uid: martina.parikova
     age: 33
     profession: Software engineer
-    party: BEZPP    
+    party: BEZ PP    
   - uid: lada.pexova
     age: 28
     profession: Studentka MFF Univerzity Karlovy
-    party: BEZPP        
+    party: BEZ PP        
 tail: 
   - name: Mgr. Van Anh Tranová
     age: 32
     profession: Tlumočnice
-    party: BEZPP    
+    party: BEZ PP    
   - name: Mgr. Tomáš Gelnar
     age: 45
     profession: Analytik IT
-    party: BEZPP    
+    party: BEZ PP    
   - name: RNDr. Zuzana Chalupová
     age: 34
     profession: Biochemik
-    party: BEZPP    
+    party: BEZ PP    
   - name: Tomáš Förster
     age: 41
     profession: Technik vzduchotechniky
-    party: BEZPP    
+    party: BEZ PP    
   - name: Andrea Dutková MUDr.
     age: 52
     profession: Lékařka
-    party: BEZPP    
+    party: BEZ PP    
   - name: Vladimíra Schistková
     age: 33
     profession: Administrativní pracovnice
-    party: BEZPP    
+    party: BEZ PP    
   - name: Ing. Martina Pořízková
     age: 30
     profession: Projektový manažer
-    party: BEZPP    
+    party: BEZ PP    
   - name: Pavel Chour
     age: 42
     profession: Číšník
-    party: BEZPP    
+    party: BEZ PP    
   - name: Ing. Anna Hřibová
     age: 35
     profession: Finanční controller
-    party: BEZPP    
+    party: BEZ PP    
   - name: Jan Maleček
     age: 43
     profession: Servisní technik
-    party: BEZPP    
+    party: BEZ PP    
   - name: Marcela Pecharová
     age: 31
     profession: Umělkyně
-    party: BEZPP    
+    party: BEZ PP    
   - name: Ing. Vít Zikmund
     age: 33
     profession: Vývojář IT
-    party: BEZPP    
+    party: BEZ PP    
   - name: Lucie Benýšková
     age: 20
     profession: Studentka Univerzity Karlovy
-    party: BEZPP    
+    party: BEZ PP    
   - name: Bc. Veronika Bělohlávková
     age: 36
     profession: Redaktorka
-    party: BEZPP    
+    party: BEZ PP    
   - name: Bc. Martina Skohoutilová
     age: 31
     profession: Environmentalistka a informační specialistka
-    party: BEZPP    
+    party: BEZ PP    
   - name:  Mykola Sokolov
     age: 35
     profession: IT odborník
-    party: BEZPP    
+    party: BEZ PP    
   - name: Filip Háša
     age: 37
     profession: IT specialita
-    party: BEZPP    
+    party: BEZ PP    
   - name: Ing. Lucie Vilímovská
     age: 42
     profession:  Pedagogický pracovník
-    party: BEZPP    
+    party: BEZ PP    
   - name: Antonín Vintr
     age: 34
     profession: IT specialista
-    party: BEZPP    
+    party: BEZ PP    
   - name: Filip Ujhelyi
     age: 34
     profession: Linux administrátor
-    party: BEZPP    
+    party: BEZ PP    
   - name: Jan Randa
     age: 30
     profession: IT podnikatel
-    party: BEZPP    
+    party: BEZ PP    
   - name: Ing. Karel Volf
     age: 40
     profession: Manažer v IT
-    party: BEZPP    
+    party: BEZ PP    
   - name: Pavel Geberle
     age: 37
     profession: Pedagogický pracovník
-    party: BEZPP    
+    party: BEZ PP    
   - name: Magda Poláková
     age: 67
     profession: Bankovní specialista v důchodu
-    party: BEZPP    
+    party: BEZ PP    
   - name: Zdeněk Karkoš
     age: 37
     profession: Invalidní důchodce
-    party: BEZPP   
+    party: BEZ PP   
   - name: Filip Miler
     age: 39
     profession: Vývojář informačních systémů, hudebník
@@ -177,15 +177,15 @@ tail:
   - name: Lenka Kopačková
     age: 41
     profession: Mateřská dovolená
-    party: BEZPP    
+    party: BEZ PP    
   - name: Bc. Petr Daněk
     age: 31
     profession: OSVČ, obchodník se sběratelskými předměty
-    party: BEZPP    
+    party: BEZ PP    
   - name: Jana Navrátilová
     age: 43 
     profession: V domácnosti
-    party: BEZPP
+    party: BEZ PP
  
 note: # poznámka pod kanidátku
 ---
