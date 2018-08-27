@@ -1,7 +1,7 @@
 ---
 uid: uzemni-rozvoj
 garant: 1.jiri.dohnal
-title: ÚZEMNÍ ROZVOJ, BYDLENÍ
+title: Územní rozvoj, bydlení
 
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
