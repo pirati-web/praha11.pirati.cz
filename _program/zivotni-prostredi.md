@@ -5,11 +5,12 @@ title: Životní prostředí
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 #img: miscellaneous/volebni-rozcestnik.png
-perex: Vysadíme více stromů v pražských ulicích. Budeme prosazovat výsadbu stromů v jihoměstských parcích. Zasadíme se o kvalitní náhradní výsadbu za pokácené stromy.
-description: Vysadíme více stromů v pražských ulicích. Budeme prosazovat výsadbu stromů v jihoměstských parcích. Zasadíme se o kvalitní náhradní výsadbu za pokácené stromy.
-keywords: radnice
+perex: Proti vedrům budeme prosazovat výsadbu stromů v jihoměstských ulicích. Podpoříme umísťování pítek a kašen. Budeme prosazovat citlivá protihluková opatření a na noc vypneme světelnou reklamu. Podpoříme hospodaření s vodou​, opětovné využití odpadní vody a opatření pro využití nebo zasakování dešťové vody. Budeme prosazovat častější úklid veřejných prostranství.
+description: Proti vedrům budeme prosazovat výsadbu stromů v jihoměstských ulicích. Podpoříme umísťování pítek a kašen. Budeme prosazovat citlivá protihluková opatření a na noc vypneme světelnou reklamu. Podpoříme hospodaření s vodou​, opětovné využití odpadní vody a opatření pro využití nebo zasakování dešťové vody. Budeme prosazovat častější úklid veřejných prostranství.
 order: 4
 ---
+
+**Proti vedrům budeme prosazovat výsadbu stromů v jihoměstských ulicích. Podpoříme umísťování pítek a kašen. Budeme prosazovat citlivá protihluková opatření a na noc vypneme světelnou reklamu. Podpoříme hospodaření s vodou​, opětovné využití odpadní vody a opatření pro využití nebo zasakování dešťové vody. Budeme prosazovat častější úklid veřejných prostranství.**
 
 ## PROTI VEDRŮM VÍCE STROMŮ A VODNÍCH PLOCH
  
