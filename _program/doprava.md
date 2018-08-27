@@ -4,7 +4,7 @@ garant: 4.ladislav.kos
 title: Doprava
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
-img: miscellaneous/volebni-rozcestnik.png
+#img: miscellaneous/volebni-rozcestnik.png
 perex: 
 description: 
 keywords: doprava, město, pěšky, mhd, autem, na kole
