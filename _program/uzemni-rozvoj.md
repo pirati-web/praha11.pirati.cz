@@ -6,8 +6,8 @@ title: Územní rozvoj, bydlení
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 #img: miscellaneous/volebni-rozcestnik.png
-perex: 
-description: 
+perex: Naplánujeme dlouhodobou strategii rozvoje města. Územní plány nesmí být psány dle zadání developerů. Město musí mít vlastní představu a záměr. Budeme aktivně spolupracovat při vytváření a úpravě územně plánovací dokumentace a podpoříme vznik regulačních plánů na místech, kde je tato možnost výhodná pro místní obyvatele. Určíme pravidla, aby se developeři podíleli na nákladech na infrastrukturu. Podpoříme družstva, baugruppe a jiné alternativy ke komerční výstavbě bytů.
+description: Naplánujeme dlouhodobou strategii rozvoje města. Územní plány nesmí být psány dle zadání developerů. Město musí mít vlastní představu a záměr. Budeme aktivně spolupracovat při vytváření a úpravě územně plánovací dokumentace a podpoříme vznik regulačních plánů na místech, kde je tato možnost výhodná pro místní obyvatele. Určíme pravidla, aby se developeři podíleli na nákladech na infrastrukturu. Podpoříme družstva, baugruppe a jiné alternativy ke komerční výstavbě bytů.
 keywords: radnice
 order: 4
 ---
