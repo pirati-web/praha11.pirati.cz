@@ -5,8 +5,9 @@ title: Zdravotnictví, bezpečnost
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 #img: miscellaneous/volebni-rozcestnik.png
-perex: Naším cílem je rozšíření specializací lékařské péče na Praze 11. Chceme vytvářet atraktivní podmínky pro přilákání lékařských specialistů na Prahu 11. Rozšíření nabídky a zlepšení kvality lékařské péče na Jižním Městě považujeme za prioritu.
-description: Naším cílem je rozšíření specializací lékařské péče na Praze 11. Chceme vytvářet atraktivní podmínky pro přilákání lékařských specialistů na Prahu 11. Rozšíření nabídky a zlepšení kvality lékařské péče na Jižním Městě považujeme za prioritu.
+perex: Naším cílem je rozšíření specializací lékařské péče na Praze 11. Chceme otevřít diskusi o vzniku nemocnice na Jižním Městě. Zajistíme více strážníků na problémových místech a podpoříme nábor strážníků městské policie finanční i materiální pomocí dle potřeb a možností městské části.
+description: Naším cílem je rozšíření specializací lékařské péče na Praze 11. Chceme otevřít diskusi o vzniku nemocnice na Jižním Městě. Zajistíme více strážníků na problémových místech a podpoříme nábor strážníků městské policie finanční i materiální pomocí dle potřeb a možností městské části.
+
 keywords: radnice
 order: 4
 ---
