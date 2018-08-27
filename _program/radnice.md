@@ -5,8 +5,10 @@ title: Otevřená radnice v moderním městě
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 #img: miscellaneous/volebni-rozcestnik.png
-perex: 
-description: 
+perex: DIGITÁLNÍ MĚSTO JE CHYTRÉ MĚSTO
+Zdigitalizujeme úřední procesy a odlehčíme tím občanům i úředníkům. Vylepšíme informační servis pro občany tak, aby měli snadný přístup k relevantním informacím ze svého okolí. prostřednictvím RSS.
+description: DIGITÁLNÍ MĚSTO JE CHYTRÉ MĚSTO
+Zdigitalizujeme úřední procesy a odlehčíme tím občanům i úředníkům. Vylepšíme informační servis pro občany tak, aby měli snadný přístup k relevantním informacím ze svého okolí.
 keywords: radnice
 order: 1
 ---
