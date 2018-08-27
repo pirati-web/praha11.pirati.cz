@@ -1,7 +1,7 @@
 ---
 uid: kultura
 garant: 5.michal.kovarik
-title: KULTURA, VOLNÝ ČAS A SPORT
+title: Kultura, volný čas a sport
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 #img: miscellaneous/volebni-rozcestnik.png
