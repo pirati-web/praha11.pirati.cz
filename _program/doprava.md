@@ -40,9 +40,11 @@ Je nutné, aby záchytná parkoviště na hranicích i mimo území Prahy byla d
 ## Investice do silniční infrastruktury s rozvahou a tam, kde je to potřeba
 
 **Spolu s našimi zástupci v Parlamentu budeme usilovat o urychlenou dostavbu Pražského okruhu.**
+
 Podpoříme řešení okruhu, které se ukáže jako nejvhodnější z hlediska dopadů na obyvatele, bezpečnosti dopravy, nákladů, termínu realizace atd. Cílem je vyvést tranzitní, zejména kamionovou dopravu z Prahy.
 
 **Nesouhlasíme se současným návrhem trasování tzv. Vestecké spojky.**
+
 Tzv. Vestecká spojka má propojit vnější Pražský okruh a budoucí dálnici D3 s dálnicí D1. Tím by přivedla do oblasti Jižního Města další tisíce dalších automobilů. Chceme otevřít diskuzi o alternativních řešení.
 
 ## Podporujeme moderní a ekologické způsoby dopravy
