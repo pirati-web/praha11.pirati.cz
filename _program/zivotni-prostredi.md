@@ -46,7 +46,7 @@ Podporujeme třídění odpadu, proto chceme zajistit, aby jej občan měl kam v
 Budeme podporovat vybudování **podzemních kontejnerů na tříděný odpad,** odpadkových košů a instalaci jednotného vizuálního stylu městského mobiliáře (prvků občanské vybavenosti).
 Podzemní kontejnery v jiných městských částech Prahy jsou již běžným standardem. Rádi bychom podobný systém rozvíjeli i v rámci Prahy 11. Budeme prosazovat rozmístění většího množství veřejných odpadkových košů odolnějších vůči poškození.
 
-Budeme prosazovat častější úklid veřejných prostranství. Zaměříme se na neudržované lokality.
+Budeme prosazovat **častější úklid veřejných prostranství.** Zaměříme se na neudržované lokality.
 
 Záleží nám na čistotě veřejných prostranství a rádi bychom udržovali čistotu a pořádek na Jižním Městě.
 
