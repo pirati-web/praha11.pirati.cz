@@ -1,6 +1,6 @@
 ---
 uid: radnice
-garant: jiri.dohnal
+garant: 1.jiri.dohnal
 title: Otevřená radnice v moderním městě
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
