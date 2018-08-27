@@ -5,8 +5,8 @@ title: Doprava
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 #img: miscellaneous/volebni-rozcestnik.png
-perex: 
-description: 
+perex: Zlepšíme dostupnost a kvalitu MHD. Podporujeme rozvoj tramvajové trati na Jižní Město. Zasadíme se o zvýšení počtu parkovacích míst tam, kde to občané potřebují. Podporujeme vznik záchytných kapacitních parkovišť pro krátkodobé i dlouhodobé stání návštěvníků za hranicemi Prahy 11. Spolu s našimi zástupci v Parlamentu budeme usilovat o urychlenou dostavbu Pražského okruhu. Budeme prosazovat dobudování sítě cyklotras na Jižním Městě. Chceme větší bezpečnost pro cyklisty.
+description: Zlepšíme dostupnost a kvalitu MHD. Podporujeme rozvoj tramvajové trati na Jižní Město. Zasadíme se o zvýšení počtu parkovacích míst tam, kde to občané potřebují. Podporujeme vznik záchytných kapacitních parkovišť pro krátkodobé i dlouhodobé stání návštěvníků za hranicemi Prahy 11. Spolu s našimi zástupci v Parlamentu budeme usilovat o urychlenou dostavbu Pražského okruhu. Budeme prosazovat dobudování sítě cyklotras na Jižním Městě. Chceme větší bezpečnost pro cyklisty.
 keywords: doprava, město, pěšky, mhd, autem, na kole
 order: 5
 ---
