@@ -5,8 +5,8 @@ title: Otevřená radnice v moderním městě
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 #img: miscellaneous/volebni-rozcestnik.png
-perex: Zdigitalizujeme úřední procesy a odlehčíme tím občanům i úředníkům. Vylepšíme informační servis pro občany tak, aby měli snadný přístup k relevantním informacím ze svého okolí. prostřednictvím RSS.
-description: Zdigitalizujeme úřední procesy a odlehčíme tím občanům i úředníkům. Vylepšíme informační servis pro občany tak, aby měli snadný přístup k relevantním informacím ze svého okolí.
+perex: Zdigitalizujeme úřední procesy a odlehčíme tím občanům i úředníkům. Ukážeme data veřejnosti. Občané mají nárok na to vědět, co je z jejich daní placeno. Zajistíme větší konkurenci u veřejných zakázek. Občanské podněty nezůstanou bez odpovědi. Chceme, aby se veřejnost zapojovala do politického života skrze veřejné besedy a participativní rozpočty. 
+description: Zdigitalizujeme úřední procesy a odlehčíme tím občanům i úředníkům. Ukážeme data veřejnosti. Občané mají nárok na to vědět, co je z jejich daní placeno. Zajistíme větší konkurenci u veřejných zakázek. Občanské podněty nezůstanou bez odpovědi. Chceme, aby se veřejnost zapojovala do politického života skrze veřejné besedy a participativní rozpočty. 
 keywords: radnice
 order: 1
 ---
