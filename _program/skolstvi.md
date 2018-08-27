@@ -5,8 +5,8 @@ title: Školství
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 #img: miscellaneous/volebni-rozcestnik.png
-perex: Vycházíme z tradičních a ověřených způsobů vzdělávání, které chceme inovovat a přizpůsobovat požadavkům současné společnosti. Zajímá nás kvalita vzdělávání ve školských zařízeních zřizovaných městskou částí, chceme ji kontrolovat a rozvíjet.
-description: Vycházíme z tradičních a ověřených způsobů vzdělávání, které chceme inovovat a přizpůsobovat požadavkům současné společnosti. Zajímá nás kvalita vzdělávání ve školských zařízeních zřizovaných městskou částí, chceme ji kontrolovat a rozvíjet.
+perex: Vycházíme z tradičních a ověřených způsobů vzdělávání, které chceme inovovat a přizpůsobovat požadavkům současné společnosti. Vyčistíme veřejné zakázky pro školy od klientelismu, zaplatíme školám to, co skutečně potřebují. Prosadíme otevřená výběrová řízení na místa ředitelů jako normu a budeme vybírat ředitele kvalitní, ředitele s ambiciózní a moderní vizí rozvoje školy.
+description: Vycházíme z tradičních a ověřených způsobů vzdělávání, které chceme inovovat a přizpůsobovat požadavkům současné společnosti. Vyčistíme veřejné zakázky pro školy od klientelismu, zaplatíme školám to, co skutečně potřebují. Prosadíme otevřená výběrová řízení na místa ředitelů jako normu a budeme vybírat ředitele kvalitní, ředitele s ambiciózní a moderní vizí rozvoje školy.
 keywords: radnice
 order: 2
 ---
