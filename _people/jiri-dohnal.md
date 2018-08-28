@@ -5,7 +5,8 @@ fullname: Jiří Dohnal  	# jméno s tituly etc.
 category:
   - clenove
   - kandidat-obec
-  - pms  
+  - pms
+categories: kontaktni_osoba    
 ordclenove: 1
 description: zastupitel MČ Prahy 11, předseda MS
 profession: 40 let, člen Pirátů, člen Koalice Trojmezí, projektový manažer, zastupitel MČ Praha 11
