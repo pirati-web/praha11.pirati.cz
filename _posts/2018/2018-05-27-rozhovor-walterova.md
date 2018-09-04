@@ -2,7 +2,7 @@
 date: 2018-05-27
 category: blog
 #tags: majetek pošta
-layout: post
+layout: rozhovory
 title: Výtvarnice Martina Walterová Ráda dávám věci do nezvyklých souvislostí.
 author: Michal Kovařík
 authorId: 5.michal.kovarik    # uid nekoho z _people (nepoviné)

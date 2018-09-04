@@ -1,7 +1,7 @@
 ---
 date: 2018-08-23
 category: blog
-#tags: majetek pošta
+#tags: úklid
 layout: post
 title: Úklid veřejného prostoru s Piráty na Jižním Městě se podařil
 author: Jan Suchánek

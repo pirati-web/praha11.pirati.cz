@@ -1,7 +1,7 @@
 ---
 date: 2018-05-27
 category: blog
-#tags: majetek pošta
+#tags: bydlení, praha 11
 layout: post
 title: Praha není vesnice, bohužel nebo bohudík?
 author: Mgr. Jan Mejsnar

@@ -1,7 +1,7 @@
 ---
 date: 2018-06-10
 category: blog
-#tags: majetek pošta
+#tags: školství
 layout: post
 title: Svěží vítr do jihoměstských škol
 author: Mgr. Zuzana Ujhelyiová

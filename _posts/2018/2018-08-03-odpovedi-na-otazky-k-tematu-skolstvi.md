@@ -1,7 +1,7 @@
 ---
 date: 2018-08-03
 category: blog
-#tags: majetek pošta
+#tags: školství
 layout: post
 title: Odpovědi na otázky k tématu školství
 author: Mgr. Zuzana Ujhelyiová
