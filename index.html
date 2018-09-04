@@ -25,8 +25,12 @@ description: >
         <header class="o-section-header">
           <h1 class="o-section__heading t-h1-super">Piráti Praha 11</h1>
         </header>
-
-        <h2>Aktuálně z Prahy 11</h2>
+          <p>Piráti od roku 2018 zakotvili i na Jižním Městě. Prosazujeme transparentní
+  veřejnou správu bez klientelismu a pochybných zakázek. Usilujeme o Prahu 11,
+  která je moderní, přátelská a především ochotná naslouchat svým občanům.
+  Sledujte co je nového a buďte u toho.</p>
+        </header>
+        <h2>Aktuálně od Pirátů z Prahy 11 Jižního Města</h2>
         {% for article in site.posts limit: 6 %}
           {% include articles/horizontal-article.html article=article %}
         {% endfor %}
