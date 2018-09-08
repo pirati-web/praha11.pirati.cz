@@ -9,6 +9,7 @@ authorId: 5.michal.kovarik    # uid nekoho z _people (nepoviné)
 image: articles/2018/2018-05-27-rozhovor-walterova.jpg
 ---
 
+
 Martina Walterová (*1988) je absolventkou ateliéru Malba I. u profesora Daniela Balabána na Fakultě umění Ostravské univerzity. V rámci studia strávila semestr na stáži na Slezské Univerzitě v Katovicích (PL). Má za sebou několik skupinových i samostatných výstav, v roce 2012 získala Ateliérovou cenu. Pochází z Jižního města, kde také vystavovala své výtvarné práce.
 
 Text: Michal Kovařík
