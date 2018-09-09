@@ -1,5 +1,5 @@
 ---
-date: 2018-05-27
+date: 2018-05-28
 category: blog
 #tags: majetek pošta
 layout: rozhovory

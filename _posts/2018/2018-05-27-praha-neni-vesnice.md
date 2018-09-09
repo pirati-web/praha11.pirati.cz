@@ -1,5 +1,5 @@
 ---
-date: 2018-05-27
+date: 2018-05-28
 category: blog
 #tags: bydlení, praha 11
 layout: post
