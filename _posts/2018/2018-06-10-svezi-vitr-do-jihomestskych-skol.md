@@ -1,7 +1,7 @@
 ---
 date: 2018-06-10
 category: blog
-#tags: školství
+tags: školství, výběrové řízení, Praha 11, Jižní Město, místní organizace, zastupitelstvo
 layout: post
 title: Svěží vítr do jihoměstských škol
 author: Mgr. Zuzana Ujhelyiová

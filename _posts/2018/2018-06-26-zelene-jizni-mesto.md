@@ -1,7 +1,7 @@
 ---
 date: 2018-06-26
 category: blog
-#tags: ekologie, parky
+tags: ekologie, veřejný prostor, Jižní Město, Praha 11
 layout: post
 title: Zelené Jižní Město?
 author: Milan Minařík
