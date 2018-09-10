@@ -55,7 +55,7 @@ Přeji Vám mnoho úspěchů v tvorbě i za naše občany.
 Děkuji a nashledanou, třeba na nějaké mojí výstavě.
 
 MgA. Martina Walterová
-www.martinawalterova.com
+[www.martinawalterova.com](www.martinawalterova.com)
 
 Michal Kovařík, Piráti Praha 11
 
