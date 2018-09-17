@@ -1,7 +1,7 @@
 ---
 date: 2018-09-17
 category: blog
-tags: územní rozvoj, praha 11, bydlení, Sandra Opatov
+tags: praha 11, volby
 layout: post
 title: Co Piráti dokázali?
 author: Martin Duška
