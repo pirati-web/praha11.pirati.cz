@@ -132,7 +132,7 @@ gplus:
 #  page: https://forum.pirati.cz/
 
 github:
-  url: https://github.com/pirati-web/praha11.pirati.cz
+  url: https://github.com/pirati-web/praha11.pirati.cz/
   branch: master
 
 emptyArray: []
