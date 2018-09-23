@@ -6,7 +6,7 @@ layout: post
 title: Jižní město není noclehárna
 author: Mgr. Martin Duška
 authorId: 3.duska.martin
-#image: articles/2018/2018-09-21-uvodnik-kandidata.jpg
+image: articles/2018/2018-09-21-uvodnik-kandidata.jpg
 ---
 
 O Jižním Městě se mluví a píše spíše negativně. Rád bych tento všeobecně rozšířený názor v následujících větách vyvrátil a poukázal na to, že Jižní Město je dobrým místem pro život a má potenciál k dalšímu rozvoji. Bydlím zde, až na dvouletou výjimku, celý čárky, jedná se o vsuvku celý život. Mohu si tedy troufnout hodnotit, jak se život na Jižním Městě zlepšuje. 
