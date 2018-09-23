@@ -4,8 +4,8 @@ category: blog
 tags: piráti, listy, praha 11
 layout: post
 title: Úvodník kandidáta na starostu Prahy 11 Jiřího Dohnala
-author: Mgr. Zuzana Ujhelyiová 
-authorId: 2.zuzana.ujhelyiova
+author: Jiří Dohnal
+authorId: 1.jiri.dohnal
 image: articles/2018/2018-09-21-uvodnik-kandidata.jpg
 ---
 
