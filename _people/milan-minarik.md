@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 description: manažer
-img: people/t-milan-minarik.jpg
+img: people/milan-minarik.jpg
 mail:
   - milan.minarik@pirati.cz
 mob: +420 773 264 564

@@ -6,7 +6,7 @@ category:
   - priznivci
   - kandidat-obec
 description: člen SZ, výzkumný pracovník
-img: people/t-michal-veselsky.jpg
+img: people/michal-veselsky.jpg
 profiles:
   facebook: https://www.facebook.com/michal.veselsky.3
 ---

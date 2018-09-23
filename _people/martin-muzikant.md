@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 description: manažer
-img: people/t-martin-muzikant.jpg
+img: people/martin-muzikant.jpg
 mail:
   - martin.muzikant@pirati.cz
 profiles:

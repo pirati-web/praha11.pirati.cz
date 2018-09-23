@@ -1,12 +1,12 @@
 ---
 uid: 42.filip.miler
-name:     Filip Miler  	# běžně používáné jméno
-fullname: Filip Miler  	# jméno s tituly etc.
+name:     Filip Miler
+fullname: Filip Miler
 category:
   - clenove
   - kandidat-obec
 description: vývojář informačních systémů, hudebník
-img: people/t-filip-miler.jpg
+img: people/filip-miler.jpg
 age: 
 mail:
   - filip.miler@pirati.cz

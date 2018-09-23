@@ -7,7 +7,7 @@ category:
   - kandidat-obec
 ordclenove: 16
 description: doktorand na MFF UK
-img: people/t-lada-pexova.jpg
+img: people/lada-pexova.jpg
 
 profiles:
   facebook: https://www.facebook.com/lada.pexova

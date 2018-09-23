@@ -7,7 +7,7 @@ category:
   - kandidat-obec
 ordclenove: 3
 description: konzultant online marketingu
-img: people/t-ladislav-kos.jpg
+img: people/ladislav-kos.jpg
 mail:
   - ladislav.kos@pirati.cz
 profiles:

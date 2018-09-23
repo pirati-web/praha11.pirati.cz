@@ -1,7 +1,7 @@
 ---
 uid: 1.jiri.dohnal
-name:     Jiří Dohnal  	# běžně používáné jméno
-fullname: Jiří Dohnal  	# jméno s tituly etc.
+name:     Jiří Dohnal
+fullname: Jiří Dohnal
 category:
   - clenove
   - kandidat-obec
@@ -10,7 +10,7 @@ categories: kontaktni_osoba
 ordclenove: 1
 description: zastupitel MČ Prahy 11, předseda MS
 profession: 40 let, člen Pirátů, člen Koalice Trojmezí, projektový manažer, zastupitel MČ Praha 11
-img: people/t-jiri-dohnal.jpg
+img: people/jiri-dohnal.jpg
 mail:
   - jiri.dohnal@pirati.cz
 mob: +420 608 770 778

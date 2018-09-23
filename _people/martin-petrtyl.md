@@ -7,7 +7,7 @@ category:
   - kandidat-obec
 ordclenove: 14
 description: Fundraiser a politolog
-img: people/t-martin-petrtyl.jpg
+img: people/martin-petrtyl.jpg
 
 profiles:
   facebook: https://www.facebook.com/martin.petrtyl

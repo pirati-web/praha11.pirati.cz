@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 description: teoložka
-img: people/t-zuzana-ujhelyiova.jpg
+img: people/zuzana-ujhelyiova.jpg
 mail:
   - zuzana.ujhelyiova@pirati.cz
 profiles:

@@ -7,7 +7,7 @@ category:
   - kandidat-obec
 ordclenove: 4
 description: provozní dispečer
-img: people/t-josef-kocourek.jpg
+img: people/josef-kocourek.jpg
 mail:
   - josef.kocourek@pirati.cz
 

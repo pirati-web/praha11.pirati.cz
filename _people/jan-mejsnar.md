@@ -1,12 +1,12 @@
 ---
 uid: 7.jan.mejsnar
-name:     Jan Mejsnar  	# běžně používáné jméno
-fullname: Jan Mejsnar  	# jméno s tituly etc.
+name:     Jan Mejsnar
+fullname: Jan Mejsnar
 category:
   - clenove
   - kandidat-obec
 description: meteorolog, vědecký pracovník
-img: people/t-jan-mejsnar.jpg
+img: people/jan-mejsnar.jpg
 mail:
   - jan.mejsnar@pirati.cz
 profiles:

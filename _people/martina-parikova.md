@@ -6,7 +6,7 @@ category:
   - priznivci
   - kandidat-obec
 description: Software Engineer
-img: people/t-martina-parikova.jpg
+img: people/martina-parikova.jpg
 mail:
   - martina.parikova@gmail.com
 profiles:

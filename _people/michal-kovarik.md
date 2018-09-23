@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 description: nakladatelský pracovník/publicista
-img: people/t-michal-kovarik.jpg
+img: people/michal-kovarik.jpg
 mail:
   - michal.kovarik@pirati.cz
 

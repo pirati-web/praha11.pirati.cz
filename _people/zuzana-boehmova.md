@@ -1,12 +1,12 @@
 ---
 uid: 8.zuzana.boehmova
-name:     Zuzana Böhmová  	# běžně používáné jméno
-fullname: Mgr. Zuzana Böhmová  	# jméno s tituly etc.
+name:     Zuzana Böhmová
+fullname: Mgr. Zuzana Böhmová
 category:
   - priznivci
   - kandidat-obec
 description: učitelka
-img: people/t-zuzana-boehmova.jpg # zakomentuj radek dokud není fotka
+img: people/zuzana-boehmova.jpg
 mail:
   - zuzana.boehm@pirati.cz
 profiles:
