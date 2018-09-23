@@ -6,7 +6,7 @@ layout: post
 title: Funkční období ředitelů základních a mateřských škol
 author: Mgr. Zuzana Ujhelyiová 
 authorId: 2.zuzana.ujhelyiova
-#image: articles/2018/2018-05-27-praha-neni-vesnice.jpg
+image: articles/2018/2018-09-23-funkcni-obdobi-reditelu-zs-a-ms.jpg
 ---
 
 # ZŠ
