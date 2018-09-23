@@ -1,5 +1,5 @@
 ---
-date: 2018-05-28
+date: 2018-09-28
 category: blog
 tags: územní rozvoj, praha 11, bydlení, Sandra Opatov
 layout: post
