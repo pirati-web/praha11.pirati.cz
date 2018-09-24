@@ -6,7 +6,7 @@ layout: post
 title: Nechte si chutnat
 author: Mgr. Zuzana Ujhelyiová 
 authorId: 2.zuzana.ujhelyiova
-#image: articles/2018/2018-09-23-funkcni-obdobi-reditelu-zs-a-ms.jpg
+image: articles/2018/2018-09-23-nechte-si-chutnat.jpg
 ---
 
 Čím dál tím více rodičů chápe význam zdravé stravy. V tom se shodují s nutričními poradci a odborníky na celém světě. Tito rodiče chtějí, aby i jídelny ve školských zařízeních podporovaly toto jejich správné rozhodnutí. Záleží jim na tom, co jejich děti jedí, nelíbí se jim odměňování sladkostmi a pití slazených nápojů.

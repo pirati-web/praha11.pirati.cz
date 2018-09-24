@@ -6,7 +6,7 @@ layout: post
 title: Správa majetku a nemovitostí Městské části Praha 11 a její efektivita
 author: Jiří Dohnal
 authorId: 1.jiri.dohnal
-#image: articles/2018/2018-09-23-sprava-majetku-jizniho-mesta-a-jeji-efektivita.jpg
+image: articles/2018/2018-09-23-sprava-majetku-jizniho-mesta-a-jeji-efektivita.jpg
 ---
 
 V rámci výkonu zastupitelského mandátu jsem měl cca poslední čtyři roky možnost se seznámit s aktuálním stavem správy majetku naší městské části. 

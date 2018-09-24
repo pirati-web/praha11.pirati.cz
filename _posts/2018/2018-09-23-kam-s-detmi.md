@@ -6,7 +6,7 @@ layout: post
 title: Kam s dětmi?
 author: Michal Kovařík
 authorId: 5.michal.kovarik
-#image: articles/2018/2018-09-23-funkcni-obdobi-reditelu-zs-a-ms.jpg
+image: articles/2018/2018-09-23-kam-s-detmi.jpg
 ---
 
 „Prosím, kam jezdíte s dětmi do skateparku a na dopravní hřiště?“, tento dotaz byl v nedávné době položen v jedné z facebookových skupin sdružující rodiče na Jižním Městě (dále jen JM). Pokusili jsme se pro Vás tedy zmapovat hřiště na Praze 11 a v jejím blízkém okolí.

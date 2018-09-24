@@ -6,7 +6,7 @@ layout: post
 title: Architektura není předmětem jednoho volebního období, říká architekt David Vávra
 author: Michal Kovařík
 authorId: 5.michal.kovarik
-#image: articles/2018/2018-09-23-rozhovor-david-vavra.jpg
+image: articles/2018/2018-09-23-rozhovor-david-vavra.jpg
 ---
 
 Akad. arch. David Vávra (1957) vystudoval Stavební fakultu ČVUT a Akademii výtvarných umění v Praze-obor architektura. Spoluzakládal divadlo Sklep. Od roku 1990 působí jako architekt ve vlastním ateliéru. Je znám též jako herec, spisovatel a výtvarník. Mimo jiné navrhl Divadlo Kotelna na Jižním Městě. 

@@ -6,7 +6,7 @@ layout: post
 title: Zhodnocení projektu „Spolu za lepší Jedenáctku“
 author: Ing. Michaela Poláková
 authorId: 13.michaela.polakova
-#image: articles/2018/2018-09-23-zhodnoceni-projektu-spolu-za-jedenactku.jpg
+image: articles/2018/2018-09-23-zhodnoceni-projektu-spolu-za-jedenactku.jpg
 ---
 
 V letošním roce Městská část Praha 11 poprvé vyhlásila pilotní projekt participativního rozpočtu, jehož účelem bylo nabídnout možnost obyvatelům čtvrti podílet se aktivně na změnách veřejného prostoru v okolí svého bydliště.  Každý obyvatel s konkrétním nápadem na nějaké zlepšení mohl využít poskytnuté příležitosti a za splnění určitých podmínek podat svůj návrh do výběrového řízení, ze kterého nakonec sami občané hlasováním vybrali vítězné návrhy pro konečnou realizaci.  Městská část Praha 11 (dále jen MČ  P11) plnila v celém procesu funkci organizátora. Také nějakým způsobem průběžně asistovala občanům při podávání jejich návrhů, organizovala propagaci, hlasování a v neposlední řadě je stále garantem finální realizace vítězných projektů.

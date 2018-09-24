@@ -6,7 +6,7 @@ layout: post
 title: Tajná revitalizace Centrálního parku Jižní Město
 author: Ing. Michaela Poláková
 authorId: 13.michaela.polakova
-#image: articles/2018/2018-09-23-tajna-revitalizace-centralniho-parku.jpg
+image: articles/2018/2018-09-23-tajna-revitalizace-centralniho-parku.jpg
 ---
 
 „... lze pouze hádat, jedná-li se o nepovedenou reminiscenci na České středohoří nebo největší pohřebiště buldozerové kultury ve střední Evropě.“ (Plicka, Sedlák J., Sedlák M.: Jižní Město – Urbanistická studie centra Jižního Města, 1997)
