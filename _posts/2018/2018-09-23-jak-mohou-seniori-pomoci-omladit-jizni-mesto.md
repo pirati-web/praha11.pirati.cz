@@ -6,7 +6,7 @@ layout: post
 title: Jak mohou senioři pomoci omladit Jižní Město
 author: Ing. Michaela Poláková
 authorId: 13.michaela.polakova
-#image: articles/2018/2018-09-23-funkcni-obdobi-reditelu-zs-a-ms.jpg
+image: articles/2018/2018-09-23-jak-mohou-seniori-pomoci-omladit-jizni-mesto.jpg
 ---
 
 Poslední dobou se stále častěji z různých oficiálních komunálních zdrojů můžeme dozvědět, že sídliště v České republice, včetně Jižního Města, stárnou a že jediným lékem na odvrácení tohoto nepříznivého demografického trendu je výstavba nových bytů. 

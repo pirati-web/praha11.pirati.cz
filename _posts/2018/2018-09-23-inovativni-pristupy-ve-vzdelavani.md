@@ -6,7 +6,7 @@ layout: post
 title: Inovativní přístupy ke vzdělávání
 author: Mgr. Zuzana Ujhelyiová 
 authorId: 2.zuzana.ujhelyiova
-#image: articles/2018/2018-09-23-funkcni-obdobi-reditelu-zs-a-ms.jpg
+image: articles/2018/2018-09-23-inovativni-pristupy-ve-vzdelavani.jpg
 ---
 
 Jistě si ze svých školních let pamatujete, že většina vyučujících měla k výkladu učiva podobný přístup. Tento přístup se označuje jako frontální výuka, čili “frontálka”. 
