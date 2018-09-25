@@ -13,9 +13,9 @@ main:
   - link: /
     name: Úvod
     class: hide-for-medium
-  - link: /aktuality/
-    name: Aktuality
-    match: aktuality
+  - link: /piratske-listy/
+    name: Pirátské listy Prahy 11
+    match: piratske-listy
   - link: /clenove/
     name: Naši členové
     match: clenove
