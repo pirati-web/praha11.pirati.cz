@@ -4,7 +4,7 @@ category: blog
 tags: praha 11, jižní město, piráti
 layout: post
 title: Nechte si chutnat
-author: Mgr. Zuzana Ujhelyiová 
+author: Mgr. Zuzana Ujhelyiová
 authorId: 2.zuzana.ujhelyiova
 image: articles/2018/2018-09-23-nechte-si-chutnat.jpg
 ---

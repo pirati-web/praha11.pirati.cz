@@ -4,7 +4,7 @@ category: blog
 tags: praha 11, jižní město, piráti
 layout: post
 title: Jak mohou senioři pomoci omladit Jižní Město
-author: Ing. Michaela Poláková
+author: Ing. Michaela Poláková
 authorId: 13.michaela.polakova
 image: articles/2018/2018-09-23-jak-mohou-seniori-pomoci-omladit-jizni-mesto.jpg
 ---
