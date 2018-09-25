@@ -14,10 +14,10 @@ main:
     name: Úvod
     class: hide-for-medium
   - link: /piratske-listy/
-    name: Pirátské listy Prahy 11
+    name: Pirátské listy
     match: piratske-listy
   - link: /clenove/
-    name: Naši členové
+    name: Členové
     match: clenove
   - link: /komunalni-volby-2018/
     name: Volby 2018
