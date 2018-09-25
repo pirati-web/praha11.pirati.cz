@@ -6,7 +6,7 @@ layout: post
 title: Jihoměstský kandidát Pirátů na Primátora Prahy
 author: MUDr. Zdeněk Hřib 
 #authorId: 2.zuzana.ujhelyiova
-image: articles/2018/#.jpg
+image: articles/2018/2018-09-23-jihomestsky-kandidat-na-primatora-prahy.jpg
 ---
 
 Na Praze 11 žiji už 9 let a s manželkou tu vychováváme tři děti. Na Jižním Městě se mi líbí dostatek zeleně a dětských hřišť, samoobsluha pár kroků a ani lékaři nejsou daleko. Větší příroda je prakticky za rohem na Milíčově nebo v okolí Hostivařské přehrady a přitom metrem je centrum města na dosah. Co se mi ale nelíbí, je stávající situace na radnici městské části, protože Praha 11 má určitě na víc. Troufám si tvrdit, že stejně problémové vedení má snad už jen Praha 1 a Praha 10. Jsem proto rád, že na všech těchto městských částech jsou aktivní členové a příznivci České pirátské strany, kteří přinášejí vizi, jak by měla radnice fungovat lépe. Jedná se nejen o lepší hospodaření s majetkem, ale také o drobná zlepšení veřejného prostoru, která ocení každý. Například mě osobně chybí v Centrálním parku nějaký vodní prvek, který by tento prostor ochladil i oživil. 
