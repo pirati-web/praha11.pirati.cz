@@ -24,6 +24,7 @@ Celkově je velkých hřišť určených pro více věkových skupin na Praze 11
 Jihoměstští rodiče často v diskuzích doporučují navštívit dětská hřiště a veřejná sportoviště v okolních městských částech, například park Gutovka, skatepark a dopravní hřiště v Petrovicích, či dopravní hřiště na Proseku. Toto vnímáme jako nedostatek, a proto to chceme změnit.
 
 EDIT:
+
 V závislosti na reakce občanů si dovolím článek doplnit o informace týkající se hřiště u Domu dětí a mládeže Jižní Město.
 
 U DDM JM se nachází kvalitní multifunkční hřiště s opičí dráhou. V současné době běží projekt na rekonstrukci skateboardových prvků. V průběhu září 2018 se začalo s odstraňováním nevyhovujících prvků. Projekt rekonstrukce DDM JM jeho vedení řeší již několik let. Dokončen by měl být v průběhu listopadu 2018. V budoucnu by měli na Jižním Městě II vzniknout dopravní hřiště, na jehož realizaci se podílejí DDM JM, hlavní město Praha a městská část Praha 11. DDM JM je organizace provozovaná magistrátem hlavního města Praha.
