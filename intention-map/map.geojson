@@ -3,18 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.507102966308594,
-          50.03156310080884
-        ]
-      }
-    }
-
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
