@@ -1,7 +1,7 @@
 ---
 title: Kandidátka
 uid: magistrat
-# number: 13 # číslo kandidátky odkomentujte až bude známé
+number: 4
 leader:
   uid: 1.jiri.dohnal
   age: 40
