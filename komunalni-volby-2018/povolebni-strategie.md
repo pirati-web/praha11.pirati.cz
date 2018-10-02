@@ -22,7 +22,7 @@ Naším cílem je vyhrát volby, podílet se na řízení městské části a zl
 **§3**
 
 **Naše programové priority jsou především:**
-Zřízení a vedení digitální úřední desky odpovídající moderním technologiím.
+- Zřízení a vedení digitální úřední desky odpovídající moderním technologiím.
 - Zřízení portálu otevřených dat, na kterém budou zveřejňovány veškeré faktury, smlouvy a analýzy, které si město nechává zpracovat.
 - Veřejné vedení agendy občanských podnětů a kvalitní participativní rozpočet
 - Nové kulturní centrum.
