@@ -67,8 +67,7 @@ Pro vstup do budoucí radniční koalice proto pro nás bude důležité, zda bu
 - Budeme požadovat jmenné hlasování rady, se zápisem a možností uvést důvody pro své rozhodnutí. 
 - Přímý přenos z jednání zastupitelstva, dostupný občanům i ze záznamu. 
 - Zavedeme rozklikávací rozpočet až na úroveň jednotlivých faktur.
-- Zvýšíme podíl zakázek uzavíraných pomocí veřejných výběrových řízení. U zakázek malého rozsahu nad stanovenou hranici, která bude podstatně nižší, než je v současnosti  (nad 
-- 100 000 Kč bez DPH), budeme požadovat umožnění přihlášení se do výběrového řízení i pro neoslovené dodavatele.
+- Zvýšíme podíl zakázek uzavíraných pomocí veřejných výběrových řízení. U zakázek malého rozsahu nad stanovenou hranici, která bude podstatně nižší, než je v současnosti  (nad 100 000 Kč bez DPH), budeme požadovat umožnění přihlášení se do výběrového řízení i pro neoslovené dodavatele.
 - U zakázek nad 500 000 Kč bez DPH  budeme požadovat veřejné seznamy účastníků řízení. 
 - Veřejné zakázky budeme přidělovat pouze společnostem, u kterých bude, v souladu s obecnými předpisy,  znám jejich konečný majitel. 
 - Veřejné zakázky budeme transparentně zveřejňovat v dostatečném časovém předstihu, který odpovídá rozsahu zakázky, a to jak na úřední desce, tak i jinými formami, aby byla informace o výběrovém řízení co nejdostupnější pro každou firmu, která může zvažovat podání nabídky.
