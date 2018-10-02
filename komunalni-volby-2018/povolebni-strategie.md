@@ -1,6 +1,5 @@
 ---
 layout: page
-number: 4
 title: Povolební strategie pro volby 2018
 description: Piráti představují svoji povolební strategii pro komunální volby 2018 v Pardubicích. Dopředu se dozvíte, jak se zachováme po volbách a nemusíte volit zajíce v pytli.
 keywords: volby, 2018, program, povolebni strategie
