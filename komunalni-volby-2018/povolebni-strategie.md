@@ -98,3 +98,7 @@ Materiály budou poskytnuty včetně všech podkladových informací. Tý
 Zkrácená verze této Povolební strategie, kterou Piráti z Prahy 11 prezentují ve svých tiskových materiálech a která vystihuje hlavní myšlenku tohoto dokumentu zní:
 
 - Budeme jednat se všemi ostatními politickými stranami. Naše podpora libovolné Rady je podmíněna tím, že do ní nebudou nominováni lidé s korupční historií, včetně trestně stíhaných či již odsouzených osob. Z tohoto důvodu vylučujeme podporu JMND. Nepodpoříme Radu s účastí subjektů ohrožujících základy liberální demokracie, tedy zejména s účastí KSČM nebo SPD. Dále nepodpoříme Radu, ve které by měli zasednout kumulátoři funkcí, protože Praha 11 si zaslouží radní na plný úvazek.
+
+### Ke stažení
+
+* [Povolební strategie ve formátu PDF]({{ '/assets/pdf/povolebni-strategie-2018.pdf' | relative_url }})
