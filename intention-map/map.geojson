@@ -1,82 +1,20 @@
-
 {
   "type": "FeatureCollection",
   "features": [
     {
+      "id": 1,
+      "name": "Litochlebské náměstí",
+      "category": "Jižní Město",
+      "description": "Kulaťák",
+      
       "type": "Feature",
+      "properties": {},
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              15.7814071,
-              50.0380944,
-              0
-            ],
-            [
-              15.7814205,
-              50.0380548,
-              0
-            ],
-            [
-              15.781629,
-              50.0380733,
-              0
-            ],
-            [
-              15.781909,
-              50.0381567,
-              0
-            ],
-            [
-              15.7820333,
-              50.0381891,
-              0
-            ],
-            [
-              15.7821817,
-              50.0382182,
-              0
-            ],
-            [
-              15.7822801,
-              50.0382297,
-              0
-            ],
-            [
-              15.7822761,
-              50.0382615,
-              0
-            ],
-            [
-              15.782083,
-              50.0382408,
-              0
-            ],
-            [
-              15.781918,
-              50.0382089,
-              0
-            ],
-            [
-              15.7816216,
-              50.0380961,
-              0
-            ],
-            [
-              15.7814071,
-              50.0380944,
-              0
-            ]
-          ]
+          14.506759643554688,
+          50.032004176177544
         ]
-      },
-      "properties": {
-        "name": "Chodník u Reálky",
-        "category": "pěší",
-        "description": "Vrátíme chodník k Reálce. Lidé zde mimo jiné chodí z druhého břehu na zastávku MHD.",
-        "id": 1,
-        "meta:MO": "I"
       }
     }
   ]
