@@ -8,7 +8,11 @@ rbar:
     - program
 ---
 
-**Povolební strategie do zastupitelstva městské části Praha 11 v roce 2018, kterou se zavazuje dodržovat Česká pirátská strana**, zastoupená předsedou MS Piráti Praha 11 Jiřím Dohnalem.  
+<blockquote class="c-blockquote c-blockquote--wicon">
+    **Povolební strategie do zastupitelstva městské části Praha 11 v roce 2018, kterou se zavazuje dodržovat Česká pirátská strana**, zastoupená předsedou MS Piráti Praha 11 Jiřím Dohnalem. 
+</blockquote>
+
+ 
 
 
 ### Čl. I.
