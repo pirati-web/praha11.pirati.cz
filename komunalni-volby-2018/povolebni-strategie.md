@@ -13,17 +13,17 @@ Povolební strategie do zastupitelstva městské části Praha 11 v roce 20
 
 ### Čl. I. Volební cíl
 
-§1
+**§1**
 
 Česká pirátská strana je liberální, demokratická, středová strana s důsledným protikorupčním programem. Naším cílem je prosazovat program, ať už jsme v koalici nebo v opozici. Bez ohledu na rozložení mandátů jsme připraveni spolupracovat na prosazení programových priorit se všemi politickými stranami.
 
-§2
+**§2**
 
 Naším cílem je vyhrát volby, podílet se na řízení městské části a zlepšit život jejích občanů. Uvědomujeme si potřebu programovým ústupků při koaličních vyjednáváních. Nejsme ale ochotni jít do vedení městské části za každou cenu, osobní bezúhonnost a čisté svědomí mají pro nás vyšší hodnotu. Proto sepisujeme tuto povolební strategii, v níž stanovujeme zásadní podmínky, které nám pomohou si tyto hodnoty udržet.
 
-§3
+**§3**
 
-Naše programové priority jsou především:
+**Naše programové priority jsou především:**
 
 - Zřízení a vedení digitální úřední desky odpovídající moderním technologiím.
 - Zřízení portálu otevřených dat, na kterém budou zveřejňovány veškeré faktury, smlouvy a analýzy, které si město nechává zpracovat.
@@ -51,9 +51,9 @@ Naše programové priority jsou především:
 
 ### Čl. II.
 
-Etické požadavky na koaliční partnery
+**Etické požadavky na koaliční partnery**
 
-§3
+**§3**
 
 Nepodpoříme Radu  přímo či nepřímo podporovanou subjekty ohrožující základy liberální demokracie nebo s historickým dědictvím likvidace demokracie, tedy zejména s účastí KSČM nebo SPD.
 
@@ -63,7 +63,7 @@ Odmítáme dále podporovat trafikanty a osoby, které sbírají placené
 
 ### Čl. III.
 
-Předpoklady funkční koalice na radnici
+**Předpoklady funkční koalice na radnici**
 
 Pro vstup do budoucí radniční koalice proto pro nás bude důležité, zda budou naši partneři ochotni přistoupit alespoň na základní principy efektivní spolupráce:
 
@@ -82,7 +82,7 @@ Materiály budou poskytnuty včetně všech podkladových informací. Tý
 
 ### Čl. IV. Průběh voleb
 
-Během voleb
+**Během voleb**
 
 - Výsledky voleb budeme společně sledovat na volebním štábu.
 - Během volební noci nebudeme uzavírat žádné dohody a vydávat žádná prohlášení o spolupráci. Lídr může nezávazně komunikovat s ostatními stranami adekvátně k situaci. Hned po volbách
