@@ -12,9 +12,9 @@
         ]
       },
       "properties": {
-        "name": "Chodník u Reálky",
-        "category": "pěší",
-        "description": "Vrátíme chodník k Reálce. Lidé zde mimo jiné chodí z druhého břehu na zastávku MHD.",
+        "name": "Litochlebské náměstí",
+        "category": "náměstí",
+        "description": "",
         "id": 1,
         "meta:MO": "I"
       }
