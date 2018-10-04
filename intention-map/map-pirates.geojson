@@ -1,18 +1,14 @@
 {
   "type": "FeatureCollection",
   "features": [
-
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.075638,
-              14.437900,
-              0
-            ]
+          14.437900,
+          50.075638,
+          0
         ]
       },
       "properties": {
@@ -20,21 +16,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 1,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.0734167,
-              14.4153065,
-              0
-            ]
+          14.4153065,
+          50.0734167,
+          0
         ]
       },
       "properties": {
@@ -42,21 +34,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 2,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.0878334,
-              14.4210489,
-              0
-            ]
+          14.4210489,
+          50.0878334,
+          0
         ]
       },
       "properties": {
@@ -64,21 +52,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 3,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.0750689,
-              14.4350772,
-              0
-            ]
+          14.4350772,
+          50.0750689,
+          0
         ]
       },
       "properties": {
@@ -86,21 +70,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 4,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.0854115,
-              14.4543504,
-              0
-            ]
+          14.4543504,
+          50.0854115,
+          0
         ]
       },
       "properties": {
@@ -108,21 +88,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 5,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.783882,
-              14.687470,
-              0
-            ]
+          14.687470,
+          49.783882,
+          0
         ]
       },
       "properties": {
@@ -130,21 +106,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 6,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.141799,
-              14.106846,
-              0
-            ]
+          14.106846,
+          50.141799,
+          0
         ]
       },
       "properties": {
@@ -152,21 +124,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 7,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.967305,
-              14.086384,
-              0
-            ]
+          14.086384,
+          49.967305,
+          0
         ]
       },
       "properties": {
@@ -174,21 +142,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 8,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.142525,
-              15.118988,
-              0
-            ]
+          15.118988,
+          50.142525,
+          0
         ]
       },
       "properties": {
@@ -196,21 +160,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 9,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.952531,
-              15.268754,
-              0
-            ]
+          15.268754,
+          49.952531,
+          0
         ]
       },
       "properties": {
@@ -218,21 +178,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 10,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.413525,
-              14.908538,
-              0
-            ]
+          14.908538,
+          50.413525,
+          0
         ]
       },
       "properties": {
@@ -240,21 +196,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 11,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.185682,
-              15.043760,
-              0
-            ]
+          15.043760,
+          50.185682,
+          0
         ]
       },
       "properties": {
@@ -262,21 +214,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 12,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.685532,
-              13.999045,
-              0
-            ]
+          13.999045,
+          49.685532,
+          0
         ]
       },
       "properties": {
@@ -284,21 +232,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 13,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.960184,
-              14.319902,
-              0
-            ]
+          14.319902,
+          49.960184,
+          0
         ]
       },
       "properties": {
@@ -306,21 +250,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 14,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.144582,
-              15.006239,
-              0
-            ]
+          15.006239,
+          49.144582,
+          0
         ]
       },
       "properties": {
@@ -328,21 +268,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 15,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.260039,
-              14.718717,
-              0
-            ]
+          14.718717,
+          49.260039,
+          0
         ]
       },
       "properties": {
@@ -350,21 +286,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 16,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              48.842418,
-              14.639338,
-              0
-            ]
+          14.639338,
+          48.842418,
+          0
         ]
       },
       "properties": {
@@ -372,21 +304,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 17,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.424993,
-              13.881864,
-              0
-            ]
+          13.881864,
+          49.424993,
+          0
         ]
       },
       "properties": {
@@ -394,21 +322,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 18,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.003615,
-              14.764232,
-              0
-            ]
+          14.764232,
+          49.003615,
+          0
         ]
       },
       "properties": {
@@ -416,21 +340,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 19,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.273591,
-              13.830458,
-              0
-            ]
+          13.830458,
+          49.273591,
+          0
         ]
       },
       "properties": {
@@ -438,21 +358,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 20,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              48.957506,
-              14.331260,
-              0
-            ]
+          14.331260,
+          48.957506,
+          0
         ]
       },
       "properties": {
@@ -460,21 +376,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 21,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              48.948161,
-              14.541407,
-              0
-            ]
+          14.541407,
+          48.948161,
+          0
         ]
       },
       "properties": {
@@ -482,21 +394,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 22,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.188506,
-              14.003793,
-              0
-            ]
+          14.003793,
+          49.188506,
+          0
         ]
       },
       "properties": {
@@ -504,21 +412,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 23,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.011010,
-              14.000100,
-              0
-            ]
+          14.000100,
+          49.011010,
+          0
         ]
       },
       "properties": {
@@ -526,21 +430,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 24,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.260504,
-              13.910408,
-              0
-            ]
+          13.910408,
+          49.260504,
+          0
         ]
       },
       "properties": {
@@ -548,21 +448,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 25,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.413089,
-              14.677566,
-              0
-            ]
+          14.677566,
+          49.413089,
+          0
         ]
       },
       "properties": {
@@ -570,21 +466,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 26,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.273591,
-              13.830458,
-              0
-            ]
+          13.830458,
+          49.273591,
+          0
         ]
       },
       "properties": {
@@ -592,21 +484,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 27,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.122346,
-              17.452331,
-              0
-            ]
+          17.452331,
+          49.122346,
+          0
         ]
       },
       "properties": {
@@ -614,21 +502,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 28,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.395655,
-              13.295194,
-              0
-            ]
+          13.295194,
+          49.395655,
+          0
         ]
       },
       "properties": {
@@ -636,21 +520,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 29,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.439803,
-              12.931243,
-              0
-            ]
+          12.931243,
+          49.439803,
+          0
         ]
       },
       "properties": {
@@ -658,21 +538,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 30,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.893323,
-              12.730254,
-              0
-            ]
+          12.730254,
+          49.893323,
+          0
         ]
       },
       "properties": {
@@ -680,21 +556,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 31,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.439803,
-              12.931243,
-              0
-            ]
+          12.931243,
+          49.439803,
+          0
         ]
       },
       "properties": {
@@ -702,21 +574,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 32,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.753048,
-              13.004203,
-              0
-            ]
+          13.004203,
+          49.753048,
+          0
         ]
       },
       "properties": {
@@ -724,21 +592,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 33,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.231952,
-              12.872062,
-              0
-            ]
+          12.872062,
+          50.231952,
+          0
         ]
       },
       "properties": {
@@ -746,21 +610,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 34,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.223983,
-              12.195113,
-              0
-            ]
+          12.195113,
+          50.223983,
+          0
         ]
       },
       "properties": {
@@ -768,21 +628,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 35,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.223983,
-              12.195113,
-              0
-            ]
+          12.195113,
+          50.223983,
+          0
         ]
       },
       "properties": {
@@ -790,21 +646,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 36,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.964699,
-              12.701298,
-              0
-            ]
+          12.701298,
+          49.964699,
+          0
         ]
       },
       "properties": {
@@ -812,21 +664,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 37,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.655592,
-              15.116995,
-              0
-            ]
+          15.116995,
+          49.655592,
+          0
         ]
       },
       "properties": {
@@ -834,21 +682,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 38,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.296380,
-              12.573526,
-              0
-            ]
+          12.573526,
+          50.296380,
+          0
         ]
       },
       "properties": {
@@ -856,21 +700,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 39,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.144404,
-              16.035790,
-              0
-            ]
+          16.035790,
+          49.144404,
+          0
         ]
       },
       "properties": {
@@ -878,21 +718,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 40,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.463598,
-              13.410837,
-              0
-            ]
+          13.410837,
+          50.463598,
+          0
         ]
       },
       "properties": {
@@ -900,21 +736,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 41,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.144404,
-              16.035790,
-              0
-            ]
+          16.035790,
+          49.144404,
+          0
         ]
       },
       "properties": {
@@ -922,21 +754,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 42,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.644558,
-              13.835384,
-              0
-            ]
+          13.835384,
+          50.644558,
+          0
         ]
       },
       "properties": {
@@ -944,21 +772,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 43,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.511102,
-              14.150658,
-              0
-            ]
+          14.150658,
+          50.511102,
+          0
         ]
       },
       "properties": {
@@ -966,21 +790,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 44,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.376092,
-              13.271422,
-              0
-            ]
+          13.271422,
+          50.376092,
+          0
         ]
       },
       "properties": {
@@ -988,21 +808,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 45,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.376092,
-              13.271422,
-              0
-            ]
+          13.271422,
+          50.376092,
+          0
         ]
       },
       "properties": {
@@ -1010,21 +826,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 46,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.501655,
-              13.633012,
-              0
-            ]
+          13.633012,
+          50.501655,
+          0
         ]
       },
       "properties": {
@@ -1032,21 +844,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 47,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.501655,
-              13.633012,
-              0
-            ]
+          13.633012,
+          50.501655,
+          0
         ]
       },
       "properties": {
@@ -1054,21 +862,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 48,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.501655,
-              13.633012,
-              0
-            ]
+          13.633012,
+          50.501655,
+          0
         ]
       },
       "properties": {
@@ -1076,21 +880,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 49,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.376092,
-              13.271422,
-              0
-            ]
+          13.271422,
+          50.376092,
+          0
         ]
       },
       "properties": {
@@ -1098,21 +898,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 50,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.327276,
-              13.545886,
-              0
-            ]
+          13.545886,
+          50.327276,
+          0
         ]
       },
       "properties": {
@@ -1120,21 +916,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 51,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.766380,
-              15.054439,
-              0
-            ]
+          15.054439,
+          50.766380,
+          0
         ]
       },
       "properties": {
@@ -1142,21 +934,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 52,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.642840,
-              15.254186,
-              0
-            ]
+          15.254186,
+          50.642840,
+          0
         ]
       },
       "properties": {
@@ -1164,21 +952,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 53,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.655768,
-              14.724956,
-              0
-            ]
+          14.724956,
+          50.655768,
+          0
         ]
       },
       "properties": {
@@ -1186,21 +970,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 54,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.678620,
-              14.539799,
-              0
-            ]
+          14.539799,
+          50.678620,
+          0
         ]
       },
       "properties": {
@@ -1208,21 +988,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 55,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.605258,
-              15.328241,
-              0
-            ]
+          15.328241,
+          50.605258,
+          0
         ]
       },
       "properties": {
@@ -1230,21 +1006,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 56,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.587385,
-              15.156909,
-              0
-            ]
+          15.156909,
+          50.587385,
+          0
         ]
       },
       "properties": {
@@ -1252,21 +1024,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 57,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.722153,
-              15.170414,
-              0
-            ]
+          15.170414,
+          50.722153,
+          0
         ]
       },
       "properties": {
@@ -1274,21 +1042,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 58,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.20923,
-              15.83277,
-              0
-            ]
+          15.83277,
+          50.20923,
+          0
         ]
       },
       "properties": {
@@ -1296,21 +1060,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 59,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.338147,
-              15.861390,
-              0
-            ]
+          15.861390,
+          50.338147,
+          0
         ]
       },
       "properties": {
@@ -1318,21 +1078,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 60,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.565484,
-              15.909192,
-              0
-            ]
+          15.909192,
+          50.565484,
+          0
         ]
       },
       "properties": {
@@ -1340,21 +1096,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 61,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.292111,
-              16.160118,
-              0
-            ]
+          16.160118,
+          50.292111,
+          0
         ]
       },
       "properties": {
@@ -1362,21 +1114,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 62,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.034409,
-              15.781299,
-              0
-            ]
+          15.781299,
+          50.034409,
+          0
         ]
       },
       "properties": {
@@ -1384,21 +1132,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 63,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              50.034409,
-              15.781299,
-              0
-            ]
+          15.781299,
+          50.034409,
+          0
         ]
       },
       "properties": {
@@ -1406,21 +1150,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 64,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.947170,
-              15.665028,
-              0
-            ]
+          15.665028,
+          49.947170,
+          0
         ]
       },
       "properties": {
@@ -1428,21 +1168,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 65,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.762231,
-              15.907661,
-              0
-            ]
+          15.907661,
+          49.762231,
+          0
         ]
       },
       "properties": {
@@ -1450,21 +1186,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 66,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.902149,
-              15.934067,
-              0
-            ]
+          15.934067,
+          49.902149,
+          0
         ]
       },
       "properties": {
@@ -1472,21 +1204,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 67,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.898427,
-              16.569965,
-              0
-            ]
+          16.569965,
+          49.898427,
+          0
         ]
       },
       "properties": {
@@ -1494,21 +1222,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 68,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.757697,
-              16.663631,
-              0
-            ]
+          16.663631,
+          49.757697,
+          0
         ]
       },
       "properties": {
@@ -1516,21 +1240,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 69,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.757697,
-              16.663631,
-              0
-            ]
+          16.663631,
+          49.757697,
+          0
         ]
       },
       "properties": {
@@ -1538,21 +1258,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 70,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.901982,
-              16.447385,
-              0
-            ]
+          16.447385,
+          49.901982,
+          0
         ]
       },
       "properties": {
@@ -1560,21 +1276,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 71,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.755263,
-              16.469286,
-              0
-            ]
+          16.469286,
+          49.755263,
+          0
         ]
       },
       "properties": {
@@ -1582,21 +1294,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 72,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.949824,
-              15.795158,
-              0
-            ]
+          15.795158,
+          49.949824,
+          0
         ]
       },
       "properties": {
@@ -1604,21 +1312,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 73,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.715034,
-              16.265977,
-              0
-            ]
+          16.265977,
+          49.715034,
+          0
         ]
       },
       "properties": {
@@ -1626,21 +1330,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 74,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.764770,
-              15.829087,
-              0
-            ]
+          15.829087,
+          49.764770,
+          0
         ]
       },
       "properties": {
@@ -1648,21 +1348,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 75,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.720714,
-              15.671142,
-              0
-            ]
+          15.671142,
+          49.720714,
+          0
         ]
       },
       "properties": {
@@ -1670,21 +1366,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 76,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.604436,
-              15.579755,
-              0
-            ]
+          15.579755,
+          49.604436,
+          0
         ]
       },
       "properties": {
@@ -1692,21 +1384,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 77,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.214887,
-              15.879652,
-              0
-            ]
+          15.879652,
+          49.214887,
+          0
         ]
       },
       "properties": {
@@ -1714,21 +1402,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 78,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.183338,
-              15.454373,
-              0
-            ]
+          15.454373,
+          49.183338,
+          0
         ]
       },
       "properties": {
@@ -1736,21 +1420,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 79,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.1950602,
-              16.6068371,
-              0
-            ]
+          16.6068371,
+          49.1950602,
+          0
         ]
       },
       "properties": {
@@ -1758,21 +1438,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 80,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.2241169,
-              16.594528,
-              0
-            ]
+          16.594528,
+          49.2241169,
+          0
         ]
       },
       "properties": {
@@ -1780,21 +1456,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 81,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.2136906,
-              16.574814,
-              0
-            ]
+          16.574814,
+          49.2136906,
+          0
         ]
       },
       "properties": {
@@ -1802,21 +1474,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 82,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.4072849,
-              16.6410026,
-              0
-            ]
+          16.6410026,
+          49.4072849,
+          0
         ]
       },
       "properties": {
@@ -1824,21 +1492,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 83,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.4072849,
-              16.6410026,
-              0
-            ]
+          16.6410026,
+          49.4072849,
+          0
         ]
       },
       "properties": {
@@ -1846,21 +1510,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 84,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              48.8559107,
-              16.0542676,
-              0
-            ]
+          16.0542676,
+          48.8559107,
+          0
         ]
       },
       "properties": {
@@ -1868,21 +1528,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 85,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.487612,
-              16.660076,
-              0
-            ]
+          16.660076,
+          49.487612,
+          0
         ]
       },
       "properties": {
@@ -1890,21 +1546,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 86,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.837054,
-              15.787170,
-              0
-            ]
+          15.787170,
+          49.837054,
+          0
         ]
       },
       "properties": {
@@ -1912,21 +1564,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 87,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              48.753240,
-              16.882617,
-              0
-            ]
+          16.882617,
+          48.753240,
+          0
         ]
       },
       "properties": {
@@ -1934,21 +1582,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 88,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.871099,
-              17.415174,
-              0
-            ]
+          17.415174,
+          49.871099,
+          0
         ]
       },
       "properties": {
@@ -1956,21 +1600,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 89,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              48.904228,
-              17.029280,
-              0
-            ]
+          17.029280,
+          48.904228,
+          0
         ]
       },
       "properties": {
@@ -1978,21 +1618,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 90,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.593878,
-              17.250979,
-              0
-            ]
+          17.250979,
+          49.593878,
+          0
         ]
       },
       "properties": {
@@ -2000,21 +1636,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 91,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.882700,
-              16.872332,
-              0
-            ]
+          16.872332,
+          49.882700,
+          0
         ]
       },
       "properties": {
@@ -2022,21 +1654,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 92,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.753048,
-              13.004203,
-              0
-            ]
+          13.004203,
+          49.753048,
+          0
         ]
       },
       "properties": {
@@ -2044,21 +1672,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 93,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.977941,
-              16.971875,
-              0
-            ]
+          16.971875,
+          49.977941,
+          0
         ]
       },
       "properties": {
@@ -2066,21 +1690,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 94,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.747144,
-              18.623896,
-              0
-            ]
+          18.623896,
+          49.747144,
+          0
         ]
       },
       "properties": {
@@ -2088,21 +1708,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 95,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.821023,
-              18.262624,
-              0
-            ]
+          18.262624,
+          49.821023,
+          0
         ]
       },
       "properties": {
@@ -2110,21 +1726,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 96,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.988277,
-              17.463794,
-              0
-            ]
+          17.463794,
+          49.988277,
+          0
         ]
       },
       "properties": {
@@ -2132,21 +1744,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 97,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.988277,
-              17.463794,
-              0
-            ]
+          17.463794,
+          49.988277,
+          0
         ]
       },
       "properties": {
@@ -2154,21 +1762,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 98,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.940760,
-              17.894899,
-              0
-            ]
+          17.894899,
+          49.940760,
+          0
         ]
       },
       "properties": {
@@ -2176,21 +1780,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 99,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.904426,
-              18.357074,
-              0
-            ]
+          18.357074,
+          49.904426,
+          0
         ]
       },
       "properties": {
@@ -2198,21 +1798,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 100,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.729234,
-              18.235519,
-              0
-            ]
+          18.235519,
+          49.729234,
+          0
         ]
       },
       "properties": {
@@ -2220,21 +1816,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 101,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.866350,
-              18.376369,
-              0
-            ]
+          18.376369,
+          49.866350,
+          0
         ]
       },
       "properties": {
@@ -2242,21 +1834,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 102,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.599570,
-              18.144910,
-              0
-            ]
+          18.144910,
+          49.599570,
+          0
         ]
       },
       "properties": {
@@ -2264,21 +1852,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 103,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.316992,
-              17.463848,
-              0
-            ]
+          17.463848,
+          49.316992,
+          0
         ]
       },
       "properties": {
@@ -2286,21 +1870,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 104,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.339025,
-              17.993952,
-              0
-            ]
+          17.993952,
+          49.339025,
+          0
         ]
       },
       "properties": {
@@ -2308,21 +1888,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 105,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.291758,
-              17.399480,
-              0
-            ]
+          17.399480,
+          49.291758,
+          0
         ]
       },
       "properties": {
@@ -2330,21 +1906,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 106,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.059897,
-              17.495950,
-              0
-            ]
+          17.495950,
+          49.059897,
+          0
         ]
       },
       "properties": {
@@ -2352,21 +1924,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 107,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.223073,
-              17.854921,
-              0
-            ]
+          17.854921,
+          49.223073,
+          0
         ]
       },
       "properties": {
@@ -2374,21 +1942,17 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 108,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     },
-        
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          [
-            [
-              49.171658,
-              17.512053,
-              0
-            ]
+          17.512053,
+          49.171658,
+          0
         ]
       },
       "properties": {
@@ -2396,7 +1960,7 @@
         "category": "Pirátská strana",
         "description": "",
         "id": 109,
-        "meta:MO": "I"
+        "meta:MO": "I"        
       }
     }           
   ]
