@@ -81,7 +81,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "LineString",
+        "type": "Polygon",
         "coordinates": [
           [
             14.510729312896729,
