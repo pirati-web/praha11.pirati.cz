@@ -4,7 +4,7 @@ category: blog
 tags: piráti
 layout: post
 title: Posezení se Zdeňkem, Mikulášem a Olgou
-image: /assets/img/articles/2018/2018-10-04-posezeni-s-piraty.jpg
+image: assets/img/articles/2018/2018-10-04-posezeni-s-piraty.jpg
 ---
 
 Posezení s Piráty Prahy 11 se Zdeňkem Hřibem a Mikulášem Peksou a s Piráty Praha 11 si s Vámi přišla popovídat i Olga Richterová.
