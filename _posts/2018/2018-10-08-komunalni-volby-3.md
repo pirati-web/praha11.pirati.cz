@@ -3,7 +3,7 @@ date: 2018-10-08
 category: blog
 tags: piráti
 layout: post
-title: Vyjednávací týmy Pirátů a hnutí ANO
+title: Vyjednávání týmu Pirátů s hnutím ANO
 image: articles/2018/2018-10-09-komunalni-volby-2.jpg
 ---
 
