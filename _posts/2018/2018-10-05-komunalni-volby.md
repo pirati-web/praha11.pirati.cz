@@ -11,7 +11,7 @@ Společně se nám podařil skvělý výsledek 9 Pirátských zastupitelů. Grat
 
 V tuhle chvíli ustavujeme zastupitelský klub. Předsedou klubu byl zvolen Martin Duška, místopředsedkyně Zuzana Böhmová.
 
-Na základě našeho programu budeme vyjednávat o možné koalici. Budeme postupovat na základě naší povolební strategie.
+Na základě našeho programu budeme vyjednávat o možné koalici. Budeme postupovat na základě naší <a href="/komunalni-volby-2018/povolebni-strategie/">povolební strategie</a>.
 
 stay tuned
 
