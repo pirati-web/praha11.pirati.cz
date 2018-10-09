@@ -56,8 +56,6 @@ Naším cílem je vyhrát volby, podílet se na řízení městské části a zl
 ### Čl. II.
 **Etické požadavky na koaliční partnery**
 
-**§3**
-
 Nepodpoříme Radu přímo či nepřímo podporovanou subjekty ohrožující základy liberální demokracie nebo s historickým dědictvím likvidace demokracie, tedy zejména s účastí KSČM nebo SPD.
 
 Nepodpoříme do **uvolněné** politické funkce nikoho z bývalých vládnoucích zastupitelů z let 2010 - 2014, kteří jsou  trestně stíhaní z nevýhodného prodeje obecního majetku. (tehdy ODS, ČSSD, KSČM a Pražané za svá práva - někteří z nich přesunutí do nynější JMND). 
