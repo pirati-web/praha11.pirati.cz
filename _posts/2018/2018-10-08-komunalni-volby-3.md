@@ -4,7 +4,7 @@ category: blog
 tags: piráti
 layout: post
 title: Vyjednávací týmy Pirátů a hnutí ANO
-image: articles/2018/2018-10-09-komunalni-volby.jpg
+image: articles/2018/2018-10-09-komunalni-volby-2.jpg
 ---
 
 🏴🏴 V pondělí 8.10. večer se náš vyjednávací tým sešel se zástupci hnutí ANO z naší městské části.

@@ -4,7 +4,7 @@ category: blog
 tags: piráti
 layout: post
 title: Vyjednávací týmy Pirátů a Hnutí pro Prahu 11
-image: articles/2018/2018-10-09-komunalni-volby.jpg
+image: articles/2018/2018-10-09-komunalni-volby-2.jpg
 ---
 
 Včera večer se sešly vyjednávací týmy Pirátů a Hnutí pro Prahu 11. Piráti získali 9 zastupitelských mandátů, HPP11 získalo 13 mandátů. Následující dny se sejdeme s několika dalšími stranami. Naším cílem je vyjednat na Praze 11 funkční a stabilní koalici. 
