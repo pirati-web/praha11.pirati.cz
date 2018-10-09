@@ -1,19 +1,13 @@
 ---
-date: 2018-10-05
+date: 2018-05-10
 category: blog
 tags: piráti
 layout: post
-title: Jedním slovem: Děkujeme
+title: Pusťte pirátky na radnice
 image: articles/2018/2018-10-05-pustte-piratky-na-radnice.jpg
 ---
 
-Společně se nám podařil skvělý výsledek 9 Pirátských zastupitelů. Gratulujeme vítězi voleb HPP 11 a všem stranám, které uspěly a získaly své zástupce v zastupitelstvu MČ Praha 11.
-
-V tuhle chvíli ustavujeme zastupitelský klub. Předsedou klubu byl zvolen Martin Duška, místopředsedkyně Zuzana Böhmová.
-
-Na základě našeho programu budeme vyjednávat o možné koalici. Budeme postupovat na základě naší povolební strategie.
-
-stay tuned
+V posledních dnech se nás docela ptáte, kde 🔎 máme ženy 👩‍💼 :-) Tak třeba tady! ❤️🖤 Na 160 místech po celé republice za nás kandiduje na tisíc žen. Najdete mezi nimi ekonomky, lékařky, manažerky, pedagožky, podnikatelky, sociální pracovnice, analytičky, právničky a celou řadu dalších profesí. Chcete víc žen v politice? Pusťte na radnice a do Senátu Pirátky!
 
 ---
 
