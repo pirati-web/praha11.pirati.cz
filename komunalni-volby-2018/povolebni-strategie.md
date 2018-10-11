@@ -55,7 +55,7 @@ Naše programové priority jsou především:
 
 Nepodpoříme Radu přímo či nepřímo podporovanou subjekty ohrožující základy liberální demokracie nebo s historickým dědictvím likvidace demokracie, tedy zejména s účastí KSČM nebo SPD.
 
-Nepodpoříme do uvolněné či neuvolněné 1) politické funkce nikoho z bývalých vládnoucích zastupitelů z let 2010 - 2014, kteří jsou  trestně stíhaní z nevýhodného prodeje obecního majetku. (tehdy ODS, ČSSD, KSČM a Pražané za svá práva - někteří z nich přesunutí do nynější JMND). 
+Nepodpoříme do **uvolněné či neuvolněné** 1) politické funkce nikoho z bývalých vládnoucích zastupitelů z let 2010 - 2014, kteří jsou  trestně stíhaní z nevýhodného prodeje obecního majetku. (tehdy ODS, ČSSD, KSČM a Pražané za svá práva - někteří z nich přesunutí do nynější JMND). 
 
 Odmítáme dále podporovat trafikanty a osoby, které sbírají placené funkce. Námi zvolení radní se budou plně soustředit na správu naší městské části. Do uvolněné funkce proto nepodpoříme nikoho, kdo by současně ve stejném časovém období pobíral plat či odměny za vícero funkcí placených z veřejných peněz, které vyžadují nasazení na plný pracovní úvazek. 
 
