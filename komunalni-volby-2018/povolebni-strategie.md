@@ -25,7 +25,7 @@ Naším cílem je vyhrát volby, podílet se na řízení městské části a zl
 
 **§3**
 
-Naše programové priority jsou především:
+**Naše programové priority jsou především:**
 - Zřízení a vedení digitální úřední desky odpovídající moderním technologiím
 - Zřízení portálu otevřených dat, na kterém budou zveřejňovány veškeré faktury, smlouvy a analýzy, které si město nechává zpracovat
 - Veřejné vedení agendy občanských podnětů a kvalitní participativní rozpočet
@@ -55,7 +55,7 @@ Naše programové priority jsou především:
 
 Nepodpoříme Radu přímo či nepřímo podporovanou subjekty ohrožující základy liberální demokracie nebo s historickým dědictvím likvidace demokracie, tedy zejména s účastí KSČM nebo SPD.
 
-Nepodpoříme do **uvolněné či neuvolněné** 1) politické funkce nikoho z bývalých vládnoucích zastupitelů z let 2010 - 2014, kteří jsou  trestně stíhaní z nevýhodného prodeje obecního majetku. (tehdy ODS, ČSSD, KSČM a Pražané za svá práva - někteří z nich přesunutí do nynější JMND). 
+Nepodpoříme do **uvolněné či neuvolněné** *) politické funkce nikoho z bývalých vládnoucích zastupitelů z let 2010 - 2014, kteří jsou  trestně stíhaní z nevýhodného prodeje obecního majetku. (tehdy ODS, ČSSD, KSČM a Pražané za svá práva - někteří z nich přesunutí do nynější JMND). 
 
 Odmítáme dále podporovat trafikanty a osoby, které sbírají placené funkce. Námi zvolení radní se budou plně soustředit na správu naší městské části. Do uvolněné funkce proto nepodpoříme nikoho, kdo by současně ve stejném časovém období pobíral plat či odměny za vícero funkcí placených z veřejných peněz, které vyžadují nasazení na plný pracovní úvazek. 
 
@@ -99,7 +99,7 @@ Budeme jednat se všemi ostatními politickými stranami. Naše podpora libovoln
 
 ----
 
-1.) Opraveno na základě revize PKS.
+*) Opraveno na základě revize PKS.
 
 ### Ke stažení
 
