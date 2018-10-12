@@ -12,12 +12,13 @@ image: articles/2018/2018-10-09-komunalni-volby-2.jpg
 
 📢 Ve středu večer jsme se sešli s ODS. Stejně jako s ostatními stranami jsme mluvili o programových prioritách a hledali shodu.
 
-Tím jsme ukončili první kolo vyjednávání dle naší povolební strategie a začínáme druhé kolo. 🏴🏴
+Tím jsme ukončili první kolo vyjednávání dle naší 
+<a href="/komunalni-volby-2018/povolebni-strategie/">povolební strategie</a> a začínáme druhé kolo. 🏴🏴
 
 Naším cílem je vytvořit na Praze 11 fungující koalici, která bude skutečně řešit problémy naší městské části.
 
 #DRŽÍMEKURZ 🏴🏴
-S naší povolební strategií se můžete seznámit zde: <a href="/komunalni-volby-2018/povolebni-strategie/">povolební strategie</a>.
+
 
 ---
 
