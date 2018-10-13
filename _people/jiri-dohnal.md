@@ -3,7 +3,6 @@ uid: 1.jiri.dohnal
 name:     Jiří Dohnal
 fullname: Jiří Dohnal
 category:
-  - clenove
   - kandidat-obec
   - pms
 categories: kontaktni_osoba    

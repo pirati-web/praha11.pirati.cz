@@ -5,6 +5,9 @@ description: Seznam členů a příznivců Pirátské strany na Praze 11. Chcete
 keywords: členové, členky, tým, příznivci
 viewMode: grouped # or alltogether
 groups:
+  - name: Místní předsednictvo
+    category: pms
+    sort: ordpms
   - name: Členové
     category: clenove
     sort: ordPce

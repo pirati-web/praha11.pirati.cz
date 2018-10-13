@@ -4,7 +4,6 @@ name:     Zuzana Ujhelyiová
 titles:
   before: Mgr. 
 category:
-  - clenove
   - kandidat-obec
   - pms  
 ordpms: 2

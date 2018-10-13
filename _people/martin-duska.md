@@ -4,7 +4,6 @@ name:     Martin Duška
 titles:
   before: Mgr.
 category:
-  - clenove
   - kandidat-obec
   - pms  
 ordpms: 3
