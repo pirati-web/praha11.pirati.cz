@@ -1,7 +1,7 @@
 ---
 layout: members
-title: Členové
-description: Seznam členů a příznivců Pirátské strany na Praze 11. Chcete si přidat? Přijďte na sraz, nebo nám dejte vědět.
+title: Lidé
+description: Seznam předsednictva, členů a příznivců Pirátské strany na Praze 11.
 keywords: členové, členky, tým, příznivci
 viewMode: grouped # or alltogether
 groups:
