@@ -5,7 +5,7 @@ titles:
   before: Mgr. 
 category:
   - kandidat-obec
-  - pms  
+  - clenove  
 ordpms: 2
 description: teoložka
 img: people/zuzana-ujhelyiova.jpg

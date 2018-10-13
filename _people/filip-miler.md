@@ -3,8 +3,9 @@ uid: 42.filip.miler
 name:     Filip Miler
 fullname: Filip Miler
 category:
-  - clenove
+  - pms
   - kandidat-obec
+ordpms: 2  
 description: vývojář informačních systémů, hudebník
 img: people/filip-miler.jpg
 age: 
