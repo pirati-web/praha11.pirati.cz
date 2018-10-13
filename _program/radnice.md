@@ -34,7 +34,7 @@ Namísto zbytečností typu chytré lavičky **nainstalujeme mobiliář, který 
 
 Chceme, aby se veřejnost zapojovala do politického života skrze **veřejné besedy a participativní rozpočty**.
 
-*Veřejné besedy k aktuálním problémům nebo záměrům metropole budeme pořádat za účasti odborné i laické veřejnosti.
+*Veřejné besedy k aktuálním problémům nebo záměrům metropole budeme pořádat za účasti odborné i laické veřejnosti.*
 
-Participativní rozpočty – část městských peněz bude rozdělena na projekty iniciované občany.*
+*Participativní rozpočty – část městských peněz bude rozdělena na projekty iniciované občany.*
 
