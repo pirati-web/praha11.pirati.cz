@@ -1,7 +1,7 @@
 ---
 uid: radnice
 garant: 1.jiri.dohnal
-title: OTEVŘENÁ RADNICE V MODERNÍM MĚSTĚ
+title: Otevřená radnice v moderním městě
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 #img: miscellaneous/volebni-rozcestnik.png
