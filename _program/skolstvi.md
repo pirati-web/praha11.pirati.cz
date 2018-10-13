@@ -58,4 +58,4 @@ Chceme cíleně přispívat **na vzdělávání učitelů** včetně zajištěn�
 
 **Budeme podporovat** (i finančně) **moderní přístup ke stravování**. Dětem má jídlo chutnat a být jim prospěšné.
 
-Podporujeme zavádění programů jako je Skutečně zdravá škola (a to i do školek).
+*Podporujeme zavádění programů jako je Skutečně zdravá škola (a to i do školek).*
