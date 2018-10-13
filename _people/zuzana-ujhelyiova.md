@@ -5,6 +5,8 @@ fullname: Mgr. Zuzana Ujhelyiová
 category:
   - clenove
   - kandidat-obec
+  - pms  
+ordpms: 2
 description: teoložka
 img: people/zuzana-ujhelyiova.jpg
 mail:

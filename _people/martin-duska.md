@@ -5,7 +5,8 @@ fullname: Mgr. Martin Duška
 category:
   - clenove
   - kandidat-obec
-ordclenove: 2
+  - pms  
+ordpms: 3
 description: politolog
 img: people/martin-duska.jpg
 mail:
