@@ -1,7 +1,8 @@
 ---
 uid: 4.ladislav.kos
 name:     Ladislav Kos
-fullname: Ing. Ladislav Kos
+titles:
+  before: Ing.
 category:
   - kandidat-obec
   - pms  
