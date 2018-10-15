@@ -16,9 +16,9 @@ main:
   - link: /piratske-listy/
     name: Pirátské listy
     match: piratske-listy
-  - link: /clenove/
-    name: Členové
-    match: clenove
+  - link: /lide/
+    name: Naši lidé
+    match: lide
   - link: /komunalni-volby-2018/
     name: Volby 2018
     match: komunalni-volby-2018

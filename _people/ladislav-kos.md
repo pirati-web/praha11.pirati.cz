@@ -1,11 +1,12 @@
 ---
 uid: 4.ladislav.kos
 name:     Ladislav Kos
-fullname: Ing. Ladislav Kos
+titles:
+  before: Ing.
 category:
-  - clenove
   - kandidat-obec
-ordclenove: 3
+  - pms  
+ordpms: 4
 description: konzultant online marketingu
 img: people/ladislav-kos.jpg
 mail:

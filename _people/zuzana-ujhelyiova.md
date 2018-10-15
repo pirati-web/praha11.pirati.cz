@@ -1,10 +1,12 @@
 ---
 uid: 2.zuzana.ujhelyiova
 name:     Zuzana Ujhelyiová
-fullname: Mgr. Zuzana Ujhelyiová 
+titles:
+  before: Mgr. 
 category:
-  - clenove
   - kandidat-obec
+  - clenove  
+ordpms: 2
 description: teoložka
 img: people/zuzana-ujhelyiova.jpg
 mail:

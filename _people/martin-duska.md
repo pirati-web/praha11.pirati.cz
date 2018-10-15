@@ -1,11 +1,12 @@
 ---
 uid: 3.duska.martin
 name:     Martin Duška
-fullname: Mgr. Martin Duška
+titles:
+  before: Mgr.
 category:
-  - clenove
   - kandidat-obec
-ordclenove: 2
+  - pms  
+ordpms: 3
 description: politolog
 img: people/martin-duska.jpg
 mail:
