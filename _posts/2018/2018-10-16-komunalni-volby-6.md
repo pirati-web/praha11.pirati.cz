@@ -1,9 +1,9 @@
 ---
-date: 2018-10-12
+date: 2018-10-16
 category: blog
 tags: piráti
 layout: post
-title: Druhé kolo: Vyjednávání týmu Pirátů se zástupci TOP09+STAN
+title: Druhé kolo - Vyjednávání týmu Pirátů se zástupci TOP09+STAN
 image: articles/2018/2018-10-09-komunalni-volby-2.jpg
 ---
 
