@@ -1,7 +1,7 @@
 ---
 uid: 1.jiri.dohnal
 name:     Jiří Dohnal
-fullname: Jiří Dohnal
+
 category:
   - kandidat-obec
   - pms

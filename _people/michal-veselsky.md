@@ -1,7 +1,7 @@
 ---
 uid: 10.michal.veselsky
 name:     Michal Veselský
-fullname: Michal Veselský
+
 category:
   - priznivci
   - kandidat-obec

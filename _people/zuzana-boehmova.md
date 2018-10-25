@@ -1,7 +1,8 @@
 ---
 uid: 8.zuzana.boehmova
 name:     Zuzana Böhmová
-fullname: Mgr. Zuzana Böhmová
+titles:
+  before: Mgr.
 category:
   - priznivci
   - kandidat-obec

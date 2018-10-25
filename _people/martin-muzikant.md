@@ -1,7 +1,9 @@
 ---
 uid: 9.martin.muzikant
 name:     Martin Muzikant
-fullname: Mag. Martin Muzikant, Ph.D.
+titles:
+  before: Mag. 
+  after: Ph.D.
 category:
   - clenove
   - kandidat-obec

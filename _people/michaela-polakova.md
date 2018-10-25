@@ -1,7 +1,8 @@
 ---
 uid: 13.michaela.polakova
 name:     Michaela Poláková
-fullname: Ing. Michaela Poláková
+titles:
+  before: Ing.
 category:
   - priznivci
   - kandidat-obec

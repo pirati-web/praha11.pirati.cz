@@ -1,7 +1,8 @@
 ---
 uid: lada.pexova
 name:     Lada Peksová
-fullname: Mgr. Lada Peksová
+titles:
+  before: Mgr.
 category:
   - priznivci
   - kandidat-obec

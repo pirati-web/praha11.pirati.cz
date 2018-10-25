@@ -1,7 +1,7 @@
 ---
 uid: 7.jan.mejsnar
 name:     Jan Mejsnar
-fullname: Jan Mejsnar
+
 category:
   - clenove
   - kandidat-obec

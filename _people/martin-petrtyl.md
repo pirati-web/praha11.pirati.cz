@@ -1,7 +1,8 @@
 ---
 uid: martin.petrtyl
 name:     Martin Petrtýl
-fullname: Mgr. Martin Petrtýl
+titles:
+  before: Mgr.
 category:
   - priznivci
   - kandidat-obec

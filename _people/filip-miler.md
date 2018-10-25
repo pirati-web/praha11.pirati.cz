@@ -1,7 +1,7 @@
 ---
 uid: 42.filip.miler
 name:     Filip Miler
-fullname: Filip Miler
+
 category:
   - pms
   - kandidat-obec

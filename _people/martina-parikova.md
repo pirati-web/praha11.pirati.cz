@@ -1,7 +1,8 @@
 ---
 uid: martina.parikova
 name:     Martina Paříková
-fullname: Mgr. Martina Paříková
+titles:
+  before: Mgr.
 category:
   - priznivci
   - kandidat-obec

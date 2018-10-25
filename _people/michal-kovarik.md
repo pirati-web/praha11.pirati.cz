@@ -1,7 +1,7 @@
 ---
 uid: 5.michal.kovarik
 name:     Michal Kovařík
-fullname: Michal Kovařík
+
 category:
   - clenove
   - kandidat-obec
