@@ -1,7 +1,6 @@
 ---
 uid: 11.milan.minarik
 name:     Milan Minařík
-fullname: Milan Minařík
 category:
   - clenove
   - kandidat-obec
