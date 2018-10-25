@@ -1,7 +1,8 @@
 ---
 uid: 7.jan.mejsnar
 name:     Jan Mejsnar
-
+titles:
+  before: Mgr. 
 category:
   - clenove
   - kandidat-obec
