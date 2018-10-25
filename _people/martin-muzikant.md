@@ -2,7 +2,7 @@
 uid: 9.martin.muzikant
 name:     Martin Muzikant
 titles:
-  before: Mag. 
+  before: Mgr. 
   after: Ph.D.
 category:
   - clenove
