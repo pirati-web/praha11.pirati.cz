@@ -7,8 +7,6 @@ category:
   - kandidat-obec
 description: učitelka
 img: people/zuzana-boehmova.jpg
-mail:
-  - zuzana.boehm@pirati.cz
 profiles:
   facebook: https://www.facebook.com/zuzana.bohmova
 ---
