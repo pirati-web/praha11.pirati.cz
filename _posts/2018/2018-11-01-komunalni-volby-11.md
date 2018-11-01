@@ -21,7 +21,7 @@ image: articles/2018/2018-11-01-komunalni-volby.jpg
 Česká pirátská strana získala v komunálních volbách 18,55 % a 9 zastupitelských mandátů z celkových 45. Ze sedmi politických stran a hnutí, které budou mít své zástupce v novém zastupitelstvu Městské části Praha 11, se stala druhým nejsilnějším subjektem. 
 Piráti na Praze 11 vyjednávají v souladu s předem schválenou a transparentně zveřejněnou Povolební strategií, která jasně definuje možnosti vzniku a podpory koalice a Rady MČ.
 
-#Výsledky voleb:
+# Výsledky voleb:
 
 - Hnutí pro Prahu 11, 24,74 %, 13 zastupitelů
 - Česká pirátská strana, 18,55 %, 9 zastupitelů
