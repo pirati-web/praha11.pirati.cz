@@ -12,7 +12,7 @@ image: articles/2018/2018-11-01-komunalni-volby.jpg
  
 *Piráti na Praze 11 povedou i nadále jednání s cílem nalezení finálního řešení složení rady městské části tak, abychom zajistili prosazování transparentní politiky, otevřené radnice a dalších důležitých bodů z volebního programu, se kterým jsme kandidovali.*
 
-Při vyjednávání koalice s naší účastí budeme trvat na:
+*Při vyjednávání koalice s naší účastí budeme trvat na:*
 
 - *otevřených výběrových řízení na vedoucí pozice a do představenstev a dozorčích rad firem vlastněných a zřizovaných městkou částí,*
 - *obsazení rady městské části osobami s jasným konceptem v daných gescích, který nebude v rozporu se stabilní a umírněným rozvojem,*
