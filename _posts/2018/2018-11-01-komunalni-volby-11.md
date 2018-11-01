@@ -31,7 +31,7 @@ Piráti na Praze 11 vyjednávají v souladu s předem schválenou a transparentn
 - Jižní Město - náš domov, 6,03 %, 3 zastupitelé
 - Svoboda a přímá demokracie - Tomio Okamura (SPD), 5,05 %, 2 zastupitelé
 
-*Volební účast byla 44,35 %.*
+Volební účast byla 44,35 %.
 
 V Praze dne 1. 11. 2018
 Jiří Dohnal, předseda MS Piráti Praha 11
