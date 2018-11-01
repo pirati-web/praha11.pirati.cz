@@ -44,7 +44,7 @@ Tel. +420 608 770 778
 E-mail: <jiri.dohnal@pirati.cz>
 
 
-Přílohy: 
+# Přílohy: 
 
 - [Povolební strategie Pirátů na Praze 11](/komunalni-volby-2018/povolebni-strategie)
 - [Tisková zpráva - Word](/assets/doc/TZ_Piráti_Praha_11_181101.docx)
