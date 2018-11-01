@@ -6,7 +6,7 @@ layout: post
 title: Tisková zpráva - Prohlášení Pirátů Praha 11 k povolebnímu vyjednávání koalice na Jižním Městě ze dne 1.11.2018
 image: articles/2018/2018-11-01-komunalni-volby.jpg
 ---
-**Piráti na Praze 11 vyjednávají v souladu s předem schválenou a transparentně zveřejněnou povolební strategií, která jasně definuje možnosti vzniku a podpory koalice a rady městské části. Piráti prosazují variantu silné a efektivní koalice, která bude řešením povolební situace na Jižním Městě pro volební období 2018 až 2022.**
+**Piráti na Praze 11 vyjednávají v souladu s předem schválenou a transparentně zveřejněnou [povolební strategií](/komunalni-volby-2018/povolebni-strategie), která jasně definuje možnosti vzniku a podpory koalice a rady městské části. Piráti prosazují variantu silné a efektivní koalice, která bude řešením povolební situace na Jižním Městě pro volební období 2018 až 2022.**
 
 *Po více než třech týdnech po komunálních volbách a mnoha vzájemných setkáních s politickými subjekty, se kterými je možné v rámci naší povolební strategie jednat, konstatujeme, že v současné době nejsou politické strany a hnutí zastoupená v zastupitelstvu městské části připravena na variantu koalice, která by splňovala naše předpoklady a požadavky účasti v radě MČ Praha 11.*
  
@@ -38,6 +38,4 @@ Jiří Dohnal, předseda MS Piráti Praha 11
 Tel. +420 608 770 778
 E-mail: jiri.dohnal@pirati.cz
 
-
-Příloha: [Povolební strategie Pirátů na Praze 11]:https://praha11.pirati.cz/komunalni-volby-2018/
-povolebni-strategie
+Příloha: [Povolební strategie Pirátů na Praze 11](/komunalni-volby-2018/povolebni-strategie)
