@@ -14,7 +14,7 @@ image: articles/2018/2018-11-01-komunalni-volby.jpg
 
 *Při vyjednávání koalice s naší účastí budeme trvat na:*
 
-- *otevřených výběrových řízení na vedoucí pozice a do představenstev a dozorčích rad firem vlastněných a zřizovaných městkou částí,*
+- *otevřených výběrových řízení na vedoucí pozice a do představenstev a dozorčích rad firem vlastněných a zřizovaných městskou částí,*
 - *obsazení rady městské části osobami s jasným konceptem v daných gescích, který nebude v rozporu se stabilní a umírněným rozvojem,*
 - *podmínce, aby součástí rady nebyli lidé, kteří mají problematickou minulost v návaznosti na korupční chování spojené s minulým řízením radnice před rokem 2014.*
 
