@@ -34,8 +34,11 @@ Piráti na Praze 11 vyjednávají v souladu s předem schválenou a transparentn
 Volební účast byla 44,35 %.
 
 V Praze dne 1. 11. 2018
+
 Jiří Dohnal, předseda MS Piráti Praha 11
+
 Tel. +420 608 770 778
-E-mail: jiri.dohnal@pirati.cz
+
+E-mail: <jiri.dohnal@pirati.cz>
 
 Příloha: [Povolební strategie Pirátů na Praze 11](/komunalni-volby-2018/povolebni-strategie)
