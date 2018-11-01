@@ -31,6 +31,8 @@ Piráti na Praze 11 vyjednávají v souladu s předem schválenou a transparentn
 - Jižní Město - náš domov, 6,03 %, 3 zastupitelé
 - Svoboda a přímá demokracie - Tomio Okamura (SPD), 5,05 %, 2 zastupitelé
 
+
+
 Volební účast byla 44,35 %.
 
 V Praze dne 1. 11. 2018
@@ -41,4 +43,9 @@ Tel. +420 608 770 778
 
 E-mail: <jiri.dohnal@pirati.cz>
 
-Příloha: [Povolební strategie Pirátů na Praze 11](/komunalni-volby-2018/povolebni-strategie)
+
+Přílohy: 
+
+- [Povolební strategie Pirátů na Praze 11](/komunalni-volby-2018/povolebni-strategie)
+- [Tisková zpráva - Word](/assets/doc/TZ_Piráti_Praha_11_181101.docx)
+- [Tisková zpráva - PDF](/assets/pdf/TZ_Piráti_Praha_11_181101.pdf)
