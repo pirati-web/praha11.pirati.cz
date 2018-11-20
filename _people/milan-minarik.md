@@ -2,7 +2,7 @@
 uid: 11.milan.minarik
 name:     Milan Minařík
 category:
-  - clenove
+  - pms
   - kandidat-obec
 description: manažer
 img: people/milan-minarik.jpg

@@ -5,7 +5,7 @@ titles:
   before: Ing.
 category:
   - kandidat-obec
-  - pms  
+  - clenove
 ordpms: 4
 description: konzultant online marketingu
 img: people/ladislav-kos.jpg

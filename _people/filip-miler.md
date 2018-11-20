@@ -3,7 +3,7 @@ uid: 42.filip.miler
 name:     Filip Miler
 
 category:
-  - pms
+  - clenove
   - kandidat-obec
 ordpms: 2  
 description: vývojář informačních systémů, hudebník
