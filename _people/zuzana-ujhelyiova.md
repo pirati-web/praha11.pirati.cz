@@ -6,7 +6,7 @@ titles:
 category:
   - kandidat-obec
   - pms  
-ordpms: 2
+ordpms: 3
 description: teoložka
 img: people/zuzana-ujhelyiova.jpg
 mail:

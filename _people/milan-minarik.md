@@ -4,6 +4,7 @@ name:     Milan Minařík
 category:
   - pms
   - kandidat-obec
+ordpms: 2  
 description: manažer
 img: people/milan-minarik.jpg
 mail:

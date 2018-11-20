@@ -6,7 +6,7 @@ titles:
 category:
   - kandidat-obec
   - pms  
-ordpms: 3
+ordpms: 4
 description: politolog
 img: people/martin-duska.jpg
 mail:
