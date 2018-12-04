@@ -9,7 +9,7 @@ title: Vítězný návrh nových zastávek MHD
 image: articles/2018/2018-12-04-navrh-novych-zastavek-mhd-1.jpg
 ---
 
-Náš kandidát na radního pro životní prostředí, veřejný prostor a městský mobiliář, Martin Duška se  zúčastnil slavnostního vyhlášení  výběrového řízení, které pořádá IPR  na nové pražské zastávky. Praha se po letech nekoordinovaných nákupů snaží sjednotit městský mobiliář, jako jsou odpadkové koše, zábradlí, nebo zmíněné zastávky MHD.
+Náš kandidát na radního pro životní prostředí, veřejný prostor a městský mobiliář Martin Duška se  zúčastnil slavnostního vyhlášení  výběrového řízení, které pořádá IPR  na nové pražské zastávky. Praha se po letech nekoordinovaných nákupů snaží sjednotit městský mobiliář, jako jsou odpadkové koše, zábradlí, nebo zmíněné zastávky MHD.
 
 ![Návrh nových zastávek MHD](/assets/img/articles/2018/2018-12-04-navrh-novych-zastavek-mhd-2.jpg)
  
