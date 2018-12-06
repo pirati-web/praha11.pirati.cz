@@ -7,7 +7,7 @@ title: 2. Zasedání Zastupitelstva městské části Praha 11
 image: articles/2018/2018-11-13-zmc.jpg
 ---
 
-Zítra, tedy 6.12.2018 se od 13:00 hodin v zasedacím sále KC Zahrada koná 2. zasedání členů Zastupitelstva MČ Prahy 11. Novou koalici se v naší městské části dle informací, kterými disponujeme, stále nepodařilo dojednat.
+Dnes, tedy 6.12.2018 se od 13:00 hodin v zasedacím sále KC Zahrada koná 2. zasedání členů Zastupitelstva MČ Prahy 11. Novou koalici se v naší městské části dle informací, kterými disponujeme, stále nepodařilo dojednat.
 
 Z toho důvodu navrhneme vyřazení z jednání bodů 4 - 11, tedy bodů týkajících se ustavení nové Rady. Piráti dál vyjednávají silnou a stabilní koalici, nicméně musíme připustit, že v návaznosti na výsledek voleb jsou jednání složitá.
 
