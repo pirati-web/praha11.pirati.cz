@@ -13,4 +13,5 @@ Z toho důvodu navrhneme vyřazení z jednání bodů 4 - 11, tedy bodů týkaj�
 
 Kromě prvních tří, spíše organizačních bodů jednání zítřejšího zastupitelstva, budeme hlasovat také pro schválení bodů 12 (Jednorázové odměny členům komisí RMČ z řad občanů za práci ve prospěch MČ Praha 11 za rok 2018), 13 (Jednorázové odměny členům výborů ZMČ z řad občanů za práci ve prospěch MČ Praha 11 za rok 2018), 14 (Rozpočtové opatření č. 128/18 - převod nedočerpaných prostředků roku 2018 do fondu rezerv a rozvoje MČ), 15 (Změna usnesení ZMČ č. 0003/35/Z/2018 ze dne 18.01.2018 a č. 0003/38/Z/2018 ze dne 17.05.2018 - navýšení limitu v kompetenci RMČ) a 16 (Stanovení výše odměn poskytovaných neuvolněným členům Zastupitelstva MČ Praha 11 za měsíc). V případě bodu číslo 17 jsme se v rámci našeho zastupitelského klubu dohodli na volném hlasování.
 
-Navrhovaný program jednání zastupitelstva najdete na stránkách MČ Praha 11 zde: https://bit.ly/2QgRfEQ
+Navrhovaný program jednání zastupitelstva najdete na stránkách MČ Praha 11 zde: 
+[https://bit.ly/2QgRfEQ](https://bit.ly/2QgRfEQ)
