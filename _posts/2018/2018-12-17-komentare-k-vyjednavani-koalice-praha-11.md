@@ -18,6 +18,6 @@ Piráti také navrhovali možnost koalice s HPP11 a třetím subjektem, ve kter�
 Ve chvíli, kdy jsme veřejně informovali o ukončení vyjednávání koalice s HPP11, někteří představitelé Hnutí spustili osobní útoky na Piráty se snahou nás osočovat podsouváním nepravd a spekulací veřejnosti (např. že jsme s nimi od samého počátku koalici vyjednat nechtěli apod.). Zároveň osočovali i osobními útoky ostatní představitele politických stran v naší městské části. Tímto způsobem se třetí partner opravdu najít nedá. 
 
 Během celých dvou měsíců vyjednávání koalice s HPP11 jsme nepředpokládali, že výsledkem bude současná povolební situace. S lítostí však musíme konstatovat, že výsledkem dlouhého a složitého vyjednávání je rétorika “všichni proti všem”. Abychom učinili přítrž ničím nepodloženým spekulacím, zveřejňujeme naše vnitřní zápisy ze všech povolebních jednání o koalici, která proběhla až 30.11.2018. Najdete je zde: 
-[https://evidence.pirati.cz/author/229/](https://evidence.pirati.cz/author/229/
+[https://evidence.pirati.cz/author/229/](https://evidence.pirati.cz/author/229/)
 
 Piráti jsou politickým subjektem, který postupuje transparentně, plní obsah povolební strategie a chce plnit obsah svého volebního programu.
