@@ -5,7 +5,7 @@ tags: piráti
 layout: post
 author: Jiří Dohnal
 authorId: jiri.dohnal
-title: Tisková zpráva Pirátů Praha 11 k dosavadnímu vývoji vyjednávání koalice na Praze 11 ze dne 8. 1. 2019
+title: TZ
 image: articles/2018/2018-11-01-komunalni-volby.jpg
 ---
 
