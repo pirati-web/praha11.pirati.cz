@@ -22,7 +22,7 @@ Dalším našim požadavkům jsme na žádost stran "Memoranda" přiřadili nás
 2. Čtyři radní pro Piráty
 3. Nepřítomnost Ing. Petra Jiravy (ANO) v RMČ
 
-*Na základě našeho návrhu koalice pro Prahu 11, kde uvádíme formát rady - čtyři radní a post starosty pro Piráty a pět radních pro strany "Memoranda", jsme dnes požádali ANO, TOP09 & STAN a ODS, aby nám předložily své nominanty pěti potencionálních radních včetně jejich gescí a to do termínu 14. 1. 2019 12:00 hodin.*
+*Na základě našeho návrhu koalice pro Prahu 11, kde uvádíme formát rady - čtyři radní a post starosty pro Piráty a pět radních pro strany "Memoranda", jsme dnes požádali ANO, TOP09 & STAN a ODS, aby nám předložili své nominanty pěti potencionálních radních včetně jejich gescí a to do termínu 14. 1. 2019 12:00 hodin.*
 
 Česká pirátská strana získala v komunálních volbách 18,55 % a 9 zastupitelských mandátů z celkových 45. Ze sedmi politických stran a hnutí, které mají své zástupce v novém zastupitelstvu Městské části Praha 11, se stala druhým nejsilnějším subjektem. 
 
