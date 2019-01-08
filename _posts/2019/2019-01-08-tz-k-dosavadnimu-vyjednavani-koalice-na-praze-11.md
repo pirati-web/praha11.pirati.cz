@@ -11,9 +11,9 @@ image: articles/2018/2018-11-01-komunalni-volby.jpg
 
 *Piráti byli dne 20. 12. 2018 vyzváni stranami takzvaného "Memoranda", tedy ANO, TOP09 & STAN a ODS, abychom prioritizovali své požadavky, které jsme předložili v rámci povolebního vyjednávání s těmito stranami. Piráti podmínili další vyjednávání o koalici splněním 4 požadavků (pozice starosty, čtyři místa v radě a gesce školství pro Piráty a to, že dosavadní starosta MČ Praha 11 Ing. Petr Jirava (ANO) nebude členem nově zvolené rady).*
 
-*V uplynulých týdnech proběhlo několik jednání pracovní skupiny pro oblast školství, kde jsme představili naše názory na další vývoj školství na Jižním Městě. Zúčastnily se všechny zainteresované strany.
+*V uplynulých týdnech proběhlo několik jednání pracovní skupiny pro oblast školství, kde jsme představili naše názory na další vývoj školství na Jižním Městě. Zúčastnily se všechny zainteresované strany.*
 
-Ve výsledku těchto jednání byly podle našeho názoru překonány veškeré nejasnosti v rámci
+*Ve výsledku těchto jednání byly podle našeho názoru překonány veškeré nejasnosti v rámci
 rozvoje školství na Praze 11 a tudíž považujeme tuto prioritu z našeho pohledu za vyřešenou.*
 
 Dalším našim požadavkům jsme na žádost stran "Memoranda" přiřadili následující pořadí:
