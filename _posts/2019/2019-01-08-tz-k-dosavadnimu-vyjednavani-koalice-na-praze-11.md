@@ -43,9 +43,8 @@ E-mail: jiri.dohnal@pirati.cz
 
 # Příloha:
 
-- Tisková zpráva ze dne 1.11.2018 - Prohlášení Pirátů Praha 11 k povolebnímu vyjednávání koalice na Jižním Městě https://praha11.pirati.cz/tiskove-zpravy/komunalni-volby-11/
-- Tisková zpráva ze dne 13.11.2018 - Setkání s Hnutím pro Prahu 11 https://praha11.pirati.cz/tis- kove-zpravy/komunalni-volby-12/
-- Tisková zpráva ze dne 6.12.2018 - Piráti na Praze 11 ukončili vyjednávání o koalici s Hnutím pro Prahu 11 https://praha11.pirati.cz/tiskove-zpravy/ukonceno-vyjednavani/
-- Komentář Pirátů Praha 11 k vývoji vyjednávání koalice na Jižním Městě ze dne 17.12.2018
-https://praha11.pirati.cz/tiskove-zpravy/komentare-k-vyjednavani-koalice-praha-11/
-- Naše Povolební strategie: https://praha11.pirati.cz/komunalni-volby-2018/povolebni-strategie/
+- [Tisková zpráva ze dne 1.11.2018 - Prohlášení Pirátů Praha 11 k povolebnímu vyjednávání koalice na Jižním Městě](https://praha11.pirati.cz/tiskove-zpravy/komunalni-volby-11/)
+- [Tisková zpráva ze dne 13.11.2018 - Setkání s Hnutím pro Prahu 11](https://praha11.pirati.cz/tis- kove-zpravy/komunalni-volby-12/)
+- [Tisková zpráva ze dne 6.12.2018 - Piráti na Praze 11 ukončili vyjednávání o koalici s Hnutím pro Prahu 11](https://praha11.pirati.cz/tiskove-zpravy/ukonceno-vyjednavani/)
+- [Komentář Pirátů Praha 11 k vývoji vyjednávání koalice na Jižním Městě ze dne 17.12.2018](https://praha11.pirati.cz/tiskove-zpravy/komentare-k-vyjednavani-koalice-praha-11/)
+- [Naše Povolební strategie](https://praha11.pirati.cz/komunalni-volby-2018/povolebni-strategie/)
