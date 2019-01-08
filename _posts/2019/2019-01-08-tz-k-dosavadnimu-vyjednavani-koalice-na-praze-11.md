@@ -42,8 +42,11 @@ Volební účast byla 44,35 %.
 
 
 V Praze dne 8. 1. 2019
+
 Jiří Dohnal, předseda MS Piráti Praha 11
+
 Tel. +420 608 770 778
+
 E-mail: jiri.dohnal@pirati.cz
 
 # Příloha:
