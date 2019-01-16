@@ -5,7 +5,7 @@ tags: piráti
 layout: post
 author: Piráti Praha 11
 title: 3. Zastupitelstvo
-image: articles/2018/2018-11-01-komunalni-volby.jpg
+image: articles/2018/2018-11-13-zmc.jpg
 ---
  
 Piráti se rozhodli podpořit rozpočet předložený současnou Radou MČ. Napříč politickým spektrem se podařilo vyjednat posílení peněz do školství. To je hlavní argument, který získal naši podporu.
