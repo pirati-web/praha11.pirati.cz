@@ -1,7 +1,7 @@
 ---
 date: 2019-01-21
 category: blog
-tags: piráti
+tags: praha 11, piráti
 layout: post
 author: Piráti Praha 11
 title: Výsledky koaličních jednání
