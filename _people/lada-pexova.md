@@ -4,7 +4,7 @@ name:     Lada Peksová
 titles:
   before: Mgr.
 category:
-  - členové
+  - clenove
   - kandidat-obec
 ordclenove: 16
 description: doktorand na MFF UK
