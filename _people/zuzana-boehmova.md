@@ -4,7 +4,7 @@ name:     Zuzana Böhmová
 titles:
   before: Mgr.
 category:
-  - členové
+  - clenove
   - kandidat-obec
 description: učitelka
 img: people/zuzana-boehmova.jpg
