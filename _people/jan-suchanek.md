@@ -3,7 +3,7 @@ uid: 12.jan.suchanek
 name:     Jan Suchánek
 
 category:
-  - priznivci
+  - clenove
   - kandidat-obec
 description: webmaster
 img: people/jan-suchanek.jpg
