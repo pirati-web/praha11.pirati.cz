@@ -39,6 +39,6 @@ Jiří Dohnal, předseda MS Piráti Praha 11
 Tel. +420 608 770 778
 E-mail: jiri.dohnal@pirati.cz
 
-Příloha: 
-Průběžné výsledky koaličního vyjednávání jsme shrnuli zde: https://praha11.pirati.cz/tiskove-zpravy/tz-vysledky-vyjednavani-leden/
-Naše Povolební strategie: https://praha11.pirati.cz/komunalni-volby-2018/povolebni-strategie/
+# Příloha: 
+- Průběžné výsledky koaličního vyjednávání jsme shrnuli zde: [https://praha11.pirati.cz/tiskove-zpravy/tz-vysledky-vyjednavani-leden/](https://praha11.pirati.cz/tiskove-zpravy/tz-vysledky-vyjednavani-leden/)
+- Naše Povolební strategie: [https://praha11.pirati.cz/komunalni-volby-2018/povolebni-strategie/](https://praha11.pirati.cz/komunalni-volby-2018/povolebni-strategie/)
