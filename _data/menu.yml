@@ -23,7 +23,7 @@ main:
     name: Lidé
     match: lide
   - link: /komunalni-volby-2018/
-    name: Volby
+    name: Kandidátka
     match: komunalni-volby-2018
     submenu:
       - link: /komunalni-volby-2018/
