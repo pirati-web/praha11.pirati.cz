@@ -13,14 +13,17 @@ main:
   - link: /
     name: Úvod
     class: hide-for-medium
+  - link: /aktuality/
+    name: Aktuality
+    match: aktuality    
   - link: /piratske-listy/
     name: Pirátské listy
     match: piratske-listy
   - link: /lide/
-    name: Naši lidé
+    name: Lidé
     match: lide
   - link: /komunalni-volby-2018/
-    name: Volby 2018
+    name: Volby
     match: komunalni-volby-2018
     submenu:
       - link: /komunalni-volby-2018/
