@@ -25,6 +25,7 @@ Co mohou Piráti nabídnout Jižnímu Městu pro volební období 2018 až 2022?
  
 V letošních komunálních volbách Vám přeji šťastnou ruku ve prospěch našeho Jižního Města.
 
+---
 
 {% capture tags %}
 	{% for tag in site.tags %}
@@ -43,4 +44,3 @@ V letošních komunálních volbách Vám přeji šťastnou ruku ve prospěch na
 		<li><a href="{{ post.url }}">{{ post.title }}</a></li>{% endfor %}
 	</ul>
 {% endfor %}
----
