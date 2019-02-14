@@ -16,15 +16,3 @@ groups:
   - name: Aktivní příznivci a příznivkyně
     category: priznivci
 ---
-
-<div class="row">
-  <div class="columns">
-    <div class="o-section">
-      <div class="o-section-inner">
-          {% assign posts = paginator.posts %}
-          {% include articles/list-responsive.html posts=posts %}
-          {% include articles/pagination.html paginator=paginator %}
-      </div>
-    </div>
-  </div>
-</div>
