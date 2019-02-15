@@ -1,5 +1,5 @@
 ---
-uid: 42.filip.miler
+uid: filip.miler
 name:     Filip Miler
 
 category:

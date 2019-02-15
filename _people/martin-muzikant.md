@@ -1,5 +1,5 @@
 ---
-uid: 9.martin.muzikant
+uid: martin.muzikant
 name:     Martin Muzikant
 titles:
   before: Mag. 

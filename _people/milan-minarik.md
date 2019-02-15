@@ -1,5 +1,5 @@
 ---
-uid: 11.milan.minarik
+uid: milan.minarik
 name:     Milan Minařík
 category:
   - pms

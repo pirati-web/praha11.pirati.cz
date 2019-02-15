@@ -1,5 +1,5 @@
 ---
-uid: 13.michaela.polakova
+uid: michaela.polakova
 name:     Michaela Poláková
 titles:
   before: Ing.

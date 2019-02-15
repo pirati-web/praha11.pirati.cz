@@ -1,5 +1,5 @@
 ---
-uid: 12.jan.suchanek
+uid: jan.suchanek
 name:     Jan Suchánek
 
 category:

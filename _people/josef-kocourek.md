@@ -1,5 +1,5 @@
 ---
-uid: 6.josef.kocourek
+uid: josef.kocourek
 name:     Josef Kocourek
 
 category:

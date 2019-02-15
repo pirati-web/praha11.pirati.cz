@@ -1,5 +1,5 @@
 ---
-uid: 1.jiri.dohnal
+uid: jiri.dohnal
 name:     Jiří Dohnal
 
 category:

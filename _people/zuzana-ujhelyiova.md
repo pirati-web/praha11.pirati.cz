@@ -1,5 +1,5 @@
 ---
-uid: 2.zuzana.ujhelyiova
+uid: zuzana.ujhelyiova
 name:     Zuzana Ujhelyiová
 titles:
   before: Mgr. 

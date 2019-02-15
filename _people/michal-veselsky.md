@@ -1,5 +1,5 @@
 ---
-uid: 10.michal.veselsky
+uid: michal.veselsky
 name:     Michal Veselský
 
 category:

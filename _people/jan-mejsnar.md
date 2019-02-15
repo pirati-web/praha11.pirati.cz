@@ -1,5 +1,5 @@
 ---
-uid: 7.jan.mejsnar
+uid: jan.mejsnar
 name:     Jan Mejsnar
 titles:
   before: Mgr.
