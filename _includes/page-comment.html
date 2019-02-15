@@ -1,7 +1,17 @@
 <div class="row o-section">
-  Komentáře:
+  
+  <div class="columns large-12">
+    <header class="c-page-header">
+      <h2 itemprop="headline" class="c-page-title">Články</h2>
+    </header>
+  </div>  
   {% if include.authorId %}
-  ..
-      {{ include.authorId }}
+    <div class="columns large-12">
+      <div class="{% if include.contentClass %}{{ include.contentClass }}{% endif %}">
+        <div itemprop="description" class="c-content-block c-emphasized-text">
+          {{ include.authorId }}
+        </div>
+      </div>
+    </div>
   {% endif %}
 </div>
