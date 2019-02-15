@@ -1,11 +1,11 @@
-<div class="row o-section">
-  
-  <div class="columns large-12">
-    <header class="c-page-header">
-      <h2 itemprop="headline" class="c-page-title">Články</h2>
-    </header>
-  </div>  
+<div class="row o-section">  
   {% if include.authorId %}
+    <div class="columns large-12">
+      <header class="c-page-header">
+        <h3 itemprop="headline" class="c-page-title">Moje články</h3>
+      </header>
+    </div>
+
     <div class="columns large-12">
       <div class="{% if include.contentClass %}{{ include.contentClass }}{% endif %}">
         <div itemprop="description" class="c-content-block c-emphasized-text">
