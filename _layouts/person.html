@@ -2,7 +2,10 @@
 layout: blank-article
 ---
 
-<div class="c-emphasized-text c-person">BBBB
+<div class="c-emphasized-text c-person">
   {% capture headline %}{% include people/fullname.html person=page %}{% endcapture %}
+
+  BBBB
+  
   {% include page-header.html headline=headline content=content contentClass='c-person__content' %}
 </div>
