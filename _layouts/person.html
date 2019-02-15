@@ -1,0 +1,8 @@
+---
+layout: blank-article
+---
+
+<div class="c-emphasized-text c-person">BBBB
+  {% capture headline %}{% include people/fullname.html person=page %}{% endcapture %}
+  {% include page-header.html headline=headline content=content contentClass='c-person__content' %}
+</div>
