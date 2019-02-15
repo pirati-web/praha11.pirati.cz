@@ -1,5 +1,5 @@
 <div class="row o-section">  
-  {% if include.authorId %}
+  {% if include.uid %}
     <div class="columns large-12">
       <header class="c-page-header">
         <h3 itemprop="headline" class="c-page-title">Moje články</h3>
@@ -9,7 +9,7 @@
     <div class="columns large-12">
       <div class="{% if include.contentClass %}{{ include.contentClass }}{% endif %}">
         <div itemprop="description" class="c-content-block c-emphasized-text">
-          {{ include.authorId }}
+          {{ include.uid }}
         </div>
       </div>
     </div>

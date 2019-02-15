@@ -5,5 +5,5 @@ layout: blank-article
 <div class="c-emphasized-text c-person">
   {% capture headline %}{% include people/fullname.html person=page %}{% endcapture %}
   {% include page-header.html headline=headline content=content contentClass='c-person__content' %}
-  . {% include page-comment.html authorId=authorId %} .
+  . {% include page-comment.html uid=uid %} .
 </div>
