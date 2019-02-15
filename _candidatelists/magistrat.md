@@ -3,57 +3,57 @@ title: Kandidátka
 uid: magistrat
 number: 4
 leader:
-  uid: 1.jiri.dohnal
+  uid: jiri.dohnal
   age: 40
   profession: Projektový manažer
   party: Piráti
   description: Zastupitel MČ Praha 11, člen Koalice Trojmezí
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
-  - uid: 2.zuzana.ujhelyiova
+  - uid: zuzana.ujhelyiova
     profession: Teoložka
     age: 35
     party: Piráti
-  - uid: 3.duska.martin
+  - uid: duska.martin
     age: 26
     profession: Politolog
     party: Piráti  
-  - uid: 4.ladislav.kos
+  - uid: ladislav.kos
     age: 32
     profession: Konzultatnt online marketingu
     party: Piráti
-  - uid: 5.michal.kovarik
+  - uid: michal.kovarik
     age: 30
     profession: Nakladatelský pracovník, publicista
     party: Piráti  
-  - uid: 6.josef.kocourek
+  - uid: josef.kocourek
     age: 54
     profession: Provozní dispečer
     party: Piráti
-  - uid: 7.jan.mejsnar
+  - uid: jan.mejsnar
     age: 33
     profession: Meteorolog, vědecký pracovník
     party: Piráti
-  - uid: 8.zuzana.boehmova
+  - uid: zuzana.boehmova
     age: 28
     profession: Učitelka
     party: BEZ PP    
-  - uid: 9.martin.muzikant
+  - uid: martin.muzikant
     age: 47 
     profession: Manažer kvality
     party: Piráti 
-  - uid: 10.michal.veselsky
+  - uid: michal.veselsky
     profession: Výzkumný pracovník, šachista a koloběžkář
     party: Zelení
     age: 38
-  - uid: 11.milan.minarik
+  - uid: milan.minarik
     age: 34
     profession: Manažer
     party: Piráti 
-  - uid: 12.jan.suchanek
+  - uid: jan.suchanek
     age: 42
     profession: Webmaster
     party: BEZ PP
-  - uid: 13.michaela.polakova
+  - uid: michaela.polakova
     age: 44
     profession: Stavební inženýrka
     party: BEZ PP
