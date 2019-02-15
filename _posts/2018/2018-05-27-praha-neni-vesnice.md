@@ -5,7 +5,7 @@ tags: územní rozvoj, praha 11, bydlení, Sandra Opatov
 layout: post
 title: Praha není vesnice, bohužel nebo bohudík?
 author: Mgr. Jan Mejsnar
-authorId: 7.jan.mejsnar    # uid nekoho z _people (nepoviné)
+authorId: jan.mejsnar    # uid nekoho z _people (nepoviné)
 image: articles/2018/2018-05-27-praha-neni-vesnice.jpg
 ---
 

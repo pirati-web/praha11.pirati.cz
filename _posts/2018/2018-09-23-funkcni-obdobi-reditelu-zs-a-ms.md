@@ -5,7 +5,7 @@ tags: územní rozvoj, praha 11, bydlení, Sandra Opatov
 layout: post
 title: Funkční období ředitelů základních a mateřských škol
 author: Mgr. Zuzana Ujhelyiová 
-authorId: 2.zuzana.ujhelyiova
+authorId: zuzana.ujhelyiova
 image: articles/2018/2018-09-23-funkcni-obdobi-reditelu-zs-a-ms.jpg
 ---
 

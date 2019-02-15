@@ -5,7 +5,7 @@ tags: Piráti, místní organizace, Jižní Město, Praha 11
 layout: post
 title: Piráti jsou na Praze 11 doma!
 author: Jiří Dohnal
-authorId: 1.jiri.dohnal    # uid nekoho z _people (nepoviné)
+authorId: jiri.dohnal
 image: articles/2018/2018-06-24-pirati-jsou-na-praze-11-doma.jpg
 ---
 

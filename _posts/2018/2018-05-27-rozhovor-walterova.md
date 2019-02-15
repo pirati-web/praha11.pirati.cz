@@ -5,7 +5,7 @@ tags: úklid, rozhovor, Jižní Město, Praha 11
 layout: post
 title: Výtvarnice Martina Walterová Ráda dávám věci do nezvyklých souvislostí
 author: Michal Kovařík
-authorId: 5.michal.kovarik
+authorId: michal.kovarik
 image: articles/2018/2018-05-27-rozhovor-walterova.jpg
 ---
 

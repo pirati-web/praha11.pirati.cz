@@ -5,7 +5,7 @@ tags: sociálno, bydlení, Sandra Opatov
 layout: post
 title: Minulost a budoucnost polyfunkční budovy Sandra
 author: Jiří Dohnal
-authorId: 1.jiri.dohnal    # uid nekoho z _people (nepoviné)
+authorId: jiri.dohnal    # uid nekoho z _people (nepoviné)
 image: articles/2018/2018-06-04-minulost-a-budoucnost-polyfunkcni-budovy-sandra.jpg
 ---
 

@@ -5,7 +5,7 @@ tags: praha 11, jižní město, piráti
 layout: post
 title: Tajná revitalizace Centrálního parku Jižní Město
 author: Milan Minařík
-authorId: 11.milan.minarik
+authorId: milan.minarik
 image: articles/2018/2018-09-23-tajna-revitalizace-centralniho-parku.jpg
 ---
 

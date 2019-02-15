@@ -5,7 +5,7 @@ tags: praha 11, jižní město, piráti
 layout: post
 title: Architektura není předmětem jednoho volebního období, říká architekt David Vávra
 author: Michal Kovařik
-authorId: 5.michal.kovarik
+authorId: michal.kovarik
 image: articles/2018/2018-09-23-rozhovor-david-vavra.jpg
 ---
 

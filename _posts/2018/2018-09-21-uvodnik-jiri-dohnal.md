@@ -5,7 +5,7 @@ tags: piráti, listy, praha 11
 layout: post
 title: Úvodník kandidáta na starostu Prahy 11 Jiřího Dohnala
 author: Jiří Dohnal
-authorId: 1.jiri.dohnal
+authorId: jiri.dohnal
 image: articles/2018/2018-09-21-uvodnik-kandidata.jpg
 ---
 

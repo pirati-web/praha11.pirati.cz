@@ -5,7 +5,7 @@ tags: praha 11, volby
 layout: post
 title: Co Piráti dokázali?
 author: Martin Duška
-authorId: 3.duska.martin
+authorId: duska.martin
 image: articles/2018/2018-09-17-co-pirati-dokazali.jpg
 ---
 

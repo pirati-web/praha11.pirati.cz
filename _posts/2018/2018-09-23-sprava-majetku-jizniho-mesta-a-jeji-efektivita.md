@@ -5,7 +5,7 @@ tags: praha 11, jižní město, piráti
 layout: post
 title: Správa majetku a nemovitostí Městské části Praha 11 a její efektivita
 author: Jiří Dohnal
-authorId: 1.jiri.dohnal
+authorId: jiri.dohnal
 image: articles/2018/2018-09-23-sprava-majetku-jizniho-mesta-a-jeji-efektivita.jpg
 ---
 

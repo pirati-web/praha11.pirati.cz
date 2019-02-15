@@ -5,7 +5,7 @@ tags: pirátské listy, praha 11, piráti
 layout: post
 title: Jižní město není noclehárna
 author: Ing. Ladislav Kos ml.
-authorId: 4.ladislav.kos
+authorId: ladislav.kos
 image: articles/2018/2018-09-21-jizni-mesto-neni-nocleharna.jpg
 ---
 

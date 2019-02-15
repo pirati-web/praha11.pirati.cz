@@ -5,7 +5,7 @@ tags: místní organizace, Piráti, Praha 11, Jižní Město
 layout: post
 title: Proč potřebuje Jižní Město Piráty?
 author: Bc. Martin Duška
-authorId: 3.duska.martin    # uid nekoho z _people (nepoviné)
+authorId: duska.martin
 image: articles/2018/2018-07-03-proc-potrebuje-jm-piraty.jpg
 ---
 

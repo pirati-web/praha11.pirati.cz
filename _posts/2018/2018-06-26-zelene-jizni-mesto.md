@@ -5,7 +5,7 @@ tags: ekologie, veřejný prostor, Jižní Město, Praha 11
 layout: post
 title: Zelené Jižní Město?
 author: Milan Minařík
-authorId: 5.milan.minarik    # uid nekoho z _people (nepoviné)
+authorId: milan.minarik
 image: articles/2018/2018-06-26-zelene-jizni-mesto.jpg
 ---
 

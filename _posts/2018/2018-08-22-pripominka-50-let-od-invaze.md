@@ -5,7 +5,7 @@ tags: rok 1968, akce, společnost, místní organizace, Jižní Město, Praha 11
 layout: post
 title: Piráti z Prahy 11 si připomněli 50 let od invaze vojsk Varšavské smlouvy
 author: Milan Minařík
-authorId: 11.milan.minarik
+authorId: milan.minarik
 image: articles/2018/2018-08-22-pripominka-50-let-od-invaze-01.jpg
 ---
 

@@ -5,7 +5,7 @@ tags: územní rozvoj, doprava, Praha 11, Jižní Město
 layout: post
 title: Jižní Město - přeplněný přístav
 author: Ing. Ladislav Kos ml.
-authorId: 4.ladislav.kos    # uid nekoho z _people (nepoviné)
+authorId: ladislav.kos    # uid nekoho z _people (nepoviné)
 image: articles/2018/2018-06-07-jm-preplneny-pristav.jpg
 ---
 
