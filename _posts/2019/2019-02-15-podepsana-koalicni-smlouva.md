@@ -24,7 +24,7 @@ Rozložení Rady dle koaliční smlouvy je 3 radní včetně starosty pro Pirát
  
 Piráti od začátku vyjednávali koalici [podle předem schválené Povolební strategie](/komunalni-volby-2018/povolebni-strategie/). Shodně s tímto dokumentem jsme ihned po volbách oslovili všechny strany kromě SPD, jako subjektu ohrožující základy liberální demokracie a JM-ND. Od začátku koaličního vyjednávání je naším cílem vytvořit stabilní a efektivní koalici. Naše první povolební setkání proběhlo s Hnutím pro Prahu 11, se kterým jsme se pokoušeli koalici vyjednávat dva měsíce. Nicméně společně s HPP11 nemáme dostatečný počet zastupitelů pro vytvoření dvoučlenné stabilní koalice. A po dobu celých dvou měsíců se nenašel jiný politický subjekt, který by byl ochotný jít do Rady s HPP11.
 
-![Podepsána koaliční smlouva](/assets/img/articles/2019/2019-02-15-podepsana-koalicni-smlouva-03.jpg)
+![Podepsána koaliční smlouva](/assets/img/articles/2019/2019-02-15-podepsana-koalicni-smlouva-04.jpg)
  
 Piráti šli do voleb s cílem pozvednout Prahu 11 a zajistit naší městské části udržitelný rozvoj. Náš volební výsledek dokazuje, že nás naši voliči volili pro to, abychom prosazovali náš program. 
  
