@@ -3,7 +3,8 @@ date: 2019-01-21
 category: blog
 tags: praha 11, piráti
 layout: post
-author: Piráti Praha 11
+author: Milan Minařík
+authorId: milan.minarik
 title: Výsledky koaličních jednání
 image: articles/2018/2018-10-09-komunalni-volby-2.jpg
 ---

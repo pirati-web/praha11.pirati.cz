@@ -15,6 +15,7 @@ mail:
 mob: +420 608 770 778
 profiles:
   facebook: https://www.facebook.com/jiridohnal.cz
+calendar: lssn3t1lu3aaccio89usnck434@group.calendar.google.com
 ---
 
 40 let, člen Pirátů, zastupitel MČ Praha 11, člen Koalice Trojmezí, projektový manažer

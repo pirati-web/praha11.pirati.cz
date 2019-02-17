@@ -10,9 +10,9 @@ description: uvolněný místopředseda výboru pro územní rozvoj a životní 
 img: people/josef-kocourek.jpg
 mail:
   - josef.kocourek@pirati.cz
-
 profiles:
   facebook: https://www.facebook.com/josef.kocourek.96
+calendar: f3qhbmobjuqjojhmjbihr480cc@group.calendar.google.com
 ---
 
 54 let, člen Pirátů, provozní dispečer

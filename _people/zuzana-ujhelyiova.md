@@ -13,6 +13,7 @@ mail:
   - zuzana.ujhelyiova@pirati.cz
 profiles:
   facebook: https://www.facebook.com/acacia.MK
+calendar: 80pl8p1mv39g3gljau4l4qfu9o@group.calendar.google.com
 ---
 
 35 let, členka Pirátů, teoložka

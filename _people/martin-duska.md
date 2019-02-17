@@ -13,6 +13,7 @@ mail:
   - martin.duska@pirati.cz
 profiles:
   facebook: https://www.facebook.com/martin.duska.9
+calendar: elm0jo19g99tskirlru32894mg@group.calendar.google.com
 ---
 
 26 let, člen Pirátů, politolog

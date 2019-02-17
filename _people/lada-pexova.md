@@ -9,7 +9,8 @@ category:
 ordclenove: 16
 description: doktorand na MFF UK
 img: people/lada-pexova.jpg
-
+mail:
+  - lada.pexova@pirati.cz
 profiles:
   facebook: https://www.facebook.com/lada.pexova
 ---

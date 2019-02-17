@@ -8,6 +8,8 @@ category:
   - kandidat-obec
 description: středoškolský pedagog, zastupitel MČ Prahy 11, školství, otevřená radnice a digitalizace
 img: people/zuzana-boehmova.jpg
+mail:
+  - zuzana.boehmova@pirati.cz
 profiles:
   facebook: https://www.facebook.com/zuzana.bohmova
 ---
