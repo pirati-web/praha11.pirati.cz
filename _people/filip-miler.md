@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 ordpms: 2  
-description: IT, vývojář informačních systémů, hudebník
+description: vývojář informačních systémů, hudebník, IT
 img: people/filip-miler.jpg
 age: 
 mail:
