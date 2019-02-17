@@ -18,7 +18,7 @@ profiles:
 calendar: lssn3t1lu3aaccio89usnck434@group.calendar.google.com
 ---
 
-40 let, člen Pirátů, starosta Prahy 11, předseda MS, finance, IT, člen Koalice Trojmezí, projektový manažer
+40 let, člen Pirátů, předseda MS, člen Koalice Trojmezí, finance, IT
  
 Na Jižním Městě žiji rád již od roku 1980, vidím tak jeho pozitivní i negativní stránky. Ty pozitivní bych rád dále rozvíjel, například v oblastech rekonstrukcí vnitrobloků a veřejného prostoru, výsadby stromů a zeleně, dalšího rozšíření kulturní nabídky a služeb, obecního bydlení, rozvoje městské hromadné dopravy, nabídky pomoci a zajištění služeb seniorům a potřebným. Jako negativní stránky vidím například úbytek obyvatel naší městské části, stárnutí bytových domů a prvků občanské vybavenosti, stagnace možností obyvatel k setkávání se, zastavování školních pozemků v majetku MČ Praha 11 soukromými budovami atd. Uvedená témata je třeba co nejrychleji řešit s cílem zlepšení situace v co nejkratší době.
  
