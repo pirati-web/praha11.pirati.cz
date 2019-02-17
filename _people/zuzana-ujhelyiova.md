@@ -7,7 +7,7 @@ category:
   - kandidat-obec
   - pms  
 ordpms: 3
-description: radní, školství
+description: školství
 img: people/zuzana-ujhelyiova.jpg
 mail:
   - zuzana.ujhelyiova@pirati.cz
