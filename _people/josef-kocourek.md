@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 ordclenove: 4
-description: provozní dispečer
+description: uvolněný místopředseda výboru pro územní rozvoj a životní prostředí, územní rozvoj, doprava
 img: people/josef-kocourek.jpg
 mail:
   - josef.kocourek@pirati.cz

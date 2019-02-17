@@ -7,7 +7,7 @@ category:
   - kandidat-obec
   - clenove
 ordpms: 4
-description: konzultant online marketingu
+description: konzultant online marketingu, zastupitel MČ Prahy 11, územní rozvoj, doprava, sport
 img: people/ladislav-kos.jpg
 mail:
   - ladislav.kos@pirati.cz

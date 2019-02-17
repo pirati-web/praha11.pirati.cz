@@ -5,7 +5,7 @@ name:     Michal Kovařík
 category:
   - clenove
   - kandidat-obec
-description: nakladatelský pracovník/publicista
+description: nakladatelský pracovník/publicista, zastupitel MČ Prahy 11, kultura
 img: people/michal-kovarik.jpg
 mail:
   - michal.kovarik@pirati.cz

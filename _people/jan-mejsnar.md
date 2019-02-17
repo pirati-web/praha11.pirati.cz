@@ -7,7 +7,7 @@ titles:
 category:
   - clenove
   - kandidat-obec
-description: meteorolog, vědecký pracovník
+description: meteorolog, vědecký pracovník, zastupitel MČ Prahy 11, sociální a zdravotní věci, životní prostředí
 img: people/jan-mejsnar.jpg
 mail:
   - jan.mejsnar@pirati.cz

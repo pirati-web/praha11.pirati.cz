@@ -6,7 +6,7 @@ titles:
 category:
   - clenove
   - kandidat-obec
-description: učitelka
+description: středoškolský pedagog, zastupitel MČ Prahy 11, školství, otevřená radnice a digitalizace
 img: people/zuzana-boehmova.jpg
 profiles:
   facebook: https://www.facebook.com/zuzana.bohmova
