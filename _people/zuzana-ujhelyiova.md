@@ -10,8 +10,8 @@ ordpms: 3
 description: radní, školství
 img: people/zuzana-ujhelyiova.jpg
 mail:
-  #- zuzana.ujhelyiova@pirati.cz
-  - ujhelyiovaz@praha11.cz
+  - zuzana.ujhelyiova@pirati.cz
+  #- ujhelyiovaz@praha11.cz
 profiles:
   facebook: https://www.facebook.com/acacia.MK
 calendar: 80pl8p1mv39g3gljau4l4qfu9o@group.calendar.google.com
