@@ -26,4 +26,5 @@ Co mohou Piráti nabídnout Jižnímu Městu pro volební období 2018 až 2022?
  
 V letošních komunálních volbách Vám přeji šťastnou ruku ve prospěch našeho Jižního Města.
 
+<iframe src="https://calendar.google.com/calendar/embed?src=lssn3t1lu3aaccio89usnck434%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 ---
