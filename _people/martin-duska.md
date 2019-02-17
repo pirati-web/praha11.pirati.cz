@@ -7,7 +7,7 @@ category:
   - kandidat-obec
   - pms  
 ordpms: 4
-description: radní, doprava, otevřená radnice
+description: doprava, otevřená radnice
 img: people/martin-duska.jpg
 mail:
   - martin.duska@pirati.cz
