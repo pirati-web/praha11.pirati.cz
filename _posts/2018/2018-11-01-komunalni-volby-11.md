@@ -4,6 +4,8 @@ category: blog
 tags: piráti
 layout: post
 title: Tisková zpráva - Prohlášení Pirátů Praha 11 k povolebnímu vyjednávání koalice na Jižním Městě ze dne 1.11.2018
+author: Milan Minařík
+authorId: milan.minarik
 image: articles/2018/2018-11-01-komunalni-volby.jpg
 ---
 **Piráti na Praze 11 vyjednávají v souladu s předem schválenou a transparentně zveřejněnou [povolební strategií](/komunalni-volby-2018/povolebni-strategie), která jasně definuje možnosti vzniku a podpory koalice a rady městské části. Piráti prosazují variantu silné a efektivní koalice, která bude řešením povolební situace na Jižním Městě pro volební období 2018 až 2022.**

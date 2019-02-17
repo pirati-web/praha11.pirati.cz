@@ -4,6 +4,8 @@ category: blog
 tags: piráti
 layout: post
 title: Piráti na Praze 11 připomínkují územní studii Opatov - Na Jelenách
+author: Milan Minařík
+authorId: milan.minarik
 image: articles/2018/2018-12-22-liknavost-rady-mc-praha-11.jpg
 ---
 

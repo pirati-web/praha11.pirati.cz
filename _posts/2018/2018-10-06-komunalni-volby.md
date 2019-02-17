@@ -4,6 +4,8 @@ category: blog
 tags: piráti
 layout: post
 title: Jedním slovem. Děkujeme!
+author: Milan Minařík
+authorId: milan.minarik
 image: articles/2018/2018-10-09-komunalni-volby.jpg
 ---
 

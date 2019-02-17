@@ -4,6 +4,8 @@ category: blog
 tags: piráti
 layout: post
 title: Vyvracíme informaci, která se objevila na webu E15.cz 
+author: Milan Minařík
+authorId: milan.minarik
 image: articles/2018/2018-12-20-vyvracime-informaci-z-e15.jpg
 ---
 

@@ -4,6 +4,8 @@ category: blog
 tags: piráti
 layout: post
 title: Místní sdružení Pirátů na Praze 11 si zvolilo nové předsednictvo
+author: Milan Minařík
+authorId: milan.minarik
 image: articles/2018/2018-11-20-volba-predsednictva.jpg
 ---
 

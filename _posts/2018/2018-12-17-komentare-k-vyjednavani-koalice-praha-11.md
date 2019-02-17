@@ -4,6 +4,8 @@ category: blog
 tags: piráti
 layout: post
 title: Komentář Pirátů Praha 11 k vývoji vyjednávání koalice na Jižním Městě
+author: Milan Minařík
+authorId: milan.minarik
 image: articles/2018/2018-12-17-komentare-k-vyjednavani-koalice-praha-11.jpg
 ---
 

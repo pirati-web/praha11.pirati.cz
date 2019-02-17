@@ -3,7 +3,8 @@ date: 2019-02-15
 category: blog
 tags: praha 11, piráti
 layout: post
-author: Piráti Praha 11
+author: Milan Minařík
+authorId: milan.minarik
 title: Podepsána koaliční smlouva
 image: articles/2019/2019-02-15-podepsana-koalicni-smlouva-01.jpg
 ---

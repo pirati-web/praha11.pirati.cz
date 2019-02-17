@@ -4,6 +4,8 @@ category: blog
 tags: piráti
 layout: post
 title: Tisková zpráva České pirátské strany Praha 11
+author: Milan Minařík
+authorId: milan.minarik
 image: articles/2018/2018-10-23-komunalni-volby.jpg
 ---
 

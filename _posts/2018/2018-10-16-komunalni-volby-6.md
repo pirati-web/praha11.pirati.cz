@@ -4,6 +4,8 @@ category: blog
 tags: piráti
 layout: post
 title: Druhé kolo - Vyjednávání týmu Pirátů se zástupci TOP09+STAN
+author: Milan Minařík
+authorId: milan.minarik
 image: articles/2018/2018-10-09-komunalni-volby-2.jpg
 ---
 

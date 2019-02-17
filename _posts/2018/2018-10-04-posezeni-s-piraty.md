@@ -4,6 +4,8 @@ category: blog
 tags: piráti
 layout: post
 title: Posezení se Zdeňkem, Mikulášem a Olgou
+author: Milan Minařík
+authorId: milan.minarik
 image: articles/2018/2018-10-04-posezeni-s-piraty-07.jpg
 ---
 

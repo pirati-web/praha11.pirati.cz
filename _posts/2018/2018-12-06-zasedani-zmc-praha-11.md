@@ -4,6 +4,8 @@ category: blog
 tags: piráti
 layout: post
 title: 2. Zasedání Zastupitelstva městské části Praha 11
+author: Milan Minařík
+authorId: milan.minarik
 image: articles/2018/2018-11-13-zmc.jpg
 ---
 

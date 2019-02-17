@@ -4,6 +4,8 @@ category: blog
 tags: piráti
 layout: post
 title: Vyjednávání týmu Pirátů a Hnutí pro Prahu 11
+author: Milan Minařík
+authorId: milan.minarik
 image: articles/2018/2018-10-09-komunalni-volby-2.jpg
 ---
 

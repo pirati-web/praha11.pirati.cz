@@ -4,6 +4,8 @@ category: blog
 tags: piráti
 layout: post
 title: Prohlášení Pirátské strany k povolební situaci na Praze 11
+author: Milan Minařík
+authorId: milan.minarik
 image: articles/2018/2018-10-09-komunalni-volby-2.jpg
 ---
 
