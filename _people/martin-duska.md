@@ -7,7 +7,7 @@ category:
   - kandidat-obec
   - pms  
 ordpms: 4
-description: politolog
+description: radní, doprava, otevřená radnice
 img: people/martin-duska.jpg
 mail:
   - martin.duska@pirati.cz
