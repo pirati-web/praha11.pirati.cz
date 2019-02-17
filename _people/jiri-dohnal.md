@@ -7,7 +7,7 @@ category:
   - pms
 categories: kontaktni_osoba    
 ordpms: 1
-description: zastupitel MČ Prahy 11, předseda MS
+description: starosta Prahy 11, předseda MS, finance, IT
 profession: 40 let, člen Pirátů, člen Koalice Trojmezí, projektový manažer, zastupitel MČ Praha 11
 img: people/jiri-dohnal.jpg
 mail:
