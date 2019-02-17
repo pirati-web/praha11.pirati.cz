@@ -15,7 +15,7 @@ profiles:
   facebook: https://www.facebook.com/ladislavkos111
 ---
 
-32 let, člen Pirátů, konzultant online marketingu
+32 let, člen Pirátů, konzultant online marketingu, zastupitel MČ Prahy 11, územní rozvoj, doprava, sport
 
 Nadávat v hospodě nebo křičet na facebooku nepomáhá, jedinou možností, jak něco ovlivnit, je aktivně vstoupit do politiky. 
 
