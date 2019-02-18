@@ -24,7 +24,7 @@ layout: blank-article
       <div class="c-program-candidates">
 
         {% assign leaderCandidate = site.people | where: "uid", candidates.leader.uid | first %}
-        {% include candidate-badge.html candidate=candidates.leader candidatePage=leaderCandidate rank=1 %}
+        {% include radnice.html candidate=candidates.leader candidatePage=leaderCandidate rank=1 %}
 
         {% if candidates.head.size %}
             {% for candidate in candidates.head %}
