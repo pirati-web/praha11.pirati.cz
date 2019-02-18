@@ -24,7 +24,6 @@ Na závěr si dovolím osobní názor. Přestože v tuto chvíli je pro mne hodn
 
 # Podrobnosti naleznete zde:
 - [https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=6504&slozka=12&as4uOriginalDomain=www.praha11.cz&as4u_protocol=https&ConfirmCookie=confirm&bod=2265938](https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=6504&slozka=12&as4uOriginalDomain=www.praha11.cz&as4u_protocol=https&ConfirmCookie=confirm&bod=2265938)
-
 - [http://www.krcakzije.cz/](http://www.krcakzije.cz/)
  
 Josef Kocourek
