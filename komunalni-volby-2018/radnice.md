@@ -1,5 +1,5 @@
 ---
-layout: communal-elections
+layout: radnice
 title: Radnice
 note: 
 campaignCategoryUid: radnice
