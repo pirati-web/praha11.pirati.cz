@@ -1,7 +1,6 @@
 ---
 title: Radnice
 uid: radnice
-number: 4
 leader:
   uid: jiri.dohnal
   age: 40
