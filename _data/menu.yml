@@ -45,14 +45,12 @@ bottom:
       - link: /kontakt/
         name: Dej nám vědět
   - class: small-12 medium-4
-    title: Makáme
+    title: Volby 2018
     links:
-      - link: /lide/
-        name: Lidé
+      - link: /komunalni-volby-2018/povolebni-strategie/
+        name: Povolební strategie
       - link: /komunalni-volby-2018/
-        name: Kandidátka
-      - link: /aktuality/
-        name: Aktuality
+        name: Kandidátka     
   - class: small-12 medium-4
     title: Otevřenost
     links:
