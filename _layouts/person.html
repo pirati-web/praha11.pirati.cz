@@ -7,6 +7,8 @@ layout: blank-article
   {% include page-header.html headline=headline content=content contentClass='c-person__content' %}
 </div>
 
+<h3>Moje články</h3>
+
 {% assign author = site.posts | where: "authorId", page.uid  | sort_by: "date" %}
 <ul>
   {% for post in author %}
