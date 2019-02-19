@@ -9,9 +9,10 @@ layout: blank-article
 
 <h3>Moje články</h3>
 
-{% assign author = (site.posts | where: "authorId", page.uid  | sort_by: "date") | reverse | limit:5 %}
+
 <ul>
-  {% for post in author %}
+  {% assign posts = site.posts | where: "authorId", page.uid %}
+  {% for post in posts limit: 10 %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
