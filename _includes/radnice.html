@@ -17,8 +17,7 @@
           <ul>
             {% for post in posts limit: 3 %}
               <li>
-                {% capture img %}{% if include.candidatePage.img %}{% asset '{{ post.image }}' magick:resize='80x50^' magick:gravity='center' magick:crop='80x50+0+0' @path %}{% else %}{{ 'assets/img/people/unknown-pirate.svg' | relative_url }}{% endif %}{% endcapture %}
-                <img src="{{ img }}" alt="{% include people/fullname.html person=include.candidatePage plain=true %}" class="c-program-candidate-badge__avatar-image">
+                {{ post.date }}:
                 <a href="{{ post.url }}">{{ post.title }}</a></li>
             {% endfor %}
           </ul>
