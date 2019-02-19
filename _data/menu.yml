@@ -20,7 +20,7 @@ main:
     name: Naši lidé
     match: lide
   - link: /komunalni-volby-2018/
-    name: Kandidátka
+    name: Program
     match: komunalni-volby-2018
     submenu:
       - link: /komunalni-volby-2018/
