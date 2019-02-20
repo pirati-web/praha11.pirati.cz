@@ -4,9 +4,9 @@ uid: radnice
 leader:
   uid: jiri.dohnal
   age: 40
-  profession: starosta Prahy 11, finance, IT
+  profession: starosta Prahy 11, finance, IT, člen Pirátů, předseda MS, člen Koalice Trojmezí
   party: Piráti
-  description: Zastupitel MČ Praha 11, člen Koalice Trojmezí
+  #description: Zastupitel MČ Praha 11, člen Koalice Trojmezí
 head: 
   - uid: zuzana.ujhelyiova
     profession: radní, školství
