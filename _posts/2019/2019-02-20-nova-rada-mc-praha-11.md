@@ -21,8 +21,8 @@ Radním pro dopravu a otevřenou radnici se stal Pirát Mgr. Martin Duška. I on
  
 Koaliční smlouvu ve veřejném hlasování na Pirátském fóru schválila členská základna místního sdružení Pirátů Praha 11 a posvětilo ji Pražské krajské předsednictvo České Pirátské strany.
  
-Při vyjednávání koalice se stranami ANO, TOP09+STAN a ODS jsme vždy trvali na splnění podmínek z naší povolební strategie, mezi které patří i to, že v Radě nebudou trestně stíhané nebo již odsouzené osoby. Naši partneři tyto podmínky akceptují.
+Při vyjednávání koalice se stranami ANO, TOP09+STAN a ODS jsme vždy trvali na splnění podmínek z naší [povolební strategie](/komunalni-volby-2018/povolebni-strategie/), mezi které patří i to, že v Radě nebudou trestně stíhané nebo již odsouzené osoby. Naši partneři tyto podmínky akceptují.
  
 Česká pirátská strana získala v komunálních volbách 18,55 % a 9 zastupitelských mandátů z celkových 45. Ze sedmi politických stran a hnutí, které mají své zástupce v novém zastupitelstvu Městské části Praha 11, se stala druhým nejsilnějším subjektem.
  
-Piráti na Praze 11 vyjednávali v souladu s [předem schválenou a transparentně zveřejněnou povolební strategií](), která jasně definuje možnosti vzniku a podpory koalice a Rady městské části. 
+Piráti na Praze 11 vyjednávali v souladu s [předem schválenou a transparentně zveřejněnou povolební strategií](/komunalni-volby-2018/povolebni-strategie/), která jasně definuje možnosti vzniku a podpory koalice a Rady městské části. 
