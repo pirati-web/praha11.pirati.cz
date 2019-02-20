@@ -22,22 +22,19 @@ main:
   - link: /radnice/
     name: Radnice
     match: radnice
+  - link: /komunalni-volby-2018/program/radnice/
+    name: Program
+    match: /komunalni-volby-2018/
     submenu:
-      - link: /radnice/
-        name: Radnice
-        match: radnice
-      - link: /radnice/povolebni-strategie/
+      - link: /komunalni-volby-2018/
+        name: Program
+        match: /komunalni-volby-2018/
+      - link: /komunalni-volby-2018/povolebni-strategie/
         name: Povolební strategie
         match: povolebni-strategie
       - link: /komunalni-volby-2018/program/radnice/
         name: Program
-        match: program
-      - link: /radnice/kandidatka-komunalni-volby-2018/
-        name: Kandidátka - Komunální volby 2018
-        match: kandidatka-komunalni-volby-2018
-  - link: /komunalni-volby-2018/program/radnice/
-    name: Program
-    match: /komunalni-volby-2018/program/
+        match: program  
   - link: /podporte-nas/
     name: Podpořte nás
     match: podporte-nas
