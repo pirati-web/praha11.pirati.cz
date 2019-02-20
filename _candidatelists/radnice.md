@@ -4,7 +4,7 @@ uid: radnice
 leader:
   uid: jiri.dohnal
   age: 40
-  profession: Projektový manažer
+  profession: starosta Prahy 11, finance, IT
   party: Piráti
   description: Zastupitel MČ Praha 11, člen Koalice Trojmezí
 head: 
