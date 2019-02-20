@@ -3,7 +3,7 @@ date: 2019-02-18
 category: blog
 tags: praha 11, piráti
 layout: post
-author: Milan Minařík
+author: Josef Kocourek
 authorId: josef.kocourek
 title: Řízení o vydání celoměstsky významných změn
 image: articles/2019/2019-02-18-interlov-zmena.jpg
