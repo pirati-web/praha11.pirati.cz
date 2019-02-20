@@ -35,13 +35,12 @@ main:
       - link: /radnice/kandidatka-komunalni-volby-2018/
         name: Kandidátka - Komunální volby 2018
         match: andidatka-komunalni-volby-2018
-
+  - link: /komunalni-volby-2018/program/radnice/
+    name: Program
+    match: program
   - link: /podporte-nas/
     name: Podpořte nás
     match: podporte-nas
-  - link: /kontakt/
-    name: Kontakt
-    match: kontakt
 
 bottom:
   - class: small-12 medium-4
