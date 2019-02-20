@@ -5,7 +5,7 @@ category:
   - pms
   - kandidat-obec
 ordpms: 2  
-description: manažer,      životní prostředí, bezpečnost
+description: manažer, životní prostředí, bezpečnost
 img: people/milan-minarik.jpg
 mail:
   - milan.minarik@pirati.cz
