@@ -19,16 +19,20 @@ main:
   - link: /lide/
     name: Naši lidé
     match: lide
-  - link: /komunalni-volby-2018/
-    name: Program
-    match: komunalni-volby-2018
+  - link: /radnice/
+    name: Radnice
+    match: radnice
     submenu:
-      - link: /komunalni-volby-2018/
+      - link: /radnice/
         name: Radnice
-        match: komunalni-volby-2018
-      - link: /komunalni-volby-2018/povolebni-strategie/
+        match: radnice
+      - link: /radnice/povolebni-strategie/
         name: Povolební strategie
         match: povolebni-strategie
+      - link: /radnice/kandidatka-komunalni-volby-2018/
+        name: Kandidátka - Komunální volby 2018
+        match: andidatka-komunalni-volby-2018
+
   - link: /podporte-nas/
     name: Podpořte nás
     match: podporte-nas
