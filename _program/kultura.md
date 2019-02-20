@@ -1,6 +1,6 @@
 ---
 uid: kultura
-garant: 5.michal.kovarik
+garant: michal.kovarik
 title: Kultura, volný čas a sport
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018

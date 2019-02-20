@@ -1,6 +1,6 @@
 ---
 uid: doprava
-garant: 4.ladislav.kos
+garant: ladislav.kos
 title: Doprava
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018

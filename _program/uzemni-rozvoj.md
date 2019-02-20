@@ -1,6 +1,6 @@
 ---
 uid: uzemni-rozvoj
-garant: 4.ladislav.kos
+garant: ladislav.kos
 title: Územní rozvoj, bydlení
 
 campaignCategoryUid: magistrat

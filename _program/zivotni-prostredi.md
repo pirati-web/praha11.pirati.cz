@@ -1,6 +1,6 @@
 ---
 uid: zivotni-prostredi
-garant: 11.milan.minarik
+garant: milan.minarik
 title: Životní prostředí
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018

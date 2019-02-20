@@ -1,6 +1,6 @@
 ---
 uid: socialni-sluzby
-garant: 1.jiri.dohnal
+garant: jiri.dohnal
 title: Sociální služby
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018

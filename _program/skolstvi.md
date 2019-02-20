@@ -1,6 +1,6 @@
 ---
 uid: skolstvi
-garant: 2.zuzana.ujhelyiova
+garant: zuzana.ujhelyiova
 title: Školství
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
