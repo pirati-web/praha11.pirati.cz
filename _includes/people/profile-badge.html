@@ -49,5 +49,9 @@
                 </div>
             {% endif %}
         {% endunless %}
+
+                    {% if include.item.address %}
+                      <div><i class="fa fa-home"></i> {{ include.item.address }}</div>
+                    {% endif %}          
     </div>
 </div>
