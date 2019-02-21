@@ -17,9 +17,7 @@
           {% if page.profiles.web %}<i class="fa fa-globe"></i> <a class="c-emphasized-anchor" href="{{ page.profiles.web }}">Osobní web</a><br/>{% endif %}
           {% if page.profiles.blog %}<i class="fa fa-th-large"></i> <a class="c-emphasized-anchor" href="{{ page.profiles.blog }}">Blog</a><br/>{% endif %}
 		  {% if page.profiles.report %}<i class="fa fa-file-text-o"></i> <a href="{{page.profiles.report}}">Report poslance</a><br/>{% endif %}
-          {% if page.profiles %}
-          <i class="fa fa-home"></i> {{ page.profiles.address }}<br/>
-          {% endif %} 
+          {% if page.address %}<i class="fa fa-home"></i> {{ page.address }}<br/>{% endif %} 
           {% if page.asistenti %}
             {% for asistent in page.asistenti %}
               <hr />
