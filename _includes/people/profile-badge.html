@@ -35,13 +35,13 @@
         {% endunless %}
 
         {% unless include.showContactInfo == false %}
-            {% if include.item.mob or include.item.mail or include.item.contact %}
+            {% if include.item.mob or include.item.mail or include.item.address %}
                 <div class="c-profile-badge__contacts">
                     {% if include.item.mob %}
                       <div><i class="fa fa-phone"></i> <a class="c-emphasized-anchor" href="tel:{{ include.item.mob }}">{{ include.item.mob }}</a></div>
                     {% endif %}
-                    {% if include.item.contact %}
-                      <div><i class="fa fa-home"></i> {{ include.item.contact }}</div>
+                    {% if include.item.address %}
+                      <div><i class="fa fa-home"></i> {{ include.item.address }}</div>
                     {% endif %}                    
                     {% if include.item.mail %}
                       <div><i class="fa fa-envelope-o"></i> <a class="c-emphasized-anchor" href="mailto:{{ include.item.mail }}">{{ include.item.mail }}</a></div>

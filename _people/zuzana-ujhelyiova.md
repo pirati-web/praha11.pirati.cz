@@ -12,7 +12,7 @@ img: people/zuzana-ujhelyiova.jpg
 mail:
   - zuzana.ujhelyiova@pirati.cz
   #- ujhelyiovaz@praha11.cz
-contact: Vidimova 1324/4, 149 41 Praha 11
+address: Vidimova 1324/4, 149 41 Praha 11
 profiles:
   facebook: https://www.facebook.com/acacia.MK
 calendar: 80pl8p1mv39g3gljau4l4qfu9o@group.calendar.google.com
