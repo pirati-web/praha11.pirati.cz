@@ -40,6 +40,9 @@
                     {% if include.item.mob %}
                       <div><i class="fa fa-phone"></i> <a class="c-emphasized-anchor" href="tel:{{ include.item.mob }}">{{ include.item.mob }}</a></div>
                     {% endif %}
+                    {% if include.item.contact %}
+                      <div>{{ include.item.contact }}</div>
+                    {% endif %}                    
                     {% if include.item.mail %}
                       <div><i class="fa fa-envelope-o"></i> <a class="c-emphasized-anchor" href="mailto:{{ include.item.mail }}">{{ include.item.mail }}</a></div>
                     {% endif %}
