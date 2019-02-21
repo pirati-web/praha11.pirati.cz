@@ -15,7 +15,7 @@ mail:
 mob: +420 608 770 778
 profiles:
   facebook: https://www.facebook.com/jiridohnal.cz
-#calendar: lssn3t1lu3aaccio89usnck434@group.calendar.google.com
+calendar: lssn3t1lu3aaccio89usnck434@group.calendar.google.com
 ---
 
 40 let, starosta MČ Praha 11, člen Pirátů, předseda MS, člen Koalice Trojmezí, IT, digitalizace a finance, krizové řízení
