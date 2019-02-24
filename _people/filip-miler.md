@@ -16,6 +16,10 @@ profiles:
   facebook: https://www.facebook.com/filip.miler.50
 ---
 
+IT specialista
+
+člen Pirátů
+
 Filip Miler je členem Pirátské strany od roku 2010. Filip pochází ze Vsetína a od roku 1979 žije v Praze.
 
 Vystudoval střední průmyslovou školu elektrotechnickou v Ječné ulici, obor automatizační technika.
