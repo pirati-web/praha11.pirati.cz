@@ -14,6 +14,6 @@ head:
     profession: radní s gescí doprava, otevřená radnice
     party: Piráti  
   - uid: josef.kocourek
-    profession: uvolněný místopředseda výboru pro územní rozvoj a životní prostředí, územní rozvoj, doprava
+    profession: uvolněný místopředseda výboru pro územní rozvoj a životní prostředí, územní rozvoj
     party: Piráti
 ---
