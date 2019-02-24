@@ -7,8 +7,8 @@ category:
   - pms
 categories: kontaktni_osoba    
 ordpms: 1
-description: starosta Prahy 11, předseda MS, finance, IT
-profession: 40 let, starosta Prahy 11, člen Pirátů, předseda MS, člen Koalice Trojmezí, zastupitel MČ Praha 11
+description: předseda MS, gesce: finance, IT
+profession: starosta Prahy 11, člen Pirátů, předseda MS
 img: people/jiri-dohnal.jpg
 mail:
   - jiri.dohnal@pirati.cz
@@ -18,13 +18,11 @@ profiles:
 calendar: lssn3t1lu3aaccio89usnck434@group.calendar.google.com
 ---
 
-40 let, starosta MČ Praha 11, člen Pirátů, předseda MS, člen Koalice Trojmezí, IT, digitalizace a finance, krizové řízení
+starosta MČ Praha 11 s gescí: IT, digitalizace a finance, krizové řízení, člen Pirátů, předseda MS
 
  
-Na Jižním Městě žiji rád již od roku 1980, vidím tak jeho pozitivní i negativní stránky. Ty pozitivní bych rád dále rozvíjel, například v oblastech rekonstrukcí vnitrobloků a veřejného prostoru, výsadby stromů a zeleně, dalšího rozšíření kulturní nabídky a služeb, obecního bydlení, rozvoje městské hromadné dopravy, nabídky pomoci a zajištění služeb seniorům a potřebným. Jako negativní stránky vidím například úbytek obyvatel naší městské části, stárnutí bytových domů a prvků občanské vybavenosti, stagnace možností obyvatel k setkávání se, zastavování školních pozemků v majetku MČ Praha 11 soukromými budovami atd. Uvedená témata je třeba co nejrychleji řešit s cílem zlepšení situace v co nejkratší době.
- 
-Co mohou Piráti nabídnout Jižnímu Městu pro volební období 2018 až 2022? Jednoznačně transparentní řízení radnice, optimální a efektivní financování místní samosprávy, její digitalizaci a především tým mladých, pracovitých a schopných lidí, kteří nemají žádnou korupční historii. To v dnešní době, bohužel, není samozřejmostí.
- 
-V letošních komunálních volbách Vám přeji šťastnou ruku ve prospěch našeho Jižního Města.
+Jako jihoměstský patriot chci pracovat na tom, aby se Praha 11 opět stala místem, kde se lidé setkávají, pracují a jsou hrdí, že je jejich domovskou adresou. Pro naplnění téhle vize považuji za nezbytné zajistit naší městské části udržitelný rozvoj a otevřít ji jejím občanům, kteří musí mít možnost přímo se na samosprávě podílet.
 
+
+https://wiki.pirati.cz/lide/jiri_dohnal
 ---
