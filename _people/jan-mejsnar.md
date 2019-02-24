@@ -17,7 +17,7 @@ profiles:
 
 zastupitel MČ Praha 11, gesce: sociální a zdravotní věci, životní prostředí
 
-meteorolog, vědecký pracovník,
+meteorolog, vědecký pracovník
 
 člen Pirátů
 
