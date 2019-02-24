@@ -19,8 +19,9 @@ calendar: 80pl8p1mv39g3gljau4l4qfu9o@group.calendar.google.com
 ---
 
 radní s gescí školství
+
 členka Pirátů
 
-Za klíčové považuji vzdělávání dětí. Děti se učí všude a vším; dostatkem a rozmanitostí podnětů, volnočasovými aktivitami, respektujícím přístupem i spoluprací v rámci školy. Jasný koncept a vizi vzdělávání potřebují znát samotné školy, rodiče a žáci. Poskytnout výběr způsobu vzdělávání i v rámci jedné školy by mělo být samozřejmostí. Dobré vzdělání je cílem všech, a proto je nutné naslouchat všem stejně; učitelům, ředitelům škol i rodičům a dětem.
+Mou prioritou je rozvoj jihoměstského školství. Školy podpořím v jejich různorodém zaměření, a to i v rámci strategických cílů projektu MAP. Rovněž podpořím vzdělávací programy pro žáky druhého stupně ZŠ a zřízení žákovských samospráv. On-line registrací do ZŠ a MŠ snížím administrativní zátěž škol a budu hledat mimorozpočtové zdroje financování. Školství otevřu veřejnosti - jak centralizací informací na jedné webové stránce, tak i pravidelnými setkání s rodiči.
 
 ---
