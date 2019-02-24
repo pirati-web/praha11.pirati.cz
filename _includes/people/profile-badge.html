@@ -34,9 +34,6 @@
         </p>
        
       {% endunless %}
- {% if include.wiki %}
-                {{ include.wiki }}
-            {% endif %}
       
         {% unless include.showContactInfo == false %}
             {% if include.item.mob or include.item.mail or include.item.address %}
