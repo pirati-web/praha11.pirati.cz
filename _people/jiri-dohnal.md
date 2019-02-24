@@ -19,7 +19,9 @@ calendar: lssn3t1lu3aaccio89usnck434@group.calendar.google.com
 ---
 
 starosta MČ Praha 11 s gescí: IT, digitalizace a finance, krizové řízení
+
 člen Pirátů
+
 předseda MS
 
  
