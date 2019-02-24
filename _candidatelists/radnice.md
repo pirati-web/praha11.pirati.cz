@@ -3,7 +3,7 @@ title: Radnice
 uid: radnice
 leader:
   uid: jiri.dohnal
-  profession: starosta MČ Praha 11 s gescí: IT, digitalizace a finance, krizové řízení, předseda MS
+  profession: starosta MČ Praha 11 s gescí IT, digitalizace a finance, krizové řízení, předseda MS
   party: Piráti
   #description: Zastupitel MČ Praha 11, člen Koalice Trojmezí
 head: 
