@@ -32,8 +32,12 @@
                 {{ include.item.description }}
             {% endif %}
         </p>
-        {% endunless %}
-
+       
+      {% endunless %}
+ {% if include.wiki %}
+                {{ include.wiki }}
+            {% endif %}
+      
         {% unless include.showContactInfo == false %}
             {% if include.item.mob or include.item.mail or include.item.address %}
                 <div class="c-profile-badge__contacts">
