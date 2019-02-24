@@ -7,7 +7,7 @@ category:
   - kandidat-obec
   - clenove
 ordpms: 4
-description: konzultant online marketingu, zastupitel MČ Prahy 11, územní rozvoj, doprava, sport
+description: gesce územní rozvoj, doprava, sport
 img: people/ladislav-kos.jpg
 mail:
   - ladislav.kos@pirati.cz
@@ -15,9 +15,12 @@ profiles:
   facebook: https://www.facebook.com/ladislavkos111
 ---
 
-32 let, člen Pirátů, konzultant online marketingu, zastupitel MČ Prahy 11, územní rozvoj, doprava, sport
+zastupitel MČ Praha 11, gesce: územní rozvoj, doprava, sport
 
-Nadávat v hospodě nebo křičet na facebooku nepomáhá, jedinou možností, jak něco ovlivnit, je aktivně vstoupit do politiky. 
+konzultant inline marketingu
+
+člen Pirátů
+
 
 Chci se věnovat třem oblastem: 
 - Řešení dopravy – parkování, renovaci a výstavbě chodníků a cyklostezek a rozumné koordinaci linek MHD. 
