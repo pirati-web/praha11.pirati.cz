@@ -7,7 +7,7 @@ category:
   - kandidat-obec
   - pms  
 ordpms: 4
-description: radní, doprava, otevřená radnice
+description: gesce doprava, veřejný prostor, otevřená radnice
 img: people/martin-duska.jpg
 mail:
   - martin.duska@pirati.cz
@@ -16,8 +16,9 @@ profiles:
 calendar: elm0jo19g99tskirlru32894mg@group.calendar.google.com
 ---
 
-26 let, člen Pirátů, radní, doprava, otevřená radnice
+radní s gescí doprava, otevřená radnice
+člen Pirátů
 
-Na Jižním Městě jsem vyrostl a prošel třemi stupni vzdělání. Jižní Město má svou autentickou atmosféru, kterou vytváří jeho skvělí obyvatelé. Dlouhodobě však stagnuje v rozvoji občanské vybavenosti. Mladí lidé mají pocit, že jsou přehlíženi, střední generace zde jen přespává. Zasadím se o transparentní radnici. Ušetřené peníze investujeme do kvalitních projektů ve veřejném prostoru. Nejsme druhořadé sídliště na okraji Prahy. Staneme se vzorem pro ostatní městské části, jak vrátit město jeho obyvatelům.  Jižní Město bude adresa, kde je zeleň, vodní plochy, soukromníkům se dobře podniká. Jižní Město se díky transparentnímu rozpočtu stará o své učitele, strážníky a hasiče. Jižní Město bude dobrou adresou pro 21. století.
+Vážení spoluobčané, rád bych Vám představil své vize ohledně mých gescí. V dopravě se chci věnovat především navyšování počtu parkovacích míst, údržbě a rekonstrukci stávajících komunikací svěřených do správy městské části. Dále chci hledat řešení pro klidnou dopravu na Jižním Městě. V rámci gesce otevřená radnice bych rád přehledně zpřístupnil veškerá data v rámci zákonných norem.
 
 ---
