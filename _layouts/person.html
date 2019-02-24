@@ -7,6 +7,10 @@ layout: blank-article
   {% include page-header.html headline=headline content=content contentClass='c-person__content' %}
 </div>
 
+{% if page.wiki %}
+  <p><a href="{{ page.wiki }}">{{ page.wiki }}</a></p>
+{% endif %}
+
 <h3>Moje články</h3>
 
 
@@ -16,12 +20,6 @@ layout: blank-article
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
-a
-{% if include.wiki %}
-  {{ include.wiki %}
-{% endif %}
-b
 
 <div class="row">
   <div class="medium-12 large-12 columns">
@@ -42,4 +40,3 @@ b
     <!-- /. o-section -->
   </div>
 </div>
-{% endif %}
