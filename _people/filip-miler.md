@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 ordpms: 2  
-description: vývojář informačních systémů, hudebník, IT
+description: gesce IT
 img: people/filip-miler.jpg
 age: 
 mail:
@@ -16,7 +16,7 @@ profiles:
   facebook: https://www.facebook.com/filip.miler.50
 ---
 
-Filip Miler (*2. březen 1979) je členem Pirátské strany od roku 2010. Filip pochází ze Vsetína a od roku 1979 žije v Praze.
+Filip Miler je členem Pirátské strany od roku 2010. Filip pochází ze Vsetína a od roku 1979 žije v Praze.
 
 Vystudoval střední průmyslovou školu elektrotechnickou v Ječné ulici, obor automatizační technika.
 
