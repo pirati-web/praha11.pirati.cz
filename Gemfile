@@ -31,6 +31,7 @@ group :jekyll_plugins do
   gem "jekyll-assets", "3.0.11"
   gem 'jekyll-environment-variables'
   gem 'jekyll-redirect-from'
+  gem 'octopress-paginate'  
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

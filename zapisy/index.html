@@ -1,0 +1,17 @@
+---
+layout: default
+title: Post Index
+paginate:
+  limit: 2
+  per_page: 2
+---
+
+<!-- https://github.com/octopress/paginate -->
+
+<ul>
+{% for post in paginator.posts %}
+<li>{{ post.title }}</li>
+{% endfor %}
+</ul>
+
+{% include articles/pagination.html paginator=paginator %}
