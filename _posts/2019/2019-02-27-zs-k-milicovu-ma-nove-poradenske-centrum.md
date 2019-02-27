@@ -11,6 +11,8 @@ image: articles/2019/2019-02-27-zs-k-milicovu-ma-nove-poradenske-centrum-01.jpg
 
 Nová radní pro školství Mgr. Zuzana Ujhelyiová (Piráti) v úterý 26.2.2018 v ZŠ K Milíčovu otevřela nové poradensko-psychologické centrum.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8AI0Go9NYbg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Centrum je financováno z Operačního programu Výzkum, vývoj a vzdělávání Evropské unie, z něhož ZŠ K Milíčovu získala finance prostřednictvím tzv. *„šablon“*  připravených Ministerstvem školství (MŠMT)  a ve škole bude fungovat minimálně 2 roky.
 
 Od prvotního nápadu po závěrečnou realizaci uběhlo pouze půl roku. To je těžko uvěřitelný a vynikající výkon paní ředitelky Mgr. Aleny Červené.
