@@ -10,11 +10,24 @@
     {% if page == include.paginator.page %}
       <span class="c-pagination__anchor">{{ forloop.index }}</span>
     {% else %}
-      {% if forloop.index == 1 %}
-        <a class="c-pagination__anchor" href="./" aria-label="Stránka {{ forloop.index }}">{{ forloop.index }}</a>
+
+      {% if include.paginator.page == 1 %}
+
+        {% if forloop.index == 1 %}
+          <a class="c-pagination__anchor" href="./" aria-label="Stránka {{ forloop.index }}">{{ forloop.index }}</a>
+        {% else %}
+          <a class="c-pagination__anchor" href="./{{forloop.index}}/" aria-label="Stránka {{ forloop.index }}">{{ forloop.index }}</a>
+        {% endif %}
+
       {% else %}
-        <a class="c-pagination__anchor" href="./{{forloop.index}}/" aria-label="Stránka {{ forloop.index }}">{{ forloop.index }}</a>
+        {% if forloop.index == 1 %}
+          <a class="c-pagination__anchor" href="../" aria-label="Stránka {{ forloop.index }}">{{ forloop.index }}</a>
+        {% else %}
+          <a class="c-pagination__anchor" href="../{{forloop.index}}/" aria-label="Stránka {{ forloop.index }}">{{ forloop.index }}</a>
+        {% endif %}      
       {% endif %}
+
+
     {% endif %}
   </li>
   {% endfor %}

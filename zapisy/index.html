@@ -1,17 +1,42 @@
 ---
 layout: default
-title: Post Index
+title: Zápisy
 paginate:
-  limit: 100
+  permalink: /:num/ 
+  limit: false
   per_page: 5
+  url: /zapisy/
+  reversed: true
+  title_suffix: " - stránka :num"
+  tag: 'piráti'
+  category: 'blog'
+
+  #collection:   posts
+  #per_page:     10             # maximum number of items per page
+  #limit:        5              # Maximum number of pages to paginate (false for unlimited)
+  #permalink:    /page:num/     # pagination path (relative to template page)
+  #title_suffix: " - page :num" # Append to template's page title
+  #category:     ''             # Paginate items in this category
+  #categories:   []             # Paginate items in any of these categories
+  #tag:          ''             # Paginate items tagged with this tag
+  #tags:         []             # Paginate items tagged with any of these tags
+  #reversed:     false          # Reverse the order of the documents  
 ---
 
 <!-- https://github.com/octopress/paginate -->
 
-<ul>
-{% for post in paginator.posts %}
-<li>{{ post.title }}</li>
-{% endfor %}
-</ul>
+<div class="row">
+  <div class="columns">
+    <div class="o-section">
+      <div class="o-section-inner">
+          <header class="c-page-header">
+            <h1 itemprop="headline" class="c-page-title">{{ page.title }}</h1>
+          </header>
 
-{% include articles/pagination.html paginator=paginator %}
+          {% assign posts = paginator.posts %}
+          {% include articles/list-responsive.html posts=posts %}
+          {% include articles/pagination.html paginator=paginator %}
+      </div>
+    </div>
+  </div>
+</div>

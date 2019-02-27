@@ -34,6 +34,10 @@ plugins:
 paginate_path: "/aktuality/:num/"
 paginate: 11
 
+pagination:
+  per_page: 2
+  limit: false
+
 exclude:
   - Dockerfile
   - docker-compose.yml
