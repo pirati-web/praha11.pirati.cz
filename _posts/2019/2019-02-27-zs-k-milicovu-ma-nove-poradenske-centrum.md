@@ -22,7 +22,11 @@ Poradenské centrum má dvě místnosti, ve kterých se bude střídat 7 odborn�
 *„Pracuje se zde komplexně, jak s dětmi, tak s jejich rodiči, učiteli a třídou. Pracovníci se snaží vést děti k tomu, aby přišli už ve fázi, kdy se cítí v nepohodě. Řada problémů se dá vyřešit už v prvopočátku. Měla jsem možnost hovořit se sociální pedagožkou a blíže se seznámit s tím, čemu se chce věnovat. Chci tímto poděkovat za milé přijetí, popřát hodně úspěchů a především chci ocenit paní ředitelku, že své nápady ve prospěch školy a dětí realizuje“*, uvedla u příležitosti slavnostního otevření centra radní pro školství Zuzana Ujhleyiová (Piráti).
 
 ![ZŠ K Milíčovu má nové poradenské centrum](/assets/img/articles/2019/2019-02-27-zs-k-milicovu-ma-nove-poradenske-centrum-06.jpg)
+
 ![ZŠ K Milíčovu má nové poradenské centrum](/assets/img/articles/2019/2019-02-27-zs-k-milicovu-ma-nove-poradenske-centrum-05.jpg)
+
 ![ZŠ K Milíčovu má nové poradenské centrum](/assets/img/articles/2019/2019-02-27-zs-k-milicovu-ma-nove-poradenske-centrum-04.jpg)
+
 ![ZŠ K Milíčovu má nové poradenské centrum](/assets/img/articles/2019/2019-02-27-zs-k-milicovu-ma-nove-poradenske-centrum-03.jpg)
+
 ![ZŠ K Milíčovu má nové poradenské centrum](/assets/img/articles/2019/2019-02-27-zs-k-milicovu-ma-nove-poradenske-centrum-02.jpg)
