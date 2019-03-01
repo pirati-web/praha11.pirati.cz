@@ -1,5 +1,6 @@
 # praha11.pirati.cz
 
+
 [![Build Status](https://travis-ci.org/pirati-web/praha11.pirati.cz.svg?branch=master)](https://travis-ci.org/pirati-web/praha11.pirati.cz)
 
 Web Jižácké pirátské buňky.
@@ -15,7 +16,7 @@ Web Jižácké pirátské buňky.
             - [Ubuntu 16.04](#ubuntu-1604)
                 - [Instalace závislostí](#instalace-zavislosti)
             - [macOS](#macos)
-                - [Instalace závislostí](#instalace-zavislosti)
+o                - [Instalace závislostí](#instalace-zavislosti)
                 - [Další postup](#dali-postup)
     - [Spuštění](#sputni)
         - [Docker](#docker)
