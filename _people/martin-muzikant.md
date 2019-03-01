@@ -7,7 +7,7 @@ titles:
 category:
   - clenove
   - kandidat-obec
-description: manažer, zastupitel MČ Prahy 11, finance, investice, majetek
+description: gesce finance, investice, majetek
 img: people/martin-muzikant.jpg
 mail:
   - martin.muzikant@pirati.cz
