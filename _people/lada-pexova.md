@@ -7,7 +7,7 @@ category:
   - clenove
   - kandidat-obec
 ordclenove: 16
-description: doktorand na MFF UK
+description: gesce kultura
 img: people/lada-pexova.jpg
 mail:
   - lada.pexova@pirati.cz
