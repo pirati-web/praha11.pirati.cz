@@ -9,6 +9,7 @@ category:
 ordpms: 4
 description: gesce doprava, veřejný prostor, otevřená radnice
 img: people/martin-duska.jpg
+address: Ocelíkova 672/1, 149 00 Praha 11
 mail:
   - martin.duska@pirati.cz
 profiles:
@@ -16,7 +17,7 @@ profiles:
 calendar: elm0jo19g99tskirlru32894mg@group.calendar.google.com
 ---
 
-radní s gescí doprava, otevřená radnice
+radní sh gescí doprava, otevřená radnice
 člen Pirátů
 
 Vážení spoluobčané, rád bych Vám představil své vize ohledně mých gescí. V dopravě se chci věnovat především navyšování počtu parkovacích míst, údržbě a rekonstrukci stávajících komunikací svěřených do správy městské části. Dále chci hledat řešení pro klidnou dopravu na Jižním Městě. V rámci gesce otevřená radnice bych rád přehledně zpřístupnil veškerá data v rámci zákonných norem.
