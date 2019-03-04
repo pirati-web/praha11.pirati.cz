@@ -10,6 +10,7 @@ description: gesce územní rozvoj, doprava
 img: people/josef-kocourek.jpg
 mail:
   - josef.kocourek@pirati.cz
+  address: Vidimova 1324/4, 149 41 Praha 11
 profiles:
   facebook: https://www.facebook.com/josef.kocourek.96
 calendar: f3qhbmobjuqjojhmjbihr480cc@group.calendar.google.com
