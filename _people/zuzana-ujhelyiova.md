@@ -12,7 +12,8 @@ img: people/zuzana-ujhelyiova.jpg
 mail:
   - zuzana.ujhelyiova@pirati.cz
   #- ujhelyiovaz@praha11.cz
-address: Vidimova 1324/4, 149 41 Praha 11 (den pro veřejnost s radní každá poslední středa v měsíci od 15:00 do 19:00)
+address: Vidimova 1324/4, 149 41 Praha 11 
+clock: den pro veřejnost s radní každá poslední středa v měsíci od 15:00 do 19:00
 profiles:
   facebook: https://www.facebook.com/acacia.MK
 calendar: 80pl8p1mv39g3gljau4l4qfu9o@group.calendar.google.com
