@@ -14,15 +14,14 @@ Připomínáme harmonogram týkající se vznikající územní studie v okolí 
 Materiál k územní studii: [https://1url.cz/QMFIj](https://1url.cz/QMFIj) 
 
 
-14. 3. 2019 - 1. JEDNÁNÍ VÝBORU PRO ÚZEMNÍ ROZVOJ A ŽIVOTNÍ PROSTŘEDÍ ZASTUPITELSTVA MČ PRAHA 11
+14.2.2019 - 1. JEDNÁNÍ VÝBORU PRO ÚZEMNÍ ROZVOJ A ŽIVOTNÍ PROSTŘEDÍ ZASTUPITELSTVA MČ PRAHA 11
 web MČ: [https://1url.cz/EMFIH](https://1url.cz/EMFIH)
 FB událost: [https://www.facebook.com/events/306848206643209/](https://www.facebook.com/events/306848206643209/) 
 
-26. 3. 2019 - VEŘEJNÉ JEDNÁNÍ SPOJENÉ S VÝKLADEM ZPRACOVATELE (C. A. M. P., Vyšehradská 57)
+26.3.2019 - VEŘEJNÉ JEDNÁNÍ SPOJENÉ S VÝKLADEM ZPRACOVATELE (C. A. M. P., Vyšehradská 57)
 Veřejná vyhláška: [https://1url.cz/pMFIR](https://1url.cz/pMFIR) 
 
-1. 4. 2018 - KONEC PODÁVÁNÍ PŘIPOMÍNEK - bližší informace ve veřejné vyhlášce
-Veřejná vyhláška: [https://1url.cz/pMFIR](https://1url.cz/pMFIR)
+1.4.2018 - KONEC PODÁVÁNÍ PŘIPOMÍNEK
 
 
 Další materiály:
