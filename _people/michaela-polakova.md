@@ -6,11 +6,11 @@ titles:
 category:
   - priznivci
   - kandidat-obec
-
+description: gesce územní rozvoj, majetek
 img: people/michaela-polakova.jpg
 ---
 
-stavební inženýrka
+stavební inženýrka, člen DR PVK
 
 příznivec Pirátů
 
