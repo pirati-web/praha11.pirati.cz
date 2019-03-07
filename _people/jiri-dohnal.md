@@ -11,6 +11,7 @@ description: předseda MS, gesce finance, IT
 profession: starosta Prahy 11, člen Pirátů, předseda MS
 img: people/jiri-dohnal.jpg
 address: Ocelíkova 672/1, 149 00 Praha 11
+clock: den pro veřejnost se starostou každé pondělí od 17:00 do 18:30
 mail:
   - jiri.dohnal@pirati.cz
 wiki: https://wiki.pirati.cz/lide/jiri_dohnal
