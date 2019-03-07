@@ -7,6 +7,7 @@ category:
   - priznivci
   - kandidat-obec
 
+description: gesce socilní
 img: people/martina-parikova.jpg
 mail:
   - martina.parikova@gmail.com
