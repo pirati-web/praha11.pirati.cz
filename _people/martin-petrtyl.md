@@ -7,7 +7,7 @@ category:
   - priznivci
   - kandidat-obec
 ordclenove: 14
-description: Fundraiser a politolog
+description: dotace a EU fondy, bezpečnost
 img: people/martin-petrtyl.jpg
 
 profiles:
