@@ -21,7 +21,7 @@ FB událost: [https://www.facebook.com/events/306848206643209/](https://www.face
 26.3.2019 - VEŘEJNÉ JEDNÁNÍ SPOJENÉ S VÝKLADEM ZPRACOVATELE (C. A. M. P., Vyšehradská 57)
 Veřejná vyhláška: [https://1url.cz/pMFIR](https://1url.cz/pMFIR) 
 
-1.4.2018 - KONEC PODÁVÁNÍ PŘIPOMÍNEK
+1.4.2019 - KONEC PODÁVÁNÍ PŘIPOMÍNEK
 
 
 Další materiály:
