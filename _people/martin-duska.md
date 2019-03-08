@@ -10,6 +10,7 @@ ordpms: 4
 description: gesce doprava, veřejný prostor, otevřená radnice
 img: people/martin-duska.jpg
 address: Ocelíkova 672/1, 149 00 Praha 11
+clock: den pro veřejnost každé pondělí od 17:00 do 18:30
 mail:
   - martin.duska@pirati.cz
 profiles:
