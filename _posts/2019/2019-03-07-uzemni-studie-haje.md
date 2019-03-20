@@ -1,11 +1,11 @@
 ---
-date: 2019-03-07
+date: 2019-03-20
 category: blog
 tags: praha 11, piráti
 layout: post
 author: Josef Kocourek
 authorId: josef.kocourek
-title: Územní studie v okolí stanice metra Háje - harmonogram
+title: Územní studie v okolí stanice metra Háje - harmonogram (Aktualizováno 20. 3.2019)
 image: articles/2019/2019-03-07-uzemni-studie-haje.jpg
 ---
 
