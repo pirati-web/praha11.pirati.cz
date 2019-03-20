@@ -24,10 +24,12 @@ Veřejná vyhláška: [https://1url.cz/pMFIR](https://1url.cz/pMFIR)
 1.4.2019 - KONEC PODÁVÁNÍ PŘIPOMÍNEK
 
 
+
 Další materiály:
 [https://1url.cz/5MFID](https://1url.cz/5MFID)
 [https://1url.cz/2MFIh](https://1url.cz/2MFIh)
  
+AKTUALIZACE: 20.3.2019 - **Podařilo se vyjednat posunutí termínu, pro dodání připomínek k návrhu územní studie Háje do 30. 4. 2019.**
 
 autor: Josef Kocourek
 
