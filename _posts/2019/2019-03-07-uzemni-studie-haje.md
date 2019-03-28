@@ -1,11 +1,11 @@
 ---
-date: 2019-03-07
+date: 2019-03-20
 category: blog
 tags: praha 11, piráti
 layout: post
 author: Josef Kocourek
 authorId: josef.kocourek
-title: Územní studie v okolí stanice metra Háje - harmonogram
+title: Územní studie v okolí stanice metra Háje - harmonogram (Aktualizováno 20. 3.2019)
 image: articles/2019/2019-03-07-uzemni-studie-haje.jpg
 ---
 
@@ -24,10 +24,12 @@ Veřejná vyhláška: [https://1url.cz/pMFIR](https://1url.cz/pMFIR)
 1.4.2019 - KONEC PODÁVÁNÍ PŘIPOMÍNEK
 
 
+
 Další materiály:
 [https://1url.cz/5MFID](https://1url.cz/5MFID)
 [https://1url.cz/2MFIh](https://1url.cz/2MFIh)
  
+AKTUALIZACE: 20.3.2019 - **Podařilo se vyjednat posunutí termínu, pro dodání připomínek k návrhu územní studie Háje do 30. 4. 2019.**
 
 autor: Josef Kocourek
 
