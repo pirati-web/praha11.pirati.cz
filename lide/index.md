@@ -15,4 +15,7 @@ groups:
     sort: ordPce
   - name: Aktivní příznivci a příznivkyně
     category: priznivci
+  - name: Naši delegáti do výborů a komisí
+    category: delegati
+
 ---
