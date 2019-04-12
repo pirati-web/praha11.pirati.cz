@@ -5,7 +5,7 @@ name:     Jiřina Franková
 category:
   - delegati
 ordpms: 2  
-description: člen Bytové komise
+description: členka Komise pro seniory
 img: people/jirina-frankova.jpg
 age: 
 
