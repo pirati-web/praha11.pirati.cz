@@ -4,7 +4,7 @@ name:     Marek Adler
 
 category:
   - delegati
-ordpms: 2  
+ordpms: 1 
 description: Náš kandidát do  Komise pro výchovu, vzdělávání a národnostní menšiny
 img: people/marek-adler.jpg
 age: 
