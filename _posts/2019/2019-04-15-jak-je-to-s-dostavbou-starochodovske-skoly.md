@@ -6,7 +6,7 @@ layout: post
 author: Zuzana Ujhelyiová
 authorId: zuzana.ujhelyiova
 title: Jak to je s dostavbou Starochodvské školy
-image: articles/2018/2019-04-15-jak-je-to-s-dostavbou-starochodovske-skoly.jpg
+image: articles/2019/2019-04-15-jak-je-to-s-dostavbou-starochodovske-skoly.jpg
 ---
 
 Starochodovská škola je nejstarší školou na území Jižního Města s charakteristickou atmosférou. V současné době však již nevyhovuje požadavkům na prostor jak pro žáky, tak pro učitele.
