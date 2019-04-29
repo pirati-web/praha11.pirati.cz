@@ -10,7 +10,7 @@ description: gesce územní rozvoj, majetek
 img: people/michaela-polakova.jpg
 ---
 
-stavební inženýrka, člen DR PVK
+stavební inženýrka, člen DR PVS
 
 příznivec Pirátů
 
