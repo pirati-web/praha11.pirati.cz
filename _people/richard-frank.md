@@ -1,7 +1,8 @@
 ---
 uid: richard.frank
-name:     Judr. Richard Frank
-
+name:  Richard Frank
+titles:
+  before: Judr.
 category:
   - delegati
 ordpms: 2  

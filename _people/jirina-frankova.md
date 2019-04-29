@@ -1,6 +1,6 @@
 ---
 uid: jirina.frankova
-name:     Jiřina Franková
+name: Jiřina Franková
 
 category:
   - delegati

@@ -1,6 +1,6 @@
 ---
 uid: zuzana.boehmova
-name:     Zuzana Böhmová
+name: Zuzana Böhmová
 titles:
   before: Mgr.
 category:

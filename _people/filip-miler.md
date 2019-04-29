@@ -1,6 +1,6 @@
 ---
 uid: filip.miler
-name:     Filip Miler
+name: Filip Miler
 
 category:
   - clenove

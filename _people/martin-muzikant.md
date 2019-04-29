@@ -1,6 +1,6 @@
 ---
 uid: martin.muzikant
-name:     Martin Muzikant
+name: Martin Muzikant
 titles:
   before: Mag. 
   after: Ph.D.

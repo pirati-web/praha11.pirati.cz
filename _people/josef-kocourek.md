@@ -1,6 +1,6 @@
 ---
 uid: josef.kocourek
-name:     Josef Kocourek
+name: Josef Kocourek
 
 category:
   - clenove

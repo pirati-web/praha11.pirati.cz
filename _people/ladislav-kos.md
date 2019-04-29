@@ -1,6 +1,6 @@
 ---
 uid: ladislav.kos
-name:     Ladislav Kos
+name: Ladislav Kos
 titles:
   before: Ing.
 category:

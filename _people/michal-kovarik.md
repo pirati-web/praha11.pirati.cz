@@ -1,6 +1,6 @@
 ---
 uid: michal.kovarik
-name:     Michal Kovařík
+name: Michal Kovařík
 
 category:
   - clenove

@@ -1,6 +1,6 @@
 ---
 uid: michal.veselsky
-name:     Michal Veselský
+name: Michal Veselský
 
 category:
   - priznivci

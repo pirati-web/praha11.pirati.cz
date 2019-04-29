@@ -1,6 +1,6 @@
 ---
 uid: lada.pexova
-name:     Lada Peksová
+name: Lada Peksová
 titles:
   before: Mgr.
 category:

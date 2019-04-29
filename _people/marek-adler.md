@@ -1,6 +1,6 @@
 ---
 uid: marek.adler
-name:     Marek Adler
+name: Marek Adler
 
 category:
   - delegati

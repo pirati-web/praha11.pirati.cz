@@ -1,6 +1,6 @@
 ---
 uid: milan.minarik
-name:     Milan Minařík
+name: Milan Minařík
 category:
   - pms
   - kandidat-obec

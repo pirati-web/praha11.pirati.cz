@@ -1,6 +1,6 @@
 ---
 uid: martina.parikova
-name:     Martina Paříková
+name: Martina Paříková
 titles:
   before: Mgr.
 category:

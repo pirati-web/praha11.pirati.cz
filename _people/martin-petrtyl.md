@@ -1,6 +1,6 @@
 ---
 uid: martin.petrtyl
-name:     Martin Petrtýl
+name: Martin Petrtýl
 titles:
   before: Mgr.
 category:
