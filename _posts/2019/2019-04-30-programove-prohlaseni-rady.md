@@ -21,5 +21,5 @@ Jaké mají tedy priority Piráti ve vedení městské části Praha 11? Starost
 
 Za dopravu a otevřenou radnici dodává radní Martin Duška: “Mojí prioritou je bezpečná doprava. Nejprve chci investovat do rekonstrukcí. Druhým krokem je inteligentní monitorování dopravy. Třetím krokem je doprava v klidu díky posílení parkovacích kapacit. V rámci gesce otevřené radnice chceme připravit a spustit projekt Otevřených dat, tak aby úřad co nejtransparentněji zveřejňoval informace.”
 
-"Transparentnost je doménou Pirátou, proto bychom chtěli zavést rozklikávací rozpočet na úroveň faktur. Dále vytvoříme mapu s přehledem chystaných investičních  projektů na území městské části.", uvedl starosta Prahy 11 Jiří Dohnal.
+"Transparentnost je doménou Pirátů, proto bychom chtěli kromě jiného zavést rozklikávací rozpočet na úroveň faktur. Dále vytvoříme mapu s přehledem chystaných investičních  projektů na území městské části.", uvedl starosta Prahy 11 Jiří Dohnal.
 
