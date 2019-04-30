@@ -19,6 +19,6 @@ Jaké mají tedy priority Piráti ve vedení městské části Praha 11? Starost
 
 “Trvalá péče o rozvoj vzdělávacích institucí zřízených naší městskou částí je mou hlavní a dlouhodobou prioritou. Výsledkem pak bude prohloubené partnerství na všech úrovních”, tak vidí své hlavní cíle radní pro školství Mgr. Zuzana Ujhelyiová.
 
-Za dopravu a otevřenou radnici dodává radní Martin Duška: “Mojí prioritou je bezpečná doprava. Nejprve chci investovat do rekonstrukcí. Druhým krokem je inteligentní monitorování dopravy. Třetím krokem je doprava v klidu díky posílení parkovacích kapacit. V rámci gesce otevřené radnice chceme připravit a spustit projekt Otevřených dat, tak aby úřad, co nejtransparentněji zveřejňoval informace.”
+Za dopravu a otevřenou radnici dodává radní Martin Duška: “Mojí prioritou je bezpečná doprava. Nejprve chci investovat do rekonstrukcí. Druhým krokem je inteligentní monitorování dopravy. Třetím krokem je doprava v klidu díky posílení parkovacích kapacit. V rámci gesce otevřené radnice chceme připravit a spustit projekt Otevřených dat, tak aby úřad co nejtransparentněji zveřejňoval informace.”
 
 PROGRAMOVÉ PROHLÁŠENÍ RADY MČ PRAHA 11: [2019-04-30-programove-prohlaseni-rady.pdf](/assets/pdf/2019-04-30-programove-prohlaseni-rady.pdf)
