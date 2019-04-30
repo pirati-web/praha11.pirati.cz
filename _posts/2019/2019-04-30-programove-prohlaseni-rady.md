@@ -11,7 +11,7 @@ image: articles/2019/2019-04-30-programove-prohlaseni-rady.jpg
 
 Rada městské části Praha 11 dnes vydala programové prohlášení, tedy seznam úkolů a svých priorit, které chce splnit a na které se chce především zaměřit.
 
-S celým dokumentem se můžete seznámit ZDE: [2019-04-30-programove-prohlaseni-rady.pdf](/assets/pdf/2019-04-30-programove-prohlaseni-rady.pdf)
+S celým dokumentem se můžete seznámit [ZDE](/assets/pdf/2019-04-30-programove-prohlaseni-rady.pdf).
 
 Česká pirátská strana má v Radě MČ tři představitele. Jsou jimi starosta Jiří Dohnal, radní pro školství Mgr. Zuzana Ujhelyiová a radní pro dopravu a otevřenou radnici Mgr. Martin Duška.
 
@@ -23,3 +23,4 @@ Za dopravu a otevřenou radnici dodává radní Martin Duška: “Mojí priorito
 
 "Transparentnost je doménou Pirátů, proto bychom chtěli kromě jiného zavést rozklikávací rozpočet na úroveň faktur. Dále vytvoříme mapu s přehledem chystaných investičních  projektů na území městské části.", uvedl starosta Prahy 11 Jiří Dohnal.
 
+Ke stažení: [2019-04-30-programove-prohlaseni-rady.pdf](/assets/pdf/2019-04-30-programove-prohlaseni-rady.pdf)
