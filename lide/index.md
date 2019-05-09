@@ -10,6 +10,9 @@ groups:
   - name: Místní předsednictvo
     category: pms
     sort: ordpms
+  - name: Zastupitelé MHMP
+    category: mhmp
+    sort: ordpms    
   - name: Členové
     category: clenove
     sort: ordPce

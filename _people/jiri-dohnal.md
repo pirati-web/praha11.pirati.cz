@@ -5,6 +5,8 @@ name:     Jiří Dohnal
 category:
   - kandidat-obec
   - pms
+  - mhmp
+  
 categories: kontaktni_osoba    
 ordpms: 1
 description: předseda MS, gesce finance, IT
