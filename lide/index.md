@@ -10,7 +10,7 @@ groups:
   - name: Místní předsednictvo
     category: pms
     sort: ordpms
-  - name: Zastupitelé MHMP
+  - name: Naši zastupitelé na Magistrátu hlavního města Prahy
     category: mhmp
     sort: ordpms    
   - name: Členové
