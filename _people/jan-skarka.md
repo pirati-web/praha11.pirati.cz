@@ -7,7 +7,7 @@ category:
   - delegati
 ordpms: 5  
 description: člen Bytové komise
-img: people/richard-frank.jpg
+img: people/jan-skarka.jpg
 age: 
 
 ---
