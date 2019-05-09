@@ -6,6 +6,8 @@ titles:
 category:
   - kandidat-obec
   - clenove
+  - mhmp
+
 ordpms: 4
 description: gesce územní rozvoj, doprava, sport
 img: people/ladislav-kos.jpg
