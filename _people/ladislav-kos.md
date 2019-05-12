@@ -17,7 +17,7 @@ profiles:
   facebook: https://www.facebook.com/ladislavkos111
 ---
 
-zastupitel MČ Praha 11, gesce: územní rozvoj, doprava, sport
+zastupitel MČ Praha 11, zastupitel HLMP, gesce: územní rozvoj, doprava, sport
 
 konzultant inline marketingu
 
