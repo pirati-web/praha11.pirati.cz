@@ -4,8 +4,8 @@ category: blog
 tags: piráti
 layout: post
 title: Mostní prohlídka
-author: Milan Minařík
-authorId: milan.minarik
+author: Martin Duška
+authorId: martin.duska
 image: articles/2019/2019-05-14-mostni-prohlidka.jpg
 ---
 
