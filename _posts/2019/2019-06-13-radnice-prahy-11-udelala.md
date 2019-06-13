@@ -5,7 +5,7 @@ tags: piráti
 layout: post
 title: Radnice Prahy 11 udělala první krůček k otevřenosti
 author: Zuzana Böhmová
-authorId: zuzana.bohmova
+authorId: zuzana.boehmova
 image: articles/2019/2019-06-13-radnice-prahy-11-udelala.jpg
 ---
 
