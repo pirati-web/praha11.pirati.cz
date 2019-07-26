@@ -1,5 +1,5 @@
 ---
-uid: zuzana.boehmova
+uid: zuzana.bohmova
 name: Zuzana Böhmová
 titles:
   before: Mgr.
@@ -7,9 +7,9 @@ category:
   - clenove
   - kandidat-obec
 description: gesce školství, otevřená radnice a digitalizace
-img: people/zuzana-boehmova.jpg
+img: people/zuzana-bohmova.jpg
 mail:
-  - zuzana.boehmova@pirati.cz
+  - zuzana.bohmova@pirati.cz
 profiles:
   facebook: https://www.facebook.com/zuzana.bohmova
 ---
