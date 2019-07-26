@@ -33,7 +33,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 33
     profession: Meteorolog, vědecký pracovník
     party: Piráti
-  - uid: zuzana.boehmova
+  - uid: zuzana.bohmova
     age: 28
     profession: Učitelka
     party: BEZ PP    

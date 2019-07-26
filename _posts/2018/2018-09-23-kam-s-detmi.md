@@ -5,7 +5,7 @@ tags: praha 11, jižní město, piráti
 layout: post
 title: Kam s dětmi?
 author: Mgr. Zuzana Böhmová
-authorId: zuzana.boehmova
+authorId: zuzana.bohmova
 image: articles/2018/2018-09-23-kam-s-detmi.jpg
 ---
 

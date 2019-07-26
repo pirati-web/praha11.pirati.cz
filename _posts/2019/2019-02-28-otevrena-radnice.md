@@ -4,7 +4,7 @@ category: blog
 tags: praha 11, piráti
 layout: post
 author: Mgr. Zuzana Böhmová
-authorId: zuzana.boehmova
+authorId: zuzana.bohmova
 title: Výbor pro otevřenou radnici a digitalizaci
 image: articles/2019/2019-02-28-otevrena-radnice.png
 ---
