@@ -1,25 +1,20 @@
 ---
-date: 2019-08-29
+date: 2019-07-02
 category: blog
 tags: piráti
 layout: post
-title: Rozklikávací rozpočet pro Prahu 11
+title: Začala stavba západního křídla Starochodovské školy
 author: Zuzana Böhmová
 authorId: zuzana.bohmova
-image: articles/2019/2019-08-29-rozklikavaci-rozpočet.jpg
+image: articles/2019/2019-07-02-dostavba-starochodovske-skoly.jpg
 ---
 
-Zajímá Vás, jak Vaše město hospodaří? Kam se investují peníze vybrané i z Vašich daní? Co se za Vaše peníze platí?
-
-Již před začátkem prázdnin doporučil Výbor pro otevřenou radnici a digitalizaci Radě MČ Praha 11 zavést rozklikávací rozpočet CityVizor. Přes prázdniny jsme nelenili a hledali vhodné způsoby jak jej co nejlépe propojit se stávajícími účetními systémy. Práce na tomto projektu pokročila i díky spolupráci s pražským magistrátem a spolkem Otevřená města (který CityVizor zdarma provozuje). Rozklikávací rozpočet CityVizor byl vyvinut na Ministerstvu financí.
+Dne 24. 6. 2019 bylo na pozemku Starochodovské školy nainstalováno stavební oplocení a po mnoha letech konečně začala realizace dostavby Základní školy a mateřské školy Chodov, Praha 4, Květnového vítězství 57.
 
 
 
-Co je vlastně rozklikávací rozpočet?
+V roce 2011 bylo rozhodnuto o demolici přístavku na základě posudku statika, tím došlo ke snížení výukových ale i šatnových prostorů. Již ve stejném roce dochází k příslibu dostavby západního křídla ústy tehdejší politické reprezentace. Od tohoto prohlášení uplynuly tři roky a projektová dokumentace byla na světě. Následně přichází roky do zhotovení projektové dokumentace. Po volbách 2014 nové vedení radnice smetlo projektovou dokumentaci pod stůl a zadalo vytvoření nové projektové dokumentace nově vysoutěžené firmě. Požadavky na projekt však byly totožné. Tento druhý projekt po jeho dokončení získal stavební povolení. V roce 2017 rada od magistrátu vyjednala bezúročnou půjčku na 100 milionu Kč.  V dalším roce proběhla soutěž na zhotovitele stavby.  
 
-Jedná se o grafické znázornění rozložení peněz, se kterými hospodaří městská část. Každý si může na webu městské části vyhledat jednotlivé kategorie rozpočtu. Školství, bydlení nebo doprava.  Kromě přehledu výdajů může zobrazit i faktury, které město proplácí.
+Od vzniku nové Rady městské části Praha 11 (únor 2019), ve které máme pirátského starostu Jiřího Dohnala a radní pro školství Zuzanu Ujhelyiovou, došlo k několika významným posunům v tomto projektu. Rada vybrala zhotovitele stavby. Radní Zuzaně Ujhelyiové se podařilo na MHMP získat dotaci ve výši 50 milionů korun na dostavbu. Po mnohých peripetiích po osmi letech konečně dochází k začátku stavby.
 
-Rozklikávací rozpočet slouží k lepšímu předávání informací o stavu městské pokladny. Každý si může snadno dohledat základní údaje bez nutnosti žádat úředníky nebo složitě vyhledávat v tabulkách a usneseních.  Rozklikávací rozpočet posiluje možnost kontroly volených zástupců. Je z něj patrné, zda vynakládají veřejné prostředky hospodárným způsobem. Tak jako chce stát naše daňové přiznání, měli bychom i my mít přehled o stavu veřejných financí.
-
-
-Rozklikávací rozpočet vnímáme jako jeden ze základů transparentního fungování radnice. Díky němu se prohlubuje informovanost o dění v městské části. Do konce roku bychom chtěli tento projekt spustit. 
+Jsme velmi rádi, že se dostavba školy realizuje. V rámci dostavby vzniknou nové kmenové a specializovavé učebny, šatnové prostory a malá tělocvična.
