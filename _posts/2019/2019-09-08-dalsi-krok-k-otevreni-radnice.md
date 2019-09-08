@@ -6,19 +6,23 @@ layout: post
 title: Další krok k otevření radnice
 author: Zuzana Böhmová
 authorId: zuzana.bohmova
-image: articles/2019/2019-06-13-radnice-prahy-11-udelala.jpg
+image: articles/2019/2019-09-08-dalsi-krok-k-otevreni-radnice.jpg
 ---
 
-Dne 13. 6. 2019 byl na jednání Zastupitelstva městské části Praha 11 schválen materiál, který mění jednací řád zastupitelstva a stanovuje pevný čas interpelací. Jedná se o první část změny jednacích řádů iniciovaných Piráty směrem k otevření volené samosprávy občanům. Tyto změny jsou i součástí ujednání koaliční smlouvy „Společně pro Jižní Město“ současné koalice (Piráti, ANO, TOP/STAN, ODS).
-
-V praktickém důsledku to znamená, že od září bude na každém řádném jednání zastupitelstva určen pevný čas pro bod  „Dotazy, připomínky a podněty členů zastupitelstva“ od 17:00 v délce 30 minut a pevný čas pro bod „Návrhy, připomínky a podněty občanů městské části Praha 11“ od 17:30 v délce celé jedné hodiny, tedy do 18:30. Přihlášky k interpelaci je možné podat do začátku bodu. Zastupitelé a občané se mohou dotazovat v délce 3 minut a následně mají možnost položit v délce 1 minuty doplňující dotazy.
-
-Našim cílem je především zpřístupnit úřad občanům Prahy 11. Chceme, aby změna jednacího řádu zastupitelstva přežila toto volební období, z toho důvodu jsme se na Výboru pro otevřenou radnici a digitalizaci snažili najít takovou úpravu, která bude přijatelná pro všechny politické kluby, které se v tomto volebním období dostali do Zastupitelstva městské části Praha 11.
-
-Mé speciální poděkování patří Martinu Zíkovi (tajemníkovi Výboru pro otevřenou radnici a digitalizaci), Mgr. Radku Pištorovi (vedoucímu Odboru kanceláře starosty, který poskytl prvotní materiál a zpracoval finální verzi textu). Dále bych chtěla poděkovat všem členům výboru, jmenovitě Mgr. Tereze Dolanské a panu Martinu Farmačkovi, kteří poskytli svou variantu textu. Výsledný text je společnou prací všech členů výboru a zaměstnanců odboru kanceláře starosty.
+V prvním zářijovém týdnu se konal již šestý Výbor pro otevřenou radnici a digitalizaci (VORAD). Na programu tentokrát byla především otevřená data a změny jednacích řádů výborů a komisí.
 
 
+Na téma otevřených dat přišla pohovořit návštěva z ICT Operátora - Tereza Zrnová, koordinátorka OpenDat pro MHMP a Bc. Benedikt Kotmel, projektový manažer. Diskuze se vedla nad využitelností OpenDat a jejich přínosu pro samotný úřad. Jako například vyčištění vlastních registrů od duplicit, zveřejnění informací, aniž by bylo nutné je požadovat skrze Zákon o svobodném přístupu k informacím 106/1999 Sb., transparentní zveřejňování dat a možnost vytvořit lepší služby/aplikace pro občany (například aplikace, které Vám prozradí, zda vaši zástupci jsou přítomni na ZMČ a jak hlasují, nebo i aplikace vyhledávající a srovnávající školy, nebo taková, která porovnává výdaje a příjmy dané MČ). V současné době se radnice Prahy 11 bude snažit obsadit pracovní pozici koordinátora OpenDat pro MČ Praha 11, jehož úkolem bude vytvořit interní směrnici úřadu a koordinovat zveřejňování otevřených dat a spolupráce s dalšími městskými částmi. Zároveň na radnici Prahy 11 vzniká nápad na uspořádání akce, při které by byli pozváni různí programátoři, kteří by ukázali, jak by data mohla ve formě různých aplikací posloužit veřejnosti.  
+
+
+Druhým velkým tématem byly změny jednacích řádů komisí a výborů. Cílem změn je zpřístupnit jednání veřejnosti a umožnit všem hostům výborů a komisí se vyjádřit k jednotlivým bodům. Komise by tedy nyní měly být veřejně přístupné, pokud nebude existovat závažný důvod k neveřejnému jednání (kromě Bytové komise a Komise sociální a zdravotní, kde jsou projednávány osobní údaje). Pro usnadnění jednání výborů a jejich přehlednost především pro hosty jsme do jednacího řádu nově přidali doporučený postup projednávání bodů, což by mělo umožnit se všem hostům k projednávaným bodům vyjádřit. Abychom mohli zajistit dostatečně prostory pro veřejnost, rozhodli jsme se zavést rezervační systém (pomocí emailu tajemníkovi výboru/komise).
+
+Návrhy na tyto změny byly doporučeny ke schválení Radě městské části (v případě komisí) a Zastupitelstvu městské části Praha 11 (v případě výborů).
+
+Dále byli členové a hosté výboru informování o projektech: CitiVizor (vyplývající z usnesení VORAD z 4. 6. 2019), GIS mapy, participativní rozpočet, Národní síť Zdravých měst.
 
 
 
-Celé znění změny jednacího řádu naleznete [ZDE](https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=6504&slozka=12&as4uOriginalDomain=www.praha11.cz&as4u_protocol=https&ConfirmCookie=confirm&_gid=GA1.2.1982765076.1560339430&bod=2425522.).
+
+
+Odkaz na zápis naleznete [ZDE](https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=785&slozka=12&xsekce=150&slozka=12&komise=64&from_date_usn=29.+7.+2019&to_date_usn=).
