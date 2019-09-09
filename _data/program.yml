@@ -3,28 +3,34 @@
   title: .
   desc: .
   garant: jiri.dohnal
-  redmine: 18612
+  redmine: 186120000
 -
   id: 2
   title: .
   desc: .
   garant: zuzana.ujhelyiova
-  redmine: 18612  
+  redmine: 186120001
 -
   id: 3
   title: .
   desc: .
   garant: duska.martin
-  redmine: 18612
+  redmine: 186120002
 -
   id: 4
   title: .
   desc: .
   garant: ladislav.kos
-  redmine: 18612
+  redmine: 186120003
 -
   id: 5
   title: .
   desc: .
   garant: zuzana.bohmova
-  redmine: 18612
+  redmine: 186120004
+-
+  id: 6
+  title: .
+  desc: .
+  garant: josef.kocourek
+  redmine: 186120004  
