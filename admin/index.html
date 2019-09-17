@@ -47,7 +47,7 @@
             h('dd', {}, this.props.widgetsFor('posts').getIn(['data', 'author']) || 'None'),
 
             h('dt', {}, 'Default Thumbnail'),
-            h('dd', {}, thumb && h('img', {src: this.props.getAsset(thumb).toString()}))
+            h('dd', {}, thumb && h('img', {src: 'assets/img/'+this.props.getAsset(thumb).toString()}))
           )
         );
       }
