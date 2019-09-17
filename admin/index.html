@@ -20,7 +20,7 @@
         return h('div', {},
           h('div', {className: "cover"},
             h('h1', {}, entry.getIn(['data', 'title'])),
-            bg ? h('img', {src: bg.toString()}) : null
+            bg ? h('img', {src: 'assets/img/'+bg.toString()}) : null
           ),
           h('p', {},
             h('small', {}, "Written " + entry.getIn(['data', 'date']))
