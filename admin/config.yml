@@ -88,10 +88,13 @@ collections: # A list of collections the CMS should be able to edit
     slug: "{{slug}}"
     create: false # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Category", name: "category", widget: "hidden", default: ""}
-      - {label: "Name", name: "name", widget: "string", tagname: "h1", required: true}
+      - {label: "Kategorie", name: "category", widget: "hidden", default: ""}
+      - {label: "Jméno", name: "name", widget: "string", tagname: "h1", required: true}
+      - {label: "Popis", name: "description", widget: "string", required: true}      
       - {label: "Mob", name: "mob", widget: "string", required: true}
-      - {label: "mail", name: "mail", widget: "text", required: true}
+      - {label: "E-mail", name: "mail", widget: "text", required: true}
       - {label: "Obrázek", name: "img", widget: "image", required: false, tagname: ""}
       - {label: "Obsah", name: "body", widget: "markdown", required: true}
+      - {label: "Profil", name: "profiles", widget: "markdown", required: true}
+      - {label: "Řazení", name: "ordpms  ", widget: "integer", required: true}          
     card: {type: "image", image: "image", text: "title", required: true}
