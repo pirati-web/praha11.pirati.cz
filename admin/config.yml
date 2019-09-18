@@ -51,5 +51,5 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Obrázek", name: "img", widget: "image", required: false, tagname: ""}
       - {label: "Obsah", name: "body", widget: "markdown", required: true}
       - {label: "Profil", name: "profiles", widget: "markdown", required: true}
-      - {label: "Řazení", name: "ordpms  ", widget: "integer", required: true}          
+      - {label: "Řazení", name: "ordpms  ", widget: "string", required: true}          
     card: {type: "image", image: "image", text: "title", required: true}
