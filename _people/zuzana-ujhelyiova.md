@@ -4,7 +4,7 @@ category:
   - pms
 name: Zuzana Ujhelyiová
 description: gesce školství
-mob: '0'
+#mob:
 mail:
   - zuzana.ujhelyiova@pirati.cz
 img: people/zuzana-ujhelyiova.jpg
