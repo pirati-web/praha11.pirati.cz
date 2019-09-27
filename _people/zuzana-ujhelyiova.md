@@ -1,22 +1,15 @@
 ---
-uid: zuzana.ujhelyiova
-name: Zuzana Ujhelyiová
-titles:
-  before: Mgr. 
 category:
   - kandidat-obec
-  - pms  
-ordpms: 3
+  - pms
+name: Zuzana Ujhelyiová
 description: gesce školství
-img: people/zuzana-ujhelyiova.jpg
+mob: '0'
 mail:
   - zuzana.ujhelyiova@pirati.cz
-  #- ujhelyiovaz@praha11.cz
-address: Vidimova 1324/4, 149 41 Praha 11 
-clock: den pro veřejnost s radní každá poslední středa v měsíci od 15:00 do 18:00
-profiles:
-  facebook: https://www.facebook.com/acacia.MK
-calendar: 80pl8p1mv39g3gljau4l4qfu9o@group.calendar.google.com
+img: people/zuzana-ujhelyiova.jpg
+profiles: 'Map { "facebook": "https://www.facebook.com/ujhelyiovazuzana" }'
+ordpms: 3
 ---
 
 radní s gescí školství
