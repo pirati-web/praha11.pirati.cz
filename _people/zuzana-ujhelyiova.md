@@ -8,7 +8,8 @@ description: gesce školství
 mail:
   - zuzana.ujhelyiova@pirati.cz
 img: people/zuzana-ujhelyiova.jpg
-profiles: 'Map { "facebook": "https://www.facebook.com/ujhelyiovazuzana" }'
+profiles:
+  facebook: https://www.facebook.com/ujhelyiovazuzana
 ordpms: 3
 ---
 
