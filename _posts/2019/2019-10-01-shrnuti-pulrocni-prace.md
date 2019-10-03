@@ -9,7 +9,7 @@ authorId: zuzana.ujhelyiova
 image: articles/2019/2019-10-01-shrnuti-pulrocni-prace.jpg
 ---
 
-Přes půl roku jsou Piráti na radnici Prahy 11 a já bych Vám ráda přiblížila, jak se mi daří naplňovat volební program.
+*Přes půl roku jsou Piráti na radnici Prahy 11 a já bych Vám ráda přiblížila, jak se mi daří naplňovat volební program.*
 
  
 Komunikace s občany není ani tak volební program jako spíš můj základní přístup k Vám, občanům. Kromě pravidelných dní pro veřejnost (vždy poslední středa v měsíci), kdy jsou pro Vás dveře otevřeny pravidelně mezi 15 a 18 hodinou, Vám reportuji na svém [oficiálním facebookovém profilu](https://www.facebook.com/ujhelyiovazuzana/). K dispozici jsou moje týdenní zprávy o činnosti (které jsou také dostupné v mém [veřejném kalendáři](https://calendar.google.com/calendar/embed?src=80pl8p1mv39g3gljau4l4qfu9o%40group.calendar.google.com&ctz=Europe%2FPrague&fbclid=IwAR0kpmmVf5tyYO3f4mPP-_FZzjHOqFRL3jUkIzE9EgacykuyGnoDOYevnYo) vždy v neděli), seznamuji Vás se svými plány, s akcemi, kterých se účastním i s úspěchy našich škol.
