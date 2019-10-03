@@ -9,7 +9,7 @@ authorId: josef.kocourek
 image: articles/2019/219-20-03-budouci-podoba-roztyl.jpg
 ---
 
-*Ve středu 10. října proběhne veřejné setkání s občany, kde se budete moci vyjádřit k návrhu územní studie v okolí metra Roztyly. Chceme slyšet Vaše názory na budoucí podobu tohoto území. Podrobnosti k celé problematice, náš pohled na studii a námi právě zpracovávané připomínky naleznete v článku.*
+*Ve středu 9. října proběhne veřejné setkání s občany, kde se budete moci vyjádřit k návrhu územní studie v okolí metra Roztyly. Chceme slyšet Vaše názory na budoucí podobu tohoto území. Podrobnosti k celé problematice, náš pohled na studii a námi právě zpracovávané připomínky naleznete v článku.*
 
 Jak jste mohli zaznamenat, požádala naše městská část před několika lety magistrát o zpracování studie pro územní část Roztyl, a to na základě podnětu spolku “Zelené Roztyly”. 
 
