@@ -27,7 +27,7 @@ Protože jsou pro nás vaše náměty velmi důležité a cenné, pořádáme da
 
 Připomínky Pirátů Prahy 11 jsme předali na Odbor územního rozvoje a budou zapracovány do připomínek městské části Praha 11. Zároveň je podáme také  samostatně na veřejném setkání v KC Zahrada, tak abyste měli možnost na ně reagovat.
 
-Stále aktualizovaný rozpracovaný seznam našich připomínek naleznete v [tomto dokumentu] (https://docs.google.com/document/d/1B4UuX2JMV3Az9BGsPsuQbWuDxeLuL1BeKbf3Yhemrns/edit?usp=sharing)
+Stále aktualizovaný rozpracovaný seznam našich připomínek naleznete v [tomto dokumentu](https://docs.google.com/document/d/1B4UuX2JMV3Az9BGsPsuQbWuDxeLuL1BeKbf3Yhemrns/edit?usp=sharing)
 
 Jako největší problémy vnímáme:
 nepřiměřenou zástavbu a s ní spojený úbytek zelených ploch,
