@@ -41,4 +41,4 @@ Navrhujeme též vyvedení Roztylského potoka na povrch a vytvoření série me
 
 Ke studii připravujeme také grafický náhled celého území, který bude ke studii přiložen. V současné chvíli je rozpracován a v nejbližších dnech jej doplníme do výše zmíněného dokumentu.
 
-[us](/assets/img/articles/2019/2019-10-3-us.jpg) 
+![us](/assets/img/articles/2019/2019-10-3-us.jpg) 
