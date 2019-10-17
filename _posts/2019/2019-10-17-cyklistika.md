@@ -1,5 +1,5 @@
 ---
-date: 2019-10-18
+date: 2019-10-17
 category: blog
 tags: praha 11, piráti, doprava, cyklistika
 layout: post
