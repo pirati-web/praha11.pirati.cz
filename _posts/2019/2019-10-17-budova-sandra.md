@@ -1,14 +1,14 @@
 ---
 layout: post
 category: blog
-title: >-
-  Zastupitelé hlavního města Prahy schválili dotaci a půjčku na rekonstrukci
-  budovy Sandra
+title: Zastupitelé hlavního města Prahy schválili dotaci a půjčku na rekonstrukci budovy Sandra
 date: '2019-10-18 02:00am'
 author: Jiří Dohnal
 image: articles/2019/2019-10-18-sandra.jpg
 tags: praha11 pirati Sandra byty
 ---
+
+
 Na základě žádosti městské části Praha 11 došlo na dnešním zasedání zastupitelstva hl. města Prahy ke schválení investiční dotace ve výši 30 mil. Kč a návratné finanční výpomoci (tzv. půjčky) ve výši 100 mil. Kč. Důvodem žádosti bylo pokrýt náklady na současnou rekonstrukci multifunkční budovy Sandra, která je umístěna na adrese Nad Opatovem 2140/2, Praha 4 - Chodov. Rekonstrukce budovy započala v červnu 2019 a předpokládaný odhad jejího dokončení je polovina roku 2021.
 
 Budova je ve vlastnictví hlavního města Prahy ve svěřené péči MČ Praha 11 a tvoří ji tři části. Nejvyšší část je vysoká 68 metrů a má 22 podlaží. Ze dvou stran je obestavěna dvou a tří podlažními přístavbami s bytovými a nebytovými prostory. Dům byl původně kolaudován jako ubytovna. Před zahájením rekonstrukce v jedné části sídlil radniční odbor sociálních věcí a zdravotnicví MČ Praha 11.
