@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: Zastupitelé hlavního města Prahy schválili dotaci a půjčku na rekonstrukci budovy Sandra
-date: '2019-10-18 02:00am'
+date: 2019-10-17
 author: Jiří Dohnal
 image: articles/2019/2019-10-18-sandra.jpg
 tags: praha11 pirati Sandra byty
