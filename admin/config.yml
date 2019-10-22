@@ -4,9 +4,9 @@ backend:
   branch: master              # Branch to update
   base_url: https://piraweboauth.herokuapp.com
 
-media_folder: "assets/img/articles" # Media files will be stored in the repo under static/images/uploads
-public_folder: "assets/img/articles" # The src attribute for uploaded media will begin with /images/uploads
-
+media_folder: "" # Media files will be stored in the repo under static/images/uploads
+public_folder: "" # The src attribute for uploaded media will begin with /images/uploads
+#assets/img/articles
 collections: # A list of collections the CMS should be able to edit
   - name: "posts-2019" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Články 2019" # Used in the UI, ie.: "New Post"
