@@ -31,7 +31,9 @@ předseda MS
  
 Jako jihoměstský patriot chci pracovat na tom, aby se Praha 11 opět stala místem, kde se lidé setkávají, pracují a jsou hrdí, že je jejich domovskou adresou. Pro naplnění téhle vize považuji za nezbytné zajistit naší městské části udržitelný rozvoj a otevřít ji jejím občanům, kteří musí mít možnost přímo se na samosprávě podílet.
 
+### Odkazy 
 
+* [Veřejný kalendář starosty](https://webmail.praha11.cz/owa/calendar/dohnalJ@praha11.cz/Kalendář/calendar.html)
 
 
 
