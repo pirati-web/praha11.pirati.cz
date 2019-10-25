@@ -15,7 +15,7 @@ address: Ocelíkova 672/1, 149 00 Praha 11
 clock: den pro veřejnost se starostou každé pondělí od 17:00 do 18:30
 mail:
   - jiri.dohnal@pirati.cz
-wiki: https://wiki.pirati.cz/lide/jiri_dohnal
+#wiki: 
 #mob: 
 profiles:
   facebook: https://www.facebook.com/jiridohnal.cz
@@ -34,6 +34,7 @@ Jako jihoměstský patriot chci pracovat na tom, aby se Praha 11 opět stala mí
 ### Odkazy 
 
 * [Veřejný kalendář starosty](https://webmail.praha11.cz/owa/calendar/dohnalJ@praha11.cz/Kalendář/calendar.html)
+* [Wiki](https://wiki.pirati.cz/lide/jiri_dohnal)
 
 
 
