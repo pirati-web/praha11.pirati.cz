@@ -1,5 +1,5 @@
 ---
-date: 2019-10-01
+date: 2019-10-31
 category: blog
 tags: piráti
 layout: post
