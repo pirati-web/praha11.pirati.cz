@@ -4,9 +4,7 @@ name: Martin Duška
 titles:
   before: Mgr.
 category:
-  - kandidat-obec
-  - pms  
-ordpms: 4
+  - clenove
 description: gesce doprava, veřejný prostor, otevřená radnice
 img: people/martin-duska.jpg
 address: Ocelíkova 672/1, 149 00 Praha 11
