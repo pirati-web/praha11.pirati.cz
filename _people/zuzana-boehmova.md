@@ -4,8 +4,9 @@ name: Zuzana Böhmová
 titles:
   before: Mgr.
 category:
-  - clenove
+  - pms
   - kandidat-obec
+orderpms: 2
 description: gesce školství, otevřená radnice a digitalizace
 img: people/zuzana-bohmova.jpg
 mail:
