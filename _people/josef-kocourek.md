@@ -1,10 +1,12 @@
 ---
 uid: josef.kocourek
 name: Josef Kocourek
-
 category:
   - clenove
+  - pms
   - kandidat-obec
+categories: kontaktni_osoba    
+ordpms: 1
 ordclenove: 4
 description: gesce územní rozvoj, doprava
 img: people/josef-kocourek.jpg
