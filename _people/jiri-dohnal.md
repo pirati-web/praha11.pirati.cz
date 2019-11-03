@@ -4,10 +4,10 @@ name:     Jiří Dohnal
 
 category:
   - kandidat-obec
-  - pms
+#  - pms
   
-categories: kontaktni_osoba    
-ordpms: 1
+#categories: kontaktni_osoba    
+#ordpms: 1
 description: předseda MS, gesce finance, IT
 profession: starosta Prahy 11, člen Pirátů, předseda MS
 img: people/jiri-dohnal.jpg
