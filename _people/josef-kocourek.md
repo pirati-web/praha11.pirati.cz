@@ -2,7 +2,6 @@
 uid: josef.kocourek
 name: Josef Kocourek
 category:
-  - clenove
   - pms
   - kandidat-obec
 categories: kontaktni_osoba    
