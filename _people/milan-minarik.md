@@ -4,7 +4,7 @@ name: Milan Minařík
 category:
   - pms
   - kandidat-obec
-ordpms: 2  
+ordpms: 3
 description: gesce životní prostředí, bezpečnost
 img: people/milan-minarik.jpg
 mail:
