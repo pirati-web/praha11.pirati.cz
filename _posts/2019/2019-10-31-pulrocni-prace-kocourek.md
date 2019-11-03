@@ -53,3 +53,5 @@ Při práci pro městskou část jsem se utvrdil ve svém názoru, že pro úsp�
 Ve svém volném čase se věnuji dokumentování Jižního Města, pomocí dronu, který jsem si pořídil na vlastní náklady. Pohled z výšky mi pomáhá lépe pojmout záměry výstavby z hlediska urbanistiky. V tuto chvíli můj koníček slouží i různým odborům radnice, či městské policii, kteří mě pro spolupráci oslovili.
 
 V případě jakýchkoli dotazů mě můžete kontaktovat na emailu kocourekj@praha11.cz. Při řešení konkrétních problémů vždy preferuji osobní setkání.
+
+![Pohled na Jižní Město](/assets/img/articles/2019/2019-10-31-pepa.jpg)
