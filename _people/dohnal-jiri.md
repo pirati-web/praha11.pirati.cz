@@ -9,7 +9,9 @@ category:
   
 #categories: kontaktni_osoba    
 #ordpms: 1
-description: starosta pro informační technologie, digitalizaci, finanční politiku, krizové řízení a bydlení
+description: starosta pro informační technologie, digitalizaci, finanční politiku, krizové řízení a bydlení <br>▪ člen dozorčí rady společností Výstaviště Praha, a.s.
+
+
 profession: starosta Prahy 11, člen Pirátů
 img: people/jiri-dohnal.jpg
 address: Ocelíkova 672/1, 149 00 Praha 11
