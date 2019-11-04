@@ -7,7 +7,7 @@ category:
   - clenove
   - kandidat-obec
 ordclenove: 16
-description: gesce kultura
+description: ▪ Komise pro kulturu a spolky
 img: people/lada-pexova.jpg
 mail:
   - lada.pexova@pirati.cz
