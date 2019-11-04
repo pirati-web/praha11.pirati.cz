@@ -7,7 +7,7 @@ category:
   - priznivci
   - kandidat-obec
 ordclenove: 14
-description: gesce dotace a EU fondy, bezpečnost
+description: ▪ Bezpečnostní komise <br>▪ Komise pro dotace a EU fondy
 img: people/martin-petrtyl.jpg
 
 profiles:
