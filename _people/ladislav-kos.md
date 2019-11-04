@@ -9,7 +9,7 @@ category:
   - mhmp
 
 ordpms: 4
-description: gesce územní rozvoj, doprava, sport
+description: ▪ Dopravní komise P11
 img: people/ladislav-kos.jpg
 mail:
   - ladislav.kos@pirati.cz
