@@ -5,7 +5,7 @@ name:     Jan Suchánek
 category:
   - clenove
   - kandidat-obec
-#description: gesce IT
+#description: ▪ Komise informatiky
 img: people/jan-suchanek.jpg
 mail:
   - honza@suchanek.cz
