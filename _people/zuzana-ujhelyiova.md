@@ -1,7 +1,7 @@
 ---
 uid: zuzana.ujhelyiova
 name: Zuzana Ujhelyiová
-description: gesce školství
+description: místopředseda MS <br> ▪ radní pro školství
 titles:		
   before: Mgr. 	
 category:
