@@ -11,6 +11,7 @@ ordpms: 4
 mail:
   - zuzana.ujhelyiova@pirati.cz
   #- ujhelyiovaz@praha11.cz
+mob: +420 778 421 041
 img: people/zuzana-ujhelyiova.jpg
 profiles:
   facebook: https://www.facebook.com/ujhelyiovazuzana
