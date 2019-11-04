@@ -9,7 +9,7 @@ category:
   - mhmp
 
 ordpms: 4
-description: ▪ Dopravní komise P11
+description: ▪ předseda Sportovní komise MHMP <br>▪ Výboru pro dopravu MHMP <br>▪ Výboru pro zdravotnictví, sport a volný čas MHMP <br>▪ Dopravní komise P11
 img: people/ladislav-kos.jpg
 mail:
   - ladislav.kos@pirati.cz
