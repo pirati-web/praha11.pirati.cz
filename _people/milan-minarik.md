@@ -5,7 +5,7 @@ category:
   - pms
   - kandidat-obec
 ordpms: 3
-description: gesce životní prostředí, bezpečnost
+description: místopředseda MS <br> ▪ Finanční výbor <br> ▪ Bezpečnostní komise
 img: people/milan-minarik.jpg
 mail:
   - milan.minarik@pirati.cz
