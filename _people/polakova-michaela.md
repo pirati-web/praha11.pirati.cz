@@ -6,7 +6,7 @@ titles:
 category:
   - priznivci
   - kandidat-obec
-description: gesce územní rozvoj, majetek
+description: 
 img: people/michaela-polakova.jpg
 ---
 
