@@ -7,7 +7,7 @@ category:
 categories: kontaktni_osoba    
 ordpms: 1
 ordclenove: 4
-description: předseda MS <br> místopředseda Výboru pro územní rozvoj a životní prostředí <br> Komise pro strategické a územní plánování
+description: předseda MS <br> ▪ místopředseda Výboru pro územní rozvoj a životní prostředí <br> ▪ Komise pro strategické a územní plánování
 
 img: people/josef-kocourek.jpg
 mail:
