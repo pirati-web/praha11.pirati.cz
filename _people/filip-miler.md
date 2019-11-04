@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 ordpms: 2  
-description: Výbor pro otevřenou radnici a digitalizaci
+description: ▪ Výbor pro otevřenou radnici a digitalizaci
 img: people/filip-miler.jpg
 age: 
 mail:
