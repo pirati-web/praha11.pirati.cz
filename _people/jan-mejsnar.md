@@ -7,7 +7,7 @@ titles:
 category:
   - clenove
   - kandidat-obec
-description: gesce sociální a zdravotní věci, životní prostředí
+description: ▪ předseda Komise pro životní prostředí <br>▪ Komise sociální a zdravotní <br>▪ Kontrolní výbor <br>▪ místopředseda dozorčí rady Jihoměstská sociální
 img: people/jan-mejsnar.jpg
 mail:
   - jan.mejsnar@pirati.cz
