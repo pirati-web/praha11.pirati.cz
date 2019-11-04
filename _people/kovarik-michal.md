@@ -5,7 +5,7 @@ name: Michal Kovařík
 category:
   - clenove
   - kandidat-obec
-description: gesce kultura
+description: ▪ předseda Komise pro kulturu a spolky <br>▪ Komise mediální <br>▪ Komise pro realizaci koncepce sociálních a návazných služeb na Praze 11 <br>▪ člen dozorčí rady Kulturní jižní město
 img: people/michal-kovarik.jpg
 mail:
   - michal.kovarik@pirati.cz
