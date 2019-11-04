@@ -4,6 +4,7 @@ name:     Jiří Dohnal
 
 category:
   - kandidat-obec
+  - clenove
 #  - pms
   
 #categories: kontaktni_osoba    
