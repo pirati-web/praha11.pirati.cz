@@ -6,7 +6,7 @@ titles:
 category:
   - delegati
 ordpms: 5  
-description: člen Bytové komise
+description: ▪ Bytová komise
 img: people/jan-skarka.jpg
 age: 
 
