@@ -7,7 +7,7 @@ category:
   - pms
   - kandidat-obec
 ordpms: 2
-description: místopředseda MS, předseda Výboru pro otevřenou radnici a digitalizaci; komise pro výchovu, vzdělávání a národnostní menšiny, mediální komise
+description: místopředseda MS; předseda Výboru pro otevřenou radnici a digitalizaci; komise pro výchovu, vzdělávání a národnostní menšiny, mediální komise
 img: people/zuzana-bohmova.jpg
 mail:
   - zuzana.bohmova@pirati.cz
