@@ -15,7 +15,6 @@ profiles:
   facebook: https://www.facebook.com/zuzana.bohmova
 profiles:
   instagram: https://www.instagram.com/zuzana.boehmova/
-calendar: <iframe src="https://calendar.google.com/calendar/embed?src=va05o0jfci8qrqv7omspurjvnc%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 ---
 zastupitel MČ Praha 11, gesce: školství, otevřená radnice, digitalizace
 
