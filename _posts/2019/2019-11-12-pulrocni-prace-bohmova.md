@@ -27,7 +27,7 @@ Na zveřejňování dat navazuje další projekt a to zavedení rozklikávacího
 
 Před nedávnou dobou jsme na výboru navrhli úpravu vnitřní směrnice pro natáčení videí. Tuto záležitost řešíme především kvůli ochraně městské části. Chceme, aby veřejnost mohla bez problémů na veřejných setkáních natáčet vlastní videa. Je ale podle nás důležité, aby městská část byla chráněna před zneužitím videí třetí stranou.
 
-V současné době výbor pracuje na zavedení etického kodexu zastupitele. Prozatím nad ním uvažujeme jako dan stručnější verzí kodexu, který má magistrát hl. m. Prahy. Měl by být snadno srozumitelný pro občany. Odpovědnost zastupitele vůči občanům, odpovědnost vůči městské části, nezneužívání informací, střet zájmů, slušné chování a přiznání příjmů, které zastupitel získal z veřejných prostředků (souvisejících s výkonem jeho funkce) - to vše by mohl Etický kodex obsahovat.
+V současné době výbor pracuje na zavedení etického kodexu zastupitele. Prozatím nad ním uvažujeme jako nad stručnější verzí kodexu, který má magistrát hl. m. Prahy. Měl by být snadno srozumitelný pro občany. Odpovědnost zastupitele vůči občanům, odpovědnost vůči městské části, nezneužívání informací, střet zájmů, slušné chování a přiznání příjmů, které zastupitel získal z veřejných prostředků (souvisejících s výkonem jeho funkce) - to vše by mohl Etický kodex obsahovat.
 
 Z výboru také vznikl požadavek na tvorbu ICT koncepce školství na MČ Praha 11. Na tvorbě tohoto dokumentu jsem radní Mgr. Zuzaně Ujhelyiové přislíbila pomoc. V první chvíli se chystáme sesbírat informace o vybavení našich škol. Koncepce by měla obsahovat minimální doporučené vybavení škol, ale mohla by také obsahovat možnosti využití open source softwaru, či programy, které jsou speciálně zvýhodněné pro školy.
 
