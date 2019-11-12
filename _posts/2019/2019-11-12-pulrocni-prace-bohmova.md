@@ -6,7 +6,7 @@ layout: post
 title: Shrnutí půlroční práce na radnici
 author: Zuzana Böhmová
 authorId: zuzana.bohmova
-image: articles/2019/2019-11-13-pulrocni-prace-bohmova.jpg
+image: articles/2019/2019-11-12-pulrocni-prace-bohmova.jpg
 ---
 
 *Je tomu již více než půl roku, co jsme sestavili koalici na Praze 11. V rámci svého politického působení mám hned několik úkolů, které přímo souvisí s výkonem mandátu zastupitele.*
