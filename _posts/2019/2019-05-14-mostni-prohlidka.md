@@ -5,7 +5,7 @@ tags: piráti
 layout: post
 title: Mostní prohlídka
 author: Martin Duška
-authorId: duska.martin
+authorId: martin.duska
 image: articles/2019/2019-05-14-mostni-prohlidka.jpg
 ---
 
