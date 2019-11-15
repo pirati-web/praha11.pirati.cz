@@ -1,11 +1,11 @@
 ---
 date: 2019-11-15
 category: blog
-tags: piráti
+tags: piráti doprava
 layout: post
 title: Shrnutí půlroční práce v gesci dopravy
 author: Martin Duška
-authorId: duska.martin
+authorId: martin.duska
 image: articles/2019/2019-11-15-pulrocni-prace-duska.jpg
 ---
 
