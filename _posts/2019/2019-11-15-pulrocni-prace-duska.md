@@ -9,9 +9,10 @@ authorId: martin.duska
 image: articles/2019/2019-11-15-pulrocni-prace-duska.jpg
 ---
 
-*Je to již více než půl roku, co vykonávám funci radního s kompetencemi doprava a otevřená radnice. Rád bych Vám touto cestou představil projekty týkající se dopravy, na kterých právě pracujeme*
+*Je to již více než půl roku, co vykonávám funkci radního s kompetencemi doprava a otevřená radnice. Rád bych Vám touto cestou představil projekty týkající se dopravy, na kterých právě pracujeme.*
 
-Doprava je na Praze 11 oddělením na rozdíl od jiných městských částí, které mají odbor dopravy. K vybudování odboru dopravy jsou ovšem nutné další kancelářské prostory pro zaměstnance úřadu. Samostatný odbor dopravy má za cíl vnést do práce našich dopravních expertů vnést větší přehled a pravomoci. Nově zřízené pracoviště bude mít i bezbariérový přístup.  Občané by měli změnu pocítit při vyřizování  každodenní dopravní agendy, která se jich týká. 
+Doprava je na Praze 11 oddělením na rozdíl od jiných městských částí, které mají odbor dopravy. K vybudování odboru dopravy jsou ovšem nutné další kancelářské prostory pro zaměstnance úřadu. Samostatný odbor dopravy umožní našim dopravním expertům větší přehled a pravomoci v jejich práci. Nově zřízené pracoviště bude mít i bezbariérový přístup. Občané pak změnu pocítí při vyřizování každodenní dopravní agendy, která se jich týká.
+
 
 Jedním ze symbolů Jižního města je soustava lávek a podchodů, jejichž stavem se v [současnosti zabývám](https://praha11.pirati.cz/tiskove-zpravy/mostni-prohlidka/). V první řadě jsme zadali opravu klíčové lávky vedoucí přes D1 ze Starého Chodova k obchodnímu centru. O stavu lávky, nutnosti její opravy a uzávěře jsme informovali občany na veřejném setkání. Na opravu jsme získali dotaci ve výši 2,5 milionu korun od hl. m. Prahy. S ROPIDEM jsme domluvili, aby autobusové linky vedoucí ze zastávky Chodovská tvrz směrem ke stanici metra Opatov zůstaly ve standardních intervalech, přestože oprava probíhala o prázdninách, kdy má městská hromadná doprava tzv. letní provoz. Zároveň jsme zavedly kyvadlovou linku CH spojující zastávku Chodovská tvrz a zastávku metra Chodov. Díky stavební firmě, kterou jsme vysoutěžili, jsme lávku otevřeli pro veřejnost o 19 dní dříve, než bylo původně plánováno.
 
