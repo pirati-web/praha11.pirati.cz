@@ -1,5 +1,5 @@
 ---
-uid: duska.martin
+uid: martin.duska
 name: Martin Duška
 titles:
   before: Mgr.
