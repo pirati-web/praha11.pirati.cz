@@ -1,0 +1,38 @@
+---
+date: 2019-11-28
+category: blog
+tags: piráti dbydlení
+layout: post
+title: Zvýšení nájmů městských bytů
+author: Jiří Dohnal
+authorId: jiri.dohnal
+image: articles/2019/2019-11-28-najmy.jpg
+---
+
+*V pondělí 25. 11. 2019 schválila Rada městské části Praha 11 usnesení, kterým dojde ke zvýšení nájemného v městských bytech na Praze 11 o 20%. Na zasedání Zastupitelstva městské části Praha 11 dne 5. 12. 2019 bude tento bod zařazen řádně do návrhu programu.*
+
+**Bude se zvýšení týkat opravdu všech?**
+Zvýšení se týká nájemníků, kteří žijí v městských bytech, mají nájemní smlouvu na dobu neurčitou a není u nich smluvně dohodnuto každoroční zvyšování nájemného podle § 2248 NOZ. Nově uzavírané smlouvy a prodlužované smlouvy, pak budou mít novou jednotnou cenu s přihlédnutím na zvláštní okolnosti a s posouzením každého případu individuálně.
+Cena měsíčního nájmu za m2 ale stále, podle toho komu jsou určeny, zůstává v různé cenové hladině. Nájem v bytech “ve veřejném zájmu” (pro učitele, pracovníky ve školství, sociální pracovníky apod.), v bytech zvláštního určení (například pro zdravotně postižené), sociální a s pečovatelskou službou bude sice také navýšen maximálně o 20%, ale oproti své původní částce, která je mnohdy výrazně nižší. Zvýšení nájemného se netýká bytů v Zahradách Opatov.
+
+**Kolik nájemníci městských bytů zaplatí?**
+Dochází k plošnému zvýšení nájmu ve všech bytech maximálně o 20% (postupem dle ustanovení 2249 zákona č. 89/2012 Sb., občanský zákoník, až do výše srovnatelného nájemného obvyklého v daném místě). Nyní se průměrná cena běžně pronajímaného městského bytu pohybuje okolo 100 korun za metr čtvereční, nově tedy nájemník zaplatí 120 korun za metr čtvereční. Prakticky to znamená, že nájemník, který dnes bydlí v městském bytě 3+1 o výměře 75 m2 platil dosud za byt 7 500 korun měsíčně. Nově tento nájemník zaplatí 9 000 korun měsíčně. Pokud například aktuálně srovnáte nájmy bytů této velikosti v lokalitě "Praha 4 - Háje", zjistíte, že se byty v uvedené dispozici a velikosti pronajímají přibližně za 17 tisíc korun a více.
+Při nově uzavírané smlouvě pak nájemník zaplatí 140 korun za metr čtvereční. Byty ve veřejném zájmu (učitelé, pracovníci ve školství, zaměstnanci společnosti Jihoměstská majetková a.s., Jihoměstská sociální a.s. a některé další vybrané skupiny) budou pronajímány za 120 korun za metr čtvereční. U bytů zvláštního určení, sociálních a s pečovatelskou službou je to pak od 60 do 75 korun za metr čtvereční. 
+
+**Proč plošně zvyšujeme nájmy?**
+Městská část Praha 11 plošně zvýšila nájemné naposledy před deseti lety k datu 1. 1. 2009. Za tu dobu se průměrné nájemné výrazně zvýšilo. Dle cenové mapy se průměrná cena bytů pohybuje okolo 250 korun za metr čtvereční, podle jiných zdrojů je to v naší městské části až 300 korun za metr.
+
+**Kdy budou nájmy zvýšeny?**
+Uvedená úprava nájmu by měla administrativně proběhnout do konce tohoto kalendářního roku s účinností od začátku roku 2020.
+
+**K čemu budou finance využity?**
+V dnešní době je nutné byty udržovat ve vyhovujícím provozním a technickém stavu. Velká část bytového fondu je takřka v původním stavu a po více než 30 až 40 letech je nutné je částečně či kompletně zrekonstruovat. Ceny za tyto práce jsou v současnosti oproti roku 2009 na dvojnásobku. Dále se musí zohlednit, že i cena za údržbu stávajících bytů vzrostla daleko za výši plánovaného zdražení nájmu. Městská část, jako řádný hospodář, musí na zvýšení cen reagovat. Finanční prostředky, které městská část získává hospodářskou činností, investuje zpět do revitalizace bytového fondu a jeho údržby.
+Domníváme se, že předchozí politické vedení financovalo investice městské části především z uplynulých privatizací městských bytů a nemysleli tak primárně na další budoucnost. My se naopak chceme o společný městský bytový fond řádně starat a investovat příjmy z nájmu tam, kam správně patří.
+
+
+Více informací naleznete [ZDE](https://www.praha11.cz/)
+
+Zdroje:
+https://www.cenovamapa.eu/
+https://www.bezrealitky.cz/
+https://domaci.ihned.cz/c1-66483380-prumerny-najem-v-praze-loni-vzrostl-o-tri-procenta-na-340-korun-za-metr-ctverecni-pocet-dostupnych-najemnich-bytu-klesa
