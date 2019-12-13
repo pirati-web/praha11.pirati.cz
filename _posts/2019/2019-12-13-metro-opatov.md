@@ -22,4 +22,20 @@ Hlavní změna bude vybudování dvou výtahů. Metro Opatov bude konečně bezb
 Pokud nedojde k zásadním problémům, bude rekonstrukce dokončena na přelomu léta/podzimu roku 2020. Po dokončení bude Praha 11 mít všechny stanice metra bezbariérové. Projekt za téměř 276 milionů korun do stanice metra Opatov přinese vzhled a provozní technologie, které odpovídají dopravní stavbě 21. století.  
 
 
-![Přehled investic](/assets/img/articles/2019/2019-10-17-cyklistika1.jpg)
+![Rekonstrukce metra Opatov](/assets/img/articles/2019/2019-12-13-metro-opatov1.jpg)
+Architektka Anna Švarc dohlížející na vizuální podobu nových stanic metra D a rekonstrukci metra Opatov.
+
+![Rekonstrukce metra Opatov](/assets/img/articles/2019/2019-12-13-metro-opatov2.jpg)
+Slavnostního zahájení stavby se zůčastnil i náměstek pro dopravu Adam Scheinher.
+
+![Rekonstrukce metra Opatov](/assets/img/articles/2019/2019-12-13-metro-opatov3.jpg)
+Grafitty vytvořené ve spolupráci s Proxima Sociale na oplocení stavby metra.
+
+![Rekonstrukce metra Opatov](/assets/img/articles/2019/2019-12-13-metro-opatov4.jpg)
+Začátek demontáže podhledů.
+
+![Rekonstrukce metra Opatov](/assets/img/articles/2019/2019-12-13-metro-opatov5.jpg)
+Demontáž podhledů.
+
+![Rekonstrukce metra Opatov](/assets/img/articles/2019/2019-12-13-metro-opatov6.jpg)
+Demontáž podhledů.
