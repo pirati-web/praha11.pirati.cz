@@ -20,3 +20,6 @@ Cestující poznají renovované nástupiště stanice. Budou očištěny a opra
 Hlavní změna bude vybudování dvou výtahů. Metro Opatov bude konečně bezbariérové, čímž pro lidi s pohybovým omezením vznikne prakticky nová stanice metra. Vozíčkáři, staří lidé s pohybovými obtížemi, nebo rodiče s kočárky se po letech konečně dočkají potřebné změny.  Další novinkou budou akustické majáčky, které pomáhají orientaci pro nevidomé cestující. 
 
 Pokud nedojde k zásadním problémům, bude rekonstrukce dokončena na přelomu léta/podzimu roku 2020. Po dokončení bude Praha 11 mít všechny stanice metra bezbariérové. Projekt za téměř 276 milionů korun do stanice metra Opatov přinese vzhled a provozní technologie, které odpovídají dopravní stavbě 21. století.  
+
+
+![Přehled investic](/assets/img/articles/2019/2019-10-17-cyklistika1.jpg)
