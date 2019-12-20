@@ -16,3 +16,5 @@ V našich školách najdete žáky z jiných městských částí, či jiných o
 V dohodě je výslovně uvedeno, že se nejedná o smlouvu o vytvoření společného školského obvodu. Uvedená dohoda byla vypracována s vědomím a po konzultaci s Magistrátem hlavního města Prahy. Dohoda se týká i dopravy. Doprava dětí z Vestsce bude zajištěna autobusovou linkou, kterou bude platit obec Vestec.
 
 Více informací naleznete [ZDE](https://www.praha11.cz/cs/media/aktuality/aktuality-z-prahy-11/praha-11-pomuze-detem-z-vestce-nove-budou-moci-vyuzivat-volne-kapacity-jihomestskych-skol.html?fbclid=IwAR1l2Z7FKEBuhdIjQ2iTal97FkttLJs39qAAEcpOankIgJmzUovkDAvFIN4).
+
+[Dohoda o spolupráci](http://www.praha11.cz/aplikace/smlouvy_p11/file.php?file=092929fbd21127b5268059f84b205432&type=1) je dostupná online v usneseních Rady městské části Praha 11.
