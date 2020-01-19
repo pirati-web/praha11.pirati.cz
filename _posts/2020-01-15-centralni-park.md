@@ -6,7 +6,7 @@ layout: post
 author: Zuzana Böhmová
 authorId: zuzana.bohmova
 title: Centrální park na Opatově z pohledu jeho uživatelů
-image: articles/2020-01-15-centralni-park.jpg
+image: articles/2020/2020-01-15-centralni-park.jpg
 ---
 **V novém Pirátském centru na Jižním Městě - PiVyš (Pirátská vyšetřovna) proběhla přednáška Radka Peky o jeho bakalářské práci. Tato práce je zaměřena na zkoumání chování člověka ve městě, jako téma si Radek vybral Centrální park na Jižním městě, park v sídlištní zástavbě jako specifický prostor uvnitř sídliště.**
 
