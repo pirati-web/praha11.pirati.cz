@@ -9,7 +9,7 @@ title: Podporujeme zapojení cizinců do naší společnosti
 image: articles/2020/2020-01-23-dotace-integrace-cizincu.jpg
 ---
 
-Městská část už po páté žádá o dotaci v Projektech obcí na podporu integrace cizinců na lokální úrovni. Projekt na městské části běží od roku 2016 s názvem *Integrace cizinců v MČ Praha 11.* Cílem projektu je zapojovat cizince, učit je náš jazyk, ale i naše zvyklosti. Největší část tohoto projektu se pak rozvíjí v našich školách a školkách, protože právě zde můžeme děti, ale i jejich rodiče efektivně zapojit. Zároveň se městská část snaží rozvíjet integraci i v oblasti kulturního vyžití. A co všechno projekt obsahoval v loňském roce a co bude obsahovat letos?
+**Městská část už po páté žádá o dotaci v *Projektech obcí na podporu integrace cizinců na lokální úrovni*. Projekt na městské části běží od roku 2016 s názvem *Integrace cizinců v MČ Praha 11.* Cílem projektu je zapojovat cizince, učit je náš jazyk, ale i naše zvyklosti. Největší část tohoto projektu se pak rozvíjí v našich školách a školkách, protože právě zde můžeme děti, ale i jejich rodiče efektivně zapojit. Zároveň se městská část snaží rozvíjet integraci i v oblasti kulturního vyžití. A co všechno projekt obsahoval v loňském roce a co bude obsahovat letos?**
 
 V roce 2019 se celý projekt skládal ze tří hlavních podprojektů a to: *Dialog kultur* – celoroční integrační projekt z oblasti kultury, umění a vzdělávacích programů zajišťovalo Kulturní Jižní Město, o.p.s.; *Výuka českého jazyka pro děti cizince v MŠ a ZŠ v Praze 11* – celoroční výuka ČJ pro děti s OMJ v 5 MŠ a 2 ZŠ; *Zájmový útvar “Cizinci jsou kamarádi”* – celoroční kroužek v 1 ZŠ.
 
