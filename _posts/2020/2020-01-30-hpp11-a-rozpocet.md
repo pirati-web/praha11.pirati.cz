@@ -1,7 +1,7 @@
 ---
 date: 2020-01-30
 category: blog
-tags: Praha 11, piráti, rozpočet, opozice
+tags: Praha 11 piráti rozpočet opozice
 layout: post
 author: Martin Muzikant
 authorId: martin.muzikant
@@ -10,7 +10,7 @@ image: articles/2020/2020-01-30-hpp11-a-rozpocet.jpg
 ---
 
 
-*Tento příspěvek se týká projednávání rozpočtu Prahy 11 na rok 2020.</br>
+*Tento příspěvek se týká projednávání rozpočtu Prahy 11 na rok 2020.<br>
 Zde Vám rád osvětlím, jaké návrhy mělo HPP11, které má pocit, že nejlépe rozumí občanům Prahy 11 a stále se snaží pasovat do role zachránce před současnou koalicí, která v současné době spravuje MČ Praha 11 a jejíž součástí jsme i my Piráti.*
 
 HPP11 jsou kultura a vzdělávání dětí lhostejné. Pan Ing. Ladislav Kos, st. (HPP11), navrhl **zrušení Dnů Prahy 11** a spolu s panem Ing. Jiřím Štylerem (HPP11) požaduje **zrušit Street festival**.
