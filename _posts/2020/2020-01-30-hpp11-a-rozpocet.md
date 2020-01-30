@@ -7,6 +7,8 @@ author: Martin Muzikant
 authorId: martin.muzikant
 title: HPP11 – opravdu chtějí pro JM to nejlepší???
 image: articles/2020/2020-01-30-hpp11-a-rozpocet.jpg
+---
+
 
 *Tento příspěvek se týká projednávání rozpočtu Prahy 11 na rok 2020.</br>
 Zde Vám rád osvětlím, jaké návrhy mělo HPP11, které má pocit, že nejlépe rozumí občanům Prahy 11 a stále se snaží pasovat do role zachránce před současnou koalicí, která v současné době spravuje MČ Praha 11 a jejíž součástí jsme i my Piráti.*
