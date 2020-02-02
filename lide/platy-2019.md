@@ -7,6 +7,8 @@ Výše odměn zastupitelů vychází z [Nařízení vlády č. 318/2017 Sb.](htt
 
 Výše odměn je uváděna v hrubém. 
 
+
+
 **Odměny pirátských zastupitelů na MČ Praha 11**
 
 K měsíčním odměnám se nevyplácí žádné mimořádné odměny ani osobní ohodnocení.
@@ -24,6 +26,7 @@ K měsíčním odměnám se nevyplácí žádné mimořádné odměny ani osobn�
 | Ujhelyiová Zuzana | 2 537 | 53 198 | 72 545 | uvolněný radní |
 
 
+
 **Odměny členů Piráti Praha 11 v komisích a výborech (nezastupitelů)**
 
 Odměny jsou vypláceny jednou ročně pouze za účast.
@@ -35,6 +38,7 @@ Odměny jsou vypláceny jednou ročně pouze za účast.
 | Suchánek Jan <sup>1</sup> | 600x4 | - | celkem 5 000|
 
 
+
 **Odměny členů Piráti Praha 11 v dozorčích a správních radách**
 
 | Jméno  | Měsíční částka | Období | Funkce |
@@ -42,6 +46,7 @@ Odměny jsou vypláceny jednou ročně pouze za účast.
 | Dohnal Jiří | xy | xy | člen dozorčí rady | 
 | Mejsnar Jan | xy | xy | člen dozorčí rady | 
 | Muzikant Martin | xy | xy | člen dozorčí rady | 
+
 
 
 **Odměny členů Piráti Praha 11 z MHMP**
