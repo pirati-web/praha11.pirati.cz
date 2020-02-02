@@ -12,7 +12,7 @@ Výše odměn je uváděna v hrubém. K měsíčním odměnám se nevyplácí ž
 | Jméno  | Leden 2019 | Únor 2019 | Březen - Prosinec | Funkce |
 |:--------|---------:|---------:|---------:|:---------|
 | Böhmová Zuzana | 2 537 | 9 921 | 13 529 | neuvolněný předseda výboru, člen dvou komisí| 
-| Dohnal Jiří | 2 537 | 68 203 | 93 007 | uvolněný strosta | 
+| Dohnal Jiří | 2 537 | 68 203 | 93 007 | uvolněný starosta | 
 | Duška Martin | 2 537 | 53 198 | 72 545 | uvolněný radní |
 | Kocourek Josef | 2 537 | 46 378 | 63 245 | uvolněný místopředseda výboru, člen komise |
 | Kos Ladislav | 2 537 | 3 100 | 4 228 | neuvolněný člen komise|
