@@ -58,6 +58,7 @@ Odměny jsou vypláceny jednou ročně pouze za účast.
 | Jméno  | Měsíční částka | Období | Funkce |
 |:--------|---------:|---------:|---------:|
 | Dohnal Jiří | xy | xy | xy | 
+| Kos Ladislav | xy | xy | xy | 
 
 <br>
 <br>
