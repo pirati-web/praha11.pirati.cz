@@ -12,6 +12,17 @@ Výše odměn zastupitelů vychází z [Nařízení vlády č. 318/2017 Sb.](htt
 | Böhmová Zuzana | zastupitel, předseda výboru, člen dvou komisí| 2 537 | 9 921 | 13 529 |
 
 
+| Jméno  |  Hrubá měsíční odměna leden | Hrubá měsíční odměna únor | Hrubá měsíční odměna od března | Funce |
+|:--------|---------|---------|---------|---------|
+| Böhmová Zuzana |  2 537 | 9 921 | 13 529 |  neuvolněný zastupitel, předseda výboru, člen dvou komisí | 
+| Dohnal Jiří | 2 537 | xy | xy | uvolněný strosta | 
+| Duška Martin | 2 537 | xy | xy | uvolněný radní |
+| Kocourek Josef | 2 537 | xy | xy | uvolněný strosta |
+| Kos Ladislav | 2 537 | xy | xy | uvolněný strosta |
+| Kovařík Michal | 2 537 | xy | xy | uvolněný strosta | 
+| Mejsnar Jan | 2 537 | xy | xy | uvolněný strosta | 
+| Muzikant Martin | 2 537 | xy | xy | uvolněný strosta | 
+| Ujhelyiová Zuzana | 2 537 | xy | xy | uvolněný strosta | 
 
 
 Výše odměn je uváděna v hrubém. K měsíčním odměnám se nevyplácí žádné mimořádné odměny ani osobní ohodnocení.
