@@ -4,6 +4,7 @@ name: Martin Duška
 titles:
   before: Mgr.
 category:
+  - kandidat-obec
   - clenove
 description: ▪ radní pro dopravu a otevřenou radnici
 img: people/martin-duska.jpg
