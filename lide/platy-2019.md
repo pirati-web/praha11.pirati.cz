@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Odměny pirátských zastupitelů na MČ Praha 11
+title: Odměny pirátských zastupitelů na MČ Praha 11 za rok 2019
 ---
 
 Výše odměn zastupitelů vychází z [Nařízení vlády č. 318/2017 Sb.](https://www.zakonyprolidi.cz/cs/2017-318), kterým se fixně stanoví odměny uvolněným zastupitelům a zastropuje odměna neuvolněným zastupitelům, a dále z usnesení Zastupitestva MČ Praha 11 [0012/4/Z/2019](https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=6504&slozka=12&as4uOriginalDomain=www.praha11.cz&as4u_protocol=https&ConfirmCookie=yes&bod=2271542).
