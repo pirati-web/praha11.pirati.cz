@@ -16,9 +16,9 @@ Výše odměn je uváděna v hrubém. K měsíčním odměnám se nevyplácí ž
 | Duška Martin | 2 537 | 53 198 | 72 545 | uvolněný radní |
 | Kocourek Josef | 2 537 | 46 378 | 63 245 | uvolněný místopředseda výboru, člen komise |
 | Kos Ladislav | 2 537 | 3 100 | 4 228 | neuvolněný člen komise|
-| Kovařík Michal | 2 537 | 6 820 | 9 301 až 13 529 | uneuvolněný předseda komise | 
-| Mejsnar Jan | 2 537 | 9 921 | 13 529 | uvolněný strosta | 
-| Muzikant Martin | 2 537 | 9 921 | 13 529 | uvolněný strosta | 
+| Kovařík Michal | 2 537 | 6 820 | 9 301 až 13 529 | neuvolněný předseda komise, člen dvou komisí | 
+| Mejsnar Jan | 2 537 | 9 921 | 13 529 | neuvolněný předseda komise, člen jedné komise, člen jednoho výboru | 
+| Muzikant Martin | 2 537 | 9 921 | 13 529 | neuvolněný předseda komise, člen jednoho výboru, člen dvou komisí | 
 | Ujhelyiová Zuzana | 2 537 | 53 198 | 72 545 | uvolněný radní |
 
 
