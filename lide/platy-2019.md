@@ -29,10 +29,10 @@ K měsíčním odměnám se nevyplácí žádné mimořádné odměny ani osobn�
 Odměny jsou vypláceny jednou ročně pouze za účast.
 
 | Jméno  | Komise/Výbor I | Komise/Výbor II | Poradenství |
-|:--------|---------:|---------:|---------:|---------:|
+|:--------|---------:|---------:|---------:|
 | Minařík Milan | 600x6 | 600x10 | - | 
 | Peksová Lada | 600x5 | - | - |
-| Suchánek Jan <sup>1</sup> | 600x4 | - | celkem 13 000|
+| Suchánek Jan <sup>1</sup> | 600x4 | - | celkem 5 000|
 
 
 **Odměny členů Piráti Praha 11 v dozorčích a správních radách**
