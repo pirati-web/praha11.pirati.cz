@@ -9,6 +9,7 @@ Výše odměn je uváděna v hrubém.
 <br>
 <br>
 <br>
+
 **Odměny pirátských zastupitelů na MČ Praha 11**
 
 K měsíčním odměnám se nevyplácí žádné mimořádné odměny ani osobní ohodnocení.
@@ -27,6 +28,7 @@ K měsíčním odměnám se nevyplácí žádné mimořádné odměny ani osobn�
 <br>
 <br>
 <br>
+
 **Odměny členů Piráti Praha 11 v komisích a výborech (nezastupitelů)**
 
 Odměny jsou vypláceny jednou ročně pouze za účast.
@@ -39,6 +41,7 @@ Odměny jsou vypláceny jednou ročně pouze za účast.
 <br>
 <br>
 <br>
+
 **Odměny členů Piráti Praha 11 v dozorčích a správních radách**
 
 | Jméno  | Měsíční částka | Období | Funkce |
@@ -49,6 +52,7 @@ Odměny jsou vypláceny jednou ročně pouze za účast.
 <br>
 <br>
 <br>
+
 **Odměny členů Piráti Praha 11 z MHMP**
 
 | Jméno  | Měsíční částka | Období | Funkce |
