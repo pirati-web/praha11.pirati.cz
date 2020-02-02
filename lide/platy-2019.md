@@ -6,6 +6,7 @@ title: Odměny Pirátů Praha 11 za rok 2019
 Výše odměn zastupitelů vychází z [Nařízení vlády č. 318/2017 Sb.](https://www.zakonyprolidi.cz/cs/2017-318), kterým se fixně stanoví odměny uvolněným zastupitelům a zastropuje odměna neuvolněným zastupitelům, a dále z usnesení Zastupitestva MČ Praha 11 [0012/4/Z/2019](https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=6504&slozka=12&as4uOriginalDomain=www.praha11.cz&as4u_protocol=https&ConfirmCookie=yes&bod=2271542).
 
 Výše odměn je uváděna v hrubém. 
+
 <br>
 <br>
 <br>
@@ -25,6 +26,7 @@ K měsíčním odměnám se nevyplácí žádné mimořádné odměny ani osobn�
 | Mejsnar Jan | 2 537 | 9 921 | 13 529 | neuvolněný předseda komise, člen jedné komise, člen jednoho výboru | 
 | Muzikant Martin | 2 537 | 9 921 | 13 529 | neuvolněný předseda komise, člen jednoho výboru, člen dvou komisí | 
 | Ujhelyiová Zuzana | 2 537 | 53 198 | 72 545 | uvolněný radní |
+
 <br>
 <br>
 <br>
@@ -38,6 +40,7 @@ Odměny jsou vypláceny jednou ročně pouze za účast.
 | Minařík Milan | 600x6 | 600x10 | - | 
 | Peksová Lada | 600x5 | - | - |
 | Suchánek Jan <sup>1</sup> | 600x4 | - | celkem 5 000|
+
 <br>
 <br>
 <br>
@@ -49,6 +52,7 @@ Odměny jsou vypláceny jednou ročně pouze za účast.
 | Dohnal Jiří | xy | xy | člen dozorčí rady | 
 | Mejsnar Jan | xy | xy | člen dozorčí rady | 
 | Muzikant Martin | xy | xy | člen dozorčí rady | 
+
 <br>
 <br>
 <br>
