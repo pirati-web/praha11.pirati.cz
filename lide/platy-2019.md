@@ -10,7 +10,7 @@ Výše odměn je uváděna v hrubém. K měsíčním odměnám se nevyplácí ž
 **Odměny pirátských zastupitelů na MČ Praha 11**
 
 | Jméno  | Leden 2019 | Únor 2019 | Březen - Prosinec | Funkce |
-|:--------|---------:|---------:|---------:|:---------|
+|:--------|---------:|---------:|---------:|:------|
 | Böhmová Zuzana | 2 537 | 9 921 | 13 529 | neuvolněný předseda výboru, člen dvou komisí| 
 | Dohnal Jiří | 2 537 | 68 203 | 93 007 | uvolněný starosta | 
 | Duška Martin | 2 537 | 53 198 | 72 545 | uvolněný radní |
@@ -26,7 +26,9 @@ Výše odměn je uváděna v hrubém. K měsíčním odměnám se nevyplácí ž
 
 | Jméno  | Komise/Výbor I | Komise/Výbor II | Komise/Výbor III | Poradenství |
 |:--------|---------:|---------:|---------:|:---------|
-| Böhmová Zuzana | 2 537 | 9 921 | 13 529 | neuvolněný předseda výboru, člen dvou komisí| 
+| Minařík Milan | 2 537 | 9 921 | 13 529 | - | 
+| Peksová Lada | 2 537 | 9 921 | 13 529 | - |
+| Suchánek Jan <sup>1</sup> | 2 537 | - | - | celkem 13 000|
 
 
 **Odměny členů Piráti Praha 11 v dozorčích a správních radách**
@@ -44,5 +46,5 @@ Výše odměn je uváděna v hrubém. K měsíčním odměnám se nevyplácí ž
 
 
 
-<sup>1</sup> **Náplň práce xy:** odborné poradenství v oborech ...
+<sup>1</sup> **Náplň práce Suchánek Jan:** odborné poradenství v oborech ...
  * ...
