@@ -8,7 +8,7 @@ Výše odměn zastupitelů vychází z [Nařízení vlády č. 318/2017 Sb.](htt
 
 
 | Jméno  | Funkce | Leden 2019 | Únor 2019 | Březen - Prosinec | 
-|--------|---------|---------|---------|---------|---------|
+|--------|---------|---------|---------|---------|
 | Böhmová Zuzana | zastupitel, předseda výboru, člen dvou komisí| 2 537 | 9 921 | 13 529 |
 
 
