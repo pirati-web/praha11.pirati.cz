@@ -28,25 +28,27 @@ K měsíčním odměnám se nevyplácí žádné mimořádné odměny ani osobn�
 
 Odměny jsou vypláceny jednou ročně pouze za účast.
 
-| Jméno  | Komise/Výbor I | Komise/Výbor II | Komise/Výbor III | Poradenství |
-|:--------|---------:|---------:|---------:|:---------|
-| Minařík Milan | 600x6 | 600x10 | - | - | 
-| Peksová Lada | 600x5 | - | - | - |
-| Suchánek Jan <sup>1</sup> | 600x4 | - | - | celkem 13 000|
+| Jméno  | Komise/Výbor I | Komise/Výbor II | Poradenství |
+|:--------|---------:|---------:|---------:|---------:|
+| Minařík Milan | 600x6 | 600x10 | - | 
+| Peksová Lada | 600x5 | - | - |
+| Suchánek Jan <sup>1</sup> | 600x4 | - | celkem 13 000|
 
 
 **Odměny členů Piráti Praha 11 v dozorčích a správních radách**
 
-| Jméno  | Komise/Výbor I | Komise/Výbor II | Komise/Výbor III | Poradenství |
-|:--------|---------:|---------:|---------:|:---------|
-| Böhmová Zuzana | 2 537 | 9 921 | 13 529 | neuvolněný předseda výboru, člen dvou komisí| 
+| Jméno  | Měsíční částka | Období | Funkce |
+|:--------|---------:|---------:|---------:|
+| Dohnal Jiří | xy | xy | člen dozorčí rady | 
+| Mejsnar Jan | xy | xy | člen dozorčí rady | 
+| Muzikant Martin | xy | xy | člen dozorčí rady | 
 
 
 **Odměny členů Piráti Praha 11 z MHMP**
 
-| Jméno  | Komise/Výbor I | Komise/Výbor II | Komise/Výbor III | Poradenství |
-|:--------|---------:|---------:|---------:|:---------|
-| Böhmová Zuzana | 2 537 | 9 921 | 13 529 | neuvolněný předseda výboru, člen dvou komisí| 
+| Jméno  | Měsíční částka | Období | Funkce |
+|:--------|---------:|---------:|---------:|
+| Dohnal Jiří | xy | xy | xy | 
 
 
 
