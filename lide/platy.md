@@ -7,8 +7,7 @@ Výše odměn zastupitelů vychází z [Nařízení vlády č. 318/2017 Sb.](htt
 
 
 | Jméno  | Funkce | Leden | Únor | Březen | Duben | Květen | Červen | Červenec | Srpen | Září | Říjen | Listopad | Prosinec | Celkem |
-
-|:-------|---------------------:|--------|
+|-------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
 | Böhmová Zuzana | zastupitel, předseda výboru pro otevřenou radnici a digitalizaci, člen mediální komise, člen komise pro výchovu, vzdělávání a národnostní menšiny | 2 537 | ? |
 
 
