@@ -13,7 +13,7 @@ Výše odměn zastupitelů vychází z [Nařízení vlády č. 318/2017 Sb.](htt
 
 
 | Jméno  |  Hrubá měsíční odměna leden | Hrubá měsíční odměna únor | Hrubá měsíční odměna od března | Funce |
-|:--------|---------|---------|---------|---------|
+|:--------------|---------|---------|---------|---------|
 | Böhmová Zuzana |  2 537 | 9 921 | 13 529 |  neuvolněný zastupitel, předseda výboru, člen dvou komisí | 
 | Dohnal Jiří | 2 537 | xy | xy | uvolněný strosta | 
 | Duška Martin | 2 537 | xy | xy | uvolněný radní |
