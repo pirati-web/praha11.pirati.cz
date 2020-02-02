@@ -12,6 +12,10 @@ Výše odměn zastupitelů vychází z [Nařízení vlády č. 318/2017 Sb.](htt
 | Böhmová Zuzana | zastupitel, předseda výboru, člen dvou komisí| 2 537 | 9 921 | 13 529 | 13 529 | 13 529 | 13 529 | 13 529 | 13 529 | 13 529 | 13 529 | 13 529 | 13 529 | 135 546 |
 
 
+| Jméno  | Funkce | Leden | Únor | Březen | Duben | Květen | Červen | Červenec | Srpen | Září | Říjen | Listopad | Prosinec | 
+|--------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
+| Böhmová Zuzana | zastupitel, předseda výboru, člen dvou komisí| 2 537 | 9 921 | 13 529 | 13 529 | 13 529 | 13 529 | 13 529 | 13 529 | 13 529 | 13 529 | 13 529 | 13 529 | 
+
 Výše odměn je uváděna v hrubém. K měsíčním odměnám se nevyplácí žádné mimořádné odměny ani osobní ohodnocení.
 
 <sup>1</sup> **Náplň práce xy:** odborné poradenství v oborech ...
