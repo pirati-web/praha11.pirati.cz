@@ -37,9 +37,9 @@ Odměny jsou vypláceny jednou ročně pouze za účast.
 
 | Jméno  | Komise/Výbor I | Komise/Výbor II | Poradenství |
 |:--------|---------:|---------:|---------:|
-| Minařík Milan | 600x6 | 600x10 | - | 
-| Peksová Lada | 600x5 | - | - |
-| Suchánek Jan <sup>1</sup> | 600x4 | - | celkem 5 000|
+| Minařík Milan | 600 x 6 | 600 x 10 | - | 
+| Peksová Lada | 600 x 5 | - | - |
+| Suchánek Jan <sup>1</sup> | 600 x 4 | - | celkem 5 000|
 
 <br>
 <br>
@@ -49,7 +49,7 @@ Odměny jsou vypláceny jednou ročně pouze za účast.
 
 | Jméno  | Měsíční částka | Období | Funkce |
 |:--------|---------:|---------:|---------:|
-| Dohnal Jiří | xy | xy | člen dozorčí rady | 
+| Dohnal Jiří | 8 000 x 12 | 2019 | člen dozorčí rady | 
 | Mejsnar Jan | xy | xy | člen dozorčí rady | 
 | Muzikant Martin | xy | xy | člen dozorčí rady | 
 
