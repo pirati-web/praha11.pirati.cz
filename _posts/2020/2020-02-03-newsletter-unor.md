@@ -6,7 +6,7 @@ layout: post
 author: Zuzana Böhmová
 authorId: zuzana.bohmova
 title: NEWSLETTER PRAHY 11 - PŘEHLED ZPRÁV
-image: articles/2020/2020-01-15-centralni-park.jpg
+image: articles/2020/2020-02-03-newsletter-unor.jpg
 ---
 
 Rozhodli jsme se pro Vás vytvářet každý měsíc přehled nejdůležitějších zpráv z Prahy 11 uplynulého měsíce a přehled toho, co se další měsíc chystá. <br>
