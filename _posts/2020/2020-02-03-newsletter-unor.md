@@ -21,7 +21,7 @@ Největší událostí v rámci radnice Prahy 11 bylo **[schválení rozpočtu](
 **AKCE PRO VŠECHNY V PiVyši:** <br>
 ***13.2. v 16:00 v Pirátské vyšetřovně - [Valentýnský workshop pro děti: Perníkové srdce]( https://www.facebook.com/events/1354707764736165/).***<br>
 Workshop pro děti, při kterém budeme společně zdobit perníková srdce a popovídáme si o vzniku tohoto svátku. <br>
-***19.2. v 18:00 v Pirátské vyšetřovně – [Autorské promítání s režisérem Vítkem Poláčkem]( https://www.facebook.com/events/2804797732936673/). ***<br>
+***19.2. v 18:00 v Pirátské vyšetřovně – [Autorské promítání s režisérem Vítkem Poláčkem]( https://www.facebook.com/events/2804797732936673/).***<br>
 Režisér Vítek Poláček představí některý z jeho autorských filmů, následovat bude krátká diskuze. <br>
 ***24.2. v 19:00 v Pirátské vyšetřovně – [Roční zúčtování Pirátů Praha 11]( https://www.facebook.com/events/180997419831036/).***<br>
 Přijďte se podívat, co Piráti na Jižním Městě dělají. Jaké projekty se podařily a jaké ne. Na čem
