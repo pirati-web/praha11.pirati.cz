@@ -10,7 +10,7 @@ head:
   - uid: zuzana.ujhelyiova
     profession: radní s gescí školství
     party: Piráti
-  - uid: duska.martin
+  - uid: martin.duska
     profession: radní s gescí doprava, otevřená radnice
     party: Piráti  
   - uid: josef.kocourek
