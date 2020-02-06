@@ -1,28 +1,37 @@
 ---
+uid: jiri.dohnal
+name:     Jiří Dohnal
 
-uid: zuzana.bohmova
-name: Zuzana Böhmová
-titles:
-  before: Mgr.
 category:
-  - pms
   - kandidat-obec
+  - clenove
 
   
-ordpms: 2
-description: místopředseda MS <br>▪ předseda Výboru pro otevřenou radnici a digitalizaci <br>▪ Komise pro výchovu, vzdělávání a národnostní menšiny <br>▪ Mediální komise
-profession: středoškolský pedagog, členka Pirátů, zastupitel MČ Praha 11, gesce: školství, otevřená radnice, digitalizace, středoškolský pedagog, členka Pirátů
-img: people/zuzana-bohmova.jpg
+#categories: kontaktni_osoba    
+#ordpms: 1
+description: ▪ starosta pro informační technologie, digitalizaci, finanční politiku, krizové řízení a bydlení
+profession: starosta Prahy 11, člen Pirátů
+img: people/jiri-dohnal.jpg
+address: Ocelíkova 672/1, 149 00 Praha 11
+clock: den pro veřejnost se starostou každé pondělí od 17:00 do 18:30
 mail:
-  - zuzana.bohmova@pirati.cz
+  - jiri.dohnal@pirati.cz
+#wiki: 
+#mob: 
 profiles:
-  facebook: https://www.facebook.com/zuzana.bohmova
-  instagram: https://www.instagram.com/zuzana.boehmova/
-calendar: va05o0jfci8qrqv7omspurjvnc@group.calendar.google.com
+  facebook: https://www.facebook.com/jiridohnal.cz
+calendar: difpl1tdlua3q599bf6vs1nbnbsv307g@import.calendar.google.com
 ---
 
 {{page.description}}
 
-Jako učitelku žijící a působící na Praze 11 mě nejvíce zajímá oblast školství. Městská část, tedy zřizovatel, je zodpovědná za úroveň zdejších mateřských a základních škol. Chceme zlepšit komunikaci mezi MČ, školami, rodiči a žáky. Naší prioritou je jasné prezentování jednotlivých škol a jejich služeb tak, aby si rodič mohl vybrat, jakou školu pro své dítě chce. Dále se zajímám o oblast kultury, a to především výtvarné.
+Jako jihoměstský patriot chci pracovat na tom, aby se Praha 11 opět stala místem, kde se lidé setkávají, pracují a jsou hrdí, že je jejich domovskou adresou. Pro naplnění téhle vize považuji za nezbytné zajistit naší městské části udržitelný rozvoj a otevřít ji jejím občanům, kteří musí mít možnost přímo se na samosprávě podílet.
+
+### Odkazy 
+
+* [Veřejný kalendář starosty](https://webmail.praha11.cz/owa/calendar/dohnalJ@praha11.cz/Kalendář/calendar.html)
+* [Wiki](https://wiki.pirati.cz/lide/jiri_dohnal)
+
+
 
 ---
