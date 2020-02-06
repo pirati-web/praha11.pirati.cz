@@ -19,8 +19,6 @@ calendar: va05o0jfci8qrqv7omspurjvnc@group.calendar.google.com
   
 ---
 
-{{page.profession}}
-
 {{page.description}}
 
 zastupitel MČ Praha 11, gesce: školství, otevřená radnice, digitalizace
