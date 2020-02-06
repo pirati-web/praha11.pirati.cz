@@ -22,6 +22,7 @@ K měsíčním odměnám se nevyplácí žádné mimořádné odměny ani osobn�
 | Mejsnar Jan | 2 537 | 9 921 | 13 529 | neuvolněný předseda komise, člen jedné komise, člen jednoho výboru | 
 | Muzikant Martin | 2 537 | 9 921 | 13 529 | neuvolněný předseda komise, člen jednoho výboru, člen dvou komisí | 
 | Ujhelyiová Zuzana | 2 537 | 53 198 | 72 545 | uvolněný radní |
+
 <sup>Výše odměn je uváděna v hrubém.</sup>
 
 <br>
@@ -38,6 +39,7 @@ Odměny jsou vypláceny jednou ročně pouze za účast. Částky jsou navrhovan
 | Minařík Milan | 600 x 6 | 600 x 10 | - |
 | Peksová Lada | 600 x 5 | - | - |
 | Suchánek Jan <sup>1</sup> | 600 x 4 | - | celkem 5 000|
+
 <sup>Výše odměn je uváděna v hrubém.</sup>
 <br>
 <br>
@@ -50,6 +52,7 @@ Odměny jsou vypláceny jednou ročně pouze za účast. Částky jsou navrhovan
 | Dohnal Jiří | 8 000 | 2019 | člen dozorčí rady | 
 | Mejsnar Jan | 4 000 | červenec - prosinec | člen dozorčí rady | 
 | Muzikant Martin | 4 000 | červenec - prosinec | člen dozorčí rady | 
+
 <sup>Výše odměn je uváděna v hrubém.</sup>
 <br>
 <br>
