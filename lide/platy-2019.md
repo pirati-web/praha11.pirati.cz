@@ -33,7 +33,7 @@ K měsíčním odměnám se nevyplácí žádné mimořádné odměny ani osobn�
 
 **Odměny členů Piráti Praha 11 v komisích a výborech (nezastupitelů)**
 
-Odměny jsou vypláceny jednou ročně pouze za účast.
+Odměny jsou vypláceny jednou ročně pouze za účast. Částky jsou navrhované odměny občanům, které v průběhu února budou radou schváleny.
 
 | Jméno  | Komise/Výbor I | Komise/Výbor II | Poradenství |
 |:--------|---------:|---------:|---------:|
@@ -69,5 +69,5 @@ Odměny jsou vypláceny jednou ročně pouze za účast.
 <br>
 <br>
 
-<sup>1</sup> **Náplň práce Suchánek Jan:** odborné poradenství v oborech ...
- * ...
+<sup>1</sup> **Náplň práce Suchánek Jan:** poradenství v oblasti strategie obnovy software a hardware; konsolidace informací různých typů a různých úrovní, jejich prezentaci a nástroje pro vyhodnocení; poradenství při hodnocení stávajících systémů a výběru nových systémů; komunikační a datové systémy; poradenství v systémových nástrojích umožňující transparentní a otevřený úřad – zavádění digitálních technologií v rámci úřadu; poradenství v projektech týkající se smart city; pomoc se zpracováním dotací v oblasti IT a smart city; úvodní analýzy a zadávání zdrojů
+
