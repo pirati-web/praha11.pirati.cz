@@ -64,6 +64,7 @@ Odměny jsou vypláceny jednou ročně pouze za účast. Částky jsou navrhovan
 |:--------|---------:|---------:|---------:|
 | Dohnal Jiří | 24 487 | leden - září | předseda výboru, člen dvou výborů | 
 | Kos Ladislav | 21 680 | duben - prosinec | předseda komise, člen dvou výborů | 
+
 <sup>Výše odměn je uváděna v hrubém.</sup>
 <br>
 <br>
