@@ -37,7 +37,8 @@ Odměny jsou vypláceny jednou ročně pouze za účast.
 
 | Jméno  | Komise/Výbor I | Komise/Výbor II | Poradenství |
 |:--------|---------:|---------:|---------:|
-| Minařík Milan | 600 x 6 | 600 x 10 | - | 
+| Miler Filip | 600 x 6 | - | - | 
+| Minařík Milan | 600 x 6 | 600 x 10 | - |
 | Peksová Lada | 600 x 5 | - | - |
 | Suchánek Jan <sup>1</sup> | 600 x 4 | - | celkem 5 000|
 
@@ -49,9 +50,9 @@ Odměny jsou vypláceny jednou ročně pouze za účast.
 
 | Jméno  | Měsíční částka | Období | Funkce |
 |:--------|---------:|---------:|---------:|
-| Dohnal Jiří | 8 000 x 12 | 2019 | člen dozorčí rady | 
-| Mejsnar Jan | xy | xy | člen dozorčí rady | 
-| Muzikant Martin | xy | xy | člen dozorčí rady | 
+| Dohnal Jiří | 8 000 | 2019 | člen dozorčí rady | 
+| Mejsnar Jan | 4 000 | červenec - prosinec | člen dozorčí rady | 
+| Muzikant Martin | 4 000 | červenec - prosinec | člen dozorčí rady | 
 
 <br>
 <br>
@@ -61,8 +62,8 @@ Odměny jsou vypláceny jednou ročně pouze za účast.
 
 | Jméno  | Měsíční částka | Období | Funkce |
 |:--------|---------:|---------:|---------:|
-| Dohnal Jiří | 3 výbory | do konce srpna | předseda výboru, člen dvou výborů | 
-| Kos Ladislav | xy | xy | xy | 
+| Dohnal Jiří | 24 487 | leden - září | předseda výboru, člen dvou výborů | 
+| Kos Ladislav | 21 680 | duben - prosinec | předseda komise, člen dvou výborů | 
 
 <br>
 <br>
