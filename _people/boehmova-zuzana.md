@@ -1,10 +1,11 @@
 ---
-uid: jiri.dohnal
-name:     Jiří Dohnal
-
+uid: zuzana.bohmova
+name: Zuzana Böhmová
+titles:
+  before: Mgr.
 category:
+  - pms
   - kandidat-obec
-  - clenove
 
   
 #categories: kontaktni_osoba    
