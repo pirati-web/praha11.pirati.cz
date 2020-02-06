@@ -16,7 +16,7 @@ mail:
   - zuzana.bohmova@pirati.cz
 profiles:
   facebook: https://www.facebook.com/zuzana.bohmova
-  instagram: https://www.instagram.com/zuzana.boehmova/
+  instagram: https://www.instagram.com/zuzana.boehmova
 calendar: va05o0jfci8qrqv7omspurjvnc@group.calendar.google.com
 ---
 
