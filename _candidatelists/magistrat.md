@@ -13,7 +13,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     profession: Teoložka
     age: 35
     party: Piráti
-  - uid: duska.martin
+  - uid: martin.duska
     age: 26
     profession: Politolog
     party: Piráti  
