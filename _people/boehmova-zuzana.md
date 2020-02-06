@@ -8,15 +8,12 @@ category:
   - kandidat-obec
 
   
-#categories: kontaktni_osoba    
-#ordpms: 1
-description: ▪ starosta pro informační technologie, digitalizaci, finanční politiku, krizové řízení a bydlení
-profession: starosta Prahy 11, člen Pirátů
-img: people/jiri-dohnal.jpg
-address: Ocelíkova 672/1, 149 00 Praha 11
-clock: den pro veřejnost se starostou každé pondělí od 17:00 do 18:30
+ordpms: 2
+description: místopředseda MS <br>▪ předseda Výboru pro otevřenou radnici a digitalizaci <br>▪ Komise pro výchovu, vzdělávání a národnostní menšiny <br>▪ Mediální komise
+profession: středoškolský pedagog, členka Pirátů, zastupitel MČ Praha 11, gesce: školství, otevřená radnice, digitalizace, středoškolský pedagog, členka Pirátů
+img: people/zuzana-bohmova.jpg
 mail:
-  - jiri.dohnal@pirati.cz
+  - zuzana.bohmova@pirati.cz
 #wiki: 
 #mob: 
 profiles:
