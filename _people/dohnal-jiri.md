@@ -27,7 +27,7 @@ calendar: difpl1tdlua3q599bf6vs1nbnbsv307g@import.calendar.google.com
 ---
 
 starosta MČ Praha 11 s gescí: IT, digitalizace a finance, krizové řízení
-j
+
 člen Pirátů
 
 předseda MS
