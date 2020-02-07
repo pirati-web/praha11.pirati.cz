@@ -64,7 +64,7 @@ Odměny jsou vypláceny jednou ročně pouze za účast. Částky jsou navrhovan
 |:--------|---------:|---------:|---------:|
 | Dohnal Jiří | 24 487 | leden - září | předseda výboru, člen dvou výborů | 
 | Kos Ladislav | 21 680 | duben - prosinec | předseda komise, člen dvou výborů | 
-| Minařík Milan | 10 000 | jednorázová odměna za rok celý 2019 | člen komise | 
+| Minařík Milan | 10 000 | jednorázová odměna za celý rok 2019 | člen komise | 
 
 <sup>Výše odměn je uváděna v hrubém.</sup>
 <br>
