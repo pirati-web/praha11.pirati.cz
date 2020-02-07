@@ -29,7 +29,7 @@ K měsíčním odměnám se nevyplácí žádné mimořádné odměny ani osobn�
 <br>
 <br>
 
-**Odměny členů Piráti Praha 11 v komisích a výborech (nezastupitelů)**
+**Odměny členů Piráti Praha 11 v komisích a výborech (nezastupitelů) na MČ Praha 11**
 
 Odměny jsou vypláceny jednou ročně pouze za účast. Částky jsou navrhované odměny občanům, které v průběhu února budou radou schváleny.
 
@@ -49,16 +49,16 @@ Odměny jsou vypláceny jednou ročně pouze za účast. Částky jsou navrhovan
 
 | Jméno  | Měsíční částka | Období | Funkce |
 |:--------|---------:|---------:|---------:|
-| Dohnal Jiří | 8 000 | 2019 | člen dozorčí rady | 
-| Mejsnar Jan | 4 000 | červenec - prosinec | člen dozorčí rady | 
-| Muzikant Martin | 4 000 | červenec - prosinec | člen dozorčí rady | 
+| Dohnal Jiří | 8 000 | 2019 | člen dozorčí rady (HMP) | 
+| Mejsnar Jan | 4 000 | červenec - prosinec | člen dozorčí rady (P11) | 
+| Muzikant Martin | 4 000 | červenec - prosinec | člen dozorčí rady (P11) | 
 
 <sup>Výše odměn je uváděna v hrubém.</sup>
 <br>
 <br>
 <br>
 
-**Odměny členů Piráti Praha 11 z MHMP**
+**Odměny členů Piráti Praha 11 z magistrátu hl. m. Prahy**
 
 | Jméno  | Měsíční částka | Období | Funkce |
 |:--------|---------:|---------:|---------:|
