@@ -17,8 +17,8 @@ K měsíčním odměnám se nevyplácí žádné mimořádné odměny ani osobn�
 | Dohnal Jiří | 2 537 | 68 003 | 84 552 | uvolněný starosta | 
 | Duška Martin | 2 537 | 48 362 | 65 950 | uvolněný radní |
 | Kocourek Josef | 2 537 | 42 161 | 57 495 | uvolněný místopředseda výboru, člen komise (neplacené) |
-| Kos Ladislav | 2 537 | 3 100 | 4 228 | neuvolněný člen komise|
-| Kovařík Michal | 2 537 | 6 820 | 9 301 až 13 529 | neuvolněný předseda komise, člen dvou komisí | 
+| Kos Ladislav | 2 537 | 4 960 | 6 765 | neuvolněný člen komise|
+| Kovařík Michal | 2 537 | 8 680 | 11 838 až 13 529 | neuvolněný předseda komise, člen dvou komisí | 
 | Mejsnar Jan | 2 537 | 9 921 | 13 529 | neuvolněný předseda komise, člen jedné komise, člen jednoho výboru | 
 | Muzikant Martin | 2 537 | 9 921 | 13 529 | neuvolněný předseda komise, člen jednoho výboru, člen dvou komisí | 
 | Ujhelyiová Zuzana | 2 537 | 48 362 | 65 950 | uvolněný radní |
