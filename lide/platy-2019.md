@@ -50,7 +50,7 @@ Odměny jsou vypláceny jednou ročně pouze za účast. Částky jsou navrhovan
 | Jméno  | Měsíční částka | Období | Funkce |
 |:--------|---------:|---------:|---------:|
 | Dohnal Jiří | 8 000 | 2019 | člen dozorčí rady (HMP) | 
-| Mejsnar Jan | 4 000 | červenec - prosinec | člen dozorčí rady (P11) | 
+| Mejsnar Jan | 7 000 | červenec - prosinec | místopředseda dozorčí rady (P11) | 
 | Muzikant Martin | 4 000 | červenec - prosinec | člen dozorčí rady (P11) | 
 
 <sup>Výše odměn je uváděna v hrubém.</sup>
