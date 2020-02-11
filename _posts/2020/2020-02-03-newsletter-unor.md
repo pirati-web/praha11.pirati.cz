@@ -11,7 +11,7 @@ image: articles/2020/2020-02-03-newsletter-unor.jpg
 
 Rozhodli jsme se pro Vás vytvářet každý měsíc přehled nejdůležitějších zpráv z Prahy 11 uplynulého měsíce a přehled toho, co se další měsíc chystá. <br>
 **Aktuální informace** můžete sledovat na našem [webu]( https://praha11.pirati.cz/), [facebooku]( https://www.facebook.com/pirati11.cz/) nebo [instagramu]( https://www.instagram.com/piratipraha11/).<br>
-Nebo nás můžete navštívit každé **úterý od 17:00 do 19:00 v [PiVyši]( https://www.google.com/maps/place/PiVy%C5%A1+-+Pir%C3%A1tsk%C3%A9+centrum+Ji%C5%BEn%C3%AD+M%C4%9Bsto/@50.0330773,14.525848,15z/data=!4m5!3m4!1s0x0:0x4c17a87e66865ac0!8m2!3d50.0330773!4d14.525848)** - Hviezdoslavova 519/10, 149 00, Praha 11-Háje, 3. patro. <br>
+Nebo nás můžete navštívit každé **úterý od 17:30 do 19:00 v [PiVyši]( https://www.google.com/maps/place/PiVy%C5%A1+-+Pir%C3%A1tsk%C3%A9+centrum+Ji%C5%BEn%C3%AD+M%C4%9Bsto/@50.0330773,14.525848,15z/data=!4m5!3m4!1s0x0:0x4c17a87e66865ac0!8m2!3d50.0330773!4d14.525848)** - Hviezdoslavova 519/10, 149 00, Praha 11-Háje, 3. patro. <br>
 
 **CO SE DĚLO V LEDNU:** <br>
 V minulém měsíci jsme na ***Jižním Městě otevřeli nové pirátské centrum***, které nese název [PiVyš]( https://www.facebook.com/piratskavysetrovna/) alias Pirátská Vyšetřovna. Název je odvozen z původního názvu prostoru – ordinace. Od té chvíle jsme v PiVyši měli 2 akce: [setkání Pirátů Praha 11 a jejich příznivců poprvé v nových prostorech]( https://www.facebook.com/pg/piratskavysetrovna/photos/?tab=album&album_id=119032499641234) a [přednášku o Centrálním parku z pohledu jeho uživatelů]( https://praha11.pirati.cz/tiskove-zpravy/centralni-park/). <br>
