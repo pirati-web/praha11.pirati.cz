@@ -1,7 +1,8 @@
 ---
 date: 2018-12-22
 category: blog
-tags: piráti
+tags:
+	- piráti
 layout: post
 title: Liknavost Rady MČ Praha 11 ve věci územní studie Opatov - Na Jelenách napravují Piráti
 author: Milan Minařík

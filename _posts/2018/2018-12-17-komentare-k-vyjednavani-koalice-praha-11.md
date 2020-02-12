@@ -1,7 +1,8 @@
 ---
 date: 2018-12-17
 category: blog
-tags: piráti
+tags:
+	- piráti
 layout: post
 title: Komentář Pirátů Praha 11 k vývoji vyjednávání koalice na Jižním Městě
 author: Milan Minařík

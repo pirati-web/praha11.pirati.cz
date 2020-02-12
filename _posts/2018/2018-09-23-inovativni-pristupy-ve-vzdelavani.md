@@ -1,7 +1,10 @@
 ---
 date: 2018-09-23
 category: blog
-tags: praha 11, jižní město, piráti
+tags:
+	- praha 11
+	- jižní město
+	- piráti
 layout: post
 title: Inovativní přístupy ke vzdělávání
 author: Mgr. Zuzana Ujhelyiová, Mgr. Zuzana Böhmová

@@ -1,7 +1,8 @@
 ---
 date: 2018-12-20
 category: blog
-tags: piráti
+tags:
+	- piráti
 layout: post
 title: Vyvracíme informaci, která se objevila na webu E15.cz 
 author: Milan Minařík

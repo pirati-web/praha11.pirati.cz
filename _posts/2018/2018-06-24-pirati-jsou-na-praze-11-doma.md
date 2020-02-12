@@ -1,7 +1,11 @@
 ---
 date: 2018-06-10
 category: blog
-tags: Piráti, místní organizace, Jižní Město, Praha 11
+tags:
+	- Piráti
+	- místní organizace
+	- Jižní Město
+	- Praha 11
 layout: post
 title: Piráti jsou na Praze 11 doma!
 author: Jiří Dohnal

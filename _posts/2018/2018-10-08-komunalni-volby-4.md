@@ -1,7 +1,8 @@
 ---
 date: 2018-10-08
 category: blog
-tags: piráti
+tags:
+	- piráti
 layout: post
 title: Vyjednávání týmu Pirátů se zástupci TOP09+STAN
 author: Milan Minařík

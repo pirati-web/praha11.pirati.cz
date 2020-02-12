@@ -1,7 +1,8 @@
 ---
 date: 2018-10-05
 category: blog
-tags: piráti
+tags:
+	- piráti
 layout: post
 title: Posezení se Zdeňkem, Mikulášem a Olgou
 author: Milan Minařík

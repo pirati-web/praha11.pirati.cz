@@ -1,7 +1,8 @@
 ---
 date: 2018-11-13
 category: blog
-tags: piráti
+tags:
+	- piráti
 layout: post
 title: Tisková zpráva - Setkání s Hnutím pro Prahu 11
 author: Milan Minařík

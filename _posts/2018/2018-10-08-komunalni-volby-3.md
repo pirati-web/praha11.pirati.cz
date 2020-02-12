@@ -1,7 +1,8 @@
 ---
 date: 2018-10-08
 category: blog
-tags: piráti
+tags:
+	- piráti
 layout: post
 title: Vyjednávání týmu Pirátů s hnutím ANO
 author: Milan Minařík

@@ -1,7 +1,10 @@
 ---
 date: 2018-09-23
 category: blog
-tags: praha 11, jižní město, piráti
+tags:
+	- praha 11
+	- jižní město
+	- piráti
 layout: post
 title: Zhodnocení projektu „Spolu za lepší Jedenáctku“
 author: Ing. Michaela Poláková

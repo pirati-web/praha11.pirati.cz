@@ -1,7 +1,11 @@
 ---
 date: 2018-08-23
 category: blog
-tags: úklid, rozhovor, Jižní Město, Praha 11
+tags:
+	- úklid
+	- rozhovor
+	- Jižní Město
+	- Praha 11
 layout: post
 title: Výtvarnice Martina Walterová Ráda dávám věci do nezvyklých souvislostí
 author: Michal Kovařík

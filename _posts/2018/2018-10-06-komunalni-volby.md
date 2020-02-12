@@ -1,7 +1,8 @@
 ---
 date: 2018-10-06
 category: blog
-tags: piráti
+tags:
+	- piráti
 layout: post
 title: Jedním slovem. Děkujeme!
 author: Milan Minařík

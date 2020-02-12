@@ -1,7 +1,8 @@
 ---
 date: 2018-12-06
 category: blog
-tags: piráti
+tags:
+	- piráti
 layout: post
 title: 2. Zasedání Zastupitelstva městské části Praha 11
 author: Milan Minařík

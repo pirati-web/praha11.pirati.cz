@@ -1,7 +1,9 @@
 ---
 date: 2018-09-17
 category: blog
-tags: praha 11, volby
+tags:
+	- praha 11
+	- volby
 layout: post
 title: Co Piráti dokázali?
 author: Martin Duška

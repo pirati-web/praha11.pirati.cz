@@ -1,7 +1,8 @@
 ---
 date: 2018-10-18
 category: blog
-tags: piráti
+tags:
+	- piráti
 layout: post
 title: Druhé kolo - Vyjednávání týmu Pirátů se zástupci Hnutí pro Prahu 11
 author: Milan Minařík

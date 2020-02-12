@@ -1,7 +1,8 @@
 ---
 date: 2018-10-19
 category: blog
-tags: piráti
+tags:
+	- piráti
 layout: post
 title: Prohlášení Pirátské strany k povolební situaci na Praze 11
 author: Milan Minařík
