@@ -2,7 +2,7 @@
 date: 2019-01-06
 category: blog
 tags:
-	- piráti
+  - piráti
 layout: post
 title: Piráti na Praze 11 připomínkují územní studii Opatov - Na Jelenách
 author: Milan Minařík

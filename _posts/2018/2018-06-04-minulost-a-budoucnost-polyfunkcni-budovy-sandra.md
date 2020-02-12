@@ -2,9 +2,9 @@
 date: 2018-06-04
 category: blog
 tags:
-	- sociálno
-	- bydlení
-	- Sandra Opatov
+  - sociálno
+  - bydlení
+  - Sandra Opatov
 layout: post
 title: Minulost a budoucnost polyfunkční budovy Sandra
 author: Jiří Dohnal

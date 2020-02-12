@@ -2,7 +2,7 @@
 date: 2019-10-31
 category: blog
 tags: 
-	- Piráti
+  - Piráti
 layout: post
 title: Shrnutí půlroční práce na radnici
 author: Josef Kocourek

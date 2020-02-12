@@ -2,7 +2,7 @@
 date: 2018-10-19
 category: blog
 tags:
-	- piráti
+  - piráti
 layout: post
 title: Vyjednávání týmu Pirátů se zástupci Hnutí pro Prahu 11
 author: Milan Minařík

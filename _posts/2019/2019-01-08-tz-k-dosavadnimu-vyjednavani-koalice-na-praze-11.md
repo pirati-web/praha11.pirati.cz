@@ -2,7 +2,7 @@
 date: 2019-01-08
 category: blog
 tags:
-	- piráti
+  - piráti
 layout: post
 author: Jiří Dohnal
 authorId: jiri.dohnal

@@ -2,10 +2,10 @@
 date: 2019-10-17
 category: blog
 tags: 
-	- Praha 11 
-	- Piráti 
-	- Doprava 
-	- Cyklistika
+  - Praha 11 
+  - Piráti 
+  - Doprava 
+  - Cyklistika
 layout: post
 author: Ladislav Kos
 authorId: ladislav.kos

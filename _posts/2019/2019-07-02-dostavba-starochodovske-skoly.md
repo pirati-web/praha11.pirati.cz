@@ -2,7 +2,7 @@
 date: 2019-07-02
 category: blog
 tags: 
-	- Piráti
+  - Piráti
 layout: post
 title: Začala stavba západního křídla Starochodovské školy
 author: Zuzana Böhmová

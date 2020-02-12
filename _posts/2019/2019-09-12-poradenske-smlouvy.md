@@ -2,7 +2,7 @@
 date: 2019-09-12
 category: blog
 tags: 
-	- Piráti
+  - Piráti
 layout: post
 title: Vyjádření k poradcům koaličních stran MČ Prahy 11
 author: Milan Minařík

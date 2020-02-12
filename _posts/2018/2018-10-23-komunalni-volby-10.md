@@ -2,7 +2,7 @@
 date: 2018-10-23
 category: blog
 tags:
-	- piráti
+  - piráti
 layout: post
 title: Tisková zpráva České pirátské strany Praha 11
 author: Milan Minařík

@@ -2,10 +2,10 @@
 date: 2018-05-28
 category: blog
 tags:
-	- územní rozvoj
-	- praha 11
-	- bydlení
-	- Sandra Opatov
+  - územní rozvoj
+  - praha 11
+  - bydlení
+  - Sandra Opatov
 layout: post
 title: Praha není vesnice, bohužel nebo bohudík?
 author: Mgr. Jan Mejsnar

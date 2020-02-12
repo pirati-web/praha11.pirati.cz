@@ -2,10 +2,10 @@
 date: 2018-07-03
 category: blog
 tags:
-	- místní organizace
-	- Piráti
-	- Praha 11
-	- Jižní Město
+  - místní organizace
+  - Piráti
+  - Praha 11
+  - Jižní Město
 layout: post
 title: Proč potřebuje Jižní Město Piráty?
 author: Bc. Martin Duška

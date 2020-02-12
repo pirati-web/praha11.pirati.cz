@@ -2,7 +2,7 @@
 date: 2018-11-08
 category: blog
 tags:
-	- piráti
+  - piráti
 layout: post
 title: Deklarace společného postupu zastupitelů zvolených za Českou pirátskou stranu do ZMČ Praha 11 ve volebním období 2018 – 2022
 author: Milan Minařík

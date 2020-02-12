@@ -2,7 +2,7 @@
 date: 2019-01-16
 category: blog
 tags:
-	- piráti
+  - piráti
 layout: post
 author: Milan Minařík
 authorId: milan.minarik

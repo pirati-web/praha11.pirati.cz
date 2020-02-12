@@ -2,11 +2,11 @@
 date: 2019-12-13
 category: blog
 tags: 
-	- praha11 
-	- piráti 
-	- doprava 
-	- metro
-	- Opatov
+  - praha11 
+  - piráti 
+  - doprava 
+  - metro
+  - Opatov
 layout: post
 author: Martin Duška
 authorId: martin.duska

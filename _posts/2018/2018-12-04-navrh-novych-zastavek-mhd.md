@@ -2,7 +2,7 @@
 date: 2018-12-04
 category: blog
 tags:
-	- piráti
+  - piráti
 layout: post
 author: Martin Duška
 authorId: martin.duska

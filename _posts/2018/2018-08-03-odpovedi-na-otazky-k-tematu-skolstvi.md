@@ -2,9 +2,9 @@
 date: 2018-08-03
 category: blog
 tags:
-	- školství
-	- Jižní Město
-	- Praha 11
+  - školství
+  - Jižní Město
+  - Praha 11
 layout: post
 title: Odpovědi na otázky k tématu školství
 author: Mgr. Zuzana Ujhelyiová

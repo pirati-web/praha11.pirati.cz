@@ -2,9 +2,9 @@
 date: 2020-01-30
 category: blog
 tags: 
-	- Praha 11 
-	- piráti 
-	- rozpočet opozice
+  - Praha 11 
+  - piráti 
+  - rozpočet opozice
 layout: post
 author: Martin Muzikant
 authorId: martin.muzikant

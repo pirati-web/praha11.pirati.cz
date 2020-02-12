@@ -2,9 +2,9 @@
 date: 2020-01-23
 category: blog
 tags: 
-	- Praha 11 
-	- piráti 
-	- školství
+  - Praha 11 
+  - piráti 
+  - školství
 layout: post
 author: Zuzana Böhmová
 authorId: zuzana.bohmova

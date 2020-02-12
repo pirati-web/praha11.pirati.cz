@@ -2,8 +2,8 @@
 date: 2019-02-27
 category: blog
 tags:
-	- praha 11
-	- piráti
+  - praha 11
+  - piráti
 layout: post
 author: Mgr. Zuzana Ujhelyiová
 authorId: zuzana.ujhelyiova

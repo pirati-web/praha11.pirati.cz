@@ -2,7 +2,7 @@
 date: 2019-08-28
 category: blog
 tags: 
-	- Piráti
+  - Piráti
 layout: post
 title: Rozklikávací rozpočet pro Prahu 11
 author: Zuzana Böhmová

@@ -2,7 +2,7 @@
 date: 2018-12-06
 category: blog
 tags:
-	- piráti
+  - piráti
 layout: post
 title: Piráti na Praze 11 ukončili vyjednávání o koalici s Hnutím pro Prahu 11
 author: Milan Minařík
