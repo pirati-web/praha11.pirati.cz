@@ -6,7 +6,7 @@ layout: post
 title: Otázky a odpovědi na dotaz o peticích
 author: Zuzana Böhmová
 authorId: zuzana.bohmova
-image: articles/2018/2019-04-30-odpoved-petice.jpg
+image: articles/2019/2019-04-30-odpoved-petice.jpg
 ---
 
 *V nedávné době jsme obdrželi dotaz, který se týkal peticí a jejich zacházení s nimi na úrovni městské části. Odpověď na email jsme se rozhodli zveřejnit na našich webových stránkách.*
