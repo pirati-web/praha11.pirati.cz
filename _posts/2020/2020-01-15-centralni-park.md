@@ -1,7 +1,11 @@
 ---
 date: 2020-01-16
 category: blog
-tags: Centrální park, příroda, Praha 11, piráti
+tags: 
+	- Centrální park
+	- příroda
+	- Praha 11
+	- Piráti
 layout: post
 author: Zuzana Böhmová
 authorId: zuzana.bohmova

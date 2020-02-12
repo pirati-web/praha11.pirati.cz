@@ -1,7 +1,8 @@
 ---
 date: 2019-09-24
 category: blog
-tags: piráti
+tags: 
+	- Piráti
 layout: post
 title: Probíhá připomínkování územní studie Roztyly
 author: Josef Kocourek

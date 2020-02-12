@@ -1,7 +1,10 @@
 ---
 date: 2019-12-20
 category: blog
-tags: praha11 piráti školství
+tags: 
+	- praha 11 
+	- piráti 
+	- školství
 layout: post
 author: Zuzana Ujhelyiová
 authorId: zuzana.ujhelyiova

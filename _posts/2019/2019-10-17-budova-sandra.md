@@ -6,7 +6,11 @@ date: 2019-10-17
 author: Jiří Dohnal
 authorId: jiri.dohnal
 image: articles/2019/2019-10-18-sandra.jpg
-tags: praha11 pirati Sandra byty
+tags: 
+	- Praha 11 
+	- Pirati 
+	- Sandra 
+	- Byty
 ---
 
 

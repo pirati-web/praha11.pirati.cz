@@ -1,7 +1,8 @@
 ---
 date: 2019-11-12
 category: blog
-tags: piráti
+tags: 
+	- Piráti
 layout: post
 title: Shrnutí půlroční práce na radnici
 author: Zuzana Böhmová

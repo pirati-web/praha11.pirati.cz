@@ -1,7 +1,8 @@
 ---
 date: 2019-05-20
 category: blog
-tags: piráti
+tags: 
+	- Piráti
 layout: post
 title: Informace k odměně poradců na MČ Praha 11
 author: Milan Minařík
