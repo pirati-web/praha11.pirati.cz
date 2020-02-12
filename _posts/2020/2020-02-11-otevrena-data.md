@@ -1,7 +1,10 @@
 ---
 date: 2020-02-11
 category: blog
-tags: pirati Praha_11 otevřená_data
+tags: 
+  - Praha 11
+  - Otevřená data
+  - Piráti
 layout: post
 author: Zuzana Böhmová
 authorId: zuzana.bohmova
