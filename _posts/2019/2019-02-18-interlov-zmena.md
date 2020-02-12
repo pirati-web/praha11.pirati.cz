@@ -1,7 +1,9 @@
 ---
 date: 2019-02-18
 category: blog
-tags: praha 11, piráti
+tags:
+	- praha 11
+	- piráti
 layout: post
 author: Josef Kocourek
 authorId: josef.kocourek

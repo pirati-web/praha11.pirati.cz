@@ -1,7 +1,9 @@
 ---
 date: 2019-04-15
 category: blog
-tags: praha 11, piráti
+tags: 
+	- praha 11 
+	- piráti
 layout: post
 author: Zuzana Ujhelyiová
 authorId: zuzana.ujhelyiova

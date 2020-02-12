@@ -1,7 +1,9 @@
 ---
 date: 2019-04-30
 category: blog
-tags: piráti
+tags:
+	- Piráti
+	- územní studie
 layout: post
 title: Piráti na Praze 11 připomínkují územní studii čtvrťového centra v okolí stanice metra Háje
 author: Josef Kocourek

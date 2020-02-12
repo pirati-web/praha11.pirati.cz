@@ -1,7 +1,9 @@
 ---
 date: 2019-02-20
 category: blog
-tags: praha 11, piráti
+tags:
+	- praha 11
+	- piráti
 layout: post
 author: Milan Minařík
 authorId: milan.minarik

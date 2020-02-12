@@ -1,7 +1,10 @@
 ---
 date: 2019-04-30
 category: blog
-tags: piráti piráti11 Praha11 petice
+tags: 
+	- piráti
+	- Praha 11 
+	- petice
 layout: post
 title: Otázky a odpovědi na dotaz o peticích
 author: Zuzana Böhmová
