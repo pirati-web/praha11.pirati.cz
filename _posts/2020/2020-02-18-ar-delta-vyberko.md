@@ -7,7 +7,7 @@ tags:
   - výběrové řízení
 layout: post
 author: Milan Minařík
-authorId: milan.mnarik
+authorId: milan.minarik
 title: Výběrové řízení na člena správní rady společnosti AR DELTA, a.s.
 image: articles/2020/2020-02-18-ARDelta-vyberko.jpg
 ---
