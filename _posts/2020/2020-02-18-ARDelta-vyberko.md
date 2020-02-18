@@ -14,9 +14,9 @@ image: articles/2020/2020-02-18-ARDelta-vyberko.jpg
 ---
 
 Vyhlašujeme veřejné výběrové řízení na člena správní rady akciové
-společnosti AR DELTA, a.s.
+společnosti AR DELTA, a.s. Oficiální odkaz na výběrové řízení na [Pirátském fóru](https://forum.pirati.cz/viewtopic.php?f=572&t=51295&sid=80bbc708e964b456cdc0769859c8d69e&fbclid=IwAR2aStM6my9wmj73LpMdyRvLKambp879us4belVIzu1lgQBbyJw8qckJt2E).
 
-Činnost společnosti je popsána [ZDE](https://arealls.cz/)
+Činnost společnosti je popsána [ZDE](https://arealls.cz/). Pozice není finančně ohodnocena.
 
 **Každý uchazeč by měl splňovat následující požadavky:**<br>
 Není zaměstnancem úřadu Městské části Praha 11<br>
