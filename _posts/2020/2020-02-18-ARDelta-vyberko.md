@@ -2,9 +2,8 @@
 date: 2020-02-18
 category: blog
 tags: 
-  - Praha 11
-  - Piráti
-  - Piráti Praha 11
+  - AR DELTA
+  - člen správní rady
   - výběrové řízení
 layout: post
 author: Milan Minařík

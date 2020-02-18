@@ -4,8 +4,11 @@ category: blog
 tags: 
   - Centrální park
   - příroda
-  - Praha 11
-  - Piráti
+  - PiVyš
+  - Pirátská vyšetřovna
+  - přednáška
+  - park
+  - Jižní město
 layout: post
 author: Zuzana Böhmová
 authorId: zuzana.bohmova

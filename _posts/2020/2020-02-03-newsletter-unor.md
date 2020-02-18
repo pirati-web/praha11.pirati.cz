@@ -2,9 +2,7 @@
 date: 2020-02-03
 category: blog
 tags: 
-  - Pirati 
-  - Praha 11 
-  - PiVyš
+  - newsletter
 layout: post
 author: Zuzana Böhmová
 authorId: zuzana.bohmova

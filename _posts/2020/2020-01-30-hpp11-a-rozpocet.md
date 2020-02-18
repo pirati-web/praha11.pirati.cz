@@ -2,9 +2,9 @@
 date: 2020-01-30
 category: blog
 tags: 
-  - Praha 11 
-  - piráti 
+  - HPP 11
   - rozpočet opozice
+  - Jižní město
 layout: post
 author: Martin Muzikant
 authorId: martin.muzikant

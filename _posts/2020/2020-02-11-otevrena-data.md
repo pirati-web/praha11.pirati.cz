@@ -2,10 +2,7 @@
 date: 2020-02-11
 category: blog
 tags: 
-  - Praha 11
   - otevřená data
-  - Piráti
-  - Piráti Praha 11
   - transparentnost
 layout: post
 author: Zuzana Böhmová

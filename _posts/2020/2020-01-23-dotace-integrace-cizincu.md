@@ -2,8 +2,8 @@
 date: 2020-01-23
 category: blog
 tags: 
-  - Praha 11 
-  - piráti 
+  - dotace
+  - integrace cizinců 
   - školství
 layout: post
 author: Zuzana Böhmová
