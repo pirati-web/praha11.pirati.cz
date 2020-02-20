@@ -5,7 +5,7 @@ backend:
   base_url: https://piraweboauth.herokuapp.com
 
 media_folder: "" # Media files will be stored in the repo under static/images/uploads
-public_folder: "" # The src attribute for uploaded media will begin with /images/uploads
+public_folder: "articles" # The src attribute for uploaded media will begin with /images/uploads
 #assets/img/articles
 collections: # A list of collections the CMS should be able to edit
   - name: "posts-2019" # Used in routes, ie.: /admin/collections/:slug/edit
