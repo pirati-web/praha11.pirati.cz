@@ -1,5 +1,5 @@
 ---
-date: 2020-02-18
+date: 2020-03-04
 category: blog
 tags: 
   - školství
