@@ -21,7 +21,8 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 32
     profession: Konzultatnt online marketingu
     party: Piráti
-  - name: Michal Kovařík
+  - uid: michael.kovarik
+    name: Michal Kovařík
     age: 30
     profession: Nakladatelský pracovník, publicista
     party: Piráti  
