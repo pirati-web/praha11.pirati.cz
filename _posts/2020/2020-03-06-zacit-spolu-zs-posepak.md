@@ -9,7 +9,7 @@ tags:
 layout: post
 author: Zuzana Ujhelyiová
 authorId: zuzana.ujhelyiova
-title: Školy na Praze 11 se budou zelenat
+title: Návštěva třídy v programu Začít spolu na ZŠ Pošepného náměstí
 image: articles/2020/2020-03-06-zacit-spolu-zs-posepak.jpg
 ---
 *Přinášíme report našeho zástupce ve školské radě při Základní škole Pošepného - Lukáše Truksy.*
