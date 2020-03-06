@@ -12,7 +12,7 @@ authorId: zuzana.ujhelyiova
 title: Návštěva třídy v programu Začít spolu na ZŠ Pošepného náměstí
 image: articles/2020/2020-03-06-zacit-spolu-zs-posepak.jpg
 ---
-*Přinášíme report našeho zástupce ve školské radě při Základní škole Pošepného - Lukáše Truksy.*
+*Přinášíme report našeho zástupce ve školské radě při Základní škole Pošepného z návštěvy výuky třídy s programem "Začít spolu" - Lukáše Truksy.*
 
 Jakožto členovi školské rady za zřizovatele jsem dostal možnost navštívit první třídu na ZŠ Pošepného náměstí, kde probíhá výuka podle programu Začít spolu. Škola zavedla program v tomto školním roce a bylo pro mě přínosné zažít tyto průkopníky v akci. Třída je rozdělena na dvě části – učební disponuje klasickou tabulí a lavicemi, které jsou organizovány do tří **„center aktivit“** po třech lavicích a běžným nábytkem, kde má každé dítě úložný prostor pro své pomůcky, je zde i několik polic, kde děti najdou potřebné materiály pro rozšiřující úkoly. V zadní části je pak **herna** s velkými molitanovými kostkami, hračkami a knihovnou. Je tu dost místa pro **20 dětí**, což je maximální počet pro tento typ výuky.
 
