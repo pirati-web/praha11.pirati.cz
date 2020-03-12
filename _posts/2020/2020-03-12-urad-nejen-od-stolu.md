@@ -32,4 +32,4 @@ Fontána ve vnitrobloku Kropáčkova funguje na uzavřeném okruhu, tím šetř�
 Vnitroblok uvnitř ulic Kosmická a Horčičkova je další, který bude nutné v následujících obdobích rekonstruovat.
 
 ![Dětské hřiště k Milíčovu](/assets/img/articles/2020/2020-03-12-urad-nejen-od-stolu-VI.jpg)
-Naše MČ se může pyšnit hřištěm Rašova s dřevěnými herními prvky. .
+Naše MČ se může pyšnit hřištěm Rašova s dřevěnými herními prvky.
