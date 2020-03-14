@@ -11,7 +11,7 @@ title: Úřad nejen od stolu
 image: articles/2020/2020-03-12-urad-nejen-od-stolu.jpg
 ---
 
-*Minulý týden se konala první ze série procházek vedení a zaměstnanců úřadu městské části. Cílem těchto procházek je, aby radnice jako celek viděla, kde a co je zapotřebí opravit. Jedná se v podstatě o jakousi rešerši majetku přímo v terénu, při které vznikají náměty na úpravy majetku, či řešení aktuálních konkrétních problémů a nedostatků.*
+*Minulý týden se konala první ze série procházek vedení a zaměstnanců úřadu městské části Praha 11. Cílem těchto procházek je, aby radnice jako celek viděla, kde a co je zapotřebí opravit. Jedná se v podstatě o jakousi rešerši majetku přímo v terénu, při které vznikají náměty na úpravy majetku, či řešení aktuálních konkrétních problémů a nedostatků.*
 
 První z této série procházek byla na Hájích. Vznikl seznam úkolů, které je nutné v následujících měsících řešit. V rámci běžné údržby můžeme zmínit třeba prořezání stromů zasahujících do cesty, nebo dokončení chybějících chodníků. V rámci větších akcí vznikl například nápad na obnovení a rozšíření projektu “Trafačky na JM - Praha 11 Streetart” nebo na rekonstrukci fontány ve vnitrobloku Mendelova s využitím uzavřeného oběhu vody. Tyto náměty jsou prozatím ve fázi idejí, následně se začne prověřovat jejich možná realizace.
 
