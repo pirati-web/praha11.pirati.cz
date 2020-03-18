@@ -5,7 +5,7 @@
 			<p>{{item.desc}}</p>
 			{% assign garant = site.people | where_exp:"person","person.uid == item.garant" %}
 			{% assign garant = garant.first %}
-			<h5 class="l-prg__garant-name">{% if garant.titles.before %}{{garant.titles.before}} {% endif %}{{garant.name}}{% if garant.titles.after %} {{garant.titles.after}} {% endif %} {% if garant.img %}<div class="l-kan__item-img l-prg__garant-img"><img src="/assets/img/{{garant.img}}" alt="{{garant.fullname}}"/></div>{% endif %}</h5>
+			<h5 class="l-prg__garant-name">{{garant.fullname}} {% if garant.img %}<div class="l-kan__item-img l-prg__garant-img"><img src="/assets/img/{{garant.img}}" alt="{{garant.fullname}}"/></div>{% endif %}</h5>
 		</div>
 
 		<div class="l-prg__stats columns medium-2">
