@@ -28,10 +28,21 @@
   desc: ...
   garant: josef.kocourek
   redmine: 28139
-
 -
   id: 6
   title: Bezpečnost
   desc: ...
   garant: milan.minarik
   redmine: 28145
+-
+  id: 7
+  title: Sociální služby
+  desc: ...
+  garant: 
+  redmine: 28137
+-
+  id: 8
+  title: Zdravotnictví
+  desc: ...
+  garant: 
+  redmine: 28143  
