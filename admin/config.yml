@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: pirati-web/jihocesky.pirati.cz   # Path to your Github repository
+  repo: pirati-web/praha11.pirati.cz   # Path to your Github repository
   branch: master              # Branch to update
   base_url: https://piraweboauth.herokuapp.com
 
