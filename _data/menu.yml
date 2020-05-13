@@ -22,9 +22,9 @@ main:
   - link: /radnice/
     name: Radnice
     match: radnice
-  - link: /komunalni-volby-2018/
+  - link: /komunalni-volby/
     name: Program
-    match: komunalni-volby-2018
+    match: komunalni-volby
     submenu:   
       - link: /komunalni-volby-2018/
         name: Program
