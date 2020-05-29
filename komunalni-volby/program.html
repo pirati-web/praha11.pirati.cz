@@ -3,11 +3,16 @@
 		<section class="o-section o-section--spaceBot">
 			<div class="o-section-inner o-section-inner--leftBlock">
         <header class="o-section-header">
-          <h1 class="o-section__heading">Program pro volební období 2018 - 2022</h1>
+          <h1 class="o-section__heading">Program Pirátů Prahy 11 pro volební období 2018 - 2022</h1>
         </header><br/>
         {% for item in site.data.program %}
           {% include_relative item.html item=item.item prefix="cz" %}
         {% endfor %}
+        {% if site.organization.redmineLink %}
+          <div class="c-content-block c-emphasized-text">
+            Viz <a href="{{site.organization.redmineLink}}">náš ukolovník v Redmine</a>
+          </div>
+        {% endif%}        
 			</div>
 		</section>
 	</div>
