@@ -1,5 +1,5 @@
 ---
-date: 2020-05-01
+date: 2020-06-01
 category: blog
 tags: 
   - děti 
@@ -7,7 +7,7 @@ layout: post
 author: Zuzana Böhmová
 authorId: zuzana.bohmova
 title: Kdo si hraje, nezlobí
-image: articles/2020/2020-05-01-herna-pro-deti.jpg
+image: articles/2020/2020-06-01-herna-pro-deti.jpg
 ---
 **Hledáte na Jižním Městě místo, kde se můžete sejít s přáteli a vzít s sebou své ratolesti i za nepříznivého počasí? Místo, kde Vás s dětmi vítají a ještě Vám uvaří dobrou kávu? Místo, kde se Vaše děti mohou seznámit s novými kamarády?
 **
