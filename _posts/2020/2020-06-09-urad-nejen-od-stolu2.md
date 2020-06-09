@@ -17,7 +17,7 @@ image: articles/2020/2020-06-09-urad-nejen-od-stolu2.jpg
 Procházek se účastní vedení radnice spolu se zaměstnanci úřadu. Mají sloužit k tomu, aby radnice přímo v terénu viděla, co a kde je zapotřebí opravit. Jde vlastně o rešerši majetku přímo v terénu, při které vznikají náměty na úpravu majetku MČ, či řešení aktuálních konkrétních problémů a nedostatků. Chůze rozšiřuje vnímání a město prochozené pěšky najednou odhalí i to, co bývá při běžných přesunech z místa na místo skryté. Tyto náměty jsou prozatím ve fázi idejí, následně se začne prověřovat jejich možná realizace.
 
 
-![Nová tělocvična Eduso](/assets/img/articles/2020/2020-06-09-urad-nejen-od-stolu2-II.jpg)
+![Nová tělocvična Eduso](/assets/img/articles/2020/2020-06-09-urad-nejen-od-stolu2-I.jpg)
 U střední soukromé školy multimediální a propagační tvorby s. r. o. - EDUSO vyrostla nová tělocvična, která bude v odpoledních hodinách využívaná pro volnočasové aktivity dětí z okolí.
 
 ![Komunitní zahrada Vidímova](/assets/img/articles/2020/2020-06-09-urad-nejen-od-stolu2-II.jpg)
