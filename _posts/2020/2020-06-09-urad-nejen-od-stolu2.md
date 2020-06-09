@@ -12,7 +12,7 @@ title: Úřad nejen od stolu 2
 image: articles/2020/2020-06-09-urad-nejen-od-stolu2.jpg
 ---
 
-*Celý stát se po pandemii pomalu vrací do běžného provozu, stejně je tomu i na úřadu městské části Praha 11. Proto úřad po delší odmlce navázal na [první z procházek](https://praha11.pirati.cz/tiskove-zpravy/urad-nejen-od-stolu/), které se před vypuknutím pandemie rozhodl dělat.*
+*Celý stát se po pandemii pomalu vrací do běžného provozu, stejně je tomu i na úřadu městské části Praha 11. Proto úřad po delší odmlce navázal na [první z procházek](https://praha11.pirati.cz/tiskove-zpravy/urad-nejen-od-stolu/), které se před vypuknutím pandemie rozhodl dělat.* 
 
 Procházek se účastní vedení radnice spolu se zaměstnanci úřadu. Mají sloužit k tomu, aby radnice přímo v terénu viděla, co a kde je zapotřebí opravit. Jde vlastně o rešerši majetku přímo v terénu, při které vznikají náměty na úpravu majetku MČ, či řešení aktuálních konkrétních problémů a nedostatků. Chůze rozšiřuje vnímání a město prochozené pěšky najednou odhalí i to, co bývá při běžných přesunech z místa na místo skryté. Tyto náměty jsou prozatím ve fázi idejí, následně se začne prověřovat jejich možná realizace.
 
