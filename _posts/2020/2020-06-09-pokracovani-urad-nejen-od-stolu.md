@@ -18,7 +18,7 @@ Procházek se účastní vedení radnice spolu se zaměstnanci úřadu. Mají sl
 
 
 ![Nová tělocvična Eduso](/assets/img/articles/2020/2020-06-09-urad-nejen-od-stolu2-I.jpg)
-U střední soukromé školy multimediální a propagační tvorby s. r. o. - EDUSO vyrostla nová tělocvična, která bude v odpoledních hodinách využívaná pro volnočasové aktivity dětí z okolí.
+U střední soukromé školy multimediální a propagační tvorby s. r. o. - EDUSO vyrostla nová tělocvična, která bude v odpoledních hodinách využívaná pro volnočasové aktivity (kroužky) dětí z okolí.
 
 ![Komunitní zahrada Vidímova](/assets/img/articles/2020/2020-06-09-urad-nejen-od-stolu2-II.jpg)
 Na zahradě úřadu městské části ve Vidímově ulici se nachází komunitní zahrada.
