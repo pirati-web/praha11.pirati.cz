@@ -15,7 +15,7 @@ image: articles/2020/2020-06-09-testovani.jpg
 **Hygienická stanice hlavního města Prahy ve spolupráci s Armádou České republiky provádí od dneška preventivní testování zaměstnanců našich škol. <br>
 Všichni pracovníci ve školství v rámci své pracovní náplně přicházejí do kontaktu s dětmi a patří dle statistik k nejohroženějším skupinám.**
 
-Proto městská část Praha 11 domluvila plošné testování na nemoc COVID-19 pro pedagogy našich mateřských a základních škol.
+*"Proto městská část Praha 11 domluvila plošné testování na nemoc COVID-19 pro pedagogy našich mateřských a základních škol.
 
 Odběr probíhá přímo na radnici MČ Praha 11, kam dnes dorazila mobilní odběrová jednotka. Odběr provádí 3 profesionální laborantky z Hygienické stanice hlavního města Prahy a proces odběru trvá jen pár vteřin. Podle pedagogů je odběr zcela bezbolestný.
 
@@ -30,6 +30,6 @@ Před odběrem se do jmenných seznamů zapisuje datum narození, bydliště a t
 Souběžně s testováním zaměstnanců škol prochází testováním i zaměstnanci úřadu MČ Praha 11. Veškeré testování je čistě dobrovolné a je zdarma.
 
 Jsme jediná městská část, která zajistila zdarma plošné testování! <br>
-Děkujeme!
+Děkujeme!"*
 
 Mgr. Zuzana Ujhelyiová
