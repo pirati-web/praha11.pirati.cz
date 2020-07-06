@@ -17,6 +17,12 @@
   garant: jiri.dohnal
   redmine: 28141
 - 
+  id: 9
+  title: Kultura, sport a volný čas
+  desc: ...
+  garant: jiri.dohnal
+  redmine: 28147
+- 
   id: 3
   title: Doprava
   desc: ...
