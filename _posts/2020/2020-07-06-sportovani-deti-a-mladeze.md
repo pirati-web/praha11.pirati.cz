@@ -12,7 +12,6 @@ title: Jak pomoci sportování dětí a mládeže na Praze 11?
 image: articles/2020/2020-07-06-sportovani-deti-a-mladeze.jpg
 ---
 
-
 *Přinášíme vám článek našeho kolegy **Otmara Litery** člena sportovní komise na Praze 11. V článku popisuje fungování sportovních oddílů. Zároveň se zamýšlí nad tím, jak vytvořit pro děti prostor sportovat bez nutnosti být členem konkrétního sportovního oddílu.*
 <br>
 <br>
