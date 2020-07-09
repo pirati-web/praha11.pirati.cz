@@ -30,12 +30,13 @@ Tento projekt byl v průběhu května projednáván také na Výboru pro územn�
 
 **Jaké jsou tedy hlavní připomínky Prahy 11 [(celé znění připomínek najdete zde)](https://www.praha11.cz/filemanager/files/32474.pdf)?**
 
-<li>Přílišná hustota zástavby a nevhodné uspořádání navržených domů, které nekoresponduje s okolní zástavbou. Tedy chceme snížit objem a domy logicky uspořádat.
-<li>Nevhodné dopravní řešení pro část záměru - obslužnost dvou budov (pro IZS, stěhování) je totiž vázána na jiný projekt, který nemá ani platné povolení. 
-<li>Nově vzniklou ulici, respektive její jednosměrnost, vnímáme jako problematickou a požadujeme ji obousměrnou. 
-<li>Požadujeme zahrnout do projektu prvky občanské vybavenosti (např. obchody, služby, možnosti sportovního vyžití atp.)
-<li>Chceme zachovat co nejvíce stávající perspektivní zeleň.
-<li>Požadujeme, aby investor před zahájením prací zjistil technický stav okolních budov a v případě poškození v důsledku stavby věc řešil s vlastníkem.
+<li>Přílišná hustota zástavby a nevhodné uspořádání navržených domů, které nekoresponduje s okolní zástavbou. Tedy chceme snížit objem a domy logicky uspořádat.</li>
+<li>Nevhodné dopravní řešení pro část záměru - obslužnost dvou budov (pro IZS, stěhování) je totiž vázána na jiný projekt, který nemá ani platné povolení. </li>
+<li>Nově vzniklou ulici, respektive její jednosměrnost, vnímáme jako problematickou a požadujeme ji obousměrnou. </li>
+<li>Požadujeme zahrnout do projektu prvky občanské vybavenosti (např. obchody, služby, možnosti sportovního vyžití atp.)</li>
+<li>Chceme zachovat co nejvíce stávající perspektivní zeleň.</li>
+<li>Požadujeme, aby investor před zahájením prací zjistil technický stav okolních budov a v případě poškození v důsledku stavby věc řešil s vlastníkem.</li>
+
 
 Za Piráty bychom také velmi ocenili vstřícný krok ze strany investora snížením výšky budov alespoň o 1 patro. Původní územní plán umožňoval výstavbu pouze do výšky 3 pater, avšak pozměněný plán stanovuje maximální počet podlaží na 6, čehož investor samozřejmě plně využívá.
 
