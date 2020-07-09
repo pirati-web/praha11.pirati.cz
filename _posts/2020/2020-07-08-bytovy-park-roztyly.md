@@ -9,7 +9,7 @@ layout: post
 author: Josef Kocourek
 authorId: josef.kocourek
 title: Rada stanovila podmínky pro kvalitní budoucí rozvoj Roztyl
-image: articles/2020/2020-07-08-bytovy-park-roztyly.jpg
+image: articles/2020/2020-07-08-bytovy-park-roztyly2.jpg
 ---
 
 *Na Jižním městě existuje řada pozemků soukromých vlastníků, které jsou dle platného územního plánu vhodné k výstavbě. Jedním z takových projektů je i Bytový park Roztyly realizovaný YIT Stavo s.r.o. K jeho poslední verzi architektonické studie přijala Rada městské části Praha 11 stanovisko s požadavky na změny projektu.*
