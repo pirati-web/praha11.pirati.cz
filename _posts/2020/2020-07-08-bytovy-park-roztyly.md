@@ -37,7 +37,7 @@ Tento projekt byl v průběhu května projednáván také na Výboru pro územn�
 - Chceme zachovat co nejvíce stávající perspektivní zeleň.
 - Požadujeme, aby investor před zahájením prací zjistil technický stav okolních budov a v případě poškození v důsledku stavby věc řešil s vlastníkem.
 
-[celé znění připomínek najdete zde!](https://www.praha11.cz/filemanager/files/32474.pdf)
+**[Celé znění připomínek najdete zde!](https://www.praha11.cz/filemanager/files/32474.pdf)**
 
 Za Piráty bychom také velmi ocenili vstřícný krok ze strany investora snížením výšky budov alespoň o 1 patro. Původní územní plán umožňoval výstavbu pouze do výšky 3 pater, avšak pozměněný plán stanovuje maximální počet podlaží na 6, čehož investor samozřejmě plně využívá.
 
