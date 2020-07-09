@@ -28,15 +28,16 @@ Investor následně dodal přepracovaný projekt [Bytového parku Roztyly](https
 
 Tento projekt byl v průběhu května projednáván také na Výboru pro územní rozvoj a životní prostředí, který k němu schválil několik připomínek a podobně se k záměru vyjádřila v minulém týdnu i rada MČ Prahy 11. Své výhrady a připomínky k projektu jsme zaslali investorovi a uložili místostarostovi Martinovi Sedeke jednat s investorem o jeho investici do veřejného prostoru.
 
-**Jaké jsou tedy hlavní připomínky Prahy 11 [(celé znění připomínek najdete zde)](https://www.praha11.cz/filemanager/files/32474.pdf)?**
+**Jaké jsou tedy hlavní připomínky Prahy 11?**
 
-<li>Přílišná hustota zástavby a nevhodné uspořádání navržených domů, které nekoresponduje s okolní zástavbou. Tedy chceme snížit objem a domy logicky uspořádat.</li>
-<li>Nevhodné dopravní řešení pro část záměru - obslužnost dvou budov (pro IZS, stěhování) je totiž vázána na jiný projekt, který nemá ani platné povolení. </li>
-<li>Nově vzniklou ulici, respektive její jednosměrnost, vnímáme jako problematickou a požadujeme ji obousměrnou. </li>
-<li>Požadujeme zahrnout do projektu prvky občanské vybavenosti (např. obchody, služby, možnosti sportovního vyžití atp.)</li>
-<li>Chceme zachovat co nejvíce stávající perspektivní zeleň.</li>
-<li>Požadujeme, aby investor před zahájením prací zjistil technický stav okolních budov a v případě poškození v důsledku stavby věc řešil s vlastníkem.</li>
+- Přílišná hustota zástavby a nevhodné uspořádání navržených domů, které nekoresponduje s okolní zástavbou. Tedy chceme snížit objem a domy logicky uspořádat.
+- Nevhodné dopravní řešení pro část záměru - obslužnost dvou budov (pro IZS, stěhování) je totiž vázána na jiný projekt, který nemá ani platné povolení.
+- Nově vzniklou ulici, respektive její jednosměrnost, vnímáme jako problematickou a požadujeme ji obousměrnou.
+- Požadujeme zahrnout do projektu prvky občanské vybavenosti (např. obchody, služby, možnosti sportovního vyžití atp.)
+- Chceme zachovat co nejvíce stávající perspektivní zeleň.
+- Požadujeme, aby investor před zahájením prací zjistil technický stav okolních budov a v případě poškození v důsledku stavby věc řešil s vlastníkem.
 
+[celé znění připomínek najdete zde!](https://www.praha11.cz/filemanager/files/32474.pdf)
 
 Za Piráty bychom také velmi ocenili vstřícný krok ze strany investora snížením výšky budov alespoň o 1 patro. Původní územní plán umožňoval výstavbu pouze do výšky 3 pater, avšak pozměněný plán stanovuje maximální počet podlaží na 6, čehož investor samozřejmě plně využívá.
 
@@ -46,9 +47,8 @@ Piráti vnímají kladně tolik potřebnou bytovou výstavbu v Praze, preferujme
 
 Oceňujeme vstřícné kroky investora, který by se s námi až do zahájení stavebního řízení nemusel vůbec bavit, ale ví, že je i v jeho zájmu uspokojit zájmy občanů. S některými špatnými rozhodnutími předchozích zástupců radnice nic neuděláme. Věříme však že aktivním a konstruktivním přístupem, využitím práv, která jako mětská část máme, a konečně také otevřeným jednáním s přizváním veřejnosti, dokážeme projekty podstatně vylepšit. 
 
-Máte-li zájem účastnit se budoucích jednáních o tomto projektu či o něm zasílat informace, napište na josef.kocourek@pirati.cz.
-<br>
-<br>
+Máte-li zájem účastnit se budoucích jednáních o tomto projektu či o něm zasílat informace, napište na <josef.kocourek@pirati.cz>.
+
 
 ***Josef Kocurek***<br>
 *místopředseda výboru pro územní rozvoj a životní prostředí*
