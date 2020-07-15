@@ -5,7 +5,7 @@ name: Otmar Litera
 category:
   - delegati
 ordpms: 4  
-description: ▪ Sportvní komise
+description: ▪ člen sportvní komise
 img: people/otmar-litera.jpg
 age: 
 
