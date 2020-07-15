@@ -7,7 +7,7 @@ titles:
 category:
   - delegati
 ordpms: 4 
-description: ▪ Dopravní komise
+description: ▪ člen dopravní komise
 img: people/vratislav-filler.jpg
 age: 
 
