@@ -13,10 +13,10 @@ image: articles/2020/2020-07-15-verejne-koupaliste.jpg
 ***Výstavba veřejného koupaliště je časově i finančně náročný projekt, jehož realizace bude trvat několik let. Pirátský starosta Jiří Dohnal inicioval v loňském roce vznik pracovní skupiny, která má prověřit možnosti umístění koupaliště a navrhnout nejvhodnější postup realizace. Jak jsme také deklarovali v našem volebním programu.***
 
 
-> *Jižní Město si 40 let od svého vzniku zasluhuje otevřít diskusi o vzniku veřejného koupaliště. Piráti chtějí být iniciátorem této diskuse s cílem nalezení vhodného pozemku a zahájení realizace vedoucí k jeho vybudování,* z [volebního programu](https://praha11.pirati.cz/komunalni-volby-2018/program/kultura/) Piráti Praha 11 pro komunální volby 2018.\
+> *Jižní Město si 40 let od svého vzniku zasluhuje otevřít diskusi o vzniku veřejného koupaliště. Piráti chtějí být iniciátorem této diskuse s cílem nalezení vhodného pozemku a zahájení realizace vedoucí k jeho vybudování,* z [volebního programu](https://praha11.pirati.cz/komunalni-volby-2018/program/kultura/) Piráti Praha 11 pro komunální volby 2018.
 
 
-  
+  \
 
 V září roku 2019 byla při UMČ Praha 11 ustavena pracovní skupina “koupaliště”. Tato pracovní skupina je složena ze zástupců politických stran (koaličních i opozičních) a odborníků v dané oblasti z řad úřadu. Cílem této pracovní skupiny je vybrat vhodné místo a způsob realizace venkovního koupaliště.
 
