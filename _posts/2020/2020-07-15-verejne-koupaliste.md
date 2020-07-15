@@ -17,7 +17,7 @@ image: articles/2020/2020-07-15-verejne-koupaliste.jpg
 
 
 
-  \
+  <br>
 
 V září roku 2019 byla při UMČ Praha 11 ustavena pracovní skupina “koupaliště”. Tato pracovní skupina je složena ze zástupců politických stran (koaličních i opozičních) a odborníků v dané oblasti z řad úřadu. Cílem této pracovní skupiny je vybrat vhodné místo a způsob realizace venkovního koupaliště.
 
