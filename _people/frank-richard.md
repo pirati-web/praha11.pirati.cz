@@ -6,7 +6,7 @@ titles:
 category:
   - delegati
 ordpms: 2  
-description: ▪ Bytová komise
+description: ▪ člen bytová komise
 img: people/richard-frank.jpg
 age: 
 
