@@ -5,7 +5,7 @@ name: Jiřina Franková
 category:
   - delegati
 ordpms: 3  
-description: ▪ Komise pro seniory
+description: ▪ člen komise pro seniory
 img: people/jirina-frankova.jpg
 age: 
 
