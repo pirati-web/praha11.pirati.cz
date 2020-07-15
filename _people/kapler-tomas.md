@@ -3,11 +3,9 @@ uid: tomas.kapler
 name: Tomáš Kapler
 
 category:
-  - clenove
-  - kandidat-obec
-ordpms: 2  
+  - clenove  
 description:  
-img: 
+img:  
 age: 
 mail:
   - tomas.kapler@pirati.cz
