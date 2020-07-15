@@ -17,11 +17,11 @@ image: articles/2020/2020-07-15-verejne-koupaliste.jpg
 
 
 
-  /
+  \
 
 V září roku 2019 byla při UMČ Praha 11 ustavena pracovní skupina “koupaliště”. Tato pracovní skupina je složena ze zástupců politických stran (koaličních i opozičních) a odborníků v dané oblasti z řad úřadu. Cílem této pracovní skupiny je vybrat vhodné místo a způsob realizace venkovního koupaliště.
 
-Téměř po roce přišla pracovní skupina s prvními veřejnými výstupy a koupaliště je tak o krok blíže k realizaci. Venkovní koupaliště by mohlo vzniknout mezi stávajícím bazénem Jedenáctka a sportovní halou TJ JM Chodov podél ulice Mírového hnutí. Nyní je potřeba zjistit, zda umístění vybrané pracovní skupinou je opravdu reálné. Proto výbor pro územní rozvoj a životní prostředí na svém posledním jednání odsouhlasil podklady pro prověřovací studii. Projednání na výboru bylo první veřejné jednání, kde byly výsledky práce pracovní skupiny představeny./
+Téměř po roce přišla pracovní skupina s prvními veřejnými výstupy a koupaliště je tak o krok blíže k realizaci. Venkovní koupaliště by mohlo vzniknout mezi stávajícím bazénem Jedenáctka a sportovní halou TJ JM Chodov podél ulice Mírového hnutí. Nyní je potřeba zjistit, zda umístění vybrané pracovní skupinou je opravdu reálné. Proto výbor pro územní rozvoj a životní prostředí na svém posledním jednání odsouhlasil podklady pro prověřovací studii. Projednání na výboru bylo první veřejné jednání, kde byly výsledky práce pracovní skupiny představeny.\
 Na záznam z jednání se můžete podívat [ZDE](https://www.youtube.com/watch?v=H-k3wg0xueE)
 
 Jaké jsou výhody tohoto umístění a jak by mohlo koupaliště vypadat? Vybrané místo má výhodu v podobě zázemí a možnosti napojení na stávající bazén Jedenáctka. Výhodný by byl i způsob provozu, kdy na letní období (provozní sezónu) by se celoroční provoz pouze rozšířil. Jednalo by se tedy o venkovní bazén pravděpodobně doplněný o brouzdaliště a vodní herní prvky.
