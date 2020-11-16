@@ -7,7 +7,7 @@ layout: post
 author: Zuzana Újhelyová
 authorId: zuzana.ujhelyova
 title: "Posíláme modemy do jihoměstských rodin "
-image: articles/2020/2020-11-12-auto.jpg
+image: articles/2020/2020-11-12-auta.jpg
 ---
 
 Od počátku přechodu na distanční výuku jsme shromažďovali požadavky našich škol. Ředitelky a ředitele jsem požádala, aby oslovili rodiče a ověřili možnosti internetového připojení z jejich domovů.
