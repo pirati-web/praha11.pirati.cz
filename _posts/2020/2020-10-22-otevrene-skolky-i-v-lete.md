@@ -5,7 +5,7 @@ tags:
   - koronavirus
   - školství
 layout: post
-author: Zuzana Újhelyová
+author: Zuzana Ujhelyová
 authorId: zuzana.ujhelyova
 title: "Otevřené školky i v létě"
 image: articles/2020/2020-10-22-skola.jpg
