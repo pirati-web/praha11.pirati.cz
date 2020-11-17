@@ -6,7 +6,7 @@ tags:
   - školství
 layout: post
 author: Zuzana Ujhelyiová
-authorId: zuzana.ujhelyiova
+authorId: zuzana.ujhelyiova 
 title: "Otevřené školky i v létě"
 image: articles/2020/2020-10-22-skola.jpg
 ---
