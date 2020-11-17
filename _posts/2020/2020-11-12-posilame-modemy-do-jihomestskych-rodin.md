@@ -6,7 +6,7 @@ tags:
 layout: post
 author: Zuzana Ujhelyová
 authorId: zuzana.ujhelyova
-title: "Posíláme modemy do jihoměstských rodin "
+title: Posíláme modemy do jihoměstských rodin
 image: articles/2020/2020-11-12-auta.jpg
 ---
 
