@@ -4,9 +4,9 @@ category: blog
 tags: 
   - koronavirus
 layout: post
-author: Zuzana Ujhelyová
-authorId: zuzana.ujhelyova
-title: "Posíláme modemy do jihoměstských rodin "
+author: Zuzana Ujhelyiová
+authorId: zuzana.ujhelyiova
+title: Posíláme modemy do jihoměstských rodin
 image: articles/2020/2020-11-12-auta.jpg
 ---
 
