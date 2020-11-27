@@ -4,8 +4,8 @@ category: blog
 tags: 
   - školství
 layout: post
-author: Zuzana Ujhelyová
-authorId: zuzana.ujhelyova
+author: Zuzana Ujhelyiová
+authorId: zuzana.ujhelyiova
 title: "Plníme sliby: Na Radě prosazujeme městské byty pro učitele."
 image: articles/2020/2020-11-19-domy.jpg
 ---
