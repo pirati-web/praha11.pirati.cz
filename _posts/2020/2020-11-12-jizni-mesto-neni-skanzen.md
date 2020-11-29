@@ -6,7 +6,7 @@ tags:
 layout: post
 author: Martin Duška
 authorId: martin.duska
-title: "Jižní Město není skanzen"
+title: "Efektivně rozsvítíme Jižní Město"
 image: articles/2020/2020-11-12-lampy.jpg
 ---
 
