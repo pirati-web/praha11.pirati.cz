@@ -3,6 +3,7 @@ date: 2020-11-12
 category: blog
 tags: 
   - koronavirus
+  - školství
 layout: post
 author: Zuzana Ujhelyiová
 authorId: zuzana.ujhelyiova
