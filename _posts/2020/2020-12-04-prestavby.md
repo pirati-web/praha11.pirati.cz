@@ -7,7 +7,7 @@ tags:
   - výstavba
 layout: post
 author: Josef Kocourek
-authorId: jsef.kocourek
+authorId: josef.kocourek
 title: Přestavby výměníkové stanice a trafostanice
 image: articles/2020/2020-12-04-prestavby.jpg
 ---
