@@ -22,7 +22,7 @@ Jde o odkaz z let minulých. Celá záležitost začala prodejem objektu kotelny
 
 Celý projekt má obdobný začátek, tedy prodej objektu do soukromých rukou. Bývalou trafostanici chce její současný majitel zvětšit na úroveň sousedního domu a vystavět zde čtyři byty a čtyři garážová stání (původně měl projekt osm menších bytů). Stavba malého významu v kontextu Jižního Města, ale velkého významu pro obyvatele v sousedství. 
 
-Naše filozofie u těchto přestaveb trafostanic a výměníků je, že pokud záměr nebude mít souhlasné vyjádření přilehlého SVJ/BD, nemůžeme s tímto záměrem souhlasit ani my. Je primárně na investorovi, aby komunikoval se svými sousedy.   k
+Naše filozofie u těchto přestaveb trafostanic a výměníků je, že pokud záměr nebude mít souhlasné vyjádření přilehlého SVJ/BD, nemůžeme s tímto záměrem souhlasit ani my. Je primárně na investorovi, aby komunikoval se svými sousedy.
 
 
 
