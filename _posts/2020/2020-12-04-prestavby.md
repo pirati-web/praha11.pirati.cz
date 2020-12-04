@@ -3,7 +3,7 @@ date: 2020-12-04
 category: blog
 tags: 
   - stavební záměry
-  - územná rozvoj
+  - územní rozvoj
   - výstavba
 layout: post
 author: Josef Kocourek
