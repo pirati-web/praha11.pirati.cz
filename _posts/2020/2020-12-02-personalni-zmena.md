@@ -1,13 +1,13 @@
 ---
 date: 2020-12-02
 category: blog
-tags: 
-  - zastupitelský klub
+title: "V zastupitelském klubu Pirátů Praha 11 došlo k personální obměně"
 layout: post
 author: Zuzana Böhmova
 authorId: zuzana.bohmova
-title: V zastupitelském klubu Pirátů Praha 11 došlo k personální obměně
 image: articles/2020/2020-12-02-personalni-zmena.jpg
+tags: 
+  - zastupitelský klub
 ---
 
 Novým zastupitelem se dnešním dnem stává Milan Minařík, který zároveň převezme roli předsedy Výboru pro otevřenou radnici a digitalizaci a bude pokračovat v projektech, které jsme na Praze 11 v tomto výboru nastartovali. Milan pomáhal Piráty na Jižním Městě založit a vybudovat. Jak sám říká: “Jižák je jeho srdcovka.” Do zastupitelského klubu přináší znalosti i ze zahraničí, kde mnoho let žil a pracoval.
