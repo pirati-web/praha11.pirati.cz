@@ -3,8 +3,8 @@ date: 2020-12-02
 category: blog
 title: "V zastupitelském klubu Pirátů Praha 11 došlo k personální obměně"
 layout: post
-author: Zuzana Böhmova
-authorId: zuzana.bohmova
+author: Martin Muzikant
+authorId: martin.muzikant
 image: articles/2020/2020-12-02-personalni-zmena.jpg
 tags: 
   - zastupitelský klub
