@@ -9,8 +9,8 @@ category:
 
   
 ordpms: 2
-description: místopředseda MS <br>▪ předseda výboru pro otevřenou radnici a digitalizaci <br>▪ člen komise pro výchovu, vzdělávání a národnostní menšiny <br>▪ člen mediální komise
-profession: středoškolský pedagog, členka Pirátů, zastupitel MČ Praha 11, gesce školství, otevřená radnice, digitalizace, středoškolský pedagog, členka Pirátů
+description: místopředseda MS <br>▪ člen výboru pro otevřenou radnici a digitalizaci <br>▪ člen komise pro výchovu, vzdělávání a národnostní menšiny
+profession: středoškolský pedagog, členka Pirátů, gesce školství, otevřená radnice, digitalizace
 img: people/zuzana-bohmova.jpg
 mail:
   - zuzana.bohmova@pirati.cz
