@@ -5,7 +5,7 @@ title: "Umění ve veřejném prostoru"
 layout: post
 author: Martin Duška
 authorId: martin.duska
-image: articles/2020/2020-12-22-umeni-ve-verejnem-prostoru.jpg
+image: articles/2020/2020-12-22-umeni-ve-verejnem-prostoru.JPG
 tags: 
   - umění
   - graffiti
@@ -31,4 +31,9 @@ U podchodů ještě zůstaneme.  Další podchod který je nejblíže nové vým
 
 Napište mi Vaše názory na martin.duska@pirati.cz nebo na duskam@praha1.cz, případě mě můžete navštívit přímo na radnici Prahy 11 v Ocelíkově ulici.
 
-![us](/assets/img/articles/2020/2020-12-22-umeni-ve-verejnem-prostoruI.jpg) 
+![Mural Opatov - detail](/assets/img/articles/2020/2020-12-22-umeni-ve-verejnem-prostoruI.JPG) 
+![Mural Opatov](/assets/img/articles/2020/2020-12-22-umeni-ve-verejnem-prostoruII.JPG) 
+![podchod pod ulicí Ryšavého 1](/assets/img/articles/2020/2020-12-22-umeni-ve-verejnem-prostoruIII.JPG) 
+![podchod pod ulicí Ryšavého 2](/assets/img/articles/2020/2020-12-22-umeni-ve-verejnem-prostoruIV.JPG) 
+![podchod pod ulicí Ryšavého 3](/assets/img/articles/2020/2020-12-22-umeni-ve-verejnem-prostoruV.JPG) 
+![podchod Türkova](/assets/img/articles/2020/2020-12-22-umeni-ve-verejnem-prostoruVI.JPG) 
