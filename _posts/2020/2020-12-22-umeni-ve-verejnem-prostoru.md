@@ -12,7 +12,7 @@ tags:
   - veřejný prostor
 ---
 
-Graffiti je proměnlivý prvek neodmyslitelně patřící k městské sídlištní krajině. Vhodně a citlivě vytvořené sprejerské dílo může být dobrým a hodnotným doplňkem v rázu panelákové tváře. Na Jižním Městě je několik různých ploch vyhrazených pro graffiti, či ploch, kde najdete zakázková díla. Některé z těchto ploch se výrazně mění, jako například trafostanice patřící PRE, jiné naopak přibývají, či se rekonstruují.
+*Graffiti je proměnlivý prvek neodmyslitelně patřící k městské sídlištní krajině. Vhodně a citlivě vytvořené sprejerské dílo může být dobrým a hodnotným doplňkem v rázu panelákové tváře. Na Jižním Městě je několik různých ploch vyhrazených pro graffiti, či ploch, kde najdete zakázková díla. Některé z těchto ploch se výrazně mění, jako například trafostanice patřící PRE, jiné naopak přibývají, či se rekonstruují.*
 
 **Rekonstrukce Opatova - rozhodnou lidé z Jižáku**
 
@@ -32,8 +32,24 @@ U podchodů ještě zůstaneme.  Další podchod který je nejblíže nové vým
 Napište mi Vaše názory na martin.duska@pirati.cz nebo na duskam@praha1.cz, případě mě můžete navštívit přímo na radnici Prahy 11 v Ocelíkově ulici.
 
 ![Mural Opatov - detail](/assets/img/articles/2020/2020-12-22-umeni-ve-verejnem-prostoruI.JPG) 
+*Mural Optaov - detail*
+
+
 ![Mural Opatov](/assets/img/articles/2020/2020-12-22-umeni-ve-verejnem-prostoruII.JPG) 
+*Mural Optaov*
+
+
 ![podchod pod ulicí Ryšavého 1](/assets/img/articles/2020/2020-12-22-umeni-ve-verejnem-prostoruIII.JPG) 
+*Graffiti na rampě u podchodu pod ulicí Ryšavého*
+
+
 ![podchod pod ulicí Ryšavého 2](/assets/img/articles/2020/2020-12-22-umeni-ve-verejnem-prostoruIV.JPG) 
+*Graffiti na rampě u podchodu pod ulicí Ryšavého*
+
+
 ![podchod pod ulicí Ryšavého 3](/assets/img/articles/2020/2020-12-22-umeni-ve-verejnem-prostoruV.JPG) 
+*Graffiti na rampě u podchodu pod ulicí Ryšavého*
+
+
 ![podchod Türkova](/assets/img/articles/2020/2020-12-22-umeni-ve-verejnem-prostoruVI.JPG) 
+*Místo vhodné k umístění legálního graffiti - podchod Türkova*
