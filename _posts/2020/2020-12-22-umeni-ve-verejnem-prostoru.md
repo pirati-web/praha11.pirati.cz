@@ -29,7 +29,7 @@ Podchod bychom rádi zařadili do projektu “Umění pro město” které organ
 
 U podchodů ještě zůstaneme.  Další podchod který je nejblíže nové výmalbě je podchod Türkova. Koncem tohoto roku byla provedena oprava fasády. Jen pár dní po dokončení se zde začaly objevovat nelegální malby. Legální graffiti v tomto směru působí jako dobrá prevence a zároveň podchod oživí. Jak by se Vám líbilo mít v tomto podchodu nějaké výtvarné dílo a co byste si zde představovali?
 
-Napište mi Vaše názory na martin.duska@pirati.cz nebo na duskam@praha11.cz, případě mě můžete navštívit přímo na radnici Prahy 11 v Ocelíkově ulici.
+Napište mi Vaše názory na [martin.duska@pirati.cz](mailto:martin.duska@pirati.cz) nebo na [duskam@praha11.cz](mailto:duskam@praha11.cz), případě mě můžete navštívit přímo na radnici Prahy 11 v Ocelíkově ulici.
 
 ![Mural Opatov - detail](/assets/img/articles/2020/2020-12-22-umeni-ve-verejnem-prostoruI.JPG) 
 *Mural Optaov - detail*
