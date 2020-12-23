@@ -32,11 +32,11 @@ U podchodů ještě zůstaneme.  Další podchod který je nejblíže nové vým
 Napište mi Vaše názory na [martin.duska@pirati.cz](mailto:martin.duska@pirati.cz) nebo na [duskam@praha11.cz](mailto:duskam@praha11.cz), případě mě můžete navštívit přímo na radnici Prahy 11 v Ocelíkově ulici.
 
 ![Mural Opatov - detail](/assets/img/articles/2020/2020-12-22-umeni-ve-verejnem-prostoruI.JPG) 
-*Mural Optaov - detail*
+*Mural Opatov - detail*
 
 
 ![Mural Opatov](/assets/img/articles/2020/2020-12-22-umeni-ve-verejnem-prostoruII.JPG) 
-*Mural Optaov*
+*Mural Opatov*
 
 
 ![podchod pod ulicí Ryšavého 1](/assets/img/articles/2020/2020-12-22-umeni-ve-verejnem-prostoruIII.JPG) 
