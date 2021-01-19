@@ -5,7 +5,7 @@ title: "ŠKOLY NA PRAZE 11 SE ZAPOJILY DO PROJEKTU ROZVOJ DEMOKRATICKÉ KULTURY"
 layout: post
 author: Zuzana Ujhelyiová
 authorId: zuzana.ujhelyiova
-image: articles/2021/2021-01-19-demokraticka-kultura-na-skolach.JPG
+image: articles/2021/2021-01-19-demokraticka-kultura.jpg
 tags: 
   - školství
   - demokracie
