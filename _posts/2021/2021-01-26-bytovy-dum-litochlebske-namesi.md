@@ -1,7 +1,7 @@
 ---
 date: 2021-01-26
 category: blog
-title: "Veřejná prezentace “bytový dům Litochlebské náměstí” na Opatově"
+title: "Veřejná prezentace “Bytový dům Litochlebské náměstí” na Opatově"
 layout: post
 author: Josef Kocourek
 authorId: josef.kocourek
