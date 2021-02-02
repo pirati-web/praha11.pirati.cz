@@ -3,10 +3,10 @@ uid: filip.miler
 name: Filip Miler
 
 category:
-  - clenove
+  - priznivci
   - kandidat-obec
 ordpms: 2  
-description: ▪ Výbor pro otevřenou radnici a digitalizaci
+description: 
 img: people/filip-miler.jpg
 age: 
 mail:
@@ -20,7 +20,7 @@ IT specialista
 
 člen Pirátů
 
-Filip Miler je členem Pirátské strany od roku 2010. Filip pochází ze Vsetína a od roku 1979 žije v Praze.
+Filip Miler byl členem Pirátské strany od roku 2010, od roku 2020 má pozastavené člensví, ale nadále zústává registrovaným příznivcem strany. Filip pochází ze Vsetína a od roku 1979 žije v Praze.
 
 Vystudoval střední průmyslovou školu elektrotechnickou v Ječné ulici, obor automatizační technika.
 
