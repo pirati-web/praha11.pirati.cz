@@ -16,7 +16,7 @@ Praha 20. ledna 2021 - **V návaznosti na otevřený dopis ředitelů základní
 
 Velice nás mrzí, že do ryze nepolitického oblasti vzdělávání svými usneseními vstupují kluby hnutí ANO a TOP09&STAN, a to bez širší znalosti dané problematiky. Klub ANO zároveň opomenul zmínit, že jeden z bodů otevřeného dopisu směřuje na gesci místostarosty Ondřeje Prokopa (ANO). Zároveň nás velmi překvapuje i postup ODS, jejíž zastupitel Pavel Dittrich je zároveň jedním z podepsaných ředitelů, který má možnost svou nespokojenost řešit i na koaličních jednáních.
 
-Zastupitelský klub Pirátů se s otevřeným dopisem ředitelů ZŠ Praha 11 seznámil a připravil komplexní odpověď (ke stažení **[ZDE](praha11.pirati.cz/assets/pdf/2021-02-14-Reakce_otevřenyDopis_Praha11.pdf)**), ve které se ke každému z bodů vyjadřujeme. 
+Zastupitelský klub Pirátů se s otevřeným dopisem ředitelů ZŠ Praha 11 seznámil a připravil komplexní odpověď (ke stažení **[ZDE](assets/pdf/2021-02-14-Reakce_otevřenyDopis_Praha11.pdf)**), ve které se ke každému z bodů vyjadřujeme. 
 
 Pokud budou naši koaliční partneři potřebovat nějaké další doplnění nad rámec této odpovědi, rádi jim je zodpovíme v rámci platformy k tomu určené, tedy koaliční radě. Zároveň chceme apelovat na naše partnery, aby do se budoucna vyvarovali podobným vyjádřením, které mohou ve svých důsledcích vést ke zbytečné destabilizaci koalice.
 
