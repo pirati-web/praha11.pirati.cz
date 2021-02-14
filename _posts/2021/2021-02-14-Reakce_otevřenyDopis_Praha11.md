@@ -7,7 +7,8 @@ author: Jiří Dohnal, Zuzana Ujhelyiová
 image: articles/2021/2021-02-14-Reakce_otevřenyDopis_Praha11.jpg
 tags: 
   - školství
-  - ekonomika
+  - finance
+  - majetek
 ---
 
 
