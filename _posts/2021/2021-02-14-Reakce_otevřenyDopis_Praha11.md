@@ -3,7 +3,7 @@ date: 2021-02-14
 category: blog
 title: "VYJÁDŘENÍ PIRÁTŮ PRAHA 11 K OTEVŘENÉMU DOPISU ŘEDITELŮ ZŠ PRAHY 11"
 layout: post
-author: Jiří Dohnal, Zuzana Ujhelyiová
+author: redakce
 image: articles/2021/2021-02-14-Reakce_otevřenyDopis_Praha11.jpg
 tags: 
   - školství
