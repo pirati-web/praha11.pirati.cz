@@ -1,7 +1,7 @@
 ---
 date: 2021-01-19
 category: blog
-title: "ŠKOLY NA PRAZE 11 SE ZAPOJILY DO PROJEKTU ROZVOJ DEMOKRATICKÉ KULTURY"
+title: "Školy na Praze 11 se zapjily do projektu Rozvoj deokratické kultury"
 layout: post
 author: Zuzana Ujhelyiová
 authorId: zuzana.ujhelyiova
