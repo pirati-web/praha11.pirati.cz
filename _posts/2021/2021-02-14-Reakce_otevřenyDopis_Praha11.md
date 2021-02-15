@@ -12,7 +12,7 @@ tags:
 ---
 
 
-Praha 20. ledna 2021 - **V návaznosti na otevřený dopis ředitelů základních škol Prahy 11 se zastupitelský klub Pirátů Praha 11 usnesl, že řešení by mělo vzniknout na půdě radnice - respektive rady, jakožto zřizovatele.**
+Praha 15. února 2021 - **V návaznosti na otevřený dopis ředitelů základních škol Prahy 11 se zastupitelský klub Pirátů Praha 11 usnesl, že řešení by mělo vzniknout na půdě radnice - respektive rady, jakožto zřizovatele.**
 
 Velice nás mrzí, že do ryze nepolitické oblasti vzdělávání svými usneseními vstupují kluby hnutí ANO a TOP09&STAN, a to bez širší znalosti dané problematiky. Klub ANO zároveň opomenul zmínit, že jeden z bodů otevřeného dopisu směřuje na gesci místostarosty Ondřeje Prokopa (ANO). Zároveň nás velmi překvapuje i postup ODS, jejíž zastupitel Pavel Dittrich je zároveň jedním z podepsaných ředitelů, který má možnost svou nespokojenost řešit i na koaličních jednáních.
 
