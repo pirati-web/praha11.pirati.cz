@@ -27,5 +27,5 @@ Hlavní úlohou tohoto systému je zajistit transparentnost zápisů do základn
 ✅ Jak probíhá přijímací řízení? <br>
 ✅ Jaká jsou kritéria pro stanovení přijetí dětí? <br>
 
-To vše najdete na **[webových stránkách městské části Prahy 11](https://www.praha11.cz/redakce/index.php?clanek=9845&xuser=874984831388604780&lanG=cs&slozka=309&fbclid=IwAR2ag2eWdGqOzJ6gqnOk5aGnq91DLB_9TQMKEZt7a29RiALPNb4OUAW2ncA)**, včetně seznamu škol a odkazů na webové stránky základních škol
+To vše najdete na **[webových stránkách městské části Prahy 11](https://www.praha11.cz/redakce/index.php?clanek=9845&xuser=874984831388604780&lanG=cs&slozka=309&fbclid=IwAR2ag2eWdGqOzJ6gqnOk5aGnq91DLB_9TQMKEZt7a29RiALPNb4OUAW2ncA)**, včetně seznamu škol a odkazů na webové stránky základních škol.
 
