@@ -1,5 +1,5 @@
 ---
-date: 2021-03-16
+date: 2021-03-17
 category: blog
 title: "Výstavba veřejného venkovního koupaliště na Praze 11 je reálná"
 layout: post
