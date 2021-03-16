@@ -1,7 +1,7 @@
 ---
 date: 2021-03-15
 category: blog
-title: "Zápisy k povinné školní docházce do ZŠ pro školní rok 2021/22 - elektronicky"
+title: "Zápisy do ZŠ pro školní rok 2021/22 - elektronicky"
 layout: post
 author: Zuzana Ujhelyiová
 authorId: zuzana.ujhelyiova
