@@ -12,7 +12,7 @@ tags:
   - sport a volný čas
 ---
 
-Na jaře roku 2019 nová rada MČ Praha 11 deklarovala, že prověří možnost vybudování veřejného venkovního koupaliště na Praze 1.
+Na jaře roku 2019 nová rada MČ Praha 11 deklarovala, že prověří možnost vybudování veřejného venkovního koupaliště na Praze 11.
 
 V létě započali přípravné práce a na podzim roku 2019 vznikla na půdě radnice oficiální pracovní skupina MČ Praha 11 složená ze zástupců všech politických stran a vytipovala několik vhodných lokalit. Ty následně na dalších zasedáních postupně prověřovala a hodnotila s tím, že ze všech možných variant vyšla jako nejvhodnější lokalita v blízkosti areálu Jedenáctka Vodní svět u ulice Mírového hnutí. Hlavními důvody byly scelené pozemky ve vlastnictví hlavního města Prahy a ve svěřené správě MČ Praha 11, soulad možné stavby s platným územním plánem, dobrá dopravní dostupnost městskou i individuální dopravou, sousedství s cyklostezkou, dostupnost inženýrských síti na hranici území apod.
 
