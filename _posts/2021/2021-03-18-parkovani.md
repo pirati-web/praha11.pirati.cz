@@ -1,7 +1,7 @@
 ---
 date: 2021-03-18
 category: blog
-title: "Kam s autem, aneb aktuality z oblasti parkování    "
+title: "Kam s autem - aneb aktuality z oblasti parkování"
 layout: post
 author: Martin Duška
 authorId: martin.duska
