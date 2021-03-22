@@ -14,6 +14,7 @@ profession: středoškolský pedagog, členka Pirátů, gesce školství, otevř
 img: people/zuzana-bohmova.jpg
 mail:
   - zuzana.bohmova@pirati.cz
+mob: +420 737 220 479
 profiles:
   facebook: https://www.facebook.com/zuzana.bohmova
   instagram: https://www.instagram.com/zuzana.boehmova
