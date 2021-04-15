@@ -1,7 +1,7 @@
 ---
 date: 2021-04-15
 category: blog
-title: "Hnutí ANO porušilo koaliční smlouvu na Praze 11, zastupitelstvo skončilo neschválením programu1"
+title: "Hnutí ANO porušilo koaliční smlouvu na Praze 11, zastupitelstvo skončilo neschválením programu"
 layout: post
 author: redakce
 image: articles/2021/2021-04-15-tz-poruseni-koalicni-smlouvy.jpg
