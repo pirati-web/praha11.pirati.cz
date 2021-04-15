@@ -18,11 +18,8 @@ tags:
 <br>
 *Jaké jsou tvé dosavadní politické, dobrovolnické a občanské zkušenosti?*
 
-Politické zkušenost mám prakticky nulové, mým záměrem bylo původně podpořit volební preference Pirátské strany na Praze 11, a dále se věnovat odborné či akademické kariéře. Jak to tak v životě bývá, okolnosti ale rozhodly trochu jinak. 
-<br>
-<br>
-*V dobrovolnické oblasti se věnuji zejména komunitní integraci cizinců, zejm. z anglo-amerického a západosemitského jazykového prostředí. Naposledy jsme například  participovali na části překladu pro expatrioty na stránkách ÚMČ.*
-
+Politické zkušenost mám prakticky nulové, mým záměrem bylo původně podpořit volební preference Pirátské strany na Praze 11, a dále se věnovat odborné či akademické kariéře. Jak to tak v životě bývá, okolnosti ale rozhodly trochu jinak. <br>
+V dobrovolnické oblasti se věnuji zejména komunitní integraci cizinců, zejm. z anglo-amerického a západosemitského jazykového prostředí. Naposledy jsme například  participovali na části překladu pro expatrioty na stránkách ÚMČ.<br>
 S pražským magistrátem spolupracuji jako neplacená konzultantka se zkušeností s forenzním auditem a business intelligence pro městské společnosti, profesní životopis najdete na stránce https://praha.pirati.cz/lide/michaela-polakova/. Mé nejvyšší pracovní zařazení je CFO a zároveň vrcholová korporátní neexekutivní manažerka. 
 <br>
 <br>
@@ -35,8 +32,7 @@ Nečekala a myslím, že to nečekal snad nikdo. Za tehdejšího rozložení pol
 
 *Jaká je tvá představa o výkonu funkce zastupitele? Jakým oblastem by ses chtěla v rámci mandátu věnovat?*
 
-Velmi obecně vzato, zastupitel by měl vykonávat svou funkci především v zájmu občanů, se všemi povinnostmi, které mu ukládá zákon a také hlavně aktivně. Původně jsem se chtěla věnovat problematice územního rozvoje, financí nebo integraci cizinců,  protože jsou mi profesně i občansky nejblíže. <br>
-<br>
+Velmi obecně vzato, zastupitel by měl vykonávat svou funkci především v zájmu občanů, se všemi povinnostmi, které mu ukládá zákon a také hlavně aktivně. Původně jsem se chtěla věnovat problematice územního rozvoje, financí nebo integraci cizinců,  protože jsou mi profesně i občansky nejblíže. <br><br>
 Oblasti, kterým se nakonec budu moci věnovat, teprve ladíme. Jsem si vědoma, že nastupuji do rozjetého vlaku uprostřed běžícího volebního období, proto budu muset v zájmu fungování týmu svá individuální přání hodně upozadit.  Věřím, že v oblasti transparetnosti a implementace know-how v oblasti řízení  také skýtá rozsáhlou možnost seberealizace nejen pro mě, ale i pro celý náš odborný tým. 
 <br>
 <br>
