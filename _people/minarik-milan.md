@@ -2,10 +2,9 @@
 uid: milan.minarik
 name: Milan Minařík
 category:
-  - pms
+  - priznivci
   - kandidat-obec
 ordpms: 3
-description: místopředseda MS <br> ▪ Finanční výbor <br> ▪ Bezpečnostní komise
 img: people/milan-minarik.jpg
 mail:
   - milan.minarik@pirati.cz
