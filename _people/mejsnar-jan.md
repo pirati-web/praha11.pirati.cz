@@ -5,7 +5,7 @@ titles:
   before: Mgr.
   after: Ph.D.
 category:
-  - clenove
+  - pms
   - kandidat-obec
 description: ▪ předseda Komise pro životní prostředí <br>▪ Komise sociální a zdravotní <br>▪ Kontrolní výbor <br>▪ místopředseda dozorčí rady Jihoměstská sociální
 img: people/jan-mejsnar.jpg
