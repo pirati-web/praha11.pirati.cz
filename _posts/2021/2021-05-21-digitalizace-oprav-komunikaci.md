@@ -5,7 +5,7 @@ title: "Digitalizace a opravy silnic a chodníků"
 layout: post
 author: Martin Duška
 authorId: martin.duska
-image: articles/2021/2021-05=21-digitalizace-oprav-komunikaci.jpg
+image: articles/2021/2021-05-21-digitalizace-oprav-komunikaci.jpg
 tags: 
   - doprava
   - digitalizace
