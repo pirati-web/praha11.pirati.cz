@@ -9,6 +9,7 @@ category:
 ordclenove: 16
 description: ▪ Komise pro kulturu a spolky
 img: people/lada-pexova.jpg
+heroImg: praha-11.jpg
 mail:
   - lada.peksova@pirati.cz
 profiles:

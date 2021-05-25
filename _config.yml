@@ -1,96 +1,23 @@
 # Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+administrator:
+  email: jan.suchanek@gmail.com, zuzanaboehm@gmail.com
+github:
+  url: https://github.com/pirati-web/praha11.pirati.cz/
+  branch: master
+url: "https://praha11.pirati.cz"
 
-# Site settings
 title: Piráti Praha 11
 email: praha11@pirati.cz
 description: Stránka místního sdružení Piráti Praha 11 na Jižním Městě (Roztyly, Háje, Chodov, Litochleby, Opatov)
 keywords: Piráti, česká pirátská strana, svoboda, demokracie, Piráti Praha 11, piráti na jižáku, Jižní Město
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://praha11.pirati.cz" # the base hostname & protocol for your site
-
-administrator:
-  email: jan.suchanek@gmail.com, zuzanaboehm@gmail.com
-
-theme: jekyll-theme-pirati
-
-sass:
-  style: compressed
-  sass_dir: _sass
-
-# Build settings
-markdown: kramdown
-
-plugins:
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-environment-variables
-
-paginate_path: "/aktuality/:num/"
-paginate: 11
-
-pagination:
-  per_page: 2
-  limit: false
-
-exclude:
-  - Dockerfile
-  - docker-compose.yml
-  - deploy_rsa_sandbox.enc
-  - deploy_rsa_sandbox.pub
-  - navod.md
-  - readme.md
-  - Gemfile
-  - Gemfile.lock
-  - vendor
-
-permalink: /tiskove-zpravy/:title/
-collections:
-  people:
-    output: true
-    root: /clenove/
-    permalink: /clenove/:path/
-
-  program:
-    output: true
-    permalink: /komunalni-volby-2018/program/:path/
-
-  # Sole purpose is to create candidate lists in separate files.
-  candidatelists:
-    output: false
-
-defaults:   # defaults values for collection scope
-  -
-    scope:
-      path: "_people"
-    values:
-      layout: "person"
-      rbar:
-        - foto
-        - personContact
-        - people
-      keywords: členové, příznivci, lidé
-  -
-    scope:
-      path: "_program"
-    values:
-      layout: "program-post"
-      rbar:
-        - garant
-        - program
-      keywords: program, volby, 2018, komunální volby
 
 organization:
   name: Místní sdružení Pirátů Prahy 11
   shortName: Piráti Praha 11
   email: praha11@pirati.cz
-  contactUid: jiri.dohnal
-  phone: +420 608 770 778
+  contactUid: josef.kocourek
+  phone: +420 776 421 042
   address: |
     Na Moráni 3
     120 00 Praha 2
@@ -100,17 +27,16 @@ organization:
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
   transparentAccountSpecificSymbol: 110111
+  donateLink: https://dary.pirati.cz/podpor-kraj/praha/
+  onboardingLink: https://nalodeni.pirati.cz/
 
 contactSummaryItems:
   - type: organizationEmail
   - type: organizationRedmineLink
-  - type: organizationPhone
   - type: organizationTransparentAccount
     includeMoreLink: true
-  - type: custom
-    iconClass: fa fa-facebook
-    label: Facebooková stránka
-    body: <a href="https://www.facebook.com/pirati11.cz/" target="_blank">Piráti Praha 11</a>
+  - type: organizationDataBox
+  - type: piratiRootWebsite
 
 calendar:
   # To enable a nicer calendar, make sure you start jekyll with GOOGLE_CALENDAR_APIKEY=[apikey] bundle exec jekyll serve
@@ -137,29 +63,100 @@ github:
   url: https://github.com/pirati-web/praha11.pirati.cz/
   branch: master
 
-emptyArray: []
+matomo:
+  loadSDK: true
+  siteId: 68
+
+forum:
+  page: https://forum.pirati.cz/
+
+youtube:
+  channel: UC_zxYLGrkmrYazYt0MzyVlA
+
+twitter:
+  loadSDK: true
+  profile: piratipraha
+
+instagram:
+  profilePage: https://www.instagram.com/pirati.cz/
+
+flicker:
+  profilePage: https://www.flickr.com/photos/pirati/
+
+styleguide_base_url: 'https://styleguide.pir-test.eu/latest'
+
+############### SETTINSG #################
+
+theme: jekyll-theme-pirati
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-pirati
+
+pagination:
+  per_page: 9
+  permalink: '/:num/'
+  title: ':title - stránka :num'
+  trail: 7
+
+exclude:
+  - Dockerfile
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - docker-compose.yml
+  - vendor
+
+permalink: /aktuality/:title.html
+collections:
+  people:
+    output: true
+    permalink: /lide/:path/
+  program:
+    output: true
+    permalink: /volby/:path
+
+  # Sole purpose is to create candidate lists in separate files.
+  candidatelists:
+    output: false
+
+defaults:   # defaults values for collection scope
+  -
+    scope:
+      path: "_people"
+    values:
+      layout: "person"
+      rbar:
+        - profile
+        - people
+  -
+    scope:
+      path: "_posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: "_program"
+    values:
+      layout: "program-post"
+      rbar:
+         - garant
+         - program
 
 assets:
   source_maps: true
   compression: true
   gzip: false
   plugins:
-    css: { autoprefixer: {}}
     img:
       optim:
         jpegoptim:
           strip: all
           max_quality: 80
-  autoprefixer:
     browsers:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.4.0/_sass
-    - assets/css
-    - assets/fonts
-    - assets/video
+    - assets/js
     - assets/img
-    - assets/img/posts
-    - assets/snippet
-    - _sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-8.4.1/assets/img

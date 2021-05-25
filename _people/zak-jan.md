@@ -6,6 +6,7 @@ category:
   - priznivci
 description: 
 img: 
+heroImg: praha-11.jpg
 mail:
   - 
 profiles:

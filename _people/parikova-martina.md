@@ -9,6 +9,7 @@ category:
 
 description: 
 img: people/martina-parikova.jpg
+heroImg: praha-11.jpg
 mail:
   - martina.parikova@gmail.com
 profiles:

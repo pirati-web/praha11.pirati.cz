@@ -6,6 +6,7 @@ category:
   - kandidat-obec
 ordpms: 3
 img: people/milan-minarik.jpg
+heroImg: praha-11.jpg
 mail:
   - milan.minarik@pirati.cz
 mob: +420 773 264 564

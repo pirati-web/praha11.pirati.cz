@@ -9,6 +9,7 @@ category:
 ordpms: 4 
 description: ▪ člen dopravní komise
 img: people/vratislav-filler.jpg
+heroImg: praha-11.jpg
 age: 
 
 ---

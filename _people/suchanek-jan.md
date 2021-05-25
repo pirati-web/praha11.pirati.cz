@@ -7,6 +7,7 @@ category:
   - kandidat-obec
 description: 
 img: people/jan-suchanek.jpg
+heroImg: praha-11.jpg
 mail:
   - honza@suchanek.cz
 profiles:

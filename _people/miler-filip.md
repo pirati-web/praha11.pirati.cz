@@ -8,6 +8,7 @@ category:
 ordpms: 2  
 description: 
 img: people/filip-miler.jpg
+heroImg: praha-11.jpg
 age: 
 mail:
   - filip.miler@pirati.cz

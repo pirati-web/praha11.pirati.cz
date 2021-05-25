@@ -5,7 +5,8 @@ name: Tomáš Kapler
 category:
   - clenove  
 description:  
-img:  
+img:
+heroImg: praha-11.jpg  
 age: 
 mail:
   - tomas.kapler@pirati.cz

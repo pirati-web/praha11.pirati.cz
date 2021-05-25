@@ -9,6 +9,7 @@ category:
 ordclenove: 14
 description: ▪ Bezpečnostní komise <br>▪ Komise pro dotace a EU fondy
 img: people/martin-petrtyl.jpg
+heroImg: praha-11.jpg
 
 profiles:
   facebook: https://www.facebook.com/martin.petrtyl

@@ -7,6 +7,7 @@ category:
 ordpms: 4  
 description: ▪ člen sportvní komise
 img: people/otmar-litera.jpg
+heroImg: praha-11.jpg
 age: 
 
 ---

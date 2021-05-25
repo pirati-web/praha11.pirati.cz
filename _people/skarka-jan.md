@@ -8,6 +8,7 @@ category:
 ordpms: 5  
 description: ▪ Bytová komise
 img: people/jan-skarka.jpg
+heroImg: praha-11.jpg
 age: 
 
 ---

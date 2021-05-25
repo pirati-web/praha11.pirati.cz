@@ -7,6 +7,7 @@ category:
 ordpms: 3  
 description: ▪ člen komise pro seniory
 img: people/jirina-frankova.jpg
+heroImg: praha-11.jpg
 age: 
 
 ---

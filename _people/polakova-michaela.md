@@ -7,6 +7,7 @@ category:
   - kandidat-obec
 description: 
 img: people/michaela-polakova.jpg
+heroImg: praha-11.jpg
 ---
 
 stavební inženýrka, člen DR PVS

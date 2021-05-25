@@ -1,56 +1,38 @@
 top:
   - link: "pirati.cz"
     url:  "https://www.pirati.cz"
-    icon: "fa fa-home"
-  - link: "wiki.pirati.cz"
-    url:  "https://wiki.pirati.cz"
-    icon: "fa fa-home"
+    icon: "ico--home"
+  - link: "piratskyobchod.cz"
+    url:  "https://piratskyobchod.cz"
+    icon: "ico--cart"
   - link: "Pirátské listy"
-    url:  "https://praha11.pirati.cz/piratske-listy"
-    icon: "fa fa-newspaper-o"
+    url:  "http://www.piratskelisty.cz"
+    icon: "ico--newspaper"
+
 
 main:
-  - link: /
-    name: Úvod
-    class: hide-for-medium
   - link: /aktuality/
     name: Aktuality
-    match: aktuality         
   - link: /lide/
-    name: Naši lidé
-    match: lide
-  - link: /radnice/
-    name: Radnice
-    match: radnice
-  - link: /komunalni-volby/
-    name: Program
-    match: komunalni-volby
-    submenu:   
-      - link: /komunalni-volby-2018/
-        name: Program
-        match: komunalni-volby-2018
-      - link: /komunalni-volby-2018/povolebni-strategie/
-        name: Povolební strategie
-        match: povolebni-strategie
-  - link: /podporte-nas/
-    name: Podpořte nás
-    match: podporte-nas
+    name: Lidé
+  - link: /kontakt/
+    name: Kontakt
 
 bottom:
   - class: small-12 medium-4
     title: Připoj se
     links:
-      - link: https://nalodeni.pirati.cz
-        name: Naloďte se na palubu !
       - link: /kontakt/
         name: Dej nám vědět
+      - link: "https://nalodeni.pirati.cz"
+        name:  Nalodění
   - class: small-12 medium-4
-    title: Volby 2018
+    title: Makáme
     links:
-      - link: /komunalni-volby-2018/povolebni-strategie/
-        name: Povolební strategie
-      - link: /komunalni-volby-2018/
-        name: Kandidátka     
+      - link: /lide/
+        name: Lidé
+      - link: /aktuality/
+        name: Aktuality
   - class: small-12 medium-4
     title: Otevřenost
     links:
@@ -60,5 +42,11 @@ bottom:
         name: Registr smluv
       - link: https://wiki.pirati.cz/fo/otevrene_ucetnictvi
         name: Otevřené účetnictví
-      - link: /lide/platy-2019/
-        name: Odměny za rok 2019
+
+
+# Display transparency section in the footer?
+transparencySection: false
+
+contact:
+  - martin.sterba
+  - jan.kolator

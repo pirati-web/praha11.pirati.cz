@@ -8,6 +8,7 @@ category:
 ordpms: 2  
 description: ▪ člen bytová komise
 img: people/richard-frank.jpg
+heroImg: praha-11.jpg
 age: 
 
 ---
