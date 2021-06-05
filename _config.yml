@@ -110,7 +110,8 @@ permalink: /aktuality/:title.html
 collections:
   people:
     output: true
-    permalink: /lide/:path/
+    root: /clenove/
+    permalink: /clenove/:path/    
   program:
     output: true
     permalink: /volby/:path
