@@ -3,6 +3,7 @@ uid: vaclav.sebek
 name: Václav Šebek
 titles:
 category:
+  - priznivci
 description: 
 profession: 
 #img: 
