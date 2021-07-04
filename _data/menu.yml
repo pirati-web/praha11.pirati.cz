@@ -15,6 +15,8 @@ main:
     name: Aktuality
   - link: /lide/
     name: Lidé
+  - link: /komunalni-volby/
+    name: Program    
   - link: /kontakt/
     name: Kontakt
 
