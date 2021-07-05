@@ -1,6 +1,6 @@
 ---
-title: Kandidátka
-uid: magistrat
+title: Kandidáti do zastupitelstva MČ Praha 11
+uid: 2018-komunalni
 number: 4
 leader:
   uid: jiri.dohnal
