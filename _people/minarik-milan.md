@@ -9,7 +9,7 @@ img: people/milan-minarik.jpg
 heroImg: praha-11.jpg
 mail:
   - milan.minarik@pirati.cz
-mob: +420 773 264 564
+#mob: 
 profiles:
   facebook: https://www.facebook.com/bolekczech
 ---
