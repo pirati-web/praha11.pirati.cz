@@ -6,7 +6,7 @@ uid: bydleni
 order: 3
 garant: martin.duska
 redmine: 28135
-img: program/otevrena-radnice.jpg
+img: miscellaneous/doprava.jpg
 intro: >
   
 ---

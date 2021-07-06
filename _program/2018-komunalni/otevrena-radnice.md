@@ -6,7 +6,7 @@ uid: otevrena-radnice
 order: 2
 garant: zuzana.bohmova
 redmine: 28149  
-img: program/otevrena-radnice.jpg
+img: miscellaneous/otevrena-radnice.jpg
 intro: >
   
 ---
