@@ -6,7 +6,7 @@ uid: bydleni
 order: 3
 garant: jiri.dohnal
 redmine: 28141
-img: pmiscellaneous/bydleni.jpg
+img: program/otevrena-radnice.jpg
 intro: >
   
 ---
