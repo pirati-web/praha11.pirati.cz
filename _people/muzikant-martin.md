@@ -7,6 +7,7 @@ titles:
 category:
   - clenove
   - kandidat-obec
+  - zas
 description: ▪ Komise investic <br>▪ Komise pro dotace a EU fondů <br>▪ Komise pro správu majetku a podporu podnikání <br>▪ Finanční výbor (místopředseda) <br>▪ člen dozorčí rady Jihoměstská majetková
 img: people/martin-muzikant.jpg
 heroImg: praha-11.jpg
