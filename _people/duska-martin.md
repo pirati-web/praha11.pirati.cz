@@ -6,6 +6,7 @@ titles:
 category:
   - kandidat-obec
   - clenove
+  - zas
 description: ▪ radní pro dopravu a otevřenou radnici
 img: people/martin-duska.jpg
 heroImg: praha-11.jpg
