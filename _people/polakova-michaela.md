@@ -6,6 +6,7 @@ titles:
 category:
   - priznivci
   - kandidat-obec
+  - zas
 description: 
 img: people/michaela-polakova.jpg
 heroImg: praha-11.jpg
