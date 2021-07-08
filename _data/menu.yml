@@ -46,11 +46,3 @@ bottom:
         name: Registr smluv
       - link: https://wiki.pirati.cz/fo/otevrene_ucetnictvi
         name: Otevřené účetnictví
-
-
-# Display transparency section in the footer?
-transparencySection: false
-
-contact:
-  - martin.sterba
-  - jan.kolator
