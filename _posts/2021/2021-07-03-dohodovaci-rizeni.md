@@ -1,5 +1,5 @@
 ---
-date: 2021-05-21
+date: 2021-07-03
 category: blog
 title: "Dohnal: Chci stabilní Jižní Město i za cenu, že nebudu starostou"
 layout: post
