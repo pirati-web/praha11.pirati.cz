@@ -5,6 +5,7 @@ name: Michal Veselský
 category:
   - priznivci
   - kandidat-obec
+  - zas
 description: člen SZ <br>▪ Finanční komise <br>▪ Komise pro životní prostředí
 img: people/michal-veselsky.jpg
 heroImg: praha-11.jpg
