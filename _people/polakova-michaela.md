@@ -4,6 +4,7 @@ name: Michaela Poláková
 titles:
   before: Ing.
 category:
+  - priznivci
   - kandidat-obec
 description: 
 img: people/michaela-polakova.jpg
