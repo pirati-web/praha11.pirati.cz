@@ -16,7 +16,9 @@ main:
   - link: /lide/
     name: Lidé
   - link: /program/
-    name: Program    
+    name: Program
+  - link: https://www.piratiastarostove.cz/kandidati/kraj/praha/
+    name: Volby 2021    
   - link: /kontakt/
     name: Kontakt
 
