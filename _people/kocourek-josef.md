@@ -5,6 +5,7 @@ category:
   - pms
   - kandidat-obec
   - kontaktni_osoba
+  - zas
 categories: kontaktni_osoba    
 ordpms: 1
 ordclenove: 4
