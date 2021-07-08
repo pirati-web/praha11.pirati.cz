@@ -4,6 +4,7 @@ name: Josef Kocourek
 category:
   - pms
   - kandidat-obec
+  - kontaktni_osoba
 categories: kontaktni_osoba    
 ordpms: 1
 ordclenove: 4
