@@ -7,6 +7,7 @@ titles:
 category:
   - kandidat-obec
   - pms
+  - zas
 ordpms: 4
 mail:
   - zuzana.ujhelyiova@pirati.cz
