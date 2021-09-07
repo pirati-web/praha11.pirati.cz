@@ -1,0 +1,39 @@
+---
+date: 2021-09-07
+category: blog
+title: "Veřejná výzva zastupitelů za Českou pirátskou stranu a TOP 09-STAN klubům ODS, ANO a HPP11"
+layout: post
+author: mediální tým
+image: articles/2021/2021-09-07-prohlaseni.jpg
+tags:
+  - zastupitelstvo
+  - koalice
+  - Praha 11
+---
+
+
+*Praha 7. září 2021* – **Veřejná výzva zastupitelů za Českou pirátskou stranu a TOP 09-STAN klubům ODS, ANO a HPP11**
+
+My, zastupitelé zvolení za Českou pirátskou stranu a TOP 09-STAN, konstatujeme, že:
+
+1. Při jednání zastupitelstva MČ Praha 11 dne 2. září 2021 došlo k několikanásobnému porušení koaliční smlouvy ze strany ODS a ANO vůči klubu TOP 09-STAN, čímž se finálně ukázalo, že koaliční smlouva původně uzavřená mezi Pirátskou stranou, ANO, TOP 09-STAN a ODS již neplatí.
+2. Radnice Prahy 11 se od zasedání zastupitelstva ze dne 2. září 2021 nachází v krizové situaci, kdy není žádná skupina zastupitelských klubů s platnou koaliční smlouvou, na jejímž základě by mohla fungovat alespoň minimálně stabilní rada opírající se o většinový počet zastupitelů.
+3.	Dvěma nejpalčivějšími tématy současnosti jsou dle našeho názoru Areál ledových sportů („ALS“) a rekonstrukce objektu bývalé ubytovny Sandra.
+  -    V případě ALS se během jednání zastupitelstva dne 2. září 2021 nalezla těsná většina zastupitelů, která schválila návrh ODS a HPP11 a pokusila se tak zvrátit dosavadní vývoj tohoto projektu. Další postup v této věci bude projednávat příští jednání zastupitelstva MČ Praha 11.
+  -        V případě další fáze rekonstrukce objektu Sandra:
+    a)  Rada MČ Praha 11 během léta 2021 opakovaně odmítla akceptovat návrh místostarosty Ondřeje Prokopa (ANO), aby byla vyhlášena obří komplexní zakázka na opravu střechy, pláště, výměnu oken a zateplení objektu Sandra, na kterou nyní v radničním rozpočtu chybí dle O. Prokopa až 150 milionů Kč.
+    b) Stejně tak zastupitelstvo MČ Praha 11 dne 2. září 2021 odmítlo tuto zakázku vypsat, počet hlasů pro předložený návrh O. Prokopa byl velmi nízký.
+    c) Zároveň se ukazuje, že O. Prokop má již od loňského léta informaci o tom, že do objektu Sandra zatéká, což bezprostředně ohrožuje již proběhlou investici do oprav vnitřku budovy v hodnotě cca 400 milionů Kč. O. Prokop během celého období mezi létem 2020 a létem 2021 nepředložil žádnému orgánu zastupitelstva MČ Praha 11 žádný plán na řešení této havarijní situace. Teprve nedávno předložil radě ke schválení výše zmíněný plán na komplexní opravu. Ten však předložil pozdě (až 19. července 2021), a jak je uvedeno výše, na tento plán nemá Praha 11 v rozpočtu peníze (ani nemá zažádáno o dotace, ze kterých by bylo možné zmíněných chybějících cca 150 milionů Kč zajistit).
+    d) Tuto rekonstrukci objektu Sandry má O. Prokop na starosti spolu s investičním oddělením odboru správy majetku. V tomto oddělení, které je dále zodpovědné za dostavbu Starochodovské školy, opravy ve školských objektech, projekt kontejnerové přístavby radnice a další investiční akce, nyní působí pouze jeden zaměstnanec (!), u kterého se v posledních týdnech, bohužel, ukazuje, že na danou pozici naprosto nestačí. Jeho práce je i v případě jednoduchých investičních akcí charakterizována porušováním řady směrnic a dokonce i zákonů.
+
+Vzhledem k výše zmíněnému tímto veřejně vyzýváme kluby ODS, ANO a HPP 11 k vstřícnosti a k jednáním o tom, jak zajistit radnici Prahy 11 alespoň základní stabilitu pro zbytek tohoto volebního období, a zejména o tom, jak řešit kritickou situaci týkající se zejména objektu Sandra a investičního oddělení a projektu ALS.
+
+Praha, 7. září 2021
+
+Za zastupitelský klub České pirátské strany:
+Jiří Dohnal, Martin Duška, Josef Kocourek, Ladislav Kos ml., Jan Mejsnar, Martin Muzikant,  Zuzana Ujhelyiová
+
+Michaela Al-Ali Poláková (nezařazená/Piráti)
+
+Za zastupitelský klub TOP 09-STAN:
+Blanka Janečková, Tomáš Jileček, Jakub Lepš, Jan Mareš, Jan Stárek, Radka Soukupová
