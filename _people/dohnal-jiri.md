@@ -34,6 +34,10 @@ Jako jihoměstský patriot chci pracovat na tom, aby se Praha 11 opět stala mí
 * [Veřejný kalendář starosty](https://webmail.praha11.cz/owa/calendar/dohnalJ@praha11.cz/Kalendář/calendar.html)
 * [Wiki](https://wiki.pirati.cz/lide/jiri_dohnal)
 
+
+<iframe src="https://calendar.google.com/calendar/u/0/embed?src=difpl1tdlua3q599bf6vs1nbnbsv307g@import.calendar.google.com&ctz=Europe/Prague"></iframe>
+
+
 <iframe width="700" height="750" src="https://calendar.google.com/calendar/u/0/embed?src=difpl1tdlua3q599bf6vs1nbnbsv307g@import.calendar.google.com&ctz=Europe/Prague"></iframe>
 
 
