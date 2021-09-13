@@ -35,5 +35,5 @@ Jako jihoměstský patriot chci pracovat na tom, aby se Praha 11 opět stala mí
 * [Wiki](https://wiki.pirati.cz/lide/jiri_dohnal)
 
 
-
+<iframe width="700" height="750" src="https://calendar.google.com/calendar/u/0/embed?src=difpl1tdlua3q599bf6vs1nbnbsv307g@import.calendar.google.com&ctz=Europe/Prague"></iframe>
 ---
