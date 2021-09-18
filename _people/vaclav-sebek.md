@@ -3,8 +3,8 @@ uid: vaclav.sebek
 name: Václav Šebek
 titles:
 category:
-  - priznivci
-description: 
+  - clenove
+description: člen finanční komise 
 profession: 
 #img: 
 heroImg: praha-11.jpg
