@@ -11,11 +11,15 @@ tags:
   - Praha 11
 ---
 
-**Jak “efektivně” funguje odbor správy majetku pod vedením místostarosty Ondřeje Prokopa (majetek a investice, ANO) krásně ilustruje nefunkční vjezd do mateřské školy Mandolinka.<br>
-Její ředitelka již dva roky marně žádá odbor správy majetku v gesci pana místostarosty Ondřeje Prokopa o vyřešení velmi nepříjemné situace vjezdu do areálu, který komplikuje provoz samotné školky.<br>
-Před vjezdem do zahrady stále parkují auta, dopravní situace je nepřehledná, pro údržbu budov je komplikované dostat se na školní zahradu a v případě nehody mohou být děti ohroženy na zdraví. Zároveň celá situace školce komplikuje zásobování a i případný vjezd vozidel integrovaného záchranného systému do areálu.<br>
-Ředitelka MŠ Madolinka volá po nezbytné místní úpravě provozu a úpravě obrubníku stále marně.Odbor správy majetku v gesci místostarosty Ondřeje Prokopa (ANO) nekoná. Přitom za dopravu je vše vyřešené a schválené už rok!<br>
-Paní ředitelka udělala ze své pozice maximum. Dne 2. 9. 2019 požádala oficiální cestou Odbor správy majetku, oddělení dopravy a silniční správní úřad o stanovení změny z místní úpravy provozu na pozemní komunikaci. Vedení mateřské školy požadovalo umístění značky zákaz parkování nebo jiného značení před vjezdová vrata do MŠ a úpravu silničního obrubníku pro vjezd na zahradu. Současně zajistilo odborné vyjádření firmy PERITAS s.r.o. a  přiložilo jej ke své žádosti.**
+**Jak “efektivně” funguje odbor správy majetku pod vedením místostarosty Ondřeje Prokopa (majetek a investice, ANO) krásně ilustruje nefunkční vjezd do mateřské školy Mandolinka.**
+
+**Její ředitelka již dva roky marně žádá odbor správy majetku v gesci pana místostarosty Ondřeje Prokopa o vyřešení velmi nepříjemné situace vjezdu do areálu, který komplikuje provoz samotné školky.**
+
+Před vjezdem do zahrady stále parkují auta, dopravní situace je nepřehledná, pro údržbu budov je komplikované dostat se na školní zahradu a v případě nehody mohou být děti ohroženy na zdraví. Zároveň celá situace školce komplikuje zásobování a i případný vjezd vozidel integrovaného záchranného systému do areálu.
+
+Ředitelka MŠ Madolinka volá po nezbytné místní úpravě provozu a úpravě obrubníku stále marně.Odbor správy majetku v gesci místostarosty Ondřeje Prokopa (ANO) nekoná. Přitom za dopravu je vše vyřešené a schválené už rok!
+
+Paní ředitelka udělala ze své pozice maximum. Dne 2. 9. 2019 požádala oficiální cestou Odbor správy majetku, oddělení dopravy a silniční správní úřad o stanovení změny z místní úpravy provozu na pozemní komunikaci. Vedení mateřské školy požadovalo umístění značky zákaz parkování nebo jiného značení před vjezdová vrata do MŠ a úpravu silničního obrubníku pro vjezd na zahradu. Současně zajistilo odborné vyjádření firmy PERITAS s.r.o. a  přiložilo jej ke své žádosti.
 
 Zákaz vjezdu je zbytečný
 
