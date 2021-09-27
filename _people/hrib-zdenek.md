@@ -9,7 +9,7 @@ category:
 
 
 description: ▪ primátor hl. m. Prahy
-img: https://praha.pirati.cz/assets/92bffc-ad55897d7e8cf964ad951facbfb3d5c9ef80a50805e98ccc718f044d3bd242af.jpg
+img: hrib-zdenek.jpg
 heroImg: praha-11.jpg
 mail:
   - zdenek.hrib@praha.eu
