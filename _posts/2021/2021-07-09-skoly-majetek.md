@@ -1,5 +1,5 @@
 ---
-date: 2031-07-09
+date: 2021-07-09
 category: blog
 title: "Správa školských budov"
 layout: post

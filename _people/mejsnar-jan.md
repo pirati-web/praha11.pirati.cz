@@ -8,6 +8,7 @@ category:
   - pms
   - kandidat-obec
   - zas
+ordpms: 4
 description: ▪ předseda Komise pro životní prostředí <br>▪ Komise sociální a zdravotní <br>▪ Kontrolní výbor <br>▪ místopředseda dozorčí rady Jihoměstská sociální
 img: people/jan-mejsnar.jpg
 heroImg: praha-11.jpg

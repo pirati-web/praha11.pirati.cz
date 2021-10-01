@@ -4,7 +4,7 @@ category: blog
 title: "VYJÁDŘENÍ PIRÁTŮ PRAHA 11 K OTEVŘENÉMU DOPISU ŘEDITELŮ ZŠ PRAHY 11"
 layout: post
 author: redakce
-image: articles/2021/2021-02-14-Reakce_otevřenyDopis_Praha11.jpg
+image: articles/2021/2021-02-14-reakce-otevreny-dopis-praha-11.jpg
 tags: 
   - školství
   - finance
