@@ -1,7 +1,7 @@
 ---
 uid: zuzana.ujhelyiova
 name: Zuzana Ujhelyiová
-description: místopředseda MS <br> ▪ radní pro školství
+description: členka MS, zastupitelka Prahy 11
 titles:		
   before: Mgr. 	
 category:
