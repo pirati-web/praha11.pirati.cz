@@ -4,6 +4,8 @@ name: Václav Šebek
 titles:
 category:
   - clenove
+  - pms
+ordpms: 3
 description: člen finanční komise 
 profession: 
 #img: 
