@@ -8,7 +8,7 @@ category:
   - kandidat-obec
   - pms
   - zas
-ordpms: 3
+ordpms: 4
 mail:
   - zuzana.ujhelyiova@pirati.cz
   #- ujhelyiovaz@praha11.cz
