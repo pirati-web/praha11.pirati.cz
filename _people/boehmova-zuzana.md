@@ -4,10 +4,8 @@ name: Zuzana Böhmová
 titles:
   before: Mgr.
 category:
-  - pms
   - kandidat-obec
   - kontaktni_osoba
-ordpms: 2
 description: místopředseda MS <br>▪ člen výboru pro otevřenou radnici a digitalizaci <br>▪ člen komise pro výchovu, vzdělávání a národnostní menšiny
 profession: středoškolský pedagog, členka Pirátů, gesce školství, otevřená radnice, digitalizace
 img: people/zuzana-bohmova.jpg
