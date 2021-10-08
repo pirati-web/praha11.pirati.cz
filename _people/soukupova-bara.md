@@ -1,7 +1,8 @@
 ---
 uid: bara.soukupova
 name: Bára Soukupová
-titles:
+titles:		
+  before: Mgr. 
 category:
   - clenove
   - pms
