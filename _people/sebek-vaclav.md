@@ -8,7 +8,7 @@ category:
 ordpms: 3
 description: člen finanční komise 
 profession: 
-#img: 
+img: people/sebek-vaclav.jpg
 heroImg: praha-11.jpg
 mail:
   - vaclav.sebek@pirati.cz
