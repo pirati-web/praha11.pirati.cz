@@ -6,6 +6,7 @@ titles:
 category:
   - clenove
   - pms
+  - kontaktni_osoba
 ordpms: 2
 description: 1. místopředsedkyně
 profession: 
