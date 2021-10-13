@@ -5,6 +5,7 @@ titles:
   before: Mgr.
 category:
   - kandidat-obec
+  - clenove
 description: místopředseda MS <br>▪ člen výboru pro otevřenou radnici a digitalizaci <br>▪ člen komise pro výchovu, vzdělávání a národnostní menšiny
 profession: středoškolský pedagog, členka Pirátů, gesce školství, otevřená radnice, digitalizace
 img: people/zuzana-bohmova.jpg
