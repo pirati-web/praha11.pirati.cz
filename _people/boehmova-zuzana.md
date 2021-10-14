@@ -6,7 +6,7 @@ titles:
 category:
   - kandidat-obec
   - clenove
-description: člen výboru pro otevřenou radnici a digitalizaci <br>▪ člen komise pro výchovu, vzdělávání a národnostní menšiny
+description: ▪ člen výboru pro otevřenou radnici a digitalizaci <br>▪ člen komise pro výchovu, vzdělávání a národnostní menšiny
 profession: středoškolský pedagog, členka Pirátů, gesce školství, otevřená radnice, digitalizace
 img: people/zuzana-bohmova.jpg
 heroImg: praha-11.jpg

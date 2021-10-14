@@ -4,11 +4,10 @@ name: Bára Soukupová
 titles:		
   before: Mgr.
 category:
-  - clenove
   - pms
   - kontaktni_osoba
 ordpms: 2
-description: 1. místopředsedkyně
+description: ▪ 1. místopředsedkyně
 profession:
 img: people/soukupova-bara.jpg
 heroImg: praha-11.jpg

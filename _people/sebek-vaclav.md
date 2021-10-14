@@ -3,11 +3,10 @@ uid: vaclav.sebek
 name: Václav Šebek
 titles:
 category:
-  - clenove
   - pms
 ordpms: 3
-description: člen finanční komise 
-profession: 
+description: ▪ 2. místopředseda<br> ▪ člen finanční komise
+profession:
 img: people/sebek-vaclav.jpg
 heroImg: praha-11.jpg
 mail:
