@@ -17,7 +17,6 @@ img: people/zuzana-ujhelyiova.jpg
 heroImg: praha-11.jpg
 profiles:
   facebook: https://www.facebook.com/ujhelyiovazuzana
-calendar: 80pl8p1mv39g3gljau4l4qfu9o@group.calendar.google.com
 ---
 
 členka Pirátů
