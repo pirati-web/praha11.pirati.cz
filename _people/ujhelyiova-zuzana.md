@@ -12,13 +12,11 @@ ordpms: 4
 mail:
   - zuzana.ujhelyiova@pirati.cz
   #- ujhelyiovaz@praha11.cz
-mob: +420 778 421 041
+mob: +420 608 262 492
 img: people/zuzana-ujhelyiova.jpg
 heroImg: praha-11.jpg
 profiles:
   facebook: https://www.facebook.com/ujhelyiovazuzana
-address: Vidimova 1324/4, 149 41 Praha 11 		 
-clock: den pro veřejnost s radní každá poslední středa v měsíci od 15:00 do 18:00		 
 calendar: 80pl8p1mv39g3gljau4l4qfu9o@group.calendar.google.com
 ---
 
