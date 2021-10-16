@@ -2,13 +2,13 @@
 uid: martin.muzikant
 name: Martin Muzikant
 titles:
-  before: Mag. 
+  before: Mag.
   after: Ph.D.
 category:
   - clenove
   - kandidat-obec
   - zas
-description: ▪ Komise investic <br>▪ Komise pro dotace a EU fondů <br>▪ Komise pro správu majetku a podporu podnikání <br>▪ Finanční výbor (místopředseda) <br>▪ člen dozorčí rady Jihoměstská majetková
+description: ▪ Komise investic <br>▪ Komise pro dotace a EU fondů <br>▪ Komise pro správu majetku a podporu podnikání <br>▪ Finanční výbor (místopředseda) <br>▪ člen dozorčí rady Jihoměstská majetková<br> ▪ zastupitel Prahy 11
 img: people/martin-muzikant.jpg
 heroImg: praha-11.jpg
 mail:
@@ -25,6 +25,6 @@ manažer
 
 
 Žiji na Jižním Městě již 40 let. Mám toto místo moc rád, ale myslím si, že se dá plno věcí zde zlepšit. Radnice by měla více naslouchat, co trápí místní obyvatele. Myslím si, že občané mají 100 % právo rozhodovat o svém okolí. Transparentnost radnice je hlavní cíl! Kontrola hospodářských činností, podpora drobných podnikatelů (služeb), a kvalitní všeobecný rozvoj by měl být základem Jižního Města.
- 
+
 
 ---
