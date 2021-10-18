@@ -5,7 +5,7 @@ name: Tomáš Kapler
 category:
   - clenove  
 description:  
-img:
+img: people/tomas-kapler.jpg
 heroImg: praha-11.jpg  
 age: 
 mail:
