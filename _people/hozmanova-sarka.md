@@ -7,7 +7,7 @@ category:
   - clenove
 description:
 profession: 
-img: 
+img: people/sarka-hozmanova.jpg
 heroImg: praha-11.jpg
 mail:
   - sarka.hozmanova@pirati.cz
