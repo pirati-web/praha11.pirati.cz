@@ -5,7 +5,7 @@ titles:
 category:
   - pms
 ordpms: 3
-description: ▪ 2. místopředseda<br> ▪ člen finanční komise
+description: ▪ 2. místopředseda<br> ▪ člen finančního výboru
 profession:
 img: people/sebek-vaclav.jpg
 heroImg: praha-11.jpg
