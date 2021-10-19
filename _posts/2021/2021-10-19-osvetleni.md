@@ -1,7 +1,7 @@
 ---
 date: 2021-10-19
 category: blog
-title: "Renovace veřejného osvětlení na Starém Chodově a další aktuality z dopravy"
+title: "Renovace veřejného osvětlení na&nbsp;Starém Chodově a&nbsp;další aktuality z&nbsp;dopravy"
 layout: post
 author: Martin Duška
 authorId: martin.duska
