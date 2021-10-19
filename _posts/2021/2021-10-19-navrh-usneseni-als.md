@@ -25,5 +25,5 @@ tags:
 
 3. Zastupitelstvo ukládá starostovi Jiřímu Dohnalovi, aby neprodleně zahájil jednání odkupu podílu společnosti AR DELTA a.s. s Akcionářem 2, který má předkupní právo. Zároveň ukládá starostovi Jiřímu Dohnalovi informovat zastupitelstvo o průběhu tohoto jednání v termínu do příštího jednání ZMČ Praha 11. 
 
-Dohodu o společném postupu naleznete **[ZDE](/assets/pdf/2021-10-19-Dohoda-o-spolecnem postupu-MC-ALS.pdf)**.<br>
+Dohodu o společném postupu naleznete **[ZDE](/assets/pdf/2021-10-19-Dohoda-o-spolecnem postupu-MC-ALS.pdf)**. <br>
 Plánovaný rozvrh provozu **[ZDE](/assets/pdf/2021-10-19-Rozvrh-hodin.pdf)**.
