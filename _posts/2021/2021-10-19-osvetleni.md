@@ -4,7 +4,7 @@ category: blog
 title: "Renovace veřejného osvětlení na Starém Chodově a další aktuality z dopravy"
 layout: post
 author: Martin Duška
-image: articles/2021/2021-10-19-osvetleni.jpg
+image: articles/2021/2021-10-19-osvetlen.jpg
 tags:
   - doprava
   - osvětelení
