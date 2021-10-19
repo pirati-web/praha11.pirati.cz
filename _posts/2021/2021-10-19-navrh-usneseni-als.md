@@ -1,7 +1,7 @@
 ---
 date: 2021-10-19
 category: blog
-title: "Piráti připravili konstruktivní návrh k odblokování situace ohledně Areálu ledových sportů"
+title: "Piráti připravili konstruktivní návrh k&nbspodblokování situace ohledně Areálu ledových sportů"
 layout: post
 author: Jiří Dohnal
 authorId: jiri.dohnal
