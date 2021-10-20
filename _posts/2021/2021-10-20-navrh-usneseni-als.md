@@ -17,9 +17,9 @@ tags:
 
 1. Zastupitelstvo MČ Praha 11 konstatuje, že je připraveno jednat o prodeji podílu MČ Praha 11 ve společnosti AR DELTA a.s., a tím přenechat projekt výstavby Areálu ledových sportů druhému akcionáři či třetí osobě, za podmínek:
 
-- 1. podíl MČ Praha 11 bude prodán za cenu určenou znaleckým posudkem, minimálně však za cenu 40 mil. Kč tak, aby se městské části vrátily všechny prostředky vložené do projektu výstavby Areálu ledových sportů na základě koupě akcií společnosti a smlouvy o příplatku<br>
-- 2. součástí kupní smlouvy bude Dohoda o společném postupu při dostavbě a využívání Areálu ledových sportů tak, aby byl zachován veřejný zájem a přístup škol, zájmových kroužků a veřejnosti k využívání Areálu ledových sportů<br>
-- 3. nejpozději při schvalování kupní smlouvy na zastupitelstvu MČ Praha 11 dojde ke schválení dodatku ke smlouvě o zřízení práva stavby, kterým bude prodloužen termín dokončení stavby, v této smlouvě obsažen, v souladu s žádostí společnosti AR DELTA a.s.
+   1. podíl MČ Praha 11 bude prodán za cenu určenou znaleckým posudkem, minimálně však za cenu 40 mil. Kč tak, aby se městské části vrátily všechny prostředky vložené do projektu výstavby Areálu ledových sportů na základě koupě akcií společnosti a smlouvy o příplatku<br>
+   2. součástí kupní smlouvy bude Dohoda o společném postupu při dostavbě a využívání Areálu ledových sportů tak, aby byl zachován veřejný zájem a přístup škol, zájmových kroužků a veřejnosti k využívání Areálu ledových sportů<br>
+   3. nejpozději při schvalování kupní smlouvy na zastupitelstvu MČ Praha 11 dojde ke schválení dodatku ke smlouvě o zřízení práva stavby, kterým bude prodloužen termín dokončení stavby, v této smlouvě obsažen, v souladu s žádostí společnosti AR DELTA a.s.
 
 2. Zastupitelstvo ukládá Radě nechat zpracovat znalecké ocenění 20 kmenových akcií společnosti AR Delta.
 
