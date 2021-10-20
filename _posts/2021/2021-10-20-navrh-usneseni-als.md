@@ -1,5 +1,5 @@
 ---
-date: 2021-10-19
+date: 2021-10-20
 category: blog
 title: "Piráti připravili konstruktivní návrh k&nbsp;odblokování situace ohledně Areálu ledových sportů"
 layout: post
