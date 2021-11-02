@@ -4,7 +4,7 @@ category: blog
 title: "Zastupitelský klub Pirátů v Praze 11 vyloučil zastupitele Kose a Polákovou, důvodem je nerespektování dohod v klubu"
 layout: post
 author: mediální tým
-image: articles/2021/2021-09-07-vyzva.jpg
+image: articles/2021/2021-11-02-vylouceni-zastupitelsky-klub.jpeg
 tags:
   - zastupitelstvo
   - Praha 11
