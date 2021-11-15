@@ -9,7 +9,7 @@ category:
 ordpms: 2
 description: ▪ 1. místopředsedkyně
 profession:
-img: people/soukupova-bara.jpg
+img: people/bara-soukupova.jpg
 heroImg: praha-11.jpg
 mail:
   - bara.soukupova@pirati.cz
