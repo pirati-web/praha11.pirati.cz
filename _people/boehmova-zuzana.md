@@ -8,7 +8,7 @@ category:
   - clenove
 description: ▪ člen výboru pro otevřenou radnici a digitalizaci <br>▪ člen komise pro výchovu, vzdělávání a národnostní menšiny
 profession: středoškolský pedagog, členka Pirátů, gesce školství, otevřená radnice, digitalizace
-img: people/zuzana-bohmova.jpg
+img: people/zuzana-boehmova.jpg
 heroImg: praha-11.jpg
 mail:
   - zuzana.boehmova@pirati.cz
