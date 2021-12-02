@@ -7,7 +7,7 @@ category:
   - kandidat-obec
   - clenove
   - zas
-description: ▪ radní pro dopravu a otevřenou radnici
+description: ▪ radní Prahy 11 pro dopravu a otevřenou radnici
 img: people/martin-duska.jpg
 heroImg: praha-11.jpg
 address: Ocelíkova 672/1, 149 00 Praha 11
