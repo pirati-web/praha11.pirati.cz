@@ -5,7 +5,7 @@ name:     Jan Suchánek
 category:
   - clenove
   - kandidat-obec
-description: 
+description: ▪ člen mediální komise
 img: people/jan-suchanek.jpg
 heroImg: praha-11.jpg
 mail:
