@@ -6,7 +6,7 @@ category:
   - priznivci
   - kandidat-obec
   - zas
-description: člen SZ <br>▪ Finanční komise <br>▪ Komise pro životní prostředí<br> ▪ zastupitel Prahy 11
+description: člen SZ <br>▪ zastupitel Prahy 11
 img: people/michal-veselsky.jpg
 heroImg: praha-11.jpg
 profiles:
