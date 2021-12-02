@@ -8,7 +8,7 @@ category:
   - kandidat-obec
   - zas
   - clenove
-description: ▪ předseda Komise pro životní prostředí <br>▪ Komise sociální a zdravotní <br>▪ Kontrolní výbor <br>▪ místopředseda dozorčí rady Jihoměstská sociální<br> ▪ zastupitel Prahy 11
+description: ▪ předseda Komise pro životní prostředí <br>▪ člen Komise sociální a zdravotní <br>▪ člen Kontrolního výboru <br>▪ místopředseda dozorčí rady Jihoměstská sociální<br> ▪ zastupitel Prahy 11
 img: people/jan-mejsnar.jpg
 heroImg: praha-11.jpg
 mail:
