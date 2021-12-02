@@ -4,7 +4,7 @@ name: Tomáš Kapler
 
 category:
   - clenove  
-description:  
+description:  ▪ člen Komise pro kulturu a spolky
 img: people/tomas-kapler.jpg
 heroImg: praha-11.jpg  
 age: 
