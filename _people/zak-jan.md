@@ -4,7 +4,7 @@ name: Jan Žák
 titles:
 category:
   - priznivci
-description: ▪  člen komise informatiky
+description: ▪  člen Komise informatiky
 img: 
 heroImg: praha-11.jpg
 mail:
