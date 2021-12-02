@@ -10,7 +10,7 @@ category:
   - zas
 
 ordpms: 4
-description: ▪ předseda sportovní komise MHMP <br>▪ člen výboru pro dopravu MHMP <br>▪ člen výboru pro zdravotnictví, sport a volný čas MHMP <br>▪ člen dopravní komise P11<br> ▪ zastupitel Prahy 11 <br> ▪ zastupitel hl. m. Prahy
+description: ▪ zastupitel Prahy 11 <br> ▪ člen Dopravní komise P11 <br> ▪ zastupitel hl. m. Prahy <br> ▪ předseda Sportovní komise MHMP <br>▪ člen Výboru pro dopravu MHMP <br>▪ člen Výboru pro zdravotnictví, sport a volný čas MHMP
 img: people/ladislav-kos.jpg
 heroImg: praha-11.jpg
 mail:
