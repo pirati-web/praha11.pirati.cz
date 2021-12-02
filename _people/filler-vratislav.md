@@ -7,7 +7,7 @@ titles:
 category:
   - delegati
 ordpms: 4 
-description: ▪ člen dopravní komise
+description: ▪ člen Dopravní komise
 img: people/vratislav-filler.jpg
 heroImg: praha-11.jpg
 age: 
