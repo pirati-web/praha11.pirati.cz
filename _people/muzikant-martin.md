@@ -8,7 +8,7 @@ category:
   - clenove
   - kandidat-obec
   - zas
-description: ▪ člen Komise investic <br>▪ předseda Komise pro dotace a EU fondů <br>▪ člen Komise pro správu majetku a podporu podnikání <br>▪ místopředseda Finančního výboru <br>▪ člen dozorčí rady Jihoměstská majetková<br> ▪ zastupitel Prahy 11
+description: ▪ zastupitel Prahy 11 <br> ▪ člen Komise investic <br>▪ předseda Komise pro dotace a EU fondů <br>▪ člen Komise pro správu majetku a podporu podnikání <br>▪ místopředseda Finančního výboru <br>▪ člen dozorčí rady Jihoměstská majetková 
 img: people/martin-muzikant.jpg
 heroImg: praha-11.jpg
 mail:
