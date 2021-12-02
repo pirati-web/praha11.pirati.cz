@@ -7,7 +7,7 @@ category:
   - priznivci
   - kandidat-obec
 ordclenove: 14
-description: ▪ člen Bezpečnostní komise <br>▪ člen Komise pro dotace a EU fondy
+description: ▪ člen Bezpečnostní komise <br> ▪ člen Komise pro kulturu a spolky <br> ▪ člen Komise pro dotace a EU fondy
 img: people/martin-petrtyl.jpg
 heroImg: praha-11.jpg
 
