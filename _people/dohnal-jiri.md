@@ -10,7 +10,7 @@ category:
 
 #categories: kontaktni_osoba    
 #ordpms: 1
-description: ▪ starosta pro informační technologie, digitalizaci, finanční politiku, krizové řízení a bydlení
+description: ▪ starosta Prahy 11 pro informační technologie, digitalizaci, finanční politiku, krizové řízení a bydlení
 profession: starosta Prahy 11, člen Pirátů
 img: people/jiri-dohnal.jpg
 heroImg: praha-11.jpg
