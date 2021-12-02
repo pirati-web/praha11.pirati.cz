@@ -5,7 +5,7 @@ titles:
   before: Bc.
 category:
   - clenove
-description:
+description: ▪ členka Komise pro životní prostředí
 profession: 
 img: people/sarka-hozmanova.jpg
 heroImg: praha-11.jpg
