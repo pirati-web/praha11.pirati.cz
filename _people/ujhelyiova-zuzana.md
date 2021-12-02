@@ -1,7 +1,7 @@
 ---
 uid: zuzana.ujhelyiova
 name: Zuzana Ujhelyiová
-description:  ▪ 3. místopředsedkyně <br> ▪ členka Komise pro výchovu, vzdělávání a národnostní menšiny <br> ▪ členka Komise pro školskou infrastrukturu MHMP <br> ▪ zastupitelka Prahy 11
+description:  ▪ 3. místopředsedkyně  <br> ▪ zastupitelka Prahy 11 <br> ▪ členka Komise pro výchovu, vzdělávání a národnostní menšiny <br> ▪ členka Komise pro školskou infrastrukturu MHMP
 titles:		
   before: Mgr. 	
 category:
