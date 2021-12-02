@@ -5,7 +5,7 @@ titles:
 category:
   - priznivci
 description: ▪  člen Komise informatiky
-img: 
+img: people/jan-zak.jpg
 heroImg: praha-11.jpg
 mail:
   - 
