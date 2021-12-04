@@ -16,7 +16,7 @@ tags:
 Tady bude text
 
 
-![Bohúňova](articles/2021/2021-12-06-bohunova)
+![Bohúňova](Assets/Praha11/img/articles/2021/2021-12-06-bohunova)
 
 
 ![Jažlovická](articles/2021/2021-12-06-jazlovicka)
