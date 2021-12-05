@@ -16,25 +16,25 @@ tags:
 Tady bude text
 
 
-![Bohúňova](https://a.pirati.cz/praha11//img/articles/2021/2021-12-06-bohunova)
+![Bohúňova](/articles/2021/2021-12-06-bohunova)
 
 
-![Jažlovická](https://a.pirati.cz/praha11//img/articles/2021/2021-12-06-jazlovicka)
+![Jažlovická](/articles/2021/2021-12-06-jazlovicka)
 
 
-![Křejpského](https://a.pirati.cz/praha11//img/articles/2021/2021-12-06-krejpskeho)
+![Křejpského](/articles/2021/2021-12-06-krejpskeho)
 
 
-![Modletická](https://a.pirati.cz/praha11//img/articles/2021/2021-12-06-modleticka)
+![Modletická](/articles/2021/2021-12-06-modleticka)
 
 
-![Tatarkova](https://a.pirati.cz/praha11//img/articles/2021/2021-12-06-tatarkova)
+![Tatarkova](/articles/2021/2021-12-06-tatarkova)
 
 
-![Tatarkova](https://a.pirati.cz/praha11//img/articles/2021/2021-12-06-tatarkova2)
+![Tatarkova](/articles/2021/2021-12-06-tatarkova2)
 
 
-![V Jezírkách](https://a.pirati.cz/praha11//img/articles/2021/2021-12-06-v-jezirkach)
+![V Jezírkách](/articles/2021/2021-12-06-v-jezirkach)
 
 
-![Zdiměřická](https://a.pirati.cz/praha11//img/articles/2021/2021-12-06-zdimericka)
+![Zdiměřická](/articles/2021/2021-12-06-zdimericka)
