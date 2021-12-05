@@ -1,5 +1,5 @@
 ---
-date: 2010-12-10
+date: 2110-12-10
 category: blog
 title: "Nejen ve Zdiměřické je bývalá kotelna"
 layout: post
