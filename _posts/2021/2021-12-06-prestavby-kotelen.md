@@ -16,13 +16,13 @@ tags:
 Tady bude text
 
 
-![Bohúňova](/articles/2021/2021-12-06-bohunova)
+[Bohúňova](/articles/2021/2021-12-06-bohunova)
 
 
-![Jažlovická](/articles/2021/2021-12-06-jazlovicka)
+[Jažlovická](/articles/2021/2021-12-06-jazlovicka)
 
 
-![Křejpského](/articles/2021/2021-12-06-krejpskeho)
+[Křejpského](/articles/2021/2021-12-06-krejpskeho)
 
 
 ![Modletická](/articles/2021/2021-12-06-modleticka)
