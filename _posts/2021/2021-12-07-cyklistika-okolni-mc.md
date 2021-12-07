@@ -13,8 +13,7 @@ tags:
   - Kunratice
 ---
 
-*Praha, 7. prosince 2021* – **Městské části v okolí Prahy 11 skýtají velký potenciál bezmotorové dopravy. V listopadu jsem měl milou příležitost účastnit se dokončení cyklotrasy A 202 vedoucí z Vestce do Kunratic. Jako zástupce naší městské části jsem v průběhu letošního roku požádal hlavní město Prahu o předřazení této stezky do prioritních staveb.
-**
+*Praha, 7. prosince 2021* – **Městské části v okolí Prahy 11 skýtají velký potenciál bezmotorové dopravy. V listopadu jsem měl milou příležitost účastnit se dokončení cyklotrasy A 202 vedoucí z Vestce do Kunratic. Jako zástupce naší městské části jsem v průběhu letošního roku požádal hlavní město Prahu o předřazení této stezky do prioritních staveb.**
 
 **Na kole do Kunratic**<br>
 V příštím roce se snad již rozběhne stavba nové trasy vedoucí ze stávající cyklotrasy A 215 podél ulice u Kunratického lesa, zde naváže u křižovatky U Kunratického lesa / K Verneráku. Kde se propojí s cyklotrasou MČ Kunratice. V dlouhodobém hledisku je cílem udělat odbočku a pokračovat až ke křižovatce Na Jelenách / Chilská. K této etapě však dojde až v období stavebního rozvoje v oblasti Na Jelenách.
