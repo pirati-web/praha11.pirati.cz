@@ -1,7 +1,7 @@
 ---
 date: 2021-12-07
 category: blog
-title: "Nejen ve Zdiměřické je bývalá kotelna"
+title: "Spolupráce v cyklodopravě"
 layout: post
 author: Martin Duška
 authorId: martin.duska
