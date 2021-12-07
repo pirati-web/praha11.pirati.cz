@@ -28,3 +28,7 @@ Dále bychom rádi provedli drobné úpravy stávajících přechodů u křižov
 
 **Bohužel, ne všechna místa jsou pro cyklistiku vhodná**<br>
 Naopak co se nepovedlo, je umístění cyklopruhů v ulicích Výstavní a Mírového hnutí. Magistrát hl. m. Prahy umístil tyto cyklopruhy přes jednoznačně negativní stanovisko naší městské části. Bohužel to však nebylo vyslyšeno a my s tím nemůžeme nic dělat.  Osobně považuji za nebezpečné, aby byl prostor, kde se mají cyklisté cítit bezpečně, kombinován s páteřní komunikací, po které jezdí kamiony. Jako kompromisní řešení jsem navrhl legalizaci jízdy na přilehlých chodnících, které chodci tolik nevyužívají, takže smíšený provoz by komfort peších vůbec nesnížil. Proto budeme s odborem dopravy hlavního města Prahy upravovat přilehlé chodníky, aby byla vytvořena bezpečná alternativa vůči tomuto z mého pohledu nešťastnému řešení.
+
+
+[Mapa](/articles/2021/2021-12-07-mapa)
+
