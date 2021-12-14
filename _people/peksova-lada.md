@@ -8,7 +8,7 @@ category:
   - kandidat-obec
 ordclenove: 16
 description:
-img: people/lada-pexova.jpg
+img: people/lada-peksova.jpg
 heroImg: praha-11.jpg
 mail:
   - lada.peksova@pirati.cz
