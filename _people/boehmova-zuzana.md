@@ -7,8 +7,7 @@ category:
   - kandidat-obec
   - clenove
 description: ▪ člen Výboru pro otevřenou radnici a digitalizaci
-profession: 
-středoškolský pedagog, otevřená radnice, digitalizace, školství
+profession: středoškolský pedagog, otevřená radnice, digitalizace, školství
 img: people/zuzana-boehmova.jpg
 heroImg: praha-11.jpg
 mail:
