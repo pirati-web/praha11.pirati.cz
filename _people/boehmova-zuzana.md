@@ -19,8 +19,8 @@ profiles:
   instagram: https://www.instagram.com/zuzana.boehmova
 calendar: va05o0jfci8qrqv7omspurjvnc@group.calendar.google.com
 ---
-
 {{page.description}}
+
 
 *Vždycky se mi líbila panelová sídliště, i to je důvodem, proč jsem si život na Jižním Městě zamilovala. Můj příběh na Jižáku začal již před osmi lety láskou a následně zaměstnáním. Hned po dokončení vysoké školy jsem zde začala učit na ZŠ a MŠ Chodov, která téměř deset let čekala na dostavbu západního křídla - to byl pro mě impulz, který ve mně vyvolal zájem o komunální politiku. Následovalo setkání s Piráty, jejichž jsem byla dlouholetou voličkou,..."*, Zuzana Böhmová.
 
