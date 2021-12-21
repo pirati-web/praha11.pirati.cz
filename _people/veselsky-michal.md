@@ -3,7 +3,6 @@ uid: michal.veselsky
 name: Michal Veselský
 
 category:
-  - priznivci
   - kandidat-obec
   - zas
 description: ▪ člen SZ <br>▪ zastupitel Prahy 11
