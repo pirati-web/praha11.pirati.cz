@@ -3,11 +3,11 @@ uid: jan.zak
 name: Jan Žák
 titles:
 category:
-  - priznivci
+  - clen
 description: ▪  člen Komise informatiky
 img: people/jan-zak.jpg
 heroImg: praha-11.jpg
-mail:
+mail: jan.zak@pirati.cz
   - 
 profiles:
   
