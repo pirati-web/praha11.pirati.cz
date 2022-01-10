@@ -3,7 +3,7 @@ uid: pavel.podgrony
 name:     Pavel Podgorný
 
 category:
-  - priznivci
+  - clenove
 description: ▪ člen Finanční komise
 img: people/pavel-podgorny.jpg
 heroImg: praha-11.jpg
