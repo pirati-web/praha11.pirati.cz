@@ -7,8 +7,8 @@ category:
 description: ▪  člen Komise informatiky
 img: people/jan-zak.jpg
 heroImg: praha-11.jpg
-mail: jan.zak@pirati.cz
-  - 
+mail: 
+  - jan.zak@pirati.cz
 profiles:
   
 ---
