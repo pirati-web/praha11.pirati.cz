@@ -6,7 +6,7 @@ titles:
 category:
   - kandidat-obec
   - clenove
-description: ▪ mediální spojka P11 <br> ▪ členka Výboru pro otevřenou radnici a digitalizaci P11 <br> ▪ členka Výboru pro IT a SmartCity HMP
+description: ▪ koordinátorka krajských expertních týmů v oblasti IT a Smart City <br> ▪ mediální spojka P11 <br> ▪ předsedkyně místního expretního týmu otevřená radnice a digitalizace P11 <br> ▪ členka Výboru pro otevřenou radnici a digitalizaci P11 <br> ▪ členka Výboru pro IT a SmartCity HMP
 profession: středoškolský pedagog <br> otevřená radnice, digitalizace, školství
 img: people/zuzana-boehmova.jpg
 heroImg: praha-11.jpg
