@@ -5,7 +5,7 @@ title: "Nové přístřešky na zastávkách MHD"
 layout: post
 author: Pavel Podgorný
 authorId: pavel.podgorny
-image: articles/2021/2022-01-21-pristresky.JPG
+image: articles/2022/2022-01-21-pristresky.JPG
 tags: 
   - doprava
   - MHD
