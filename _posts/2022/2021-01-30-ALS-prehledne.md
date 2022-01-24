@@ -1,11 +1,11 @@
 ---
-date: 2022-01-30
+date: 2021-01-30
 category: blog
 title: "O projektu Areálu ledových sportů přehledně"
 layout: post
 author: Zuzana Böhmová
 authorId: zuzana.bohmova
-image: articles/2022/2022-01-30-ALS.JPG
+image: articles/2022/2022-01-30-ALS.jpg
 tags: 
   - Areál ledových sportů
   - ALS
@@ -18,12 +18,12 @@ tags:
 *1. 9. 2014 - Zřízení práva stavby* (hlasování na ZMČ Prahy 11, starosta Mgr. Mejnský)<br>
 V právu stavby je stanoveno dokončení stavby k datu 31. 12. 2016.<br>
 PRO 30 (Štyler), PROTI 3, ZDRŽELI SE 3 (Kos, Kvítek, Zelenková)<br>
-[ODKAZ NA MATERIÁLY A ZÁZNAMM JEDNÁNÍ ZDE](https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=6504&slozka=12&as4uOriginalDomain=www.praha11.cz&as4u_protocol=https&ConfirmCookie=confirm&_gid=GA1.2.157295128.1641289295&bod=800029)
+[ODKAZ NA MATERIÁLY A ZÁZNAM JEDNÁNÍ ZDE](https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=6504&slozka=12&as4uOriginalDomain=www.praha11.cz&as4u_protocol=https&ConfirmCookie=confirm&_gid=GA1.2.157295128.1641289295&bod=800029)
 
 *17. 2. 2015 - Dodatek č. 1* (hlasování ZMČ Prahy 11, starosta Ing. Štyler)<br>
 Doplnění zákazu zcizení.<br>
 PRO 34 (Štyler, Kos, Zdeňková, Říčař, Jirava), PROTI 0, ZDRŽELI SE 3<br>
-[ODKAZ NA MATERIÁLY A ZÁZNAMM JEDNÁNÍ ZDE](https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=6504&slozka=12&as4uOriginalDomain=www.praha11.cz&as4u_protocol=https&ConfirmCookie=confirm&_gid=GA1.2.157295128.1641289295&bod=930358)
+[ODKAZ NA MATERIÁLY A ZÁZNAM JEDNÁNÍ ZDE](https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=6504&slozka=12&as4uOriginalDomain=www.praha11.cz&as4u_protocol=https&ConfirmCookie=confirm&_gid=GA1.2.157295128.1641289295&bod=930358)
 
 *13. 5. 2015 - Podpis smlouvy o zřízení práva stavby a Dodatku č. 1 starostou Ing. Štylerem* <br>
 [ODKAZ NA CELÝ TEXT SMLOUVY ZDE](https://smlouvy.gov.cz/smlouva/11123968?backlink=0997i)
@@ -45,7 +45,7 @@ PRO 34 (Štyler, Kos, Zdeňková, Říčař, Jirava), PROTI 0, ZDRŽELI SE 3<br>
 *23. 3. 2017 - Dodatek č. 2* (hlasování ZMČ Prahy 11, starosta Ing. Jirava)<br>
 posunutí termínu dostavby do 31. 12. 2018<br>
 PRO 23, PROTI 1, ZDRŽELO SE 0, NEHLASOVALO 13 (Štyler, Kos, Zdeňková)<br>
-[ODKAZ NA MATERIÁLY A ZÁZNAMM JEDNÁNÍ ZDE](https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=6504&slozka=12&as4uOriginalDomain=www.praha11.cz&as4u_protocol=https&ConfirmCookie=confirm&_gid=GA1.2.157295128.1641289295&bod=1644858)
+[ODKAZ NA MATERIÁLY A ZÁZNAM JEDNÁNÍ ZDE](https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=6504&slozka=12&as4uOriginalDomain=www.praha11.cz&as4u_protocol=https&ConfirmCookie=confirm&_gid=GA1.2.157295128.1641289295&bod=1644858)
 
 *12. 4. 2017 - Podpis smlouvy Dodatek č. 2 starostou Ing. Jiravou*<br>
 [ODKAZ NA CELÝ TEXT SMLOUVY ZDE](https://smlouvy.gov.cz/smlouva/11150392?backlink=nndig)<br>
@@ -59,5 +59,26 @@ V průběhu 2018 proběhlo jednání společnosti AR Delta s MHMP (primátorka A
 
 *11. 6. 2018 - Stavební povolení - vydává státní správa*
 
+*13. 9. 2018 - Dodatek č. 3* (hlasování na ZMČ Prahy 11, starosta Ing. Jirava)<br>
+posunutí termínu dostavby do 30. 6. 2020<br>
+[ODKAZ NA MATERIÁLY A ZÁZNAM JEDNÁNÍ ZDE](https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=6504&slozka=12&as4uOriginalDomain=www.praha11.cz&as4u_protocol=https&ConfirmCookie=yes&_gid=GA1.2.1412897778.1643008176&bod=2138769) 
+
+*24. 9. 2018 - Podpis smlouvy Dodatek č. 3 starostou Ing. Jiravou*<br>
+[ODKAZ NA CELÝ TEXT SMLOUVY ZDE](https://smlouvy.gov.cz/smlouva/11150388?backlink=gbb9x)
+
+V průběhu 2019 proběhlo jednání společnosti AR Delta s novým vedením MHMP (radní Vít Šimral), vstup do projektu projednával Výbor pro správu majetku, majetkové podíly a podporu podnikání ZHMP, který doporučil poskytnout finance MČ Praha 11 pro vstup do projektu.<br>
+[ODKAZ NA ZÁPIS Z JEDNÁNÍ VÝBORU ZDE](https://www.praha.eu/public/d9/fc/5/3037769_1031842__7_ZAPIS_z_jednani_vyboru_ZHMP__TED_.pdf)
+
+*19. 2. 2019 - objednávka Díla AR Delty s. r. o. u společnosti Syner s. r. o.* <br>
+Tato objednávka byla přílohou materiálu schvalovaného na ZMČ 30. 1. 2020.<br>
+[ODKAZ NA TEXT OBJEDNÁVKY ZDE](  https://www.praha11.cz/aplikace/p11_navrhy_zmc/file.php?file=8a6c0310de89a69e48bceacffe9f1440) 
+
+*5. 12. 2019 - Dodatek č. 4 (hlasování na ZMČ Prahy 11, starosta Dohnal)*<br>
+posunutí termínu dostavby do 30. 6. 2021<br>
+[ODKAZ NA MATERIÁLY A ZÁZNAM JEDNÁNÍ ZDE](https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=6504&slozka=12&as4uOriginalDomain=www.praha11.cz&as4u_protocol=https&ConfirmCookie=yes&_gid=GA1.2.1412897778.1643008176&bod=2612274 
+
+
+*10. 12. 2019 - Podpis smlouvy Dodatek č. 4 starostou Dohnalem*<br>
+[ODKAZ NA CELÝ TEXT SMLOUVY ZDE](https://smlouvy.gov.cz/smlouva/11471460?backlink=ga6x1) 
 
 
