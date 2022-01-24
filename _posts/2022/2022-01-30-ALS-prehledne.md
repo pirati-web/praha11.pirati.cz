@@ -20,12 +20,27 @@ V právu stavby je stanoveno dokončení stavby k datu 31. 12. 2016.<br>
 PRO 30 (Štyler), PROTI 3, ZDRŽELI SE 3 (Kos, Kvítek, Zelenková)<br>
 [ODKAZ NA MATERIÁLY A ZÁZNAMM JEDNÁNÍ ZDE](https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=6504&slozka=12&as4uOriginalDomain=www.praha11.cz&as4u_protocol=https&ConfirmCookie=confirm&_gid=GA1.2.157295128.1641289295&bod=800029)
 
-*17. 2. 2015 - Dodatek č. 1* (hlasování ZMČ Prahy 11, starosta Ing. Štyler)
-Doplnění zákazu zcizení.
-PRO 34 (Štyler, Kos, Zdeňková, Říčař, Jirava), PROTI 0, ZDRŽELI SE 3
+*17. 2. 2015 - Dodatek č. 1* (hlasování ZMČ Prahy 11, starosta Ing. Štyler)<br>
+Doplnění zákazu zcizení.<br>
+PRO 34 (Štyler, Kos, Zdeňková, Říčař, Jirava), PROTI 0, ZDRŽELI SE 3<br>
 [ODKAZ NA MATERIÁLY A ZÁZNAMM JEDNÁNÍ ZDE](https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=6504&slozka=12&as4uOriginalDomain=www.praha11.cz&as4u_protocol=https&ConfirmCookie=confirm&_gid=GA1.2.157295128.1641289295&bod=930358)
 
+*13. 5. 2015 - Podpis smlouvy o zřízení práva stavby a Dodatku č. 1 starostou Ing. Štylerem* <br>
+[ODKAZ NA CELÝ TEXT SMLOUVY ZDE](https://smlouvy.gov.cz/smlouva/11123968?backlink=0997i)
 
+*16. 9. 2015 - Veřejná Prezentace záměru Areálu ledových sportů (starosta Ing. Štyler)* <br>
+[ODKAZ NA ZÁZNAM PREZENTACE ZDE](https://www.youtube.com/watch?v=c_rKdlHp06k&list=PLccddnHZPRuO4ukfBiSK_HMHw0G-wtPkx)
+
+*23. 2. 2016 - RMČ Praha 11 přijala usnesení, ve kterém souhlasí s I. etapu záměru za podmínky, že stavba nebude zahájena před nabytím právní moci územního rozhodnutí II. etapy (RMČ, Ing. Štyler)*<br>
+[ODKAZ NA USNESENÍ ZDE](https://www.praha11.cz/filemanager/files/20284.pdf)
+
+*1. 6. 2016 - Odbor výstavby Úřadu městské části Praha 11 vydal rozhodnutí o umístění stavby a stavební povolení na I. etapu.*
+
+*26. 9. 2016 - Závazné  stanovisko  k posouzení  vlivů  provedení  záměru  na  životní prostředí*<br>
+[ODKAZ NA STANOVISKO ZDE](https://edesky.cz/dokument/526694)
+
+*10. 1. 2017 - RMČ souhlasí s I. etapou stavby bez připomínek (starosta Ing. Jirava)*<br>
+[ODKAZ NA USNESENÍ ZDE](https://www.praha11.cz/filemanager/files/20619.pdf)
 
 
 
