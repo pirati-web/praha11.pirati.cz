@@ -11,9 +11,9 @@ tags:
   - ALS
 ---
 
-*Praha, 30. ledna 2022* – **Projekt Areálu ledových sportů, který má vzniknout na pozemku Základní školy ke Kateřinkám, v poslední době hýbe Prahou 11. Jedná se o vybudování haly s ledovou plochou pro bruslení, currlingovou plochou, ale také s dalšími sportovišti. Městská část je polovičním vlastníkem akcií firmy AR Delta, která ledovou halu staví a měla by ji po dokončení provozovat.**
+*Praha, 30. ledna 2022* – **Projekt Areálu ledových sportů, který má vzniknout na pozemku Základní školy ke Kateřinkám, v poslední době hýbe Prahou 11. Jedná se o vybudování haly s ledovou plochou pro bruslení, currlingovou plochou, ale také s dalšími sportovišti. Projekt areálu ledových sportů staví společnost AR Delta, ve které je městská část polovičním vlastníkem akcií firmy.**
 
-**Historie projektu v datech:**
+**HISTORIE PROJEKTU V DATECH:**
 
 ***1. 9. 2014** - Zřízení práva stavby* (hlasování na ZMČ Prahy 11, starosta Mgr. Mejnský)<br>
 V právu stavby je stanoveno dokončení stavby k datu 31. 12. 2016.<br>
