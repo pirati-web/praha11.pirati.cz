@@ -75,7 +75,7 @@ Tato objednávka byla přílohou materiálu schvalovaného na ZMČ 30. 1. 2020.<
 
 *5. 12. 2019 - Dodatek č. 4 (hlasování na ZMČ Prahy 11, starosta Dohnal)*<br>
 posunutí termínu dostavby do 30. 6. 2021<br>
-[ODKAZ NA MATERIÁLY A ZÁZNAM JEDNÁNÍ ZDE](https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=6504&slozka=12&as4uOriginalDomain=www.praha11.cz&as4u_protocol=https&ConfirmCookie=yes&_gid=GA1.2.1412897778.1643008176&bod=2612274 
+[ODKAZ NA MATERIÁLY A ZÁZNAM JEDNÁNÍ ZDE](https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=6504&slozka=12&as4uOriginalDomain=www.praha11.cz&as4u_protocol=https&ConfirmCookie=yes&_gid=GA1.2.1412897778.1643008176&bod=2612274) 
 
 
 *10. 12. 2019 - Podpis smlouvy Dodatek č. 4 starostou Dohnalem*<br>
