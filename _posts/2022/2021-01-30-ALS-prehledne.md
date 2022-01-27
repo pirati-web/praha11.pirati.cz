@@ -83,4 +83,22 @@ posunutí termínu dostavby do 30. 6. 2021<br>
 ***10. 12. 2019** - Podpis smlouvy Dodatek č. 4 starostou Dohnalem*<br>
 [ODKAZ NA CELÝ TEXT SMLOUVY ZDE](https://smlouvy.gov.cz/smlouva/11471460?backlink=ga6x1) 
 
+***30. 1. 2020** - Majetkový vstup do firmy AR Delta s. r. o. (hlasování na ZMČ Prahy 11, starosta Dohnal)*<br>
+Zastupitelstvo schvaluje nákup 50% akcií (tedy 20 akcií firmy, v rámci důvodové zprávy je zde již vybrán zhotovitel Syner s. r. o.), v materiálu pro ZMČ také Due Diligence.<br>
+[ODKAZ NA MATERIÁLY A ZÁZNAM JEDNÁNÍ ZDE](https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=6504&slozka=12&as4uOriginalDomain=www.praha11.cz&as4u_protocol=https&ConfirmCookie=confirm&bod=2785559)
+
+***27. 2. 2020** - Rozpočtové opatření - příjem peněz od MHMP  (hlasování na ZMČ Prahy 11, starosta Dohnal)*<br>
+Dotace ve výši 5 milionů a 35 milionů jako půjčka.
+[ODKAZ NA MATERIÁLY A ZÁZNAM JEDNÁNÍ ZDE](https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=6504&slozka=12&as4uOriginalDomain=www.praha11.cz&as4u_protocol=https&ConfirmCookie=confirm&bod=2810946)
+
+***25. 3. 2020** - Podpis smlouvy o nákupu akcíí za 5 milionů starostou Dohnalem*<br>
+[ODKAZ NA CELÝ TEXT SMLOUVY ZDE](https://smlouvy.gov.cz/smlouva/12052620?backlink=37hkj)
+
+***6. 4. 2020** - Podpis smlouvy o vkladu 35 milionů do fimy AR Delta starostou Dohnalem*<br>
+[ODKAZ NA CELÝ TEXT SMLOUVY ZDE](https://smlouvy.gov.cz/smlouva/12141692?backlink=ljrpk)
+
+
+
+
+
 
