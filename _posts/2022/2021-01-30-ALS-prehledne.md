@@ -102,7 +102,7 @@ Dotace ve výši 5 milionů a 35 milionů jako půjčka.
 
 
 
-
+DALŠÍ DŮLEŽITÉ SMLOUVA A ODKAZY:
 
 [ODKAZ NA PROJEKT ZÁMERY NA JIŽNÍM MĚSTĚ](https://www.praha11.cz/cs/mestska-cast/uzemni-rozvoj-a-regenerace/zamery-na-jiznim-meste/1-areal-ledovych-sportu.html)
 
