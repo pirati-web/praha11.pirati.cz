@@ -102,3 +102,10 @@ Dotace ve výši 5 milionů a 35 milionů jako půjčka.
 
 
 
+
+
+[ODKAZ NA PROJEKT ZÁMERY NA JIŽNÍM MĚSTĚ](https://www.praha11.cz/cs/mestska-cast/uzemni-rozvoj-a-regenerace/zamery-na-jiznim-meste/1-areal-ledovych-sportu.html)
+
+[VÝPIS Z OBCHODNÍHO REJSTŘÍKU FIRMY](https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=1042196&typ=UPLNY)
+
+[SMLOUVA O DÍLO - SYNER](https://arealls.cz/wp-content/uploads/2021/09/dodavatelska-smlouva-AR-Delta-Syner1.pdf)
