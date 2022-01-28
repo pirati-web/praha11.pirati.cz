@@ -11,9 +11,9 @@ tags:
   - ALS
 ---
 
-*Praha, 30. ledna 2022* – **Projekt Areálu ledových sportů, který má vzniknout na pozemku Základní školy Ke Kateřinkám, v poslední době hýbe Prahou 11. Jedná se o vybudování haly s ledovou plochou pro bruslení, currlingovou plochou, ale také s dalšími menšími sportovišti. Halu Areálu ledových sportů staví společnost AR Delta, ve které je městská část Praha 11 polovičním vlastníkem akcií firmy. Areál by měl sloužit nejen obyvatelům naší městké části, dohodnuté jsou i pravidelné hodiny pro děti z jihoměstských škol a to primárně hodiny pro ZŠ Ke Kateřinkám, která by v areálu měla mít rezervovanoum XY hodin týdně.**
+*Praha, 30. ledna 2022* – **Projekt Areálu ledových sportů, který vzniká na pozemku Základní školy Ke Kateřinkám, v poslední době hýbe Prahou 11. Jedná se o vybudování sportivního areálu s ledovou plochou pro bruslení, currlingovou plochou, ale také s dalšími menšími sportovišti (ty již jsou posatveny). Halu Areálu ledových sportů staví společnost AR DELTA a.s., ve které je městská část Praha 11 polovičním vlastníkem akcií firmy. Areál by měl sloužit nejen obyvatelům naší městké části, ale i další obyvatele Prahy. Dohodnuté jsou i pravidelné hodiny pro děti ZŠ Ke Kateřinkám, která by v areálu měla mít rezervovanoum 5 hodin týdně. Možnost využít areál budou mít i další jihoměstské školy.**
 
-Vinou nejen politických předvolebních bojů se teď celý projekt výstavby haly s ledovou plochou pro bruslení ocitá v krizi. Koaliční partneři (Piráti, ANO, TOP/STAN, ODS) nejprve souhlasili s odkupem poloviny akcií společnosti s tím, že městská část Praha 11 bude mít možnost aktivně provoz areálu ovlivňvat a zároveň po splacení úvěru se provozování areálu stane i výnosnou firmou, která bude přispívat do městského rozpočtu. Nyní se názor hnutí ANO a ODS změnil a trvají na odprodeji (nutno podotknout, že v různých variantách). Vzhledem k vývoji a přijatým usnesením již o projektu nemůže rozhodnout rada sama, ale musí jej vyřešit zastupitelstvo městké části Praha 11. AR Delta sice ve stavbě pokračuje, ale vzhledem k neshodám v zastupitelstvu a nejasnému postoji městské části se ocitá v problémech. Do problémů uvádí společnost zastupitelstvo neschopnpstí se shodnout na řešení samo. V tuto chvíli se jedná primárně o dva problémy a to termín dostavby, který je uveden v právu stavby, a převod na dualistický systém, ten měl být dle novely zákona hotový již na konci roku 2021. Bez posunu termínu dostavby v podstatě není možné společnost prodat a městské části místo výhodné investice s návratností maximálně do 10 let zbyde rozestavěný školní pozemek a soudní spory.
+Vinou nejen politických předvolebních bojů se teď celý projekt aktuálně výstavby haly s ledovou plochou pro bruslení ocitá v krizi. Bývalý koaliční partneři (Piráti, ANO, TOP/STAN, ODS) nejprve souhlasili v lednu 2020 s odkupem poloviny akcií společnosti s tím, že městská část Praha 11 bude mít možnost aktivně provoz areálu ovlivňvat a zároveň po řádném splacení úvěru  135 milionů se provozování areálu stane i firmou, která by měla generovat zisk. V polovině loňského roku se názor hnutí ANO a ODS změnil a nyní trvají na odprodeji podílu městské části ve společnosti (nutno podotknout, že v různých variantách). Vzhledem k vývoji a přijatým usnesením ze zstany zastupitelsva MČ Prahy 11 již o projektu nemůže rozhodnout rada sama, ale musí o vyřešení situace rozhodovat zastupitelstvo městké části Praha 11. Společnost AR DELTA a.s. sice ve stavbě pokračuje, ale vzhledem k neshodám v zastupitelstvu a nejasnému postoji městské části se ocitá v problémech. Zastupitelský klub Pirátů a zastupitelský klub TOP/STAN pro toto usnesení nehlasovaly. Do problémů uvádí společnost zastupitelstvo neschopností se shodnout na řešení. V tuto chvíli se jedná primárně o dva problémy a to termín dostavby, který je uveden v právu stavby, a převod na dualistický systém (změna struktury řízení společnosti ze s , ten měl být dle novely zákona hotový již na konci roku 2021. Bez posunu termínu dostavby v podstatě není možné společnost prodat a městské části místo výhodné investice s návratností maximálně do 10 let zbyde rozestavěný školní pozemek a soudní spory.
 
 **HISTORIE PROJEKTU V DATECH:**
 
@@ -93,14 +93,22 @@ Zastupitelstvo schvaluje nákup 50% akcií (tedy 20 akcií firmy, v rámci důvo
 [ODKAZ NA MATERIÁLY A ZÁZNAM JEDNÁNÍ ZDE](https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=6504&slozka=12&as4uOriginalDomain=www.praha11.cz&as4u_protocol=https&ConfirmCookie=confirm&bod=2785559)
 
 ***27. 2. 2020** - Rozpočtové opatření - příjem peněz od MHMP  (hlasování na ZMČ Prahy 11, starosta Dohnal)*<br>
-Dotace ve výši 5 milionů a 35 milionů jako půjčka.
+Dotace ve výši 5 milionů a 35 milionů jako půjčka.<br>
 [ODKAZ NA MATERIÁLY A ZÁZNAM JEDNÁNÍ ZDE](https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=6504&slozka=12&as4uOriginalDomain=www.praha11.cz&as4u_protocol=https&ConfirmCookie=confirm&bod=2810946)
+
+***16. 3. 2020** - Vstup do společnosti a nominace členů správní rady (usneseni Rady)*<br>
+Členové správní rady: Mgr. Tereza Dolanská; Jan Říčař, MBA; Ing. Martin Sedeke (předseda); Mgr. Petr Přenosil - zapsáni do správní rady 30. 6. 2020<br>
+[ODKAZ NA USNESENÍ ZDE](https://www.praha11.cz/aplikace/smlouvy_p11/file.php?file=9d6da0915fa1a1c8501323111f5f0f57&type=1)
 
 ***25. 3. 2020** - Podpis smlouvy o nákupu akcíí za 5 milionů starostou Dohnalem*<br>
 [ODKAZ NA CELÝ TEXT SMLOUVY ZDE](https://smlouvy.gov.cz/smlouva/12052620?backlink=37hkj)
 
 ***6. 4. 2020** - Podpis smlouvy o vkladu 35 milionů do fimy AR Delta starostou Dohnalem*<br>
 [ODKAZ NA CELÝ TEXT SMLOUVY ZDE](https://smlouvy.gov.cz/smlouva/12141692?backlink=ljrpk)
+
+
+
+
 
 
 
