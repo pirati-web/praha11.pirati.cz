@@ -36,9 +36,11 @@ PRO 34 (Štyler, Kos, Zdeňková, Říčař, Jirava), PROTI 0, ZDRŽELI SE 3<br>
 ***23. 2. 2016** - RMČ Praha 11 přijala usnesení, ve kterém souhlasí s I. etapu záměru za podmínky, že stavba nebude zahájena před nabytím právní moci územního rozhodnutí II. etapy (RMČ, Ing. Štyler)*<br>
 [ODKAZ NA USNESENÍ ZDE](https://www.praha11.cz/filemanager/files/20284.pdf)
 
-***1. 6. 2016** - Odbor výstavby Úřadu městské části Praha 11 vydal rozhodnutí o umístění stavby a stavební povolení na I. etapu.*
+***1. 6. 2016** - Odbor výstavby Úřadu městské části Praha 11 vydal rozhodnutí o umístění stavby a stavební povolení na I. etapu.*<br>
+Vydává státní správa.<br>
 
 ***26. 9. 2016** - Závazné  stanovisko  k posouzení  vlivů  provedení  záměru  na  životní prostředí*<br>
+Vydává magistrát hl. m. Prahy. <br>
 [ODKAZ NA STANOVISKO ZDE](https://edesky.cz/dokument/526694)
 
 ***10. 1. 2017** - RMČ souhlasí s I. etapou stavby bez připomínek (starosta Ing. Jirava)*<br>
@@ -53,13 +55,16 @@ PRO 23, PROTI 1, ZDRŽELO SE 0, NEHLASOVALO 13 (Štyler, Kos, Zdeňková)<br>
 [ODKAZ NA CELÝ TEXT SMLOUVY ZDE](https://smlouvy.gov.cz/smlouva/11150392?backlink=nndig)<br>
 [ODKAZ NA CELÝ TEXT SMLOUVY ZDE](https://smlouvy.gov.cz/smlouva/2422782?backlink=nndig)
 
-***13. 6. 2017** - Územní rozhodnutí - vydává státní správa*<br>
+***13. 6. 2017** - Územní rozhodnutí.*<br>
+Vydává státní správa. <br>
 MČ námitky nepodává, pouze Chodovský spolek<br>
-[ODKAZ NA CELÝ TEXT SMLOUVY ZDE](https://docplayer.cz/125491365-Ocelikova-672-1-praha-415-odbor-vystavby-vidimova-1325-praha-4-telefon.html)
+[ODKAZ NA CELÝ TEXT ÚZEMNÍHO ROZHODNUTÍ ZDE](https://www.praha11.cz/filemanager/files/37169.pdf)
 
 V ***průběhu 2018*** proběhlo jednání společnosti AR Delta s MHMP (primátorka A. Krnáčová, O. Prokop a R. Procházka) o vstupu MHMP do společnosti AR Delta.
 
-***11. 6. 2018** - Stavební povolení - vydává státní správa*
+***11. 6. 2018** - Stavební povolení.*<br>
+Vydává státní správa. <br>
+[ODKAZ NA CELÝ TEXT STAVEBNÍHO POVOLENÍ ZDE](https://www.praha11.cz/filemanager/files/37170.pdf)
 
 ***13. 9. 2018** - Dodatek č. 3* (hlasování na ZMČ Prahy 11, starosta Ing. Jirava)<br>
 posunutí termínu dostavby do 30. 6. 2020<br>
