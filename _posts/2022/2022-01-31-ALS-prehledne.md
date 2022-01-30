@@ -1,5 +1,5 @@
 ---
-date: 2021-01-30
+date: 2022-01-31
 category: blog
 title: "O projektu Areálu ledových sportů přehledně"
 layout: post
@@ -11,10 +11,12 @@ tags:
   - ALS
 ---
 
-*Praha, 30. ledna 2022* – **Projekt Areálu ledových sportů, který vzniká na pozemku Základní školy Ke Kateřinkám, v poslední době hýbe Prahou 11. Jedná se o vybudování sportivního areálu s ledovou plochou pro bruslení, currlingovou plochou, ale také s dalšími menšími sportovišti (ty již jsou posatveny). Halu Areálu ledových sportů staví společnost AR DELTA a.s., ve které je městská část Praha 11 polovičním vlastníkem akcií firmy. Areál by měl sloužit nejen obyvatelům naší městké části, ale i další obyvatele Prahy. Dohodnuté jsou i pravidelné hodiny pro děti ZŠ Ke Kateřinkám, která by v areálu měla mít rezervovanoum 5 hodin týdně. Možnost využít areál budou mít i další jihoměstské školy.**
+*Praha, 31. ledna 2022* – **Projekt Areálu ledových sportů, který vzniká na pozemku Základní školy Ke Kateřinkám, v poslední době hýbe Prahou 11. Jedná se o vybudování sportivního areálu s ledovou plochou pro bruslení, currlingovou plochou, ale také s dalšími menšími sportovišti (ty již jsou posatveny). Halu Areálu ledových sportů staví společnost AR DELTA a.s., ve které je městská část Praha 11 polovičním vlastníkem akcií firmy. Areál by měl sloužit nejen obyvatelům naší městké části, ale i další obyvatele Prahy. Dohodnuté jsou i pravidelné hodiny pro děti ZŠ Ke Kateřinkám, která by v areálu měla mít rezervovanoum 5 hodin týdně. Možnost využít areál budou mít i další jihoměstské školy.**
 
 Vinou nejen politických předvolebních bojů se teď celý projekt aktuálně výstavby haly s ledovou plochou pro bruslení ocitá v krizi. Bývalý koaliční partneři (Piráti, ANO, TOP/STAN, ODS) nejprve souhlasili v lednu 2020 s odkupem poloviny akcií společnosti s tím, že městská část Praha 11 bude mít možnost aktivně provoz areálu ovlivňovat a zároveň po řádném splacení úvěru  135 milionů se provozování areálu stane i firmou, která by měla generovat zisk. V polovině loňského roku se názor hnutí ANO a ODS změnil a nyní trvají na odprodeji podílu městské části ve společnosti (nutno podotknout, že v různých variantách). Vzhledem k vývoji a přijatým usnesením ze stany zastupitelsva MČ Prahy 11 již o projektu nemůže rozhodnout rada sama, ale musí o vyřešení situace rozhodovat zastupitelstvo městké části Praha 11. Společnost AR DELTA a.s. sice ve stavbě pokračuje, ale vzhledem k neshodám v zastupitelstvu a nejasnému postoji městské části se ocitá v problémech. Zastupitelské kluby Pirátů a TOP/STAN pro toto usnesení nehlasovaly. Do problémů uvádí společnost samo zastupitelstvo neschopností se shodnout na řešení. V tuto chvíli se jedná primárně o dva problémy; termín dostavby, který je uveden v právu stavby, a převod na dualistický systém (změna struktury řízení společnosti prostřednictvím správní rady na představenstvo a dozorčí radu), který měl být dle novely zákona hotov již na konci roku 2021. Bez schválení prodloužení termínu dostavby dochází ke snižování hodnoty společnosti a také se snižuje možnost společnost prodat. Reálně hrozí, že městské části Praha 11 zbyde rozestavěný objekt na školním pozemeku a soudní spory.
 
+<br>
+<br>
 **HISTORIE PROJEKTU V DATECH:**
 
 ***1. 9. 2014** - Zřízení práva stavby* (hlasování na ZMČ Prahy 11, starosta Mgr. Mejnský)<br>
