@@ -116,11 +116,28 @@ Dotace ve výši 5 milionů a 35 milionů jako půjčka.<br>
 ***6. 4. 2020** - Podpis smlouvy o vkladu 35 milionů do fimy AR Delta starostou Dohnalem*<br>
 [ODKAZ NA CELÝ TEXT SMLOUVY ZDE](https://smlouvy.gov.cz/smlouva/12141692?backlink=ljrpk)
 
+***11. 6. 2020** - Souhlas se zatížením práva stavby (hlasování na ZMČ Prahy 11, starosta Dohnal)*<br>
+Zastupitelstvo souhlasilo s tím, že společnost AR DELTA a.s. smí ručit bance právem stavby.<br>
+[ODKAZ NA MATERIÁLY A ZÁZNAM JEDNÁNÍ ZDE](https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=6504&slozka=12&as4uOriginalDomain=www.praha11.cz&as4u_protocol=https&ConfirmCookie=yes&_gid=GA1.2.757096755.1643195061&bod=2594643)
 
+***9. 3. 2021** - Ukončení členství ve správní radě - Říčař*<br>
+Dne 9. 2. 2021 oznámil rezignaci na post člena ve správní radě. V rezignaci také uvedl, že dostavbu Areálu ledových sportů i nadále podporuje. Po několika měsících odešel z politiky.<br>
+[ODKAZ NA TEXT REZIGNACE ZDE](doc/2022-01-31-ALS-Ricar.pdf)
 
+***16. 5. 2021** - Ukončení členství ve správní radě - Dolanská.*<br>
+Důvodem bylo, že společnost nebyla převedena na dualistický systém. Právně se správní rada stala statutárním zástupcem společnosti.
 
+***30. 6. 2021** - Konec termínu dostavby dle dodatku č. 4 z prosince 2019.*<br>
+Vzniká prodlení, což dle smlouvy znamená, že od 1. 7. běží společnosti AR DELTA pokuta 1000 Kč za den za to, že není stavba dokončena. Městská část tedy vybírá pokutu od své vlastní společnosti.<br>
+[ODKAZ NA CELÝ TEXT SMLOUVY ZDE](https://smlouvy.gov.cz/smlouva/11471460?backlink=ga6x1) 
 
+***23. 8. 2021** - Ukončení členství ve správní radě - Sedeke*<br>
+Jako jeden z důvodů uvádí absenci výběrového řízení dodavatele stavby Syner s. r. o., která ale byla vybrána už před vstupem MČ do projektu a byla součástí materiálu předloženým na ZMČ 30. 1. 2020.<br>
+*Zástupci za zbývající strany koalice nikdy nebyli dojmenováni, ani navrženi. Od 2. 9. 2021 má tuto pravomoc zastupitelstvo městské části Praha 11. Ani zastupitelstvo se nepokusilo nikoho do správní rady jmenovat.*
 
+***23. 8.  2021** - Rada schválila "Letter of comfort".*
+Tento dokument vyjadřuje podporu projektu a je určen pro banku.
+[ODKAZ NA MATERIÁLY A USNESENÍ ZDE](https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=384&slozka=13&xsekce=&as4uOriginalDomain=www.praha11.cz&rootPathFix=&as4u_protocol=https&entry=&find_usn=&from_date_usn=1.+8.+2021&to_date_usn=1.+9.+2021&find_usn=0822%2F29%2FR%2F2021&from_date_usn=&to_date_usn=) 
 
 
 
