@@ -15,6 +15,13 @@ tags:
 
 Vinou nejen politických předvolebních bojů se teď celý projekt aktuálně výstavby haly s ledovou plochou pro bruslení ocitá v krizi. Bývalý koaliční partneři (Piráti, ANO, TOP/STAN, ODS) nejprve souhlasili v lednu 2020 s odkupem poloviny akcií společnosti s tím, že městská část Praha 11 bude mít možnost aktivně provoz areálu ovlivňovat a zároveň po řádném splacení úvěru  135 milionů se provozování areálu stane i firmou, která by měla generovat zisk. V polovině loňského roku se názor hnutí ANO a ODS změnil a nyní trvají na odprodeji podílu městské části ve společnosti (nutno podotknout, že v různých variantách). Vzhledem k vývoji a přijatým usnesením ze stany zastupitelsva MČ Prahy 11 již o projektu nemůže rozhodnout rada sama, ale musí o vyřešení situace rozhodovat zastupitelstvo městké části Praha 11. Společnost AR DELTA a.s. sice ve stavbě pokračuje, ale vzhledem k neshodám v zastupitelstvu a nejasnému postoji městské části se ocitá v problémech. Zastupitelské kluby Pirátů a TOP/STAN pro toto usnesení nehlasovaly. Do problémů uvádí společnost samo zastupitelstvo neschopností se shodnout na řešení. V tuto chvíli se jedná primárně o dva problémy; termín dostavby, který je uveden v právu stavby, a převod na dualistický systém (změna struktury řízení společnosti prostřednictvím správní rady na představenstvo a dozorčí radu), který měl být dle novely zákona hotov již na konci roku 2021. Bez schválení prodloužení termínu dostavby dochází ke snižování hodnoty společnosti a také se snižuje možnost společnost prodat. Reálně hrozí, že městské části Praha 11 zbyde rozestavěný objekt na školním pozemeku a soudní spory.
 
+Zastupitelský klub Pirátů Praha 11 se dlouhodobě snaží najít takové řešení, které bude nejvýhodnější především pro městskou část Praha 11. Chceme, aby stavba byla zdárně dokončena a pražané měli zase o jednu možnost celoročního bruslení více. Klub považuje za možné tři varianty řešení: <br>
+- **A.** Schválení dodatku č. 5 ke smlouvě, tj. prodloužit termín dostavby v rámci platného práva stavby (na politickém grémiu jako varianta 4).<br>
+- **B.** Odkoupit 50% akcií od akcionáře II/ALS Investors, a.s. (kupcem nemusí být nutně MČ, ale např. HMP) (na politickém grémiu jako varianta 3).<br>
+- **C.** MČ P11 nabídne podíl 50% k prodeji, kdy předkupní právo má akcionář II/ ALS Investors, a.s.. Pokud by nevyužil předkupní právo, může být po 30 dnech nabídnuto jinému zájemci/kupci (na politickém grémiu jako varianta 2).<br>
+Doufáme, že na dnešním jednání zastupitelstva městské části Praha 11 se zastupitelstvo rozhodne a projekt bude úspěšně pokračovat.
+
+
 <br>
 <br>
 **HISTORIE PROJEKTU V DATECH:**
