@@ -140,6 +140,26 @@ Jako jeden z důvodů uvádí absenci výběrového řízení dodavatele stavby 
 Tento dokument vyjadřuje podporu projektu a je určen pro banku.
 [ODKAZ NA MATERIÁLY A USNESENÍ ZDE](https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=384&slozka=13&xsekce=&as4uOriginalDomain=www.praha11.cz&rootPathFix=&as4u_protocol=https&entry=&find_usn=&from_date_usn=1.+8.+2021&to_date_usn=1.+9.+2021&find_usn=0822%2F29%2FR%2F2021&from_date_usn=&to_date_usn=) 
 
+***2. 9. 2021** - Přijata usnesení Martina Sedeke a Ladislava Kose sr. (hlasování na ZMČ Prahy 11, starosta Dohnal)*<br>
+Zastupitelstvo městské části Praha 11 na sebe vztahuje veškeré kompetence o rozhodování ve věci AR DELTA a.s.. Zároveň je pověřen O. Prokop, aby navrhl a připravil postup, jak
+může městská část Praha 11 z projektu odejít bez finanční ztráty.<br>
+[ODKAZ NA MATERIÁLY A USNESENÍ ZDE](https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=6504&slozka=12&as4uOriginalDomain=www.praha11.cz&as4u_protocol=https&ConfirmCookie=yes&_gid=GA1.2.2048428621.1643611230&bod=3764831)<br>
+[ODKAZ NA MATERIÁLY A USNESENÍ ZDE](https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=6504&slozka=12&as4uOriginalDomain=www.praha11.cz&as4u_protocol=https&ConfirmCookie=yes&_gid=GA1.2.2048428621.1643611230&bod=3764950)<br>
+[ODKAZ NA ZÁZNAM JEDNÁNÍ](https://www.youtube.com/watch?v=3EWQNsbbguk&list=PLdv6PMkHCHbUiQ25QlEadKD2qTkfC-Xst&index=9&t=34081s)
+
+***1. 10. 2021** - Přijata usnesení Jiřího Dohnala (hlasování na ZMČ Prahy 11, starosta Dohnal)*<br>
+Zastupitelstvo městské části Praha 11 na sebe vztahuje veškeré kompetence o rozhodování ve věci AR DELTA a.s.. Zároveň je pověřen O. Prokop, aby navrhl a připravil postup, jak
+může městská část Praha 11 z projektu odejít bez finanční ztráty.<br>
+[ODKAZ NA MATERIÁLY A USNESENÍ ZDE](https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=6504&slozka=12&as4uOriginalDomain=www.praha11.cz&as4u_protocol=https&ConfirmCookie=yes&_gid=GA1.2.2048428621.1643611230&bod=3850859)<br>
+[ODKAZ NA ZÁZNAM JEDNÁNÍ](https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=6504&slozka=12&as4uOriginalDomain=www.praha11.cz&as4u_protocol=https&ConfirmCookie=yes&_gid=GA1.2.2048428621.1643611230&jednani=22/2021)
+
+***9. 12. 2021** - Neschválené usnesení o změně stanov společnosti (hlasování na ZMČ Prahy 11, starosta Dohnal)*<br>
+[ODKAZ NA MATERIÁLY A ZÁZNAM JEDNÁNÍ ZDE](https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=6504&slozka=12&as4uOriginalDomain=www.praha11.cz&as4u_protocol=https&ConfirmCookie=yes&_gid=GA1.2.2048428621.1643611230&bod=3915726)<br>
+
+***31. 1. 2022** - Zastupitelstvo projednává několik bodů v souvislosti s projektem Areálu ledových sportů.*<br>
+[ODKAZ NA ZÁZNAM JEDNÁNÍ](https://www.youtube.com/watch?v=P90IfpL6xXE)
+
+
 
 
 <br>
