@@ -20,7 +20,8 @@ Zastupitelský klub Pirátů Praha 11 se dlouhodobě snaží najít takové ře�
 - **B.** Odkoupit 50% akcií od akcionáře II/ALS Investors, a.s. (kupcem nemusí být nutně MČ, ale např. HMP) (na politickém grémiu jako varianta 3).<br>
 - **C.** MČ P11 nabídne podíl 50% k prodeji, kdy předkupní právo má akcionář II/ ALS Investors, a.s.. Pokud by nevyužil předkupní právo, může být po 30 dnech nabídnuto jinému zájemci/kupci (na politickém grémiu jako varianta 2).
 
-Doufáme, že na dnešním jednání zastupitelstva městské části Praha 11 se zastupitelstvo rozhodne a projekt bude úspěšně pokračovat.
+Doufáme, že na dnešním jednání zastupitelstva městské části Praha 11 se zastupitelstvo rozhodne a projekt bude úspěšně pokračovat.<br>
+Text celého usnesení zastupitelského klubu najdete [ZDE](https://forum.pirati.cz/viewtopic.php?p=796238#p796238).
 
 
 <br>
