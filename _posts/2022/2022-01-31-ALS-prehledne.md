@@ -27,6 +27,7 @@ Text celého usnesení zastupitelského klubu najdete [ZDE](https://forum.pirati
 
 <br>
 <br>
+
 **HISTORIE PROJEKTU V DATECH:**
 
 ***1. 9. 2014** - Zřízení práva stavby* (hlasování na ZMČ Prahy 11, starosta Mgr. Mejnský)<br>
@@ -137,8 +138,8 @@ Vzniká prodlení, což dle smlouvy znamená, že od 1. 7. běží společnosti 
 Jako jeden z důvodů uvádí absenci výběrového řízení dodavatele stavby Syner s. r. o., která ale byla vybrána už před vstupem MČ do projektu a byla součástí materiálu předloženým na ZMČ 30. 1. 2020.<br>
 *Zástupci za zbývající strany koalice nikdy nebyli dojmenováni, ani navrženi. Od 2. 9. 2021 má tuto pravomoc zastupitelstvo městské části Praha 11. Ani zastupitelstvo se nepokusilo nikoho do správní rady jmenovat.*
 
-***23. 8.  2021** - Rada schválila "Letter of comfort".*
-Tento dokument vyjadřuje podporu projektu a je určen pro banku.
+***23. 8.  2021** - Rada schválila "Letter of comfort".*<br>
+Tento dokument vyjadřuje podporu projektu a je určen pro banku.<br>
 [ODKAZ NA MATERIÁLY A USNESENÍ ZDE](https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=384&slozka=13&xsekce=&as4uOriginalDomain=www.praha11.cz&rootPathFix=&as4u_protocol=https&entry=&find_usn=&from_date_usn=1.+8.+2021&to_date_usn=1.+9.+2021&find_usn=0822%2F29%2FR%2F2021&from_date_usn=&to_date_usn=) 
 
 ***2. 9. 2021** - Přijata usnesení Martina Sedeke a Ladislava Kose sr. (hlasování na ZMČ Prahy 11, starosta Dohnal)*<br>
@@ -160,13 +161,10 @@ může městská část Praha 11 z projektu odejít bez finanční ztráty.<br>
 ***31. 1. 2022** - Zastupitelstvo projednává několik bodů v souvislosti s projektem Areálu ledových sportů.*<br>
 [ODKAZ NA ZÁZNAM JEDNÁNÍ](https://www.youtube.com/watch?v=P90IfpL6xXE)
 
-
-
-
 <br>
 <br>
-<br>
-DALŠÍ DŮLEŽITÉ SMLOUVA A ODKAZY:
+
+**DALŠÍ DŮLEŽITÉ SMLOUVA A ODKAZY:**
 
 [ODKAZ NA PROJEKT ZÁMERY NA JIŽNÍM MĚSTĚ](https://www.praha11.cz/cs/mestska-cast/uzemni-rozvoj-a-regenerace/zamery-na-jiznim-meste/1-areal-ledovych-sportu.html)
 
@@ -174,14 +172,10 @@ DALŠÍ DŮLEŽITÉ SMLOUVA A ODKAZY:
 
 [SMLOUVA O DÍLO - SYNER](https://arealls.cz/wp-content/uploads/2021/09/dodavatelska-smlouva-AR-Delta-Syner1.pdf)
 
-
-
-
-
 <br>
 <br>
-<br>
-O AREÁLU LEDOVÝCH SPORTŮ JSME PSALI:
+
+**O AREÁLU LEDOVÝCH SPORTŮ JSME PSALI:**
 
 **10. 10. 2019** - [Informace o aktuální situaci projektu Areál ledových sportů na Jižním Městě](https://praha11.pirati.cz/aktuality/ALS.html)
 
