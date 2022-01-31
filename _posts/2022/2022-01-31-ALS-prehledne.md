@@ -72,7 +72,7 @@ Vydává státní správa. <br>
 MČ námitky nepodává, pouze Chodovský spolek<br>
 [ODKAZ NA CELÝ TEXT ÚZEMNÍHO ROZHODNUTÍ ZDE](https://www.praha11.cz/filemanager/files/37169.pdf)
 
-V ***průběhu 2018*** proběhlo jednání společnosti AR Delta s MHMP (primátorka A. Krnáčová, O. Prokop a R. Procházka) o vstupu MHMP do společnosti AR Delta.
+V ***průběhu 2018*** proběhlo jednání společnosti AR Delta s MHMP (primátorka A. Krnáčová, O. Prokop a R. Procházka) o vstupu MHMP do společnosti AR Delta. Projekt byl zapsán do Sportovní koncepce HMP.
 
 ***11. 6. 2018** - Stavební povolení.*<br>
 Vydává státní správa. <br>
