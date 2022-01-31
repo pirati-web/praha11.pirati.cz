@@ -173,3 +173,20 @@ DALŠÍ DŮLEŽITÉ SMLOUVA A ODKAZY:
 [VÝPIS Z OBCHODNÍHO REJSTŘÍKU FIRMY](https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=1042196&typ=UPLNY)
 
 [SMLOUVA O DÍLO - SYNER](https://arealls.cz/wp-content/uploads/2021/09/dodavatelska-smlouva-AR-Delta-Syner1.pdf)
+
+
+
+
+
+<br>
+<br>
+<br>
+O AREÁLU LEDOVÝCH SPORTŮ JSME PSALI:
+
+**10. 10. 2019** - [Informace o aktuální situaci projektu Areál ledových sportů na Jižním Městě](https://praha11.pirati.cz/aktuality/ALS.html)
+
+**13. 6. 2020** - [Informace k 15. jednání zastupitelstva městské části Praha 11](https://praha11.pirati.cz/aktuality/ZMC-15.html)
+
+**2. 9. 2021** - [Nejisté pokračování Stavby areálu ledových sportů, důvodem je politický boj před parlamentními volbami](https://praha11.pirati.cz/aktuality/als.html)
+
+**20. 10. 2021** - [Piráti připravili konstruktivní návrh k odblokování situace ohledně Areálu ledových sportů](https://praha11.pirati.cz/aktuality/navrh-usneseni-als.html)
