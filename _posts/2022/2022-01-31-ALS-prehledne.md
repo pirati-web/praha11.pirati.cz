@@ -164,7 +164,7 @@ může městská část Praha 11 z projektu odejít bez finanční ztráty.<br>
 <br>
 <br>
 
-**DALŠÍ DŮLEŽITÉ SMLOUVA A ODKAZY:**
+**DALŠÍ DŮLEŽITÉ SMLOUVY A ODKAZY:**
 
 [ODKAZ NA PROJEKT ZÁMERY NA JIŽNÍM MĚSTĚ](https://www.praha11.cz/cs/mestska-cast/uzemni-rozvoj-a-regenerace/zamery-na-jiznim-meste/1-areal-ledovych-sportu.html)
 
