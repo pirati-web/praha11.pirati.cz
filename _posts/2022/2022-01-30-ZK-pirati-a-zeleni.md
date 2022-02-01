@@ -1,5 +1,5 @@
 ---
-date: 2022-02-01
+date: 2022-01-30
 category: blog
 title: "Reakce předsednictva na nově vzniklý zastupitelský klub"
 layout: post
@@ -11,7 +11,7 @@ tags:
   - zastupitelský klub
 ---
 
-*Praha, 1. únor 2022* – **V minulém týdnu byla na radnici Prahy 11 k rukám starosty doručena informace o založení zastupitelského klubu tří členů zastupitelstva zvolených na kandidátce České pirátské strany.**
+*Praha, 30. LEDEN 2022* – **V tomto týdnu byla na radnici Prahy 11 k rukám starosty doručena informace o založení zastupitelského klubu tří členů zastupitelstva zvolených na kandidátce České pirátské strany.**
 
 *“Plně respektujeme právo zastupitelů Ladislava Kose ml., Michala Veselského a Michaely Al-Ali Poláková, zvolených na kandidátní listině za Českou pirátskou stranu, ustanovit si vlastní klub. Nicméně tento klub, narozdíl od klubu Pirátů, nemá podporu ani místního sdružení Pirátů Prahy 11, ani České pirátské strany jako takové, proto jimi zvolený název považujeme za zavádějící.”*, komentuje místopředsedkyně místního sdružení Pirátů Prahy 11 Bára Soukupová. *“Zároveň chápeme potřebu zastupitelů být součástí zastupitelského klubu s ohledem na výhody, které zařazení v klubu má.”*, doplňuje Soukupová.
 
