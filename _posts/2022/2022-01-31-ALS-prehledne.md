@@ -40,8 +40,9 @@ Doplnění zákazu zcizení.<br>
 PRO 34 (Štyler, Kos, Zdeňková, Říčař, Jirava), PROTI 0, ZDRŽELI SE 3<br>
 [ODKAZ NA MATERIÁLY A ZÁZNAM JEDNÁNÍ ZDE](https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=6504&slozka=12&as4uOriginalDomain=www.praha11.cz&as4u_protocol=https&ConfirmCookie=confirm&_gid=GA1.2.157295128.1641289295&bod=930358)
 
-***13. 5. 2015** - Podpis smlouvy o zřízení práva stavby a Dodatku č. 1 starostou Ing. Štylerem* <br>
-[ODKAZ NA CELÝ TEXT SMLOUVY ZDE](https://smlouvy.gov.cz/smlouva/11123968?backlink=0997i)
+***13. 5. 2015** - Podpis smlouvy o zřízení práva stavby starostou Ing. Štylerem a Dodatku č. 1 místostarostou Říčařem* <br>
+[ODKAZ NA CELÝ TEXT SMLOUVY ZDE](https://smlouvy.gov.cz/smlouva/11123968?backlink=0997i) <br>
+[ODKAZ NA CELÝ TEXT SMLOUVY DODATEK Č.1 ZDE](https://smlouvy.gov.cz/smlouva/11155004)
 
 ***16. 9. 2015** - Veřejná Prezentace záměru Areálu ledových sportů (starosta Ing. Štyler)* <br>
 [ODKAZ NA ZÁZNAM PREZENTACE ZDE](https://www.youtube.com/watch?v=c_rKdlHp06k&list=PLccddnHZPRuO4ukfBiSK_HMHw0G-wtPkx)
