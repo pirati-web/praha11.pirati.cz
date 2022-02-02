@@ -17,7 +17,7 @@ image: articles/2019/2019-10-17-cyklistika.jpg
 
 Právě dnes 17. 10. 2019 byla na jednání zastupitelstva hl. m. Prahy odsouhlasena účelová investiční dotace pro MČ Praha 11, která je určena na studii proveditelnosti komunikací pro bezmotorovou dopravu. Podnět pro tuto dotaci vznikl před několika měsíci v rámci našeho pirátského expertního týmu dopravy, který je složen z našeho nominanta v dopravní komisi a cykloexperta Vratislava Fillera, radního pro dopravu na Praze 11 Martina Dušky a mě, zastupitele na magistrátu hl. m. Prahy, Ladislava Kose ml..  Na společné schůzce jsme vytipovali vhodné cyklistické projekty, které bude možné, co nejdříve realizovat. Tyto projekty následně posoudila dopravní komise RMČ Prahy 11 a městská část podala oficiální žádost na magistrát. 
 
-![Přehled investic](/assets/img/articles/2019/2019-10-17-cyklistika1.jpg)
+![Přehled investic](/img/articles/2019/2019-10-17-cyklistika1.jpg)
  
 Projektům jednoznačně dominuje návrh nové cyklostezky od OC Chodov podél Kunratického lesa, Volhy směrem k Šeberovu, kde by se měla napojit na stávající cyklotrasy.  Kromě této realizace cyklostezky byly navrženy ještě tři další opatření, které pomohou rozvinout cyklodopravu na Praze 11. Dvě z nich jsou čistě bezpečnostní, jedná se o úpravu přejezdu přes frekventovanou komunikaci Novopetrovická a úpravu podjezdu u křižovatky Opatovská - Novomeského.
 
