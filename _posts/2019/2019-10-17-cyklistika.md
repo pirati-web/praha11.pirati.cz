@@ -4,8 +4,8 @@ category: blog
 tags: 
   - Praha 11 
   - Piráti 
-  - Doprava 
-  - Cyklistika
+  - doprava 
+  - cyklistika
 layout: post
 author: Ladislav Kos
 authorId: ladislav.kos
