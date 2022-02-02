@@ -1,7 +1,7 @@
 ---
 date: 2022-02-02
 category: blog
-title: "Na Praze 11 postupně vznikne síť dobíjecích stanic pro elektromobily"
+title: "Na Praze 11 postupně vzniká síť dobíjecích stanic pro elektromobily"
 layout: post
 author: Martin Duška
 authorId: martin.duska
