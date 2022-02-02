@@ -1,7 +1,7 @@
 ---
 date: 2022-02-02
 category: blog
-title: "O projektu Areálu ledových sportů přehledně"
+title: "Na Praze 11 postupně vznikne síť dobíjecích stanic pro elektromobily"
 layout: post
 author: Martin Duška
 authorId: martin.duska
