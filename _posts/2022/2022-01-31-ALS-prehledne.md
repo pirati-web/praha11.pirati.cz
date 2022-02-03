@@ -171,7 +171,7 @@ může městská část Praha 11 z projektu odejít bez finanční ztráty.<br>
 
 [VÝPIS Z OBCHODNÍHO REJSTŘÍKU FIRMY](https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=1042196&typ=UPLNY)
 
-[SMLOUVA O DÍLO - SYNER](https://arealls.cz/wp-content/uploads/2021/09/dodavatelska-smlouva-AR-Delta-Syner1.pdf)
+[SMLOUVA O DÍLO - SYNER](https://arealls.cz/wp-content/uploads/2021/09/dodavatelska-smlouva-AR-Delta-Syner1.pdf) *- platná od 9. 7. 2021*
 
 <br>
 <br>
