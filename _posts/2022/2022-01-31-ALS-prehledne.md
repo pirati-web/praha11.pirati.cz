@@ -126,7 +126,7 @@ Zastupitelstvo souhlasilo s tím, že společnost AR DELTA a.s. smí ručit banc
 
 ***9. 3. 2021** - Ukončení členství ve správní radě - Říčař*<br>
 Dne 9. 2. 2021 oznámil rezignaci na post člena ve správní radě. V rezignaci také uvedl, že dostavbu Areálu ledových sportů i nadále podporuje. Po několika měsících odešel z politiky.<br>
-[ODKAZ NA TEXT REZIGNACE ZDE](https://a.pirati.cz/praha11/doc/2022-01-31-ALS-Ricar.pdf)
+[ODKAZ NA TEXT REZIGNACE ZDE](https://a.pirati.cz/praha11/2022-01-31-als-ricar.pdf)
 
 ***16. 5. 2021** - Ukončení členství ve správní radě - Dolanská.*<br>
 Důvodem bylo, že společnost nebyla převedena na dualistický systém. Právně se správní rada stala statutárním zástupcem společnosti.
