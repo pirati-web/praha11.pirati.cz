@@ -3,8 +3,7 @@ uid: vaclav.sebek
 name: Václav Šebek
 titles:
 category:
-  - pms
-ordpms: 3
+  - clenove
 description: ▪ 2. místopředseda<br> ▪ člen Finančního výboru
 profession:
 img: people/sebek-vaclav.jpg
