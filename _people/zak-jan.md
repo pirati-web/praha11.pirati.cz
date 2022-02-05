@@ -5,7 +5,7 @@ titles:
 category:
   - pms
 ordpms: 3
-description: ▪  člen Komise informatiky
+description: ▪ 2. místopředseda<br> ▪  člen Komise informatiky
 img: people/jan-zak.jpg
 heroImg: praha-11.jpg
 mail: 
