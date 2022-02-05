@@ -3,7 +3,8 @@ uid: jan.zak
 name: Jan Žák
 titles:
 category:
-  - clenove
+  - pms
+ordpms: 3
 description: ▪  člen Komise informatiky
 img: people/jan-zak.jpg
 heroImg: praha-11.jpg
