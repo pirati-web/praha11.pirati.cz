@@ -4,7 +4,7 @@ name: Václav Šebek
 titles:
 category:
   - clenove
-description: ▪ 2. místopředseda<br> ▪ člen Finančního výboru
+description: ▪ člen Finančního výboru
 profession:
 img: people/sebek-vaclav.jpg
 heroImg: praha-11.jpg
