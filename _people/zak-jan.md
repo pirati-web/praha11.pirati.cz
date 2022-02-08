@@ -2,10 +2,11 @@
 uid: jan.zak
 name: Jan Žák
 titles:
+  before: Ing.
 category:
   - pms
 ordpms: 3
-description: ▪ 2. místopředseda<br> ▪  člen Komise informatiky
+description: ▪ 2. místopředseda <br> ▪ člen Komise informatiky
 img: people/jan-zak.jpg
 heroImg: praha-11.jpg
 mail: 
@@ -13,7 +14,8 @@ mail:
 profiles:
   
 ---
-příznivec Pirátů
+
+{{page.description}}
 
 *1982, narozen mezi Hanou a Jeseníkem, přes 30 let v Praze na Jižním Městě.
 

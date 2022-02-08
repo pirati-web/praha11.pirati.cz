@@ -1,9 +1,11 @@
 ---
 uid: pavel.podgrony
-name:     Pavel Podgorný
+name: Pavel Podgorný
+titles:
+  before: Ing.
 category:
   - clenove
-description: ▪ člen resortního týmu Evropská unie, zahraničí, obrana <br> ▪ předseda místního expertního týmu - finance, majetek a podpora podnikání člen <br> ▪ Finanční komise  
+description: ▪ člen resortního týmu Evropská unie, zahraničí, obrana <br> ▪ předseda místního expertního týmu - finance, majetek a podpora podnikání <br> ▪ člen Finanční komise  
 img: people/pavel-podgorny.jpg
 heroImg: praha-11.jpg
 mail:

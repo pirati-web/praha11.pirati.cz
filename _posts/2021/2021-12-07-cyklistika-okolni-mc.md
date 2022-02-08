@@ -1,7 +1,7 @@
 ---
 date: 2021-12-07
 category: blog
-title: "Spolupráce a plany v cyklodoprave"
+title: "Spolupráce a plány v cyklodopravě"
 layout: post
 author: Martin Duška
 authorId: martin.duska

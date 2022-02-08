@@ -19,7 +19,7 @@ profiles:
 
 IT specialista
 
-člen Pirátů
+příznivec Pirátů
 
 Filip Miler byl členem Pirátské strany od roku 2010, od roku 2020 má pozastavené člensví, ale nadále zústává registrovaným příznivcem strany. Filip pochází ze Vsetína a od roku 1979 žije v Praze.
 
