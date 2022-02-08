@@ -21,7 +21,7 @@ profiles:
 
 zastupitel MČ Praha 11, zastupitel HLMP, gesce: územní rozvoj, doprava, sport
 
-konzultant inline marketingu
+konzultant online marketingu
 
 člen Pirátů
 
