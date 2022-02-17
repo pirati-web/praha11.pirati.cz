@@ -1,6 +1,6 @@
 ---
 uid: petr.klan
-name:     Petr Klan
+name:     Petr Klán
 
 category:
   - priznivci
