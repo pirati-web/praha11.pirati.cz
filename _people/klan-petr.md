@@ -1,16 +1,12 @@
 ---
 uid: petr.klan
-name:     Petr Klán
+name: Petr Klán
 
 category:
   - priznivci
 description: ▪ člen Bezpečnostní komise
 img: 
 heroImg: praha-11.jpg
-mail:
-  - 
-profiles:
-  facebook:
 ---
 
 příznivec Pirátů
