@@ -1,7 +1,7 @@
 ---
 date: 2022-02-18
 category: blog
-title: "Nové přístřešky na zastávkách MHD"
+title: "Velká Opatovská směna"
 layout: post
 author: Josef Kocourek
 authorId: josef.kocourek
@@ -9,7 +9,7 @@ image: articles/2022/2022-02-18-opatovska-smena.jpg
 tags: 
   - územní rozvoj
   - Opatov
-  - Na Jelenác
+  - Na Jelenách
 ---
 
 *Praha, 18. únor 2022* – **Včera byla na jednání zastupitelstva schválena takzvaná "Velká Opatovská směna".**
