@@ -17,7 +17,7 @@ profiles:
   facebook: https://www.facebook.com/zuzana.bohmova
   instagram: https://www.instagram.com/zuzana.boehmova
   evidence: https://evidence.pirati.cz/author/291/
-  odměny: https://nalodeni.pirati.cz/odmeny/zuzana.boehmova
+  odmeny: https://nalodeni.pirati.cz/odmeny/zuzana.boehmova
 funkce: 
 - kočka leze dírou
 calendar: va05o0jfci8qrqv7omspurjvnc@group.calendar.google.com 
