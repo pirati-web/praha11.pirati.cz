@@ -16,7 +16,9 @@ mob: +420 737 220 479
 profiles:
   facebook: https://www.facebook.com/zuzana.bohmova
   instagram: https://www.instagram.com/zuzana.boehmova
-calendar: va05o0jfci8qrqv7omspurjvnc@group.calendar.google.com
+funkce: 
+- kočka leze dírou
+calendar: va05o0jfci8qrqv7omspurjvnc@group.calendar.google.com 
 ---
 {{page.description}}
 
