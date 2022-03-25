@@ -19,10 +19,15 @@ profiles:
   evidence: https://evidence.pirati.cz/author/291/
   odmeny: https://nalodeni.pirati.cz/odmeny/zuzana.boehmova
 funkce: 
-- kočka leze dírou
+- koordinátorka krajských expertních týmů v oblasti IT a Smart City
+- mediální spojka P11 
+- předsedkyně místního expertního týmu otevřená radnice a digitalizace P11
+- členka Výboru pro otevřenou radnici a digitalizaci P11
+- členka Výboru pro IT a SmartCity HMP
+profession: středoškolský pedagog <br> otevřená radnice, digitalizace, školství
 calendar: va05o0jfci8qrqv7omspurjvnc@group.calendar.google.com 
 ---
-{{page.description}}
+
 
 
 *"Vždycky se mi líbila panelová sídliště, i to je důvodem, proč jsem si život na Jižním Městě zamilovala. Můj příběh na Jižáku začal již před osmi lety láskou a následně zaměstnáním. Hned po dokončení vysoké školy jsem zde začala učit na ZŠ a MŠ Chodov, která téměř deset let čekala na dostavbu západního křídla - to byl pro mě impulz, který ve mně vyvolal zájem o komunální politiku. Následovalo setkání s Piráty, jejichž jsem byla dlouholetou voličkou, a tím začala moje cesta u Pirátů..."*, Zuzana Böhmová.
