@@ -5,17 +5,25 @@ titles:
   before: Ing.
 category:
   - pms
+  - clenove
 ordpms: 3
-description: ▪ 2. místopředseda <br> ▪ člen Komise informatiky
+description: 2. místopředseda
+teamDescription:
+  pms: 2. místopředseda
+  clenove: člen MS Praha 11
 img: people/jan-zak.jpg
 heroImg: praha-11.jpg
 mail: 
   - jan.zak@pirati.cz
 profiles:
-  
+  facebook: https://www.facebook.com/honza.zak.42
+funkce: 
+- 2. místopředseda MS Praha 11
+- člen komise informatiky RMČ Praha 11
+profession: softwarový vývojář 
 ---
 
-{{page.description}}
+
 
 *1982, narozen mezi Hanou a Jeseníkem, přes 30 let v Praze na Jižním Městě.
 
