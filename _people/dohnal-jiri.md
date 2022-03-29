@@ -25,7 +25,7 @@ profiles:
   evidence: https://evidence.pirati.cz/author/161/
   odmeny: https://nalodeni.pirati.cz/odmeny/
 funkce:
-  - starosta Prahy 11
+  - starosta Prahy 11 s gescemi informační technologie, digitalizace, finance, krizové řízení, bydlení 
 calendar: difpl1tdlua3q599bf6vs1nbnbsv307g@import.calendar.google.com
 ---
 
