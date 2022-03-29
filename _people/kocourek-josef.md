@@ -13,7 +13,7 @@ ordclenove: 4
 description: předseda MS Praha 11
 teamDescription:
   pms: předseda MS Praha 11
-  clenove: koordinátorka gesce územní rozvoj
+  clenove: koordinátor gesce územní rozvoj
   zas: uvolněný zastupitel
 profesion: uvolněný místopředseda výboru pro územní rozvoj a životní prostředí
 img: people/josef-kocurek.jpg
