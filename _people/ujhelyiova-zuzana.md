@@ -6,6 +6,7 @@ titles:
 category:
   - kandidat-obec
   - pms
+  - clenove
   - zas
 ordpms: 4
 description: koordinátorka gesce školství
