@@ -25,7 +25,7 @@ funkce:
 - předsedkyně místního expertního týmu otevřená radnice a digitalizace P11
 - členka Výboru pro otevřenou radnici a digitalizaci P11
 - členka Výboru pro IT a SmartCity HMP
-profession: středoškolský pedagog <br> otevřená radnice, digitalizace, školství
+profession: středoškolskáý pedagožka
 calendar: va05o0jfci8qrqv7omspurjvnc@group.calendar.google.com 
 ---
 
