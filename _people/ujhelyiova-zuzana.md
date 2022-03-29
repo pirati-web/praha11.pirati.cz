@@ -9,9 +9,10 @@ category:
   - clenove
   - zas
 ordpms: 4
-description: koordinátorka gesce školství
+description: 3. místopředsedkyně MS Praha 11
 teamDescription:
   pms: 3. místopředsedkyně MS Praha 11
+  clenove: koordinátorka gesce školství
   zas: zastupitelka
 mail:
   - zuzana.ujhelyiova@pirati.cz
