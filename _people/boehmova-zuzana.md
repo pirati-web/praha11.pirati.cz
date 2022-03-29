@@ -23,9 +23,9 @@ funkce:
 - koordinátorka krajských expertních týmů v oblasti IT a Smart City
 - mediální spojka P11 
 - předsedkyně místního expertního týmu otevřená radnice a digitalizace P11
-- členka Výboru pro otevřenou radnici a digitalizaci P11
+- členka Výboru pro otevřenou radnici a digitalizaci ZMČ P11
 - členka Výboru pro IT a SmartCity HMP
-profession: středoškolskáý pedagožka
+profession: středoškolská pedagožka
 calendar: va05o0jfci8qrqv7omspurjvnc@group.calendar.google.com 
 ---
 
