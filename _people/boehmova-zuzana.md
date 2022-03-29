@@ -6,7 +6,9 @@ titles:
 category:
   - kandidat-obec
   - clenove
-description: ▪ koordinátorka 
+description: mediální spojka 
+teamDescription:
+  clenove: koordinátorka gesce otevřená radnice a digitalizace
 img: people/zuzana-boehmova.jpg
 heroImg: praha-11.jpg
 mail:
