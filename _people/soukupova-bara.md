@@ -6,13 +6,26 @@ titles:
 category:
   - pms
   - kontaktni_osoba
+  - clenove
 ordpms: 2
-description: ▪ 1. místopředsedkyně
-profession:
+description: 1. místopředsedkyně MS Praha 11
+teamDescription:
+  pms: 1. místopředsedkyně MS Praha 11
+  clenove: členka MS Praha 11
+profession: geoinformatička
 img: people/bara-soukupova.jpg
 heroImg: praha-11.jpg
 mail:
   - bara.soukupova@pirati.cz
+profiles:
+  facebook: https://www.facebook.com/barasoukup
+  instagram: https://www.instagram.com/barasoukup/
+  evidence: https://evidence.pirati.cz/author/450/
+  odmeny: https://nalodeni.pirati.cz/odmeny/bara.soukupova
+funkce:
+- členka republikového výboru
+- 5. místopředsedkyně KS Praha
+- 1. místopředsedkyně MS Praha 11
 ---
 
 Bára Soukupová (*1988) je geoinformatička. Dětství prožila v České Třebové v Pardubickém kraji. Studovala na Přírodovědecké fakultě UK geografii a kartografii, aplikovanou geoinformatiku a učitelství geografie.
