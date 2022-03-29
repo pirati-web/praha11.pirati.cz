@@ -28,6 +28,7 @@ funkce:
   - zastupitelka Prahy 11
   - členka <a href="https://www.praha11.cz/cs/radnice/rada-mc/komise-rmc/komise-pro-vychovu-vzdelavani-a-narodnostni-mensiny.html">Komise pro výchovu, vzdělávání a národnostní menšiny</a>
   - členka <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/rada/komise_rady/index.html?commissionId=35384">Komise pro školskou infrastrukturu HMP</a>
+profession: teoložka
 ---
 
 
