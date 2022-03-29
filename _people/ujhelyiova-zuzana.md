@@ -20,7 +20,7 @@ img: people/zuzana-ujhelyiova.jpg
 heroImg: praha-11.jpg
 profiles:
   facebook: https://www.facebook.com/ujhelyiovazuzana
-   odmeny:   https://nalodeni.pirati.cz/odmeny/alice.hamalova
+  odmeny:   https://nalodeni.pirati.cz/odmeny/alice.hamalova
   evidence: https://evidence.pirati.cz/
 funkce:
   - 3. místopředsedkyně MS Praha 11
