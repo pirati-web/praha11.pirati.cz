@@ -37,7 +37,8 @@ calendar: f3qhbmobjuqjojhmjbihr480cc@group.calendar.google.com
 
 
 
-Chci se podílet na změně pocitu lidí, že radnice tu není pro developery, ale pro své občany. Co nejvíce podporovat otevřenost radnice a s přehlednými informacemi aktivně komunikovat s občany o rozvoji našeho města. Praha 11 potřebuje více vodních prvků a zeleně.
+>*"Chci se podílet na změně pocitu lidí, že radnice tu není pro developery, ale pro své občany. Co nejvíce podporovat otevřenost radnice a s přehlednými informacemi aktivně komunikovat s občany o rozvoji našeho města. Praha 11 potřebuje více vodních prvků a zeleně"*, Josef Kocourek.
+
 
 <iframe width="700" height="750" src="https://calendar.google.com/calendar/u/0/embed?src=f3qhbmobjuqjojhmjbihr480cc@group.calendar.google.com&ctz=Europe/Prague"></iframe>
 
