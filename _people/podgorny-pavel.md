@@ -5,16 +5,22 @@ titles:
   before: Ing.
 category:
   - clenove
-description: ▪ člen resortního týmu Evropská unie, zahraničí, obrana <br> ▪ předseda místního expertního týmu - finance, majetek a podpora podnikání <br> ▪ člen Finanční komise
-profession: manažer <br> člen finanční komise - Praha 11
+description: člen MS Praha 11
+teamDescription:
+  clenove: koordinátor gesce finance, majetek a podpora podnikání
 img: people/pavel-podgorny.jpg
 heroImg: praha-11.jpg
 mail:
   - pavel.podgorny@pirati.cz
 profiles:
   facebook:
+funkce: 
+- člen resortního týmu Evropská unie, zahraničí, obrana
+- předseda místního expertního týmu finance, majetek a podpora podnikání P 11
+- člen Finanční komise člen finanční komise RMČ P 11
+profession: manažer
 ---
-{{page.description}}
+
 
 
 Narodil jsem se v roce 1983 a na Jižní město jsem se přistěhoval v roce 2018 z Prahy 4 - Podolí, kde jsem vyrůstal. K Pirátům jsem se přihlásil v roce 2021, tedy ve 38 letech, což je věk, který člověku dává určitý nadhled a představu o tom, jak svět funguje. Politiku jsem začal dělat hlavně kvůli svým dětem, abych aktivně ovlivnil okolí, ve kterém vyrůstají. Ideální společnost se dle mého názoru vyznačuje spoluprací, respektem vůči ostatním a altruismem. Uvědomuji si, že k tomu, aby se společnost k tomuto ideálu přiblížila, musím jít příkladem nejen jako občan.
