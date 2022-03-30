@@ -16,7 +16,7 @@ mail:
 mob: +420 737 220 479
 profiles:
   facebook: https://www.facebook.com/zuzana.bohmova
-  instagram: https://www.instagram.com/zuzana.boehmova
+  instagram: https://www.instagram.com/zuzanaboehmova.p11/
   evidence: https://evidence.pirati.cz/author/291/
   odmeny: https://nalodeni.pirati.cz/odmeny/zuzana.boehmova
 funkce: 
