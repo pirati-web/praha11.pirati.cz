@@ -1,27 +1,27 @@
 ---
 uid: filip.miler
 name: Filip Miler
-
 category:
   - priznivci
   - kandidat-obec
 ordpms: 2  
-description: 
+description: podporovatel
+teamDescription:
+  priznivci: podporovatel
 img: people/filip-miler.jpg
 heroImg: praha-11.jpg
 age: 
 mail:
-  - filip.miler@pirati.cz
- 
+  - 
 profiles:
   facebook: https://www.facebook.com/filip.miler.50
+funkce: 
+- 
+profession: IT specialista
 ---
 
-IT specialista
 
-příznivec Pirátů
-
-Filip Miler byl členem Pirátské strany od roku 2010, od roku 2020 má pozastavené člensví, ale nadále zústává registrovaným příznivcem strany. Filip pochází ze Vsetína a od roku 1979 žije v Praze.
+Filip Miler byl členem Pirátské strany od roku 2010, od roku 2020 má pozastavené člensví, ale nadále zústává podporovatelem strany. Filip pochází ze Vsetína a od roku 1979 žije v Praze.
 
 Vystudoval střední průmyslovou školu elektrotechnickou v Ječné ulici, obor automatizační technika.
 
