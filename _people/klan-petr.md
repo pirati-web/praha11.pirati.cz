@@ -5,9 +5,9 @@ titles:
   before: Ing. arch.
 category:
   - priznivci
-description: příznivec 
+description: registrovaný příznivec 
 teamDescription:
-  clenove: příznivec ▪ člen Bezpečnostní komise
+  priznivci: registrovaný příznivec
 img: 
 heroImg: praha-11.jpg
 profiles:
