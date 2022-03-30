@@ -36,10 +36,10 @@ profession: konzultant online marketingu
 
 
 
->*"Chci se věnovat třem oblastem:
->- Řešení dopravy – parkování, renovaci a výstavbě chodníků a cyklostezek a rozumné koordinaci linek MHD.
->- Transparentní radnici, úřad nesmí lidem přidělávat práci, naopak jim musí sloužit.
->- Rozvoji Prahy 11, chránit a rozšiřovat plochy, kde občané relaxují a aktivně tráví svůj volný čas"* , Ladislav Kos ml.
+>*"Chci se věnovat třem oblastem:*
+>- *Řešení dopravy – parkování, renovaci a výstavbě chodníků a cyklostezek a rozumné koordinaci linek MHD.*
+>- *Transparentní radnici, úřad nesmí lidem přidělávat práci, naopak jim musí sloužit.*
+>- *Rozvoji Prahy 11, chránit a rozšiřovat plochy, kde občané relaxují a aktivně tráví svůj volný čas"* , Ladislav Kos ml.
 
 
 ---
