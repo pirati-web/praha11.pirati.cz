@@ -13,7 +13,7 @@ heroImg: praha-11.jpg
 mail:
   - pavel.podgorny@pirati.cz
 profiles:
-  facebook:
+  facebook: https://www.facebook.com/profile.php?id=100058304155709
 funkce: 
 - člen resortního týmu Evropská unie, zahraničí, obrana
 - předseda místního expertního týmu finance, majetek a podpora podnikání P 11
