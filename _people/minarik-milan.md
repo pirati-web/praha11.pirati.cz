@@ -5,9 +5,9 @@ category:
   - priznivci
   - kandidat-obec
 ordpms: 3
-description: příznivec 
+description: registrovaný příznivec 
 teamDescription:
-  clenove: příznivec
+  clenove: registrovaný příznivec
 img: people/milan-minarik.jpg
 heroImg: praha-11.jpg
 mail:
