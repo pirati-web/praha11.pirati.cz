@@ -5,7 +5,7 @@ title: "Lávka u metra Háje se konečně dočká opravy"
 layout: post
 author: Martin Duška
 authorId: martin.duska
-image: articles/2022/2022-03-30-lavka-haje.jpg
+image: articles/2022/2022-03-30-lavka-haje-a.jpg
 tags: 
   - rozpočet
   - investice
