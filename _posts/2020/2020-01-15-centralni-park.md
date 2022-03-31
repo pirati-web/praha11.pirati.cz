@@ -8,7 +8,6 @@ tags:
   - Pirátská vyšetřovna
   - přednáška
   - park
-  - Jižní město
 layout: post
 author: Zuzana Böhmová
 authorId: zuzana.bohmova
