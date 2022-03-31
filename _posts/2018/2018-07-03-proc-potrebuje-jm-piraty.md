@@ -2,14 +2,15 @@
 date: 2018-07-03
 category: blog
 tags:
-  - místní organizace
-  - Piráti
-  - Praha 11
-  - Jižní Město
+  - bydlení
+  - digitalizace
+  - participace
+  - transparentnost
+  - veřejný prostor
 layout: post
 title: Proč potřebuje Jižní Město Piráty?
-author: Bc. Martin Duška
-authorId: duska.martin
+author: Martin Duška
+authorId: martin.duska
 image: articles/2018/2018-07-03-proc-potrebuje-jm-piraty.jpg
 ---
 
