@@ -2,10 +2,9 @@
 date: 2018-06-07
 category: blog
 tags:
-  - územní rozvoj
+  - cyklistika
   - doprava
-  - Praha 11
-  - Jižní Město
+  - parkování
 layout: post
 title: Jižní Město - přeplněný přístav
 author: Ing. Ladislav Kos ml.
