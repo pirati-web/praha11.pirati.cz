@@ -2,12 +2,8 @@
 date: 2018-08-22
 category: blog
 tags:
-  - rok 1968
   - akce
-  - společnost
-  - místní organizace
-  - Jižní Město
-  - Praha 11
+  - demokracie
 layout: post
 title: Piráti z Prahy 11 si připomněli 50 let od invaze vojsk Varšavské smlouvy
 author: Milan Minařík
@@ -36,33 +32,33 @@ Už 8. září 1968 se na celostátních dožínkových slavnostech na varšavsk
  
 Před 50 lety vtrhla vojska Varšavské smlouvy do Československa a nastartovala tak turbulentní éru změn, utahování šroubů a boje o svobodu, ze které jsme se jako společnost nevzpamatovali dodnes. A právě na to bychom dnes měli vzpomenout. Proto připomínáme slova Ryszarda Siwce: „Lidé, v nichž ještě tkví jiskřička lidského citu! Vzpamatujte se! Slyšte můj křik! Křik šedého, obyčejného člověka, syna národa, který vlastní i cizí svobodu miloval nade všechno, i nad vlastní život! Vzpamatujte se! Ještě není pozdě!“
 
-![50 let od invaze vojsk Varšavské smlouvy](/assets/img/articles/2018/2018-08-22-pripominka-50-let-od-invaze-02.jpg)
+![50 let od invaze vojsk Varšavské smlouvy](https://a.pirati.cz/praha11/img/articles/2018/2018-08-22-pripominka-50-let-od-invaze-02.jpg)
 
-![50 let od invaze vojsk Varšavské smlouvy](/assets/img/articles/2018/2018-08-22-pripominka-50-let-od-invaze-03.jpg)
+![50 let od invaze vojsk Varšavské smlouvy](https://a.pirati.cz/praha11/img/articles/2018/2018-08-22-pripominka-50-let-od-invaze-03.jpg)
 
-![50 let od invaze vojsk Varšavské smlouvy](/assets/img/articles/2018/2018-08-22-pripominka-50-let-od-invaze-04.jpg)
+![50 let od invaze vojsk Varšavské smlouvy](https://a.pirati.cz/praha11/img/articles/2018/2018-08-22-pripominka-50-let-od-invaze-04.jpg)
 
-![50 let od invaze vojsk Varšavské smlouvy](/assets/img/articles/2018/2018-08-22-pripominka-50-let-od-invaze-05.jpg)
+![50 let od invaze vojsk Varšavské smlouvy](https://a.pirati.cz/praha11/img/articles/2018/2018-08-22-pripominka-50-let-od-invaze-05.jpg)
 
-![50 let od invaze vojsk Varšavské smlouvy](/assets/img/articles/2018/2018-08-22-pripominka-50-let-od-invaze-06.jpg)
+![50 let od invaze vojsk Varšavské smlouvy](https://a.pirati.cz/praha11/img/articles/2018/2018-08-22-pripominka-50-let-od-invaze-06.jpg)
 
-![50 let od invaze vojsk Varšavské smlouvy](/assets/img/articles/2018/2018-08-22-pripominka-50-let-od-invaze-07.jpg)
+![50 let od invaze vojsk Varšavské smlouvy](https://a.pirati.cz/praha11/img/articles/2018/2018-08-22-pripominka-50-let-od-invaze-07.jpg)
 
-![50 let od invaze vojsk Varšavské smlouvy](/assets/img/articles/2018/2018-08-22-pripominka-50-let-od-invaze-08.jpg)
+![50 let od invaze vojsk Varšavské smlouvy](https://a.pirati.cz/praha11/img/articles/2018/2018-08-22-pripominka-50-let-od-invaze-08.jpg)
 
-![50 let od invaze vojsk Varšavské smlouvy](/assets/img/articles/2018/2018-08-22-pripominka-50-let-od-invaze-09.jpg)
+![50 let od invaze vojsk Varšavské smlouvy](https://a.pirati.cz/praha11/img/articles/2018/2018-08-22-pripominka-50-let-od-invaze-09.jpg)
 
-![50 let od invaze vojsk Varšavské smlouvy](/assets/img/articles/2018/2018-08-22-pripominka-50-let-od-invaze-10.jpg)
+![50 let od invaze vojsk Varšavské smlouvy](https://a.pirati.cz/praha11/img/articles/2018/2018-08-22-pripominka-50-let-od-invaze-10.jpg)
 
-![50 let od invaze vojsk Varšavské smlouvy](/assets/img/articles/2018/2018-08-22-pripominka-50-let-od-invaze-11.jpg)
+![50 let od invaze vojsk Varšavské smlouvy](https://a.pirati.cz/praha11/img/articles/2018/2018-08-22-pripominka-50-let-od-invaze-11.jpg)
 
-![50 let od invaze vojsk Varšavské smlouvy](/assets/img/articles/2018/2018-08-22-pripominka-50-let-od-invaze-12.jpg)
+![50 let od invaze vojsk Varšavské smlouvy](https://a.pirati.cz/praha11/img/articles/2018/2018-08-22-pripominka-50-let-od-invaze-12.jpg)
 
-![50 let od invaze vojsk Varšavské smlouvy](/assets/img/articles/2018/2018-08-22-pripominka-50-let-od-invaze-13.jpg)
+![50 let od invaze vojsk Varšavské smlouvy](https://a.pirati.cz/praha11/img/articles/2018/2018-08-22-pripominka-50-let-od-invaze-13.jpg)
 
-![50 let od invaze vojsk Varšavské smlouvy](/assets/img/articles/2018/2018-08-22-pripominka-50-let-od-invaze-14.jpg)
+![50 let od invaze vojsk Varšavské smlouvy](https://a.pirati.cz/praha11/img/articles/2018/2018-08-22-pripominka-50-let-od-invaze-14.jpg)
 
-![50 let od invaze vojsk Varšavské smlouvy](/assets/img/articles/2018/2018-08-22-pripominka-50-let-od-invaze-15.jpg)
+![50 let od invaze vojsk Varšavské smlouvy](https://a.pirati.cz/praha11/img/articles/2018/2018-08-22-pripominka-50-let-od-invaze-15.jpg)
 
 
 ---
