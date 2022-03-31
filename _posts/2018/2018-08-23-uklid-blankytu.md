@@ -21,31 +21,31 @@ Piráti Praha 11
 
 ![Úklid Blankytu](https://a.pirati.cz/praha11/img/articles/2018/2018-08-23-uklid-blankytu-02.jpg)
 
-![Úklid Blankytu](https://a.pirati.cz/praha11/img/img/articles/2018/2018-08-23-uklid-blankytu-03.jpg)
+![Úklid Blankytu](https://a.pirati.cz/praha11/img/articles/2018/2018-08-23-uklid-blankytu-03.jpg)
 
-![Úklid Blankytu](/assets/img/articles/2018/2018-08-23-uklid-blankytu-04.jpg)
+![Úklid Blankytu](https://a.pirati.cz/praha11/img/articles/2018/2018-08-23-uklid-blankytu-04.jpg)
 
-![Úklid Blankytu](/assets/img/articles/2018/2018-08-23-uklid-blankytu-05.jpg)
+![Úklid Blankytu](https://a.pirati.cz/praha11/img/articles/2018/2018-08-23-uklid-blankytu-05.jpg)
 
-![Úklid Blankytu](/assets/img/articles/2018/2018-08-23-uklid-blankytu-06.jpg)
+![Úklid Blankytu](https://a.pirati.cz/praha11/img/articles/2018/2018-08-23-uklid-blankytu-06.jpg)
 
-![Úklid Blankytu](/assets/img/articles/2018/2018-08-23-uklid-blankytu-07.jpg)
+![Úklid Blankytu](https://a.pirati.cz/praha11/img/articles/2018/2018-08-23-uklid-blankytu-07.jpg)
 
-![Úklid Blankytu](/assets/img/articles/2018/2018-08-23-uklid-blankytu-08.jpg)
+![Úklid Blankytu](https://a.pirati.cz/praha11/img/articles/2018/2018-08-23-uklid-blankytu-08.jpg)
 
-![Úklid Blankytu](/assets/img/articles/2018/2018-08-23-uklid-blankytu-09.jpg)
+![Úklid Blankytu](https://a.pirati.cz/praha11/img/articles/2018/2018-08-23-uklid-blankytu-09.jpg)
 
-![Úklid Blankytu](/assets/img/articles/2018/2018-08-23-uklid-blankytu-10.jpg)
+![Úklid Blankytu](https://a.pirati.cz/praha11/img/articles/2018/2018-08-23-uklid-blankytu-10.jpg)
 
-![Úklid Blankytu](/assets/img/articles/2018/2018-08-23-uklid-blankytu-11.jpg)
+![Úklid Blankytu](https://a.pirati.cz/praha11/img/articles/2018/2018-08-23-uklid-blankytu-11.jpg)
 
-![Úklid Blankytu](/assets/img/articles/2018/2018-08-23-uklid-blankytu-12.jpg)
+![Úklid Blankytu](https://a.pirati.cz/praha11/img/articles/2018/2018-08-23-uklid-blankytu-12.jpg)
 
-![Úklid Blankytu](/assets/img/articles/2018/2018-08-23-uklid-blankytu-13.jpg)
+![Úklid Blankytu](https://a.pirati.cz/praha11/img/articles/2018/2018-08-23-uklid-blankytu-13.jpg)
 
-![Úklid Blankytu](/assets/img/articles/2018/2018-08-23-uklid-blankytu-14.jpg)
+![Úklid Blankytu](https://a.pirati.cz/praha11/img/articles/2018/2018-08-23-uklid-blankytu-14.jpg)
 
-![Úklid Blankytu](/assets/img/articles/2018/2018-08-23-uklid-blankytu-15.jpg)
+![Úklid Blankytu](https://a.pirati.cz/praha11/img/articles/2018/2018-08-23-uklid-blankytu-15.jpg)
 
 ---
 
