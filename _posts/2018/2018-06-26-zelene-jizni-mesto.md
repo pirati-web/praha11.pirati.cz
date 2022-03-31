@@ -4,8 +4,7 @@ category: blog
 tags:
   - ekologie
   - veřejný prostor
-  - Jižní Město
-  - Praha 11
+  - životní prostředí
 layout: post
 title: Zelené Jižní Město?
 author: Milan Minařík
