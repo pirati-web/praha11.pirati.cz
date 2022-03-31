@@ -2,11 +2,10 @@
 date: 2018-08-23
 category: blog
 tags:
-  - úklid
   - akce
+  - úklid
   - veřejný prostor
-  - Praha 11
-  - Jižní Město
+  - životní prostředí
 layout: post
 title: Úklid veřejného prostoru s Piráty na Jižním Městě se podařil
 author: Jan Suchánek
@@ -20,7 +19,7 @@ Když to nedokázalo zajistit současné vedení Městské části, tak to musel
 
 Piráti Praha 11
 
-![Úklid Blankytu](/assets/img/articles/2018/2018-08-23-uklid-blankytu-02.jpg)
+![Úklid Blankytu](image: articles/2018/2018-08-23-uklid-blankytu-02.jpg)
 
 ![Úklid Blankytu](/assets/img/articles/2018/2018-08-23-uklid-blankytu-03.jpg)
 
