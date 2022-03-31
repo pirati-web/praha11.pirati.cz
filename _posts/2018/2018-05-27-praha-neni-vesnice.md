@@ -3,9 +3,9 @@ date: 2018-05-28
 category: blog
 tags:
   - územní rozvoj
-  - praha 11
   - bydlení
-  - Sandra Opatov
+  - stavební záměry
+  - participace
 layout: post
 title: Praha není vesnice, bohužel nebo bohudík?
 author: Mgr. Jan Mejsnar
@@ -29,7 +29,8 @@ Výměna generací
 
 Komunistické plánování před rokem 1989 rozdělilo místa bydlení od továren, kanceláří i od divadel. Stereotypem se stalo zmizet na víkend na chatu nebo chalupu. Po revoluci se v tom pokračovalo. Investovaly se peníze do vnitřního okruhu a radiál, ať se autem rychle projede do centra a zpět. Veřejná doprava byla popelkou, na brownfieldy se uvalila stavební uzávěra a sto tisíc Pražanů se přestěhovalo do Středních Čech. Doba se ale mění, nové generace nechtějí vlastnit auta, natož chalupy. Chtějí si užívat veřejný prostor, tam kde zrovna bydlí, neplatit daň z nabytí nemovitosti, popít víno v pěkném parku, dojet sdíleným autem na letiště.
 
-#HustáPraha
+Hustá Praha
+
 Praha se zahušťovat bude, ale není možné přestavovat kotelny na 10-patrové domy a zničit výhled obyvatelům okolních paneláků ve stabilizovaném území. Jestli si developer za Bémovy éry uplatil změny kódů využitelnosti parcel, nemůže čekat, že mu za to budou občané a čestní politici tleskat.
 
 Mgr. Jan Mejsnar, Piráti Praha 11
