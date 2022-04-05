@@ -4,7 +4,7 @@ campaignCategoryUid: 2018-komunalni
 campaignGroupUid: volby-2018
 uid: socialni-sluzby
 order: 7
-garant: jan.mejsnar
+garant: jiri.dohnal
 redmine: 28137
 img: miscellaneous/socialni-sluzby.jpg
 intro: >
