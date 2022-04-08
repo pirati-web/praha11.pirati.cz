@@ -10,7 +10,11 @@ mapycz_api: true
 </style>
 <script type="text/javascript">
   var data = {{ site.data.map.posts | jsonify }}
-  var center = SMap.Coords.fromWGS84(14.44, 50.11);
+  var center = SMap.Coords.fromWGS84(14.52197968110267, 50.02830871275958);
+  
+  
+
+  
   var m = new SMap(JAK.gel("mapa"), center, 13);
   var l = new SMap.Layer.Marker();
 
