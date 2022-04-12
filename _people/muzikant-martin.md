@@ -11,7 +11,7 @@ category:
 description: člen MS Praha 11
 teamDescription:
   clenove: člen MS Praha 11
-  zas: předseda zsatupitelského klubu
+  zas: předseda zastupitelského klubu
 img: people/martin-muzikant.jpg
 heroImg: praha-11.jpg
 mail:
