@@ -8,9 +8,8 @@ category:
   - kontaktni_osoba
   - clenove
 ordpms: 2
-description: 1. místopředsedkyně MS Praha 11
+description: členka MS Praha 11
 teamDescription:
-  pms: 1. místopředsedkyně MS Praha 11
   clenove: členka MS Praha 11
 profession: geoinformatička
 img: people/bara-soukupova.jpg
