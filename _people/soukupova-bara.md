@@ -4,8 +4,6 @@ name: Bára Soukupová
 titles:		
   before: Mgr.
 category:
-  - pms
-  - kontaktni_osoba
   - clenove
 ordpms: 2
 description: členka MS Praha 11
@@ -22,9 +20,9 @@ profiles:
   evidence: https://evidence.pirati.cz/author/450/
   odmeny: https://nalodeni.pirati.cz/odmeny/bara.soukupova
 funkce:
-- členka republikového výboru
+- členka a jednatelka republikového výboru
 - 5. místopředsedkyně KS Praha
-- 1. místopředsedkyně MS Praha 11
+- kandidátka do zastupitelstva HMP
 ---
 
 Bára Soukupová (*1988) je geoinformatička. Dětství prožila v České Třebové v Pardubickém kraji. Studovala na Přírodovědecké fakultě UK geografii a kartografii, aplikovanou geoinformatiku a učitelství geografie.
