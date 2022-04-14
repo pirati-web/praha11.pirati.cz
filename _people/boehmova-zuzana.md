@@ -20,6 +20,7 @@ profiles:
   evidence: https://evidence.pirati.cz/author/291/
   odmeny: https://nalodeni.pirati.cz/odmeny/zuzana.boehmova
 funkce: 
+- kandidátka na starostu Prahy 11
 - koordinátorka krajských expertních týmů v oblasti IT a Smart City
 - mediální spojka P11 
 - předsedkyně místního expertního týmu otevřená radnice a digitalizace P11
