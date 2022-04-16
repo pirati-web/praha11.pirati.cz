@@ -1,7 +1,7 @@
 ---
 date: 2022-04-16
 category: blog
-title: "Nové přístřešky na zastávkách MHD"
+title: "Bezpečné cesty do škol - ZŠ a MŠ Chodov"
 layout: post
 author: Martin Duška
 authorId: martin.duska
