@@ -44,6 +44,8 @@ calendar: f3qhbmobjuqjojhmjbihr480cc@group.calendar.google.com
 
 K Pirátům se přihlásil v prosinci 2017. Členem strany se stal v dubnu 2018. Za Piráty kandidoval v roce 2018 do zastupitelstva městské části Praha 11, byl zvolen zastupitelem a následně se stal uvolněným místopředsedou Výboru pro územní rozvoj a životní prostředí. V současnosti je již druhé volební období předsedou místního sdružení Piráti Praha 11. Dále je zapojen do krajského expertního týmu pro územní rozvoj v rámci krajského sdružení Piráti Praha.
 
+<br> 
+<br> 
 
 
 <iframe width="700" height="750" src="https://calendar.google.com/calendar/u/0/embed?src=f3qhbmobjuqjojhmjbihr480cc@group.calendar.google.com&ctz=Europe/Prague"></iframe>
