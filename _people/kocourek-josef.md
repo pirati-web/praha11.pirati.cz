@@ -38,7 +38,7 @@ calendar: f3qhbmobjuqjojhmjbihr480cc@group.calendar.google.com
 
 
 
->*"Jižní Město mám rád a jinam bych se nestěhoval. Oceňuji  jeho lokalizací na okraji Prahy, komfortní spojení díky metru a zejména množství zeleně. Na Jižní Město jsem se přistěhoval v roce 1977. V průběhu života jsem se z Jižního Města odstěhoval, abych se sem před 20 lety vrátil. A žiju tu doposud. Chci se podílet na změně pocitu lidí, že radnice tu není pro developery, ale pro své občany"*, Josef Kocourek.
+>*"Jižní Město mám rád a jinam bych se nestěhoval. Oceňuji  jeho lokalizací na okraji Prahy, komfortní spojení díky metru a zejména množství zeleně. Na Jižní Město jsem se přistěhoval v roce 1977. V průběhu života jsem se z Jižního Města odstěhoval, abych se sem před 20 lety vrátil. A žiju tu doposud. Chci se podílet na změně pocitu lidí, že radnice tu není pro developery, ale pro své občany",* Josef Kocourek.
 
 **Josef Kocourek (*1964)** pochází z Prahy, kde vystudovala střední odborné učiliště Spojů, obor mechanik pro vnitřní telekomunikační zařízení. Po absolvování základní vojenské služby pracoval v oboru elektro, kde se vypracoval na šef-elektrikáře. Řídil zakázky a vedl tým elektrikářů. Později přešel do údržby, kde se následně stal správce budov. Jako skaut pomáhal při Kamenici nad Lipou zakládat místní organizaci. Má za sebou 12 táborů a dodnes je se skauty ve spojení. Mnoho let působil jako trenér házené. Jeho tým mini-žáků vyhrál Pražský přebor, což bylo v době, kdy došlo k experimentu rozdělení soutěže na chlapce a dívky. Je také členem speleologické organizace v Tetíně.
 
