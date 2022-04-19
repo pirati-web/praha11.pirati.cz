@@ -34,7 +34,7 @@ profession: projektová manažerka
 ---
 
 
->*"Jako v Praze narozená jsem si nedovedla přestavit život jinde, a tak jsem jen Severní město vyměnila za to Jižní. Vždy mě zajímalo dění kolem mě, od mládí jsem byla v tomto směru aktivní. Jsem ráda, že se mi za dobu mého působení na radnici podařilo posunout řadu věcí kupředu. Školství pro mě zůstává srdcovou záležitostí"* , Zuzana Ujhelyiová.
+>*"Jako v Praze narozená jsem si nedovedla přestavit život jinde, a tak jsem jen Severní město vyměnila za to Jižní. Vždy mě zajímalo dění kolem mě, od mládí jsem byla v tomto směru aktivní. Jsem ráda, že se mi za dobu mého působení na radnici podařilo posunout řadu věcí kupředu. Školství pro mě zůstává srdcovou záležitostí",* Zuzana Ujhelyiová.
 
 **Zuzana Ujhelyiová (*1983)** pochází z Prahy, kde vystudovala SPŠ zeměměřickou a následně katolickou teologii na Katolické teologické fakultě Univerzity Karlovy. Nyní dokončuje studium předškolní a mimoškolní pedagogiky. Profesně se věnovala práci v oblasti personalistiky a financí v českých i mezinárodních firmách a ve startupech. Nyní pracuje jako projektová manažerka na Úřadu vlády v kabinetu místopředsedy vlády pro digitalizaci.
 
