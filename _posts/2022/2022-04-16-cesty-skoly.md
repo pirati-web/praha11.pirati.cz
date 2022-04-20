@@ -14,7 +14,7 @@ tags:
 
 *Praha, 16. dubna 2022* – **Koncem února jsme odevzdali dopravní studii financovanou hl. m. Prahou, s cílem zajistit zkvalitnění pěších vazeb pro děti. Jedná se o celopražský projekt. Studie je společnou prací  Institutu plánování a rozvoje hlavního města Prahy, Technické správy komunikací, Městské části Praha 11 a Policie České republiky.**
 
-**Děkujeme organizaci [Pěšky městem](https://peskymestem.cz/skola/zs-chodov/?fbclid=IwAR08jU-Se3bw9O3690kRHF1Ca9eK_0KGjUZp2HPURK8PYQiiwU3Fb0B3Kew), která tento projekt iniciuje a provází jím.
+**Děkujeme organizaci [Pěšky městem](https://peskymestem.cz/skola/zs-chodov/?fbclid=IwAR08jU-Se3bw9O3690kRHF1Ca9eK_0KGjUZp2HPURK8PYQiiwU3Fb0B3Kew), která tento projekt iniciuje a provází jím.**
 
 Na studii se podílely samy děti, které na pocitových mapách či  přímo v terénu upozornily na místa, která považují za nebezpečná. Část podnětů byla vypořádána již v průběhu participace např. odtažení vraků a úprava zeleně.
 
