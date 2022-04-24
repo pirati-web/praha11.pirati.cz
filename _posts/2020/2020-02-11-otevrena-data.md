@@ -4,6 +4,7 @@ category: blog
 tags: 
   - otevřená data
   - transparentnost
+  - digitalizace
 layout: post
 author: Zuzana Böhmová
 authorId: zuzana.bohmova
