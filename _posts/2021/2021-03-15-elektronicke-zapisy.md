@@ -8,7 +8,7 @@ authorId: zuzana.ujhelyiova
 image: articles/2021/2021-03-15-elektronicke-zapisy.jpg
 tags: 
   - školství
-  - digitaliace
+  - digitalizace
   - eldektronické zápisy
 ---
 
