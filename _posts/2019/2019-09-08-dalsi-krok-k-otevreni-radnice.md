@@ -9,7 +9,7 @@ tags:
   - Piráti 
   - Praha 11 
   - otevřená radnice 
-  - digitaizace 
+  - digitalizace
   - transparence
 ---
 
