@@ -1,10 +1,10 @@
 ---
-date: 2022-05-28
+date: 2021-05-28
 category: blog
-title: "Bezpečné cesty do škol - ZŠ a MŠ Chodov"
+title: "Akce pro děti"
 layout: post
-author: Martin Duška
-authorId: martin.duska
+author: Zuzana Böhmová
+authorId: zuzana.boehmova
 image: articles/2022/2022-04-16-cesty-skoly.jpg
 tags: 
   - doprava
