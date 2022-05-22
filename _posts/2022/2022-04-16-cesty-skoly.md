@@ -8,7 +8,7 @@ authorId: martin.duska
 image: articles/2022/2022-04-16-cesty-skoly.jpg
 tags: 
   - doprava
-  - školsví
+  - školství
   - chodci
 ---
 
