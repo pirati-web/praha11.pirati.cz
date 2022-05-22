@@ -1,5 +1,5 @@
 ---
-date: 2021-05-28
+date: 2022-05-28
 category: blog
 title: "Stopovačky pro děti: Poznej Jižák a okolí"
 layout: post
