@@ -1,5 +1,5 @@
 ---
-date: 2021-05-22
+date: 2022-05-22
 category: blog
 title: "Co čeká naše školy v září?"
 layout: post
