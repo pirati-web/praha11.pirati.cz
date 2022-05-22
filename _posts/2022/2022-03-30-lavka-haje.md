@@ -10,7 +10,6 @@ tags:
   - rozpočet
   - investice
   - doprava
-  - školství
 ---
 
 *Praha, 30. března 2022* - **Cesty pro pěší jsou nedílnou součástí Jižního Města. V letošním roce nás čeká několik oprav v okolí stanice metra Háje. Tou nejvýznamnější je oprava lávky vedoucí od stanice metra, na ní pak bude navazovat i několik dalších oprav. Dne 29. 3. 2022 proto proběhla koordinační schůzka mezi společností Jihoměstská majetková  a. s. a městskou částí Praha 11.**
