@@ -5,7 +5,7 @@ title: "Energetická krize a pomoc městské části?"
 layout: post
 author: Zuzana Böhmová
 authorId: zuzana.boehmova
-image: articles/2022/2022-05-28-energetika.jpg
+image: articles/2022/2022-05-28-energetika2.jpg
 tags: 
   - energetika
   - program 2022
