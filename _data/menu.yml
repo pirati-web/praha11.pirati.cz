@@ -16,7 +16,9 @@ main:
   - link: /lide/
     name: Lidé
   - link: /program/
-    name: Program   
+    name: Program
+  - link: https://a.pirati.cz/praha11/plisty5
+    name: Pirátské listy
   - link: /kontakt/
     name: Kontakt
 
