@@ -8,7 +8,7 @@ category:
 description: registrovaný příznivec 
 teamDescription:
   priznivci: registrovaný příznivec
-img: 
+img: people/rimal-vojtech.jpg
 heroImg: praha-11.jpg
 profiles:
   facebook: 
