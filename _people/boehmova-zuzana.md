@@ -9,7 +9,7 @@ category:
 description: mediální spojka 
 teamDescription:
   clenove: koordinátorka gesce otevřená radnice a digitalizace
-img: people/zuzana-boehmova.jpg
+img: people/zuzana-boehmova2.jpg
 heroImg: praha-11.jpg
 mail:
   - zuzana.boehmova@pirati.cz
