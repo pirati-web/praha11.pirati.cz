@@ -10,7 +10,7 @@ contactPersons:
 ---
  <h1>Přidejte se k nám</h1>
 
-Zajámá vás co Piráti dělají a jak? [Ozvěte se nám](mailto:praha11@pirati.cz) nebo přijďte k nám na otevřenou schůzi. Pořádáme je obvykle první pondělí v měsíci, lokalita je vždy upřesněna. Všechny naše akce najdete v našem veřejném [kalendáři]([https://www.facebook.com/pg/pirati11.cz/events/?ref=page_internal](https://calendar.google.com/calendar/u/0/embed?src=0lmvrce8ph0t1mqa5uk4v98ui4@group.calendar.google.com&ctz=Europe/Prague). Sledujte náš [Facebook](https://www.facebook.com/pg/pirati11.cz/events/?ref=page_internal).
+Zajámá vás co Piráti dělají a jak? [Ozvěte se nám](mailto:praha11@pirati.cz) nebo přijďte k nám na otevřenou schůzi. Pořádáme je obvykle první pondělí v měsíci, lokalita je vždy upřesněna. Všechny naše akce najdete v našem veřejném [kalendáři](https://calendar.google.com/calendar/u/0/embed?src=0lmvrce8ph0t1mqa5uk4v98ui4@group.calendar.google.com&ctz=Europe/Prague). Sledujte náš [Facebook](https://www.facebook.com/pg/pirati11.cz/events/?ref=page_internal).
 
 <h1>Přispějte nám</h1>
 Pokud chcete darovat peníze přímo MS Piráti Praha 11:<br>
