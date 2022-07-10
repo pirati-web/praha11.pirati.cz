@@ -4,12 +4,10 @@ name: Jan Žák
 titles:
   before: Ing.
 category:
-  - pms
   - clenove
 ordpms: 3
-description: 2. místopředseda
+description: člen MS Praha 11
 teamDescription:
-  pms: 2. místopředseda
   clenove: člen MS Praha 11
 img: people/jan-zak.jpg
 heroImg: praha-11.jpg
