@@ -6,7 +6,7 @@ keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 noresidence: yes
 contactPersons:
   - josef.kocourek
-  - zuzana.boehmova
+  - zuzana.bohmova
 ---
  <h1>Přidejte se k nám</h1>
 
