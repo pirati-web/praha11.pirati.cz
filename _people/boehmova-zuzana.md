@@ -6,6 +6,7 @@ titles:
 category:
   - kandidat-obec
   - clenove
+categories: kontaktni_osoba    
 description: mediální spojka 
 teamDescription:
   clenove: koordinátorka gesce otevřená radnice a digitalizace
