@@ -11,16 +11,16 @@ top:
 
 
 main:
-  - link: /aktuality/
-    name: Aktuality
-  - link: /lide/
-    name: Lidé
-  - link: /program/
-    name: Program
-  - link: https://a.pirati.cz/praha11/plisty5
-    name: Pirátské listy
-  - link: /kontakt/
-    name: Kontakt
+  - name: Aktuality
+    link: /aktuality/
+  - name: Lidé
+    link: /lide/
+  - name: Program
+    link: /program/
+  - name: Pirátské listy
+    link: https://a.pirati.cz/praha11/plisty5
+  - name: Kontakt
+    link: /kontakt/
 
 bottom:
   - class: small-12 medium-4
