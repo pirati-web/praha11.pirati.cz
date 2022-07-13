@@ -17,6 +17,3 @@ customizeHeader: true
 {% include elections-header.html mainContent=mainContent subContent=subContent %}
 
 
-
-    	<p>Na Praze 11 jsou Piráti ve čtyřkoalici spolu s ANO, TOP09&STAN a ODS. Nebude tak snadné prosadit všechny body <a href="/volby/2018-komunalni.html?pohled=program">původního volebního programu</a>, ale snažíme se udělat a prosadit maximum možného.</p>
-
