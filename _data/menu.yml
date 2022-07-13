@@ -15,8 +15,12 @@ main:
     link: /aktuality/
   - name: Lidé
     link: /lide/
-  - name: Program
-    link: /program/
+  - name: Volby
+    submenu:
+      - name: Komunální volby 2022
+        link: /volby/2022-komunalni.html
+      - name: Komunální volby 2018
+        link:  /program/
   - name: Pirátské listy
     link: https://a.pirati.cz/praha11/plisty5
   - name: Kontakt
