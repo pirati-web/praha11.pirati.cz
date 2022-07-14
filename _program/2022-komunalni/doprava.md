@@ -8,5 +8,5 @@ garant: martin.duska
 redmine: 
 img: miscellaneous/otevrena-radnice.jpg
 intro: >
-  
+  Program se připravuje
 ---
