@@ -6,7 +6,7 @@ uid: socialni-sluzby
 order: 8
 garant: jiri.dohnal
 redmine: 28143
-img: program/otevrena-radnice.jpg
+img: miscellaneous/zdravotnictvi.jpg
 intro: >
   
 ---
