@@ -8,5 +8,5 @@ garant: jiri.dohnal
 redmine: 
 img: miscellaneous/uzemni-rozvoj.jpg
 intro: >
-  
+  Program se připravuje
 ---
