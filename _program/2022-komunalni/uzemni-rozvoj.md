@@ -1,7 +1,7 @@
 ---
 title: Územní rozvoj
-campaignCategoryUid: 2018-komunalni
-campaignGroupUid: volby-2018
+campaignCategoryUid: 2022-komunalni
+campaignGroupUid: volby-2022
 uid: uzemni-rozvoj
 order: 3
 garant: josef.kocourek
