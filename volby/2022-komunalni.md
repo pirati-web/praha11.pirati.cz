@@ -4,7 +4,7 @@ campaignCategoryUid: 2022-komunalni
 candidateListUid: 2022-komunalni
 customizeHeader: true
 ---
-
+ 
 {% capture mainContent %}
   <h1 class="head-alt-lg md:head-alt-xl text-center">Komunální volby 2022</h1>
 {% endcapture %}
