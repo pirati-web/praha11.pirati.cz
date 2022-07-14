@@ -6,7 +6,7 @@ uid: socialni-sluzby
 order: 7
 garant: jiri.dohnal
 redmine: 28137
-img: miscellaneous/socialni-sluzby.jpg
+img: miscellaneous/socialni.jpg
 intro: >
   
 ---
