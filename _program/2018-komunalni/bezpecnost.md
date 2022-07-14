@@ -6,7 +6,7 @@ uid: bezpecnost
 order: 6
 garant: jiri.dohnal
 redmine: 28145
-img: program/otevrena-radnice.jpg
+img: program/sluzby.jpg
 intro: >
   
 ---
