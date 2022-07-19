@@ -1,5 +1,5 @@
 ---
-uid: rimal.vojtech
+uid: vojtech.rimal
 name: Vojtěch Římal
 titles:
   before: 
