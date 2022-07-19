@@ -2,7 +2,7 @@
 uid: radoslav.ruzicka
 name: Radoslav Růžička
 titles:
-  before: Mgr
+  before: Mgr.
 category:
   - priznivci
 description: registrovaný příznivec
