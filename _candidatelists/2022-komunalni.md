@@ -62,7 +62,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     party: BEZ PP
   - uid: robert.masare
     age: 23
-    profession: data analyst
+    profession: PR asistent, student
     party: BEZ PP
   - uid: martin.muzikant
     age: 47 
