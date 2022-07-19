@@ -3,7 +3,7 @@ title: Kandidáti do zastupitelstva MČ Praha 11
 uid: 2022-komunalni
 number: 4
 leader:
-  uid: zuzana.boehmova
+  uid: zuzana.bohmova
   age: 32
   profession: středoškolská pedagožka
   party: Piráti
