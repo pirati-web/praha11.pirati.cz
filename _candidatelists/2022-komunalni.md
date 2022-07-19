@@ -44,23 +44,23 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 39
     profession: projektový manažer
     party: BEZ PP
-   - uid: tomas.kapler
+  - uid: tomas.kapler
     age: 44
     profession: marketing manager, konzultant STEM vzdělávání
     party: Piráti 
-    - uid: vaclav.sebek
+  - uid: vaclav.sebek
     profession: konzultant energetických úspor
     party: Piráti
     age: 35
-   - uid: lada.peksova
+  - uid: lada.peksova
     age: 31
     profession: data analyst
     party: Piráti
-   - uid: vojtech.rimal
+  - uid: vojtech.rimal
     age: 25
     profession: číšník
     party: BEZ PP
-   - uid: robert.masare
+  - uid: robert.masare
     age: 23
     profession: data analyst
     party: BEZ PP
@@ -93,7 +93,7 @@ tail:
     age: 47
     profession: ředitelka neziskové organizace
     party: BEZ PP   
-   - name: Kateřina Rutterová
+  - name: Kateřina Rutterová
     age: 35
     profession: cukrářka
     party: BEZ PP  
