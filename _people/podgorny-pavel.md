@@ -1,5 +1,5 @@
 ---
-uid: pavel.podgrony
+uid: pavel.podgorny
 name: Pavel Podgorný
 titles:
   before: Ing.
