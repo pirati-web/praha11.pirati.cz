@@ -5,7 +5,7 @@ title: "Starochodovská škola má dustojné prostory"
 layout: post
 author: Zuzana Ujhelyiová
 authorId: zuzana.ujhelyiova
-image: articles/2022/2022-07-21-starochodovskay.JPG
+image: articles/2022/2022-07-21-starochodovskay.jpg
 tags: 
   - školství
   - majetek
