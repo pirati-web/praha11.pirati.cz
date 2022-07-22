@@ -13,7 +13,7 @@ teamDescription:
 img: people/martin-petrtyl.jpg
 heroImg: praha-11.jpg
 profiles:
-  facebook: https://www.facebook.com/martin.petrtyl
+  facebook: https://www.facebook.com/martin.petrtyl1
 funkce: 
 - člen Bezpečnostní komise RMČ P 11
 - člen Komise pro kulturu a spolky RMČ P 11
