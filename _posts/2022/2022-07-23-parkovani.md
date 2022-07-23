@@ -11,7 +11,7 @@ tags:
   - Pirátské listy léto 2022
 ---
 
-*Pirátské listy Praha 11, léto 2022* – Akorát že vůbec! Po dlouhých letech jsme přistoupili k řešení problematiky parkování jako první. Na našem sídlišti jde o strukturální problém způsobený výstavbou bytových domů v době, kdy se s masivním boomem automobilismu nepočítalo a parkování se nevěnovala pozornost.
+*Pirátské listy Praha 11, léto 2022* – **Akorát že vůbec! Po dlouhých letech jsme přistoupili k řešení problematiky parkování jako první. Na našem sídlišti jde o strukturální problém způsobený výstavbou bytových domů v době, kdy se s masivním boomem automobilismu nepočítalo a parkování se nevěnovala pozornost.**
 
 Řešení parkování je kombinací několika disciplín:
 1. aktivní dopravní politiky,
