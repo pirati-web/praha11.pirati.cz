@@ -10,7 +10,7 @@ ordclenove: 14
 description: registrovaný příznivec
 teamDescription:
   priznivci: registrovaný příznivec
-img: people/martin_petrtyl1.jpg
+img: people/martin_petrtyl.jpg
 heroImg: praha-11.jpg
 profiles:
   facebook: https://www.facebook.com/martin.petrtyl1
