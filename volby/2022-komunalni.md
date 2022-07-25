@@ -1,7 +1,6 @@
 ---
 layout: communal-elections
 title: Komunální volby v roce 2022
-campaignCategoryUid: 2022-komunalni
 candidateListUid: 2022-komunalni
 customizeHeader: true
 ---
@@ -11,7 +10,7 @@ customizeHeader: true
 {% endcapture %}
 
 {% capture subContent %}
-  <h2 class="head-xs md:head-base mt-2 text-center">Program <strong>se připravuje</strong></h2>
+  <h2 class="head-xs md:head-base mt-2 text-center"><strong>Máme odvahu řídit Prahu 11 správně</strong></h2>
 {% endcapture %}
 
 {% include elections-header.html mainContent=mainContent subContent=subContent %}
