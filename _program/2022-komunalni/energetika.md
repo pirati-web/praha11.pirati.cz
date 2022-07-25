@@ -1,7 +1,7 @@
 ---
 title: Energetika
-campaignCategoryUid: 2022-komunalni
-campaignGroupUid: volby-2022
+campaignCategoryUid: 
+campaignGroupUid: 
 uid: energetika
 order: 7
 garant: zuzana.bohmova
