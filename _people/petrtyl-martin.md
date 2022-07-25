@@ -10,10 +10,10 @@ ordclenove: 14
 description: registrovaný příznivec
 teamDescription:
   priznivci: registrovaný příznivec
-img: people/martin_petrtyl.jpg
+img: people/martin_petrtyl1.jpg
 heroImg: praha-11.jpg
 profiles:
-  facebook: https://www.facebook.com/martin.petrtyl1
+  facebook: https://www.facebook.com/martin.petrtyl
 funkce: 
 - člen Bezpečnostní komise RMČ P 11
 - člen Komise pro kulturu a spolky RMČ P 11
