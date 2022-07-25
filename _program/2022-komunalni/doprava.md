@@ -1,7 +1,7 @@
 ---
 title: Doprava
-campaignCategoryUid: 2022-komunalni
-campaignGroupUid: volby-2022
+campaignCategoryUid: 
+campaignGroupUid: 
 uid: doprava
 order: 4
 garant: martin.duska
