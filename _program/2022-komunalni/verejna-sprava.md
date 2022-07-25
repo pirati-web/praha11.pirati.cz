@@ -5,10 +5,10 @@ campaignGroupUid:
 uid: verejna-sprava
 order: 2
 garant: zuzana.bohmova
-redmine: 28149  
+redmine:  
 img: miscellaneous/otevrena-radnice.jpg
 intro: >
-Každý občan musí mít možnost zapojit se do veřejného života a sledovat a komentovat kroky radnice, a to pohodlně ze svého domova. Chceme výrazně vylepšit webové stránky Prahy 11, aby všichni zájemci rychle našli požadované informace a mohli s úřadem pohodlně komunikovat online.
+    Každý občan musí mít možnost zapojit se do veřejného života a sledovat a komentovat kroky radnice, a to pohodlně ze svého domova. Chceme výrazně vylepšit webové stránky Prahy 11, aby všichni zájemci rychle našli požadované informace a mohli s úřadem pohodlně komunikovat online.
 ---
 
 ### Každý z nás je součástí
