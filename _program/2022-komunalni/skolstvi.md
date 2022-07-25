@@ -1,7 +1,7 @@
 ---
 title: Školství
-campaignCategoryUid: 2022-komunalni
-campaignGroupUid: volby-2022
+campaignCategoryUid: 
+campaignGroupUid: 
 uid: skolstvi
 order: 1
 garant: zuzana.ujhelyiova
