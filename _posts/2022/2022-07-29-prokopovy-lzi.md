@@ -1,5 +1,4 @@
 ---
-date: 2020-07-29
 category: blog
 title: "Ondřej Prokop z hnutí ANO si přivlatňuje zásluhy jiných. Umí se akorát vyfotit a lhát."
 layout: post
