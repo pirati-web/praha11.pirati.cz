@@ -10,7 +10,7 @@ tags:
   - 
 ---
 
-**Na sociálních sítích se začíná šířit odkaz, kde odvolaný místostarosta z hnutí ANO Ondřej Prokop tvrdí, co všechno u nás na jedenáctce odmakal. Jak je u Ondřeje zvykem, většina informací se ale nezakládá na pravdě. Opět je nutno připomenout, že Ondřej byl odvolaný hlavně za to, že pro naší městskou část nepracoval. To je holý fakt, i když Ondřej všude vypráví něco jiného. Je také důležité říci, že byl odvolán lidmi napříč celým zastupitelstvem Prahy 11. **
+**Na sociálních sítích se začíná šířit odkaz, kde odvolaný místostarosta z hnutí ANO Ondřej Prokop tvrdí, co všechno u nás na jedenáctce odmakal. Jak je u Ondřeje zvykem, většina informací se ale nezakládá na pravdě. Opět je nutno připomenout, že Ondřej byl odvolaný hlavně za to, že pro naší městskou část nepracoval. To je holý fakt, i když Ondřej všude vypráví něco jiného. Je také důležité říci, že byl odvolán lidmi napříč celým zastupitelstvem Prahy 11.**
 
 Pojďme si uvést pár věcí na pravou míru. 
 
