@@ -45,9 +45,11 @@ Akce primárně patří do mé gesce, s jednotlivými odbory a gesčními radní
 ### Pokračování restaurace v Chodovské tvrzi <br>
 O pokračování se zasadili především místní, kteří organizovali petici. Mimo jiné s peticí pomáhali piráti Jan Suchánek a Tomáš Kapler. Změnu způsobu pronájmu jsem pak vyjednal já. Opět si tak Ondřej Prokop přisluhuje zásluhy jiných. 
 
-### Dostavba Sandry <br>
+### Dostavba Sandry
 Ondřej Prokop si byl vědom minimálně od léta 2020 zatékání do budovy Sandra v průběhu její rekonstrukce, za kterou byl odpovědný, ale tuto situaci nijak neřešil. Vědomě tak ohrozil investici za zhruba 400 milionů korun. Místo drobné včasné opravy pak po roce zatékání do budovy navrhoval v létě 2021 obří zakázku na opravu střechy a pláště budovy. S radou MČ Praha 11 projektovou dokumentaci vůbec nekonzultoval. Musel přitom vědět, že MČ Praha 11 na tuto zakázku nemá v rozpočtu peníze a ani nemá zažádáno o dotace, ze kterých by bylo možné zmíněných chybějících cca 150 milionů Kč na zakázku zajistit. 
+
 Je škoda, že Ondřej se dlouhodobě chlubí cizím peřím. Moc nechápu, proč se chlubí dopravními věcmi, když když nedokáže rozpoznat parkovací pruh od pruhu pro cyklisty.
+
 Zajímavé informace o Ondřejovi najdete také na webu [praha.pirati.cz/prokop](http://praha.pirati.cz/prokop). Tam najdete třeba skvělé informace o tom, proč byl Ondřej Prokop odvolán, lžích kolem areálu ledových sportů a také škody způsobené prodlením Ondřeje Prokopa při řešení zatékání do budovy Sandry. 
 
 Podtrženo sečteno. Ondřej Prokop se rád fotí, ale pracovat se mu zkrátka moc nechce.
