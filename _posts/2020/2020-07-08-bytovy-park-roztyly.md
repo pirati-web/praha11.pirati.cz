@@ -3,8 +3,7 @@ date: 2020-07-08
 category: blog
 tags: 
   - územní rozvoj
-  - Roztyly
-  - výstavba
+  - bydlení
 layout: post
 author: Josef Kocourek
 authorId: josef.kocourek
