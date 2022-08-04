@@ -4,7 +4,6 @@ category: blog
 tags:
   - územní rozvoj
   - bydlení
-  - stavební záměry
   - participace
 layout: post
 title: Praha není vesnice, bohužel nebo bohudík?
