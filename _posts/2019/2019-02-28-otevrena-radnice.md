@@ -2,8 +2,9 @@
 date: 2019-02-28
 category: blog
 tags:
-  - praha 11
-  - piráti
+  - otevřená radnice
+  - digitalizace
+  - zastupitelstvo
 layout: post
 author: Mgr. Zuzana Böhmová
 authorId: zuzana.bohmova
