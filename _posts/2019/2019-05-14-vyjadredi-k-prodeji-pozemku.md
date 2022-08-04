@@ -2,7 +2,8 @@
 date: 2019-05-14
 category: blog
 tags: 
-  - Piráti
+  - územní rozvoj
+  - majetek
 layout: post
 title: Vyjádření k prodeji pozemků Roztyly - Passer
 author: Josef Kocourek
