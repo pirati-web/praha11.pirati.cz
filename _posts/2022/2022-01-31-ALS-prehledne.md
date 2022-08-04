@@ -10,6 +10,7 @@ tags:
   - Areál ledových sportů
   - majetek
   - finance
+  - sport a volný čas
 ---
 
 *Praha, 31. ledna 2022* – **Projekt Areálu ledových sportů, který vzniká na pozemku Základní školy Ke Kateřinkám, v poslední době hýbe Prahou 11. Jedná se o vybudování sportovního areálu s ledovou plochou pro bruslení, curlingovou plochou, ale také s dalšími menšími sportovišti (ta již jsou postavena). Halu Areálu ledových sportů staví společnost AR DELTA a.s., ve které je městská část Praha 11 polovičním vlastníkem akcií firmy. Areál by měl sloužit nejen obyvatelům naší městské části, ale i pro další obyvatele Prahy. Dohodnuté jsou také pravidelné hodiny pro děti ZŠ Ke Kateřinkám, která by v areálu měla mít rezervováno 5 hodin týdně. Možnost využít areál budou mít i další jihoměstské školy.**
