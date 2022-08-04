@@ -2,7 +2,7 @@
 date: 2019-10-01
 category: blog
 tags: 
-  - Piráti
+  - školství
 layout: post
 title: Shrnutí půlroční práce na radnici
 author: Zuzana Ujhelyiová
