@@ -7,10 +7,9 @@ author: Zuzana Böhmová
 authorId: zuzana.bohmova
 image: articles/2022/2022-08-04-centralnipark-rozhovor.jpg
 tags: 
-  - transparence
-  - otevřená radnice
-  - digitalizace
-  - IT
+  - rozhovor
+  - životní prostředí
+  - sport a volný čas
   - Pirátské listy léto 2022
 ---
 
