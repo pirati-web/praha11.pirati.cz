@@ -2,7 +2,6 @@
 date: 2018-09-23
 category: blog
 tags:
-  - participace
   - otevřená radnice
 layout: post
 title: Zhodnocení projektu „Spolu za lepší Jedenáctku“
