@@ -2,9 +2,7 @@
 date: 2018-09-23
 category: blog
 tags:
-  - praha 11
-  - jižní město
-  - piráti
+  - školství
 layout: post
 title: Nechte si chutnat
 author: Mgr. Zuzana Ujhelyiová
