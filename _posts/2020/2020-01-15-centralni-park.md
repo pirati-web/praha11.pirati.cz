@@ -5,6 +5,7 @@ tags:
   - akce
   - životní prostředí
   - veřejný prostor
+  - sport a volný čas
 layout: post
 author: Zuzana Böhmová
 authorId: zuzana.bohmova
