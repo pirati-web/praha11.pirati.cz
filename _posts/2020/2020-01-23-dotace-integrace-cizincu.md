@@ -2,9 +2,8 @@
 date: 2020-01-23
 category: blog
 tags: 
-  - dotace
-  - integrace cizinců 
   - školství
+  - finance
 layout: post
 author: Zuzana Böhmová
 authorId: zuzana.bohmova
