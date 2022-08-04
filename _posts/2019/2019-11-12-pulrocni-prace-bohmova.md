@@ -2,7 +2,9 @@
 date: 2019-11-12
 category: blog
 tags: 
-  - Piráti
+  - otevřená radnice
+  - digitalizace
+  - finance
 layout: post
 title: Shrnutí půlroční práce na radnici
 author: Zuzana Böhmová
