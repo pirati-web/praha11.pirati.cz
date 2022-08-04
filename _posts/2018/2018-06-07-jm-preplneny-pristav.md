@@ -2,9 +2,7 @@
 date: 2018-06-07
 category: blog
 tags:
-  - cyklistika
   - doprava
-  - parkování
 layout: post
 title: Jižní Město - přeplněný přístav
 author: Ing. Ladislav Kos ml.
