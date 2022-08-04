@@ -17,3 +17,6 @@ image: articles/2020/2020-02-11-otevrena-data.jpg
 V rámci městské části se může jednat například o ekonomická data, seznam volných nebytových prostor nebo třeba seznam sportovišť. Nad těmito daty pak může kdokoliv sestavit aplikaci, která by Vám mohla ukázat na mapě třeba všechny nebytové prostory určené k pronájmu. Další výhodou přímo pro úřad je vyčistění a srovnání svých vlastních dat, tedy udělat si ve svých vlastních informacích pořádek.
 
 V současné době UMČ Praha 11 pracuje na interní směrnici, kterou již minulý týden kladně projednala porada vedení. Následně bychom měli vybrat datové sady a vytvořit publikační plán. Naše data chceme zveřejňovat na [pražském portále](http://opendata.praha.eu/). Inspirací nám v této oblasti je práce radního [Adama Zábranského](https://praha.pirati.cz/lide/adam-zabransky/) na magistrátu hl. m. Prahy.
+
+Otevřená data Prahy 11 jsou zveřejňována od dubna 2020 na portále [ZDE](https://opendata.praha.eu/organization/praha-11).
+
