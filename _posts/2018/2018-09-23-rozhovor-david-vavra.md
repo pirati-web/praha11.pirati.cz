@@ -3,7 +3,7 @@ date: 2018-09-23
 category: blog
 tags:
   - rozhovor
-  - umění
+  - kultura
   - územní rozvoj
 layout: post
 title: Architektura není předmětem jednoho volebního období, říká architekt David Vávra
