@@ -2,8 +2,9 @@
 date: 2020-03-12
 category: blog
 tags: 
-  - radnice
-  - Praha 11
+  - majetek
+  - doprava
+  - otevřená radnice
 layout: post
 author: Jiří Dohnal
 authorId: jiri.dohnal
