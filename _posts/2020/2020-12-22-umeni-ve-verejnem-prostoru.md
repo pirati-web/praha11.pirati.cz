@@ -7,8 +7,7 @@ author: Martin Duška
 authorId: martin.duska
 image: articles/2020/2020-12-22-umeni-ve-verejnem-prostoru.JPG
 tags: 
-  - umění
-  - graffiti
+  - kultura
   - veřejný prostor
 ---
 
