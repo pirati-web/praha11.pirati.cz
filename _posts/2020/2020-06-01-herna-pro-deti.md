@@ -3,7 +3,7 @@ date: 2020-06-01
 category: blog
 tags: 
   - děti 
-  - herny
+  - sport a volný čas
 layout: post
 author: Zuzana Böhmová
 authorId: zuzana.bohmova
