@@ -2,7 +2,7 @@
 date: 2018-11-01
 category: blog
 tags:
-  - piráti
+  - volby
 layout: post
 title: Tisková zpráva - Prohlášení Pirátů Praha 11 k povolebnímu vyjednávání koalice na Jižním Městě ze dne 1.11.2018
 author: Milan Minařík
