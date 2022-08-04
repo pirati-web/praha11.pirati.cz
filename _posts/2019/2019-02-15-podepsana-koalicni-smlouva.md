@@ -2,8 +2,8 @@
 date: 2019-02-15
 category: blog
 tags:
-  - praha 11
-  - piráti
+  - volby
+  - zastupitelstvo
 layout: post
 author: Milan Minařík
 authorId: milan.minarik
