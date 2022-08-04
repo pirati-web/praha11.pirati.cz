@@ -2,9 +2,10 @@
 date: 2020-02-18
 category: blog
 tags: 
-  - AR DELTA
-  - člen správní rady
-  - výběrové řízení
+  - Areál ledových sportů
+  - majetek
+  - finance
+  - sport a volný čas
 layout: post
 author: Milan Minařík
 authorId: milan.minarik
