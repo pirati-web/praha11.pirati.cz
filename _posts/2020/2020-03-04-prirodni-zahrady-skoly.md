@@ -4,7 +4,6 @@ category: blog
 tags: 
   - školství
   - životní prostředí
-  - enviromentální výchova
 layout: post
 author: Zuzana Ujhelyiová
 authorId: zuzana.ujhelyiova
