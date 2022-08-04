@@ -3,7 +3,7 @@ date: 2018-06-10
 category: blog
 tags:
   - školství
-  - transparentnost
+  - otevřená radnice
 layout: post
 title: Svěží vítr do jihoměstských škol
 author: Mgr. Zuzana Ujhelyiová
