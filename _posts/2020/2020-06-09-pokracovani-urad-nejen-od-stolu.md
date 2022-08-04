@@ -2,8 +2,9 @@
 date: 2020-06-09
 category: blog
 tags: 
-  - radnice
-  - Praha 11
+  - majetek
+  - doprava
+  - akce
   - veřejný prostor
 layout: post
 author: Jiří Dohnal
