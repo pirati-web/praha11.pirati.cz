@@ -2,7 +2,7 @@
 date: 2018-06-10
 category: blog
 tags:
-  - participace
+  - otevřená radnice
   - zastupitelstvo
 layout: post
 title: Piráti jsou na Praze 11 doma!
