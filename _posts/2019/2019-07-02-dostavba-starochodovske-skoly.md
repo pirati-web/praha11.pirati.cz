@@ -2,7 +2,8 @@
 date: 2019-07-02
 category: blog
 tags: 
-  - Piráti
+  - školství
+  - majetek
 layout: post
 title: Začala stavba západního křídla Starochodovské školy
 author: Zuzana Böhmová
