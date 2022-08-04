@@ -2,9 +2,9 @@
 date: 2020-05-05
 category: blog
 tags: 
-  - Praha 11
-  - Výbor pro územní rozvoj a životní prostředí
   - územní rozvoj
+  - otevřená radnice
+  - digitalizace
 layout: post
 author: Josef Kocourek
 authorId: josef.kocourek
