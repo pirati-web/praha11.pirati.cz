@@ -3,7 +3,7 @@ date: 2018-08-23
 category: blog
 tags:
   - rozhovor
-  - umění
+  - kultura
 layout: post
 title: Výtvarnice Martina Walterová Ráda dávám věci do nezvyklých souvislostí
 author: Michal Kovaří
