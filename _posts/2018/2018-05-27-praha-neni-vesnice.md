@@ -4,7 +4,7 @@ category: blog
 tags:
   - územní rozvoj
   - bydlení
-  - participace
+  - otevřená radnice
 layout: post
 title: Praha není vesnice, bohužel nebo bohudík?
 author: Mgr. Jan Mejsnar
