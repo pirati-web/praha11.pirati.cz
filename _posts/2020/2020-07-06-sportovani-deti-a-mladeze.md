@@ -2,9 +2,9 @@
 date: 2020-07-06
 category: blog
 tags: 
-  - sport
-  - sportovní oddíly
-  - hřiště
+  - sport a volný čas
+  - finance
+  - školství
 layout: post
 author: Otmar Litera
 authorId: otmar.litera
