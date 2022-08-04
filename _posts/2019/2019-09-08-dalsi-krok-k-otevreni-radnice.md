@@ -6,11 +6,8 @@ date: 2019-09-08T00:00:00.000Z
 author: Zuzana Böhmová
 image: articles/2019/2019-09-08-dalsi-krok-k-otevreni-radnice.jpg
 tags: 
-  - Piráti 
-  - Praha 11 
   - otevřená radnice 
   - digitalizace
-  - transparence
 ---
 
 V prvním zářijovém týdnu se konal již šestý Výbor pro otevřenou radnici a digitalizaci (VORAD). Na programu tentokrát byla především otevřená data a změny jednacích řádů výborů a komisí.
