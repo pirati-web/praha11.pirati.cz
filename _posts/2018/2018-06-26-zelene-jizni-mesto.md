@@ -2,7 +2,6 @@
 date: 2018-06-26
 category: blog
 tags:
-  - ekologie
   - veřejný prostor
   - životní prostředí
 layout: post
