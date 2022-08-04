@@ -2,9 +2,8 @@
 date: 2018-09-21
 category: blog
 tags:
-  - piráti
-  - listy
-  - praha 11
+  - volby
+  - program
 layout: post
 title: Úvodník kandidáta na starostu Prahy 11 Jiřího Dohnala
 author: Jiří Dohnal
