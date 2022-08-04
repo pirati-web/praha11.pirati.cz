@@ -3,9 +3,6 @@ date: 2020-03-06
 category: blog
 tags: 
   - školství
-  - školská rada
-  - začít spolu
-  - ZŠ Pošepného
 layout: post
 author: Zuzana Ujhelyiová
 authorId: zuzana.ujhelyiova
