@@ -2,7 +2,7 @@
 date: 2018-10-06
 category: blog
 tags:
-  - piráti
+  - volby
 layout: post
 title: Jedním slovem. Děkujeme!
 author: Milan Minařík
