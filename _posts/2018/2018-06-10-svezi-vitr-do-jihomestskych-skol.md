@@ -4,7 +4,6 @@ category: blog
 tags:
   - školství
   - transparentnost
-  - výběrové řízení
 layout: post
 title: Svěží vítr do jihoměstských škol
 author: Mgr. Zuzana Ujhelyiová
