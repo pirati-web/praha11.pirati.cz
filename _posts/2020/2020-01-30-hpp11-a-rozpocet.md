@@ -2,8 +2,11 @@
 date: 2020-01-30
 category: blog
 tags: 
-  - HPP 11
-  - rozpočet opozice
+  - finance
+  - majetek
+  - kultura
+  - sport a volný čas
+  - sociální politika a zdravotnictví
 layout: post
 author: Martin Muzikant
 authorId: martin.muzikant
