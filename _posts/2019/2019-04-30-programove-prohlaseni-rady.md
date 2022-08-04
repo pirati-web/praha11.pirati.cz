@@ -2,9 +2,8 @@
 date: 2019-04-30
 category: blog
 tags: 
-  - Piráti
-  - Programové prohlášení Rady MČ
-  - Praha 11
+  - zastupitelstvo
+  - volby
 layout: post
 title: Programové prohlášení Rady MČ Praha 11
 author: Milan Minařík
