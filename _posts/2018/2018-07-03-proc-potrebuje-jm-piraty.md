@@ -4,8 +4,7 @@ category: blog
 tags:
   - bydlení
   - digitalizace
-  - participace
-  - transparentnost
+  - otevřená radnice
   - veřejný prostor
 layout: post
 title: Proč potřebuje Jižní Město Piráty?
