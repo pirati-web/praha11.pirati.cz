@@ -2,9 +2,8 @@
 date: 2018-09-23
 category: blog
 tags:
-  - praha 11
-  - jižní město
-  - piráti
+  - Magistrát
+  - volby
 layout: post
 title: Jihoměstský kandidát Pirátů na Primátora Prahy
 author: MUDr. Zdeněk Hřib 
