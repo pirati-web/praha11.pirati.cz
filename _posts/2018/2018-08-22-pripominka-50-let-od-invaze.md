@@ -3,7 +3,6 @@ date: 2018-08-22
 category: blog
 tags:
   - akce
-  - demokracie
 layout: post
 title: Piráti z Prahy 11 si připomněli 50 let od invaze vojsk Varšavské smlouvy
 author: Milan Minařík
