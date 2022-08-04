@@ -6,6 +6,7 @@ tags:
   - doprava
   - akce
   - veřejný prostor
+  - otevřená radnice
 layout: post
 author: Jiří Dohnal
 authorId: jiri.dohnal
