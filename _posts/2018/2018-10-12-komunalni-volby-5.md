@@ -2,7 +2,7 @@
 date: 2018-10-12
 category: blog
 tags:
-  - piráti
+  - volby
 layout: post
 title: Vyjednávání týmu Pirátů se zástupci ODS
 author: Milan Minařík
