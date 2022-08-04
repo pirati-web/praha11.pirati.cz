@@ -2,7 +2,11 @@
 date: 2019-01-16
 category: blog
 tags:
-  - piráti
+  - zastupitelstvo
+  - majetek
+  - školství
+  - veřejný prostor
+  - otevřená radnice
 layout: post
 author: Milan Minařík
 authorId: milan.minarik
