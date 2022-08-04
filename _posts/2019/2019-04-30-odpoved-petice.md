@@ -2,9 +2,7 @@
 date: 2019-04-30
 category: blog
 tags: 
-  - piráti
-  - Praha 11 
-  - petice
+  - otevřená radnice
 layout: post
 title: Otázky a odpovědi na dotaz o peticích
 author: Zuzana Böhmová
