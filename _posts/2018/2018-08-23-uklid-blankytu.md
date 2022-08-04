@@ -3,7 +3,6 @@ date: 2018-08-23
 category: blog
 tags:
   - akce
-  - úklid
   - veřejný prostor
   - životní prostředí
 layout: post
