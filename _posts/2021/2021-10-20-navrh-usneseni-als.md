@@ -7,8 +7,10 @@ author: Jiří Dohnal
 authorId: jiri.dohnal
 image: articles/2021/2021-10-19-navrh-usneseni-als.jpg
 tags:
+  - Areál ledových sportů
+  - majetek
+  - finance
   - sport a volný čas
-  - ALS
 ---
 
 *Praha, 20. října 2021* – **Na předminulém jednání zastupitelstva městské části Praha 11 část bývalé koalice (hnutí ANO a ODS) spolu s opozicí prohlasovala problematická usnesení týkající se ukončení účasti městské části Praha 11 v projektu Areálu ledových sportů. V návaznosti na tuto skutečnost Piráti připravili návrh usnesení, který předložili všem klubům na pondělním grémiu a dnes jej prezentujeme i veřejnosti. Ten otevře cestu k jednání o prodeji podílu ve společnosti tak, aby se městské části vrátila minimálně investovaná částka 40 milionů a zároveň byla zachována možnost využití areálu veřejností a dětmi z našich škol.**
