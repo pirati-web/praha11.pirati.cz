@@ -4,9 +4,7 @@ category: blog
 tags:
   - bydlení
   - finance
-  - Opatov
-  - Sandra
-  - opravy
+  - majetek
 layout: post
 title: Minulost a budoucnost polyfunkční budovy Sandra
 author: Jiří Dohnal
