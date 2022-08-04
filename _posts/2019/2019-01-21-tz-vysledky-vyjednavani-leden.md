@@ -2,8 +2,7 @@
 date: 2019-01-21
 category: blog
 tags:
-  - praha 11
-  - piráti
+  - volby
 layout: post
 author: Milan Minařík
 authorId: milan.minarik
