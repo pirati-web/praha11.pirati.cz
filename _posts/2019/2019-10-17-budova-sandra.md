@@ -7,10 +7,10 @@ author: Jiří Dohnal
 authorId: jiri.dohnal
 image: articles/2019/2019-10-18-sandra.jpg
 tags: 
-  - Praha 11 
-  - Pirati 
-  - Sandra 
-  - Byty
+  - finance
+  - bydlení
+  - majetek
+  - Magistrát
 ---
 
 
