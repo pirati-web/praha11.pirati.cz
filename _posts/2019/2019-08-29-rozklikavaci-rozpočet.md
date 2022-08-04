@@ -2,12 +2,13 @@
 date: 2019-08-28
 category: blog
 tags: 
-  - Piráti
+  - otevřená radnice
+  - digitalizace
 layout: post
 title: Rozklikávací rozpočet pro Prahu 11
 author: Zuzana Böhmová
 authorId: zuzana.bohmova
-image: articles/2019/2019-08-29-rozklikavaci-rozpočet.jpg
+image: articles/2019/2019-08-29-rozklikavaci-rozpocet.jpg
 ---
 
 Zajímá Vás, jak Vaše město hospodaří? Kam se investují peníze vybrané i z Vašich daní? Co se za Vaše peníze platí?
