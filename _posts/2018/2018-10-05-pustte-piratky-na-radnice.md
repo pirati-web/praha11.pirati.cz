@@ -2,7 +2,7 @@
 date: 2018-09-23
 category: blog
 tags:
-  - piráti
+  - volby
 layout: post
 title: Pusťte pirátky na radnice
 author: Milan Minařík
