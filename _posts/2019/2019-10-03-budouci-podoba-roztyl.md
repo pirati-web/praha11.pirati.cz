@@ -2,7 +2,7 @@
 date: 2019-10-03
 category: blog
 tags: 
-  - Piráti
+  - územní rozvoj
 layout: post
 title: Pojďte s námi zlepšit budoucí podobu Roztyl
 author: Josef Kocourek
