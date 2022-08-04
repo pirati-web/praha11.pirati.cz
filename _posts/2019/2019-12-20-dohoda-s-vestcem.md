@@ -2,9 +2,8 @@
 date: 2019-12-20
 category: blog
 tags: 
-  - praha 11 
-  - piráti 
   - školství
+  - finance
 layout: post
 author: Zuzana Ujhelyiová
 authorId: zuzana.ujhelyiova
