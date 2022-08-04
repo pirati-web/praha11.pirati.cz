@@ -5,6 +5,8 @@ tags:
   - majetek
   - doprava
   - otevřená radnice
+  - veřejný prostor
+  - akce
 layout: post
 author: Jiří Dohnal
 authorId: jiri.dohnal
