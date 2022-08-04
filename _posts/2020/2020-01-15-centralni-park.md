@@ -2,12 +2,9 @@
 date: 2020-01-16
 category: blog
 tags: 
-  - Centrální park
-  - příroda
-  - PiVyš
-  - Pirátská vyšetřovna
-  - přednáška
-  - park
+  - akce
+  - životní prostředí
+  - veřejný prostor
 layout: post
 author: Zuzana Böhmová
 authorId: zuzana.bohmova
