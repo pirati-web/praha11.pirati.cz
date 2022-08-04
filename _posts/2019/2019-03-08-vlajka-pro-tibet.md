@@ -2,8 +2,8 @@
 date: 2019-03-08
 category: blog
 tags:
-  - praha 11
-  - piráti
+  - kultura
+  - akce
 layout: post
 author: Milan Minařík
 authorId: milan.minarik
