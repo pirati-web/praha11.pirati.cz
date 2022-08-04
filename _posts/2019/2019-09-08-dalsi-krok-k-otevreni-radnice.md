@@ -8,6 +8,7 @@ image: articles/2019/2019-09-08-dalsi-krok-k-otevreni-radnice.jpg
 tags: 
   - otevřená radnice 
   - digitalizace
+  - zastupitelstvo
 ---
 
 V prvním zářijovém týdnu se konal již šestý Výbor pro otevřenou radnici a digitalizaci (VORAD). Na programu tentokrát byla především otevřená data a změny jednacích řádů výborů a komisí.
