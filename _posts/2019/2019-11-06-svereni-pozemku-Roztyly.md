@@ -2,7 +2,8 @@
 date: 2019-11-07
 category: blog
 tags: 
-  - Piráti
+  - územní rozvoj
+  - majetek
 layout: post
 title: Radnice Prahy 11 zažádala o svěření pozemku poblíž metra Roztyly
 author: Josef Kocourek
