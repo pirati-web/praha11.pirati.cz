@@ -2,8 +2,7 @@
 date: 2020-02-11
 category: blog
 tags: 
-  - otevřená data
-  - transparentnost
+  - otevřená radnice
   - digitalizace
 layout: post
 author: Zuzana Böhmová
