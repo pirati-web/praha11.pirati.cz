@@ -6,6 +6,7 @@ tags:
   - majetek
   - finance
   - sport a volný čas
+  - otevřená radnice
 layout: post
 author: Milan Minařík
 authorId: milan.minarik
