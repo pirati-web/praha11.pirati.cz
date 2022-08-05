@@ -2,12 +2,12 @@
 date: 2019-06-13
 category: blog
 tags: 
-- otevřená radnice
-- participace
+ - otevřená radnice
+ - participace
 layout: post
 author: Zuzana Böhmová
 authorId: zuzana.bohmova
-title: Krůček k otevřenosti: Radnice Prahy 11 odsouhlasila interpelace veřejnosti na jednání zastupitelstva
+title: 'Krůček k otevřenosti: Radnice Prahy 11 odsouhlasila interpelace veřejnosti na jednání zastupitelstva'
 image: articles/2019/2019-06-13-interpelace.jpg
 ---
 
