@@ -10,13 +10,14 @@ tags:
   - rozhovor
   - životní prostředí
   - sport a volný čas
+  - veřejný prostor
   - Pirátské listy léto 2022
 ---
 
 *Pirátské listy Praha 11, léto 2022* – **Jak bude vypadat Centrální park na Jižním Městě po plánovaných úpravách? Čtěte rozhovor kandidátky
 na starostku Zuzany Böhmové s primátorem hlavního města Prahy Zdeňkem Hřibem.**
 
-*ZB: Ahoj, Zdeňku, Centrální park se konečně dočká své proměny, na co se mohou obyvatelé z Jižní města těšit? Jak se na budoucnosti Centrálního parku podílel magistrát?*
+*ZB: Ahoj, Zdeňku, Centrální park se konečně dočká své proměny, na co se mohou obyvatelé z Jižní Města těšit? Jak se na budoucnosti Centrálního parku podílel magistrát?*
 
 ZH: Ahoj, Zuzko, jako člověk, který na Praze 11 sám bydlí, mám radost, že jsme na radě hlavního města letos schválili záměr, který celou tuto lokalitu zásadně promění. Sídliště byla ze strany předchozích vedení Prahy roky zanedbávaná. To od nich nebylo fér. Právě na sídlištích totiž žijí celé generace Pražanů, kteří na nich prožívají svoje životy, proto si rozhodně zaslouží významnou péči ze strany vedení metropole. Park se úplně promění, skoro ze dvou třetin své rozlohy. Budou tam nové cesty, cyklostezky a podobně. Praha na tuto zakázku pro Prahu 11 uvolní zhruba 94 milionů korun.
 
