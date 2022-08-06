@@ -7,9 +7,8 @@ author: Jiří Dohnal
 authorId: jiri.dohnal
 image: articles/2021/2021-03-16-koupaliste.JPG
 tags: 
-  - rekreace
-  - koupaliště
   - sport a volný čas
+  - veřejný prostor
 ---
 
 *"Jižní Město si 40 let od svého vzniku zasluhuje otevřít diskusi o vzniku veřejného koupaliště. Piráti chtějí být iniciátorem této diskuse s cílem nalezení vhodného pozemku a zahájení realizace vedoucí k jeho vybudování.”* <br>
