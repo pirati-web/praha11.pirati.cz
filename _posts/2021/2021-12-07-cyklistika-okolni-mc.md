@@ -8,9 +8,6 @@ authorId: martin.duska
 image: articles/2021/2021-12-07-cyklistika-okolni-mc.jpg
 tags: 
   - doprava
-  - cyklistika
-  - Šeberov
-  - Kunratice
 ---
 
 *Praha, 7. prosince 2021* – **Městské části v okolí Prahy 11 skýtají velký potenciál bezmotorové dopravy. V listopadu jsem měl milou příležitost účastnit se dokončení cyklotrasy A 202 vedoucí z Vestce do Kunratic. Jako zástupce naší městské části jsem v průběhu letošního roku požádal hlavní město Prahu o předřazení této stezky do prioritních staveb.**
