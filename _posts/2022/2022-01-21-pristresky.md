@@ -8,7 +8,7 @@ authorId: pavel.podgrony
 image: articles/2022/2022-01-21-pristresky.JPG
 tags: 
   - doprava
-  - MHD
+  - majetek
 ---
 
 *Praha, 21. ledna 2022* – **Hlavní město Praha začalo koncem minulého roku vyměňovat přístřešky na zastávkách městské hromadné dopravy. Výměna se týká celkem 690 přístřešků a trvat by měla dva roky.**
