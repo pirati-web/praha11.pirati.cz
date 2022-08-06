@@ -5,7 +5,8 @@ title: "Jak je to ve skutečnosti s parkovištěm Kaplanova?"
 layout: post
 author: Martin Duškaq
 authorId: martin.duska
-image: articles/2022/22022-08-04-kaplanova.jpg
+image: articles/2022/2022-08-04-kaplanova.jpg
+tags: 
   - doprava
   - veřejný prostor
 ---
