@@ -9,7 +9,6 @@ image: articles/2021/2021-07-09-skoly-majetek.jpg
 tags:
   - školství
   - majetek
-  - Praha 11
 ---
 
 Po podpisu koaliční smlouvy jsme se domnívali, že s partnery sdílíme stejné cíle a hodnoty, a shodli jsme se na tom, že gesce školství, jejíž působnost se dotýká různých odborů, má prioritu. Poslání Odboru školství tkví především v metodickém vedení škol, na agendu spojenou se stavebními úpravami nebo správou budov nemá zavedený aparát. Ve světle veřejně komunikovaných informací ze strany koaličního partnera ANO mám potřebu reagovat na výtky, které vnímám jako osobní útok a především jako snahu destabilizovat koalici.
