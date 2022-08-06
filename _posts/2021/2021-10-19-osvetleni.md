@@ -8,9 +8,7 @@ authorId: martin.duska
 image: articles/2021/2021-10-19-osvetlen.jpg
 tags:
   - doprava
-  - osvětelení
-  - data
-  - lávka
+  - otevřená radnice
 ---
 
 *Praha, 19. října 2021* – **Letos na podzim proběhnou významné úpravy dvou křižovatek na Jižním Městě. V prvním případě se jedná o křižovatku Opatovská – Arkalycká, kde dojde ke zlepšení pěší vazby podél soukromého pozemku. Další dlouho očekávaná úprava se dotkne křižovatky Chilská – Opatovská. Podařilo se mi vyjednat financování této akce s tím, že se úprava uskuteční ještě do konce letošního roku. Hlavní výhodou bude usnadnění dopravní situace při sjezdu z dálnice D1. Nově se buduje nové rameno na sjezd do ulice Chilská. Po vybudování nových sjezdů se ukončí komplikovaný a nepřehledný „průplet“ křižovatkou.**
