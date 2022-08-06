@@ -15,10 +15,6 @@ intro: >
 V současnosti Jižní Město nemá ucelenou představu o svém rozvoji a pokud dochází ke změnám, tak nejsou navzájem provázané a není jasný jejich výstup. Jednotlivé investice a opravy sice jsou samostatně odůvodnitelné, ale v celkovém pohledu nejsou zcela koncepční.<br>
 Piráti chtějí zohlednit názory obyvatel MČ a navrhnout strategii rozvoje Jižního Města a zaměřit se jak na podporu silných stránek (dobrá dopravní dostupnost, velké zelené plochy, dostupnost vzdělávání) tak i řešení problematických témat (bezpečnost, dostupnost kulturního vyžití, zanedbané okolí stanic metra, parkování, absence služeb a volnočasového využití parteru, sportoviště, spolkový život).<br>
 
-<div class=“Co už jsme udělali?“>
-<div class=“text“>
-<p>Vytvořili jsme demografickou studii, která tvoří jeden z podkladů pro tvorbu strategie rozvoje MČ</p></div>
-<a href=“#more“>READ MORE</a><a href=“#more“>Close</a></div>
 
 ###  Chceš stavět? Přispěj!
 Investiční záměr vždy vnáší do dané lokality dopady odpovídající velikosti záměru. Proto na hl. m. Praze byla schválena “Kontribuce” která stanovuje pravidla spoluúčasti investora k městu. Chceme aby se investoři více podíleli na rozvoji oblasti, ve které staví. Budeme důsledně dbát na jejich finančním zapojení do rozvoje okolí výstavby, a to jak v oblasti veřejného prostoru jako jsou parky, tak i do okolní infrastruktury (silnice, chodníky, cyklostezky, školy, další veřejná vybavenost).
