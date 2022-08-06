@@ -2,7 +2,8 @@
 date: 2020-07-15
 category: blog
 tags: 
-  - koupaliště
+  - sport a volný čas
+  - veřejný prostor
 layout: post
 author: Jiří Dohnal
 authorId: jiri.dohnal
