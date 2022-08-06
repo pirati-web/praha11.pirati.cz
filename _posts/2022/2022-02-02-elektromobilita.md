@@ -8,7 +8,7 @@ authorId: martin.duska
 image: articles/2022/2022-02-02-elektromobilita.jpg
 tags: 
   - doprava
-  - elektromobilita
+  - životní prostředí
 ---
 
 *Praha, 2. února 2022* – **V současnosti již není pochyb o tom, že vedle vozidel se spalovacím motorem bude část řidičů využívat elektromobily. U většiny řidičů se počítá s vlastní domácí nabíjecí stanicí v rodinných domech či vilách. Moderní urbanistická zástavba, jako je naše Jižní Město, ale vyžaduje síť veřejných dobíjecích stanic.**
