@@ -2,7 +2,8 @@
 date: 2020-11-11
 category: blog
 tags: 
-  - koronavirus
+  - COVID
+  - sociální politika a zdravotnictví
 layout: post
 author: Jiří Dohnal
 authorId: jiri.dohnal
