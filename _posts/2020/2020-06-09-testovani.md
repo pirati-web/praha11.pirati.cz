@@ -4,6 +4,7 @@ category: blog
 tags: 
   - COVID
   - školství
+  - sociální politika a zdravotnictví
 layout: post
 author: Zuzana Uhelyiová
 authorId: zuzana.ujhelyiova
