@@ -8,8 +8,7 @@ authorId: josef.kocourek
 image: articles/2022/2022-02-18-opatovska-smena.jpg
 tags: 
   - územní rozvoj
-  - Opatov
-  - Na Jelenách
+  - majetek
 ---
 
 *Praha, 18. únor 2022* – **Včera byla na jednání zastupitelstva schválena takzvaná "Velká Opatovská směna".**
