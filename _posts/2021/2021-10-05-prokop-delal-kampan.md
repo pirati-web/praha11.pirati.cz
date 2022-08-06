@@ -8,7 +8,7 @@ authorId: jiri.dohnal
 image: articles/2021/2021-10-05-prokop-delal-kampan.jpg
 tags: 
   - majetek
-  - Sandra
+  - zastupitelstvo
 ---
  
 Pirátům podařilo dosáhnout značných úspor v oblasti IT, a to ve výši 143 milionů ročně. Pokud pan Prokop kritizuje dosavadní způsob soutěžení na magistrátu, tak kritizuje jejich vlastní pravidla pro malé zakázky, která platila už za vlády ANO. Piráti naopak už na jaře prosadili změnu těchto pravidel a nad 500 tisíc se bude soutěžit otevřeně. I doteď se nicméně soutěžilo v rámci dosavadních pravidel tak, že rozhodovala pouze cena a na každou zakázku došlo více nabídek. To je ostatně vidět i na webu golemio.cz, kde zveřejňuje magistrát od minulého roku transparentně informace o zakázkách a to včetně těch, které obvykle úřady nezveřejňují, jako třeba počet konkurenčních nabídek.
