@@ -7,7 +7,6 @@ author: mediální tým
 image: articles/2021/2021-11-02-vylouceni-zastupitelsky-klub.jpeg
 tags:
   - zastupitelstvo
-  - Praha 11
 ---
 
 *Praha 2. listopadu 2021* – **Na schůzi zastupitelského klubu Piráti Praha 11 dne 1. listopadu 2021 došlo k vyloučení dvou zastupitelů zvolených za Piráty, Ladislava Kose ml. a Michaely Polákové. Důvodem je jejich nerespektování dohod v rámci klubu.**
