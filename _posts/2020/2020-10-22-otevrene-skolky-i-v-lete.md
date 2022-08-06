@@ -2,7 +2,7 @@
 date: 2020-10-22
 category: blog
 tags: 
-  - koronavirus
+  - COVID
   - školství
 layout: post
 author: Zuzana Ujhelyiová
