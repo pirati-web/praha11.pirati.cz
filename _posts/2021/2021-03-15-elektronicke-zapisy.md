@@ -9,7 +9,6 @@ image: articles/2021/2021-03-15-elektronicke-zapisy.jpg
 tags: 
   - školství
   - digitalizace
-  - eldektronické zápisy
 ---
 
 Zápisy k povinné školní docházce proběhnou dle doporučení MŠMT v souladu s právními předpisy, ale s upuštěním od některých tradičních postupů. Uskuteční se od 1. dubna 2021 do 30. dubna 2021 a organizace bude přizpůsobena tak, aby byla zaručena bezpečnost dětí i dospělých, respektovány individuální možnosti a omezení jednotlivých účastníků a zároveň splněny všechny zákonné povinnosti.
