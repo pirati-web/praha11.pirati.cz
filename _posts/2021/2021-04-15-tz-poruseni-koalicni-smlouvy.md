@@ -7,8 +7,6 @@ author: redakce
 image: articles/2021/2021-04-15-tz-poruseni-koalicni-smlouvy.jpg
 tags: 
   - zastupitelstvo
-  - Praha 11
-  - koalice
 ---
 
 *Praha 15. dubna 2021* – **Hnutí ANO porušilo koaliční smlouvu, když na jednání zastupitelstva Prahy 11 navrhlo bod týkající se situace ve školství, který nebyl schválen radou městské části. Obešlo tak podmínku jasně definovanou v Koaliční smlouvě. Zastupitelstvo formálně skončilo neschválením programu.**
