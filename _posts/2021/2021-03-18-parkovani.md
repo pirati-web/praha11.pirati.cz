@@ -8,8 +8,6 @@ authorId: martin.duska
 image: articles/2021/2021-03-18-parkovani.jpg
 tags: 
   - doprava
-  - parkování
-  - modré zóny
 ---
 
 
