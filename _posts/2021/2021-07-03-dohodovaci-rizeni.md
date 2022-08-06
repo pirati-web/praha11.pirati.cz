@@ -6,9 +6,7 @@ layout: post
 author: mediální tým
 image: articles/2021/2021-07-03-dohodovaci-rizeni.jpg
 tags: 
-  - dohodovací řízení
-  - koalice
-  - Praha 11
+  - zastupitelstvo
 ---
 
 
