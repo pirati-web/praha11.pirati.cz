@@ -8,7 +8,8 @@ authorId: zuzana.bohmova
 image: articles/2022/2022-05-28-energetika2.jpg
 tags: 
   - energetika
-  - program 2022
+  - program
+  - životní prostředí
 ---
 
 ***Současná energetická krize dopadá na každého z nás. Částečným řešením, jak z toho ven, je vydat se cestou obnovitelných zdrojů. Na Jižním Městě je to možnost především pro jednotlivá bytová družstva (BD) a společenství vlastníků jednotek (SVJ), která se jako organizace musí domluvit, zda se podobnu cestou vydají.***
