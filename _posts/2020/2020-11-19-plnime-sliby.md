@@ -3,6 +3,7 @@ date: 2020-11-19
 category: blog
 tags: 
   - školství
+  - majetek
 layout: post
 author: Zuzana Ujhelyiová
 authorId: zuzana.ujhelyiova
