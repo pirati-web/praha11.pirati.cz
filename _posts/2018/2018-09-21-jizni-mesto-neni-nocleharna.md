@@ -5,7 +5,7 @@ tags:
   - územní rozvoj
   - bydlení
 layout: post
-title: Jižní město není noclehárna
+title: Jižní Město není noclehárna
 author: Ing. Ladislav Kos ml.
 authorId: ladislav.kos
 image: articles/2018/2018-09-21-jizni-mesto-neni-nocleharna.jpg
