@@ -8,9 +8,6 @@ authorId: josef.kocourek
 image: articles/2021/2021-04-29-metropolitni-plan.jpg
 tags: 
   - územní rozvoj
-  - výstavba
-  - metropolitní plán
-  - územní plánování
 ---
 
 *I nás na Jižním Městě zajímá jaká je budoucnost městského plánování v Praze, která samozřejmě ovlivní do jisté míry každého z nás. Metropolitní plán hlavního města Prahy je nová koncepce obsahující nový přístup k plánování a rozvoji hlavníhi města.*
