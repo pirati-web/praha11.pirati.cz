@@ -8,8 +8,6 @@ authorId: zuzana.bohmoova
 image: articles/2021/2021-04-15-michaela-polakova.jpg
 tags: 
   - zastupitelstvo
-  - Praha 11
-  - Michaela Poláková
 ---
 
 
