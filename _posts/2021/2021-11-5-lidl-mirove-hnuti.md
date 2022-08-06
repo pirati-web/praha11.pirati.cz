@@ -6,8 +6,8 @@ layout: post
 author: mediální tým
 image: articles/2021/2021-11-5-lidl-mirove-hnuti.jpg
 tags:
-  - zastupitelstvo
-  - Praha 11
+  - územní rozvoj
+  - doprava
 ---
 
 *Praha 5. listopadu 2021* – **Samotný záměr postavit prodejnu a rozšířit místní nabídku by jednoznačně mohl být přínosem pro MČ. Musí být ale kvalitně vyřešena okolní doprava a náhrada zaniklých parkovacích míst, v tomto směru očekáváme, že povedeme s investorem ještě další konstruktivní jednání.**
