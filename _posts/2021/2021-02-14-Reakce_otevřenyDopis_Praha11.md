@@ -6,6 +6,7 @@ layout: post
 author: redakce
 image: articles/2021/2021-02-14-reakce-otevreny-dopis-praha-11.jpg
 tags: 
+  - zastupitelstvo
   - školství
   - finance
   - majetek
