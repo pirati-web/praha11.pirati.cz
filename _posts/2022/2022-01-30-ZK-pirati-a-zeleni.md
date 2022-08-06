@@ -8,7 +8,6 @@ authorId: zuzana.bohmova
 image: articles/2022/2022-01-30-zastupitelstvo.jpeg
 tags: 
   - zastupitelstvo
-  - zastupitelský klub
 ---
 
 *Praha, 30. leden 2022* – **V tomto týdnu byla na radnici Prahy 11 k rukám starosty doručena informace o založení zastupitelského klubu tří členů zastupitelstva zvolených na kandidátce České pirátské strany.**
