@@ -9,7 +9,6 @@ image: articles/2022/2022-04-16-cesty-skoly.jpg
 tags: 
   - doprava
   - školství
-  - chodci
 ---
 
 *Praha, 16. dubna 2022* – **Koncem února jsme odevzdali dopravní studii financovanou hl. m. Prahou, s cílem zajistit zkvalitnění pěších vazeb pro děti. Jedná se o celopražský projekt. Studie je společnou prací  Institutu plánování a rozvoje hlavního města Prahy, Technické správy komunikací, Městské části Praha 11 a Policie České republiky.**
