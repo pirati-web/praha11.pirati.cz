@@ -33,4 +33,4 @@ Budeme aktivně podporovat vznik družstevního bydlení. Cílem je přispět k 
 Družstevní bydlení bude výhodné také pro město, které se rovněž stane členem družstva a v realizovaných projektech bude mít dispoziční právo k jedné třetině bytů. Byty bude následně pronajímat občanům. Tímto způsobem Praha obrátí trend dosavadních let, kdy se neustále snižoval počet městských bytů, kterých má město v současnosti velký nedostatek. <br>
 Zároveň dokončíme rekonstrukci ubytovny Sandra a budeme pokračovat v opravách městských bytů. Město musí mít dostatečné kapacity bydlení pro ty, kteří jej potřebují. Byty budeme přednostně přidělovat potřebným profesím – učitelům, zdravotníkům, hasičům, policistům a dalším pomáhajícím profesím. <br>
 
-*autoři: Petr Klán, Josef Kocourek
+*autoři: Petr Klán, Josef Kocourek*
