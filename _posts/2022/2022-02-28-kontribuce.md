@@ -8,7 +8,6 @@ authorId: josef.kocourek
 image: articles/2022/2022-02-28-kontribuce.jpg
 tags: 
   - územní rozvoj
-  - kontribuce
 ---
 
 *Praha, 28. února 2022* – Na konci ledna byl na zastupitelstvu hl. m. Prahy schválen dokument s názvem “Metodika spoluúčasti investorů”, který stanovuje, jakou měrou by se soukromí investoři měli finančně podílet například na budování nové infrastruktury, občanské vybavenosti, veřejných prostor či městských bytů. Metodika počítá i s příspěvkem (poplatkem) za takovou změnu územního plánu, která umožní navýšení hrubé podlažní plochy, t.j. větší zastavění oproti původní situaci.
