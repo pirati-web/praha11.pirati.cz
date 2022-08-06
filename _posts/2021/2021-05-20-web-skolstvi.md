@@ -9,6 +9,7 @@ image: articles/2021/2021-05-20-web-skolstvi.jpg
 tags: 
   - školství
   - digitalizace
+  - otevřená radnice
 ---
 
 **Městská část Praha 11 vyslyšela přání mnoha rodičů a zmodernizovala speciální web o jihoměstském školství www.skolstvijm.cz. Ten prošel kompletním redesignem, všechny informace jsou tak nyní k dispozici on-line na jednom místě a bez složitého vyhledání. Nový kabát s přehlednou strukturou a hravou grafikou získal web z iniciativy Zuzany Ujhelyiové (Piráti), radní Prahy 11 pro školství.**
