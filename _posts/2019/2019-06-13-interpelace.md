@@ -3,7 +3,6 @@ date: 2019-06-13
 category: blog
 tags: 
  - otevřená radnice
- - participace
 layout: post
 author: Zuzana Böhmová
 authorId: zuzana.bohmova
