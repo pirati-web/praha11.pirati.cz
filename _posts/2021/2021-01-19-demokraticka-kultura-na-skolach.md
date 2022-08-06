@@ -8,8 +8,7 @@ authorId: zuzana.ujhelyiova
 image: articles/2021/2021-01-19-demokraticka-kultura.jpg
 tags: 
   - školství
-  - demokracie
-  - demokratické principy ve školách
+  - otevřená radnice
 ---
 
 **Efektivnější práce žákovských parlamentů, zapojení rodičů do školního života nebo inspirativní návštěva demokratických institucí: nejen to přinese jihoměstským základním školám projekt Rozvoj demokratické kultury. Díky finanční podpoře ve výši přesahující 9 milionů korun, které se Praze 11 podařilo získat z Operačního programu Praha – pól růstu, je projekt realizován na všech devíti základních školách zřizovaných městskou částí.**
