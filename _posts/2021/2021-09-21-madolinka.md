@@ -8,7 +8,6 @@ image: articles/2021/2021-09-21-madolinka.jpg
 tags: 
   - školství
   - majetek
-  - Praha 11
 ---
 
 **Jak “efektivně” funguje odbor správy majetku pod vedením místostarosty Ondřeje Prokopa (majetek a investice, ANO) krásně ilustruje nefunkční vjezd do mateřské školy Mandolinka. Její ředitelka již dva roky marně žádá odbor správy majetku v gesci pana místostarosty Ondřeje Prokopa o vyřešení velmi nepříjemné situace vjezdu do areálu, který komplikuje provoz samotné školky.**
