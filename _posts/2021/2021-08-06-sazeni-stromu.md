@@ -7,10 +7,7 @@ author: Michaela Poláková
 authorId: michaela.polakova
 image: articles/2021/sazeni_stromu/P1050023_.JPG
 tags:
-  - zeleň
-  - stromy
-  - majetek
-  - lesy
+  - životní prostředí
 ---
 
 Již v roce 2019 se Pražské služby, a.s. jako jedny z prvních inspirovaly Akčním plánem hlavního města Prahy a zahájily počáteční etapu výsadby téměř 70 stromů na svých provozních pozemcích.
