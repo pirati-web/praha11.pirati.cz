@@ -6,7 +6,10 @@ author: Jiří Dohnal
 authorId: jiri.dohnal
 image: articles/2022/2022-07-29-prokopovi-lzi.jpg
 tags: 
-  - 
+  - volby
+  - program
+  - zastupitelstvo
+  - majetek
 ---
 
 **Na sociálních sítích se začíná šířit odkaz, kde odvolaný místostarosta z hnutí ANO Ondřej Prokop tvrdí, co všechno u nás na jedenáctce odmakal. Jak je u Ondřeje zvykem, většina informací se ale nezakládá na pravdě. Opět je nutno připomenout, že Ondřej byl odvolaný hlavně za to, že pro naší městskou část nepracoval. To je holý fakt, i když Ondřej všude vypráví něco jiného. Je také důležité říci, že byl odvolán lidmi napříč celým zastupitelstvem Prahy 11.**
