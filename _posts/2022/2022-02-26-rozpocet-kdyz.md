@@ -7,9 +7,8 @@ author: Zuzana Ujhelyiová
 authorId: zuzana.ujhelyiova
 image: articles/2022/2022-02-26-rozpocet-kdyz.jpg
 tags: 
-  - rozpočet
+  - finance
   - školství
-  - investice
 ---
 
 *Praha, 26. února 2022* – Podmiňovat schválení rozpočtu jednou konkrétní investiční akcí považujeme jako Piráti za nepřípustné, ale i z takovým jednáím se ze strany některých zastupitelů městské části Praha 11 můžete setkat.
