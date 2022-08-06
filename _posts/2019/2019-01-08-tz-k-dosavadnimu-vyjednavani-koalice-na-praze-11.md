@@ -3,7 +3,7 @@ date: 2019-01-08
 category: blog
 tags:
   - piráti
-layout: post
+layout: zastupitelstvo
 author: Jiří Dohnal
 authorId: jiri.dohnal
 title: Tisková zpráva Pirátů Praha 11 k dosavadnímu vývoji vyjednávání koalice na Praze 11
