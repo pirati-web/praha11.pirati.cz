@@ -9,7 +9,6 @@ image: articles/2021/2021-05-21-digitalizace-oprav-komunikaci.jpg
 tags: 
   - doprava
   - digitalizace
-  - opravy komunikací
 ---
 
 Co je to vlastně ta digitalizace? Psát něco do počítače a posílat to emaily? Elektronická korespondence již v dnešní době nedostačuje a digitalizací se spíše rozumí napojení systému a automatizace procesů. Jak něco takového může pomoci v oblasti oprav komunikací?
