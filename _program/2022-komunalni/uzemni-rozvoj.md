@@ -19,36 +19,7 @@ Co už jsme udělali?
 Navrhovaná opaření:
 
 
-		<link href="_bootstrap-basic.css" type="text/css" rel="stylesheet" />
 
-<p>PEPA: bla bla bla</p>
-<div class="riesenie">
-	Řešení:
-	AAAA
-</div>
-
-<p>Jirka: bla bla bla</p>
-<div class="riesenie">
-	Řešení:
-	AAAA
-</div>
-
-<p>Zdaněk: bla bla bla</p>
-<div class="riesenie">
-	Řešení:
-	AAAA
-</div>
-
-		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-		<script type="text/javascript" src="https://www.priklady.eu/App_Themes/priklady/priklady.js?637347199643584813"></script>
-
-		<script type="text/javascript">
-var _base = 'https://www.priklady.eu/';
-var _showText = 'Ukaž řešení';
-var _hideText = 'Skryj řešení';
-var _showAllText = '';
-var _hideAllText = '';
-		</script>
 
 
 
