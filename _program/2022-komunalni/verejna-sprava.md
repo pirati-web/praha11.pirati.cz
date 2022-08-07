@@ -6,7 +6,7 @@ uid: verejna-sprava
 order: 2
 garant: zuzana.bohmova
 redmine:  
-img: miscellaneous/otevrena-radnice.jpg
+img: program2022/uzemni-rozvoj2.jpg
 intro: >
     Každý občan musí mít možnost zapojit se do veřejného života a sledovat a komentovat kroky radnice, a to pohodlně ze svého domova. Chceme výrazně vylepšit webové stránky Prahy 11, aby všichni zájemci rychle našli požadované informace a mohli s úřadem pohodlně komunikovat online.
 ---
@@ -40,3 +40,5 @@ Jakožto řádní hospodáři si jsme vědomí odpovědnosti za to mít rozpoče
 Je na vedení radnice, aby hledalo nové zdroje financování. Jako jedna z možností se jeví například dotace z Evropské unie, které svou výší mohou tvořit značnou část příjmů MČ. I z toho důvodu se vyplatí mít člověka na plný úvazek zabývající se pouze dotacemi z EU.
 
 
+*autoři: Zuzana Böhmová, Pavel Podgorný, Jan Žák<br>
+odborná konzultace: KET IT a SmartCity Praha, KET transparentnost a legislativa Praha, Tomáš Kapler*
