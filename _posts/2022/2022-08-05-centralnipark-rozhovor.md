@@ -31,4 +31,4 @@ ZH: Vypsání soutěže už schválila nejen rada hlavního města, ale i zastup
 
 *ZB: Platí, budeme se těšit. Díky za vaše úsilí a celý tento projekt pro občany Prahy 11.*
 
-EDIT: V současné době probíhá interní schvalovací proces zadávací dokumentace a předpoklad vypsání veřejné zakázky je v druhé polovině srpna 2022.
+**EDIT:** V současné době probíhá interní schvalovací proces zadávací dokumentace a předpoklad vypsání veřejné zakázky je v druhé polovině srpna 2022.
