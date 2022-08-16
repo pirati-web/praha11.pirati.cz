@@ -3,7 +3,7 @@ title: Informace veřejně a online
 campaignCategoryUid: 
 campaignGroupUid: 
 uid: verejna-sprava
-order: 2
+order: 5
 garant: zuzana.bohmova
 redmine:  
 img: program2022/uzemni-rozvoj2.jpg
