@@ -3,7 +3,7 @@ title: Žijeme zde kulturou i sportem
 campaignCategoryUid: 
 campaignGroupUid: 
 uid: kultura-sport-volny-cas
-order: 5
+order: 4
 garant: jiri.dohnal
 redmine: 
 img: program2022/uzemni-rozvoj2.jpg
