@@ -6,7 +6,7 @@ uid: skolstvi
 order: 1
 garant: zuzana.ujhelyiova
 redmine: 
-img: miscellaneous/skolstvi.jpg
+img: program2022/skolstvi2.jpg
 intro: >
   Chceme, aby každé dítě trávilo svůj čas ve škole rádo a rozvinulo zde plně své schopnosti. Podporujeme větší zapojení dětí do fungování škol prostřednictvím žákovských parlamentů. Školy budeme motivovat k zavádění inovativních způsobů vzdělávání a investovat do jejich údržby a rozvoje.
 ---
