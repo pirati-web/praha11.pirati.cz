@@ -3,10 +3,10 @@ title: Pomáhejme napříč generacemi
 campaignCategoryUid: 
 campaignGroupUid: 
 uid: socialni-zdravotni-bezpecnost
-order: 6
+order: 7
 garant: sarka.hozmanova
 redmine: 
-img: miscellaneous/socialni-sluzby.jpg
+img: program2022/socialni.jpg
 intro: >
   V nelehkých životních situacích si všichni zasloužíme pomoc a pocit bezpečí. Na radnici podpoříme rozvoj protidrogových programů pro děti, zvýšení dostupnosti lékařů, zlepšení péče o seniory a rodiče samoživitele a aktivity zaměřené na propojování generací.
 ---
