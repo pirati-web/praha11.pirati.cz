@@ -3,7 +3,7 @@ title: Ať Jižák nezamrzne - férový a smysluplný rozvoj
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: uzemni-rozvoj
-order: 3
+order: 6
 garant: josef.kocourek
 redmine: 
 img: program2022/uzemni-rozvoj2.jpg
