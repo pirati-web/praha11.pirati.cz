@@ -3,10 +3,10 @@ title: Jezdit, chodit i parkovat
 campaignCategoryUid: 
 campaignGroupUid: 
 uid: doprava
-order: 4
+order: 2
 garant: martin.duska
 redmine: 
-img: program2022/uzemni-rozvoj2.jpg
+img: program2022/doprava2.jpg
 intro: >
   Umožníme na Jižním Městě bezpečný a pohodlný pohyb všemi dopravními prostředky. Podporujeme rozvoj cyklistických tras, páteřních komunikací a rekonstrukce tras pro pěší. Prosazujeme výstavbu parkovacích domů pro místní obyvatele. I nadále chceme být premiantem v zavádění dobíjecích stanic pro elektromobily.
 ---
