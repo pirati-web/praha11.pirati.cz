@@ -1,7 +1,7 @@
 ---
 title: Ať Jižák nezamrzne - férový a smysluplný rozvoj
-campaignCategoryUid: 2022-komunalni
-campaignGroupUid: volby-2022
+campaignCategoryUid: 
+campaignGroupUid: 
 uid: uzemni-rozvoj
 order: 6
 garant: josef.kocourek
@@ -10,7 +10,8 @@ img: program2022/uzemni-rozvoj2.jpg
 intro: >
   Občané si zaslouží moderní a smysluplný rozvoj Jižního Města. Chceme dostavbu center v místech stanic metra, která poskytnou obchody, restaurace a další služby. Po investorech budeme vyžadovat zajištění dostatečných parkovacích míst, maximalizaci zeleně a další investice do veřejného prostoru. Chceme podpořit výstavbu družstevního bydlení s účastí radnice.
 ---
-
+campaignCategoryUid: 2022-komunalni
+campaignGroupUid: volby-2022
 ### Budoucnost Jižního Města
 V současnosti Jižní Město nemá ucelenou představu o svém rozvoji a pokud dochází ke změnám, tak nejsou navzájem provázané a není jasný jejich výstup. Jednotlivé investice a opravy sice jsou samostatně odůvodnitelné, ale v celkovém pohledu nejsou zcela koncepční.<br>
 Piráti chtějí zohlednit názory obyvatel MČ a navrhnout strategii rozvoje Jižního Města a zaměřit se jak na podporu silných stránek (dobrá dopravní dostupnost, velké zelené plochy, dostupnost vzdělávání) tak i řešení problematických témat (bezpečnost, dostupnost kulturního vyžití, zanedbané okolí stanic metra, parkování, absence služeb a volnočasového využití parteru, sportoviště, spolkový život).<br>
