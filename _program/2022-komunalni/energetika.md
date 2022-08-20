@@ -1,5 +1,4 @@
 ---
-<article class="hero hero--image " style="--image-url: url(https://a.pirati.cz/praha11/img/program2022/energie.jpg)">
 title: Energie můžeme nejen čerpat, ale i vyráběr
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
