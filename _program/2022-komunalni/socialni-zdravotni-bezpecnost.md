@@ -10,7 +10,6 @@ img: program2022/socialni.jpg
 intro: >
   V nelehkých životních situacích si všichni zasloužíme pomoc a pocit bezpečí. Na radnici podpoříme rozvoj protidrogových programů pro děti, zvýšení dostupnosti lékařů, zlepšení péče o seniory a rodiče samoživitele a aktivity zaměřené na propojování generací.
 ---
-<br>
 
 ### Efektivní řešení problémů našich obyvatel
 Současná sociální a ekonomická situace přináší různé životní problémy. Aktualizujeme analýzu potřeb občanů Prahy 11 v oblasti dostupnosti a spokojenosti s nabídkou sociálních a zdravotních služeb na městské části. Přizpůsobíme a budeme podporovat rozvoj sociálních a zdravotních služeb dle zjištěných požadavků a potřeb. Budeme i nadále podporovat stávající i nové subjekty poskytující sociální a zdravotní služby.
