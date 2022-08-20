@@ -1,7 +1,7 @@
 ---
 title: Energie můžeme nejen čerpat, ale i vyráběr
-campaignCategoryUid: 
-campaignGroupUid: 
+campaignCategoryUid: 2022-komunalni
+campaignGroupUid: volby-2022
 uid: energetika
 order: 1
 garant: zuzana.bohmova
