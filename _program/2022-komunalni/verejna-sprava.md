@@ -1,9 +1,9 @@
 ---
 title: Informace veřejně a online
-campaignCategoryUid: 
-campaignGroupUid: 
+campaignCategoryUid: 2022-komunalni
+campaignGroupUid: volby-2022
 uid: verejna-sprava
-order: 5
+order: 6
 garant: zuzana.bohmova
 redmine:  
 img: program2022/verejna-sprava.jpg
