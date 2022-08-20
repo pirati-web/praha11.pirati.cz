@@ -6,7 +6,7 @@ uid: verejna-sprava
 order: 5
 garant: zuzana.bohmova
 redmine:  
-img: program2022/uzemni-rozvoj2.jpg
+img: program2022/verejna-sprava.jpg
 intro: >
     Každý občan musí mít možnost zapojit se do veřejného života a sledovat a komentovat kroky radnice, a to pohodlně ze svého domova. Chceme výrazně vylepšit webové stránky Prahy 11, aby všichni zájemci rychle našli požadované informace a mohli s úřadem pohodlně komunikovat online.
 ---
