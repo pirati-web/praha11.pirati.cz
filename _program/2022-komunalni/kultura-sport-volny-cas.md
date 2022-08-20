@@ -1,7 +1,7 @@
 ---
 title: Žijeme zde kulturou i sportem
-campaignCategoryUid: 
-campaignGroupUid: 
+campaignCategoryUid: 2022-komunalni
+campaignGroupUid: volby-2022
 uid: kultura-sport-volny-cas
 order: 4
 garant: jiri.dohnal
