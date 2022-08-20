@@ -7,6 +7,7 @@ order: 1
 garant: zuzana.bohmova
 redmine: 
 img: program2022/energie.jpg
+heroImg: program2022/energie.jpg
 intro: >
   Praha 11 skýtá díky množství rovných střech obrovský potenciál pro využití sluneční energie. Máme plán, jak zvýšit energetickou soběstačnost, snížit finanční náklady pro městskou část a zadržet vodu v krajině. Tyto výhody chceme také zprostředkovat i soukromým vlastníkům nemovitostí a jejich obyvatelům.
 
