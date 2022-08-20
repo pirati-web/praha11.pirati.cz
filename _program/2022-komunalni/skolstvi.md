@@ -3,7 +3,7 @@ title: Moderní společnost začíná v moderní škole
 campaignCategoryUid: 
 campaignGroupUid: 
 uid: skolstvi
-order: 3
+order: 5
 garant: zuzana.ujhelyiova
 redmine: 
 img: program2022/skolstvi3.jpg
