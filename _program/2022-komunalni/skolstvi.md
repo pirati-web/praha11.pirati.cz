@@ -1,7 +1,7 @@
 ---
 title: Moderní společnost začíná v moderní škole
-campaignCategoryUid: 
-campaignGroupUid: 
+campaignCategoryUid: 2022-komunalni
+campaignGroupUid: volby-2022
 uid: skolstvi
 order: 5
 garant: zuzana.ujhelyiova
