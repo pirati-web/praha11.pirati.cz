@@ -6,7 +6,7 @@ uid: kultura-sport-volny-cas
 order: 4
 garant: jiri.dohnal
 redmine: 
-img: program2022/uzemni-rozvoj2.jpg
+img: program2022/vereny-prostor.jpg
 intro: >
   Zajistíme další rozvoj možností trávení volného času na Jižním Městě, ať už v oblasti kultury, zábavy či sportu. Dokončíme srdce Jižního Města – Centrální park a pro mladé dotáhneme projekt Adrenalin parku. Zaměříme se na revitalizaci ploch mezi paneláky. Ve spolupráci s magistrátem zkvalitníme koupání v Hostivařské přehradě.
 ---
