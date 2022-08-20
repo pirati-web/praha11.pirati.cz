@@ -1,7 +1,7 @@
 ---
 title: Jezdit, chodit i parkovat
-campaignCategoryUid: 
-campaignGroupUid: 
+campaignCategoryUid: 2022-komunalni
+campaignGroupUid: volby-2022
 uid: doprava
 order: 2
 garant: martin.duska
