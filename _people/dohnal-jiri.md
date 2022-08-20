@@ -11,7 +11,7 @@ teamDescription:
   clenove: člen MS Praha 11
   zas: starosta Prahy 11
 profession: starosta Prahy 11
-img: people/jiri-dohnal.jpg
+img: people/jiri-dohnal-2022.jpg
 heroImg: praha-11.jpg
 address: Ocelíkova 672/1, 149 00 Praha 11
 clock: den pro veřejnost se starostou každé pondělí od 17:00 do 18:30
