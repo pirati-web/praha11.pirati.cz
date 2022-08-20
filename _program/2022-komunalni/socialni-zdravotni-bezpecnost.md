@@ -1,7 +1,7 @@
 ---
 title: Pomáhejme napříč generacemi
-campaignCategoryUid: 
-campaignGroupUid: 
+campaignCategoryUid: 2022-komunalni
+campaignGroupUid: volby-2022
 uid: socialni-zdravotni-bezpecnost
 order: 7
 garant: sarka.hozmanova
