@@ -8,7 +8,7 @@ garant: sarka.hozmanova
 redmine: 
 img: program2022/socialni.jpg
 intro: >
-  V nelehkých životních situacích si všichni zasloužíme pomoc a pocit bezpečí. Na radnici podpoříme rozvoj protidrogových programů pro děti, zvýšení dostupnosti lékařů, zlepšení péče o seniory a rodiče samoživitele a aktivity zaměřené na propojování generací.
+  V nelehkých životních situacích si všichni zasloužíme pomoc a pocit bezpečí. Na radnici podpoříme rozvoj protidrogových programů pro děti, zvýšení dostupnosti lékařů, zlepšení péče o seniory a rodiče samoživitele nebo aktivity zaměřené na propojování generací.
 ---
 
 ### Efektivní řešení problémů našich obyvatel
