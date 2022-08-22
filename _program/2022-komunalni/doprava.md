@@ -13,12 +13,12 @@ intro: >
 
 ### Promyšlené parkování pro lepší veřejný prostor<br>
 Klíčem k lepšímu parkování a kvalitnějšímu veřejnému prostoru je efektivní parkovací politika. Jižní Město nebylo navrženo na současnou hustotu automobilů, a proto teď musíme řešit kam s nimi. <br>
-Jedním z nejvhodnějších, ale také dlouhotrvajících řešení parkování je výstavba parkovacích domů. Již známe místa, kam je možné stavby umístit. K výstavbě je ale nutných mnoho kroků, některé z nich jsme již realizovali (např. změny územního plánu).<br>
+Jedním z nejvhodnějších, ale také dlouhotrvajících řešení parkování je výstavba parkovacích domů. Již známe místa, kam je možné stavby umístit. K výstavbě je ale nutných mnoho kroků, přičemž některé z nich jsme již realizovali (např. změny územního plánu).<br>
 Chceme do realizace výstavby zapojit i místní obyvatele a nabídnout alternativu nájemního garážového stání v podobě družstevních parkovacích domů, kde si budou místní moci zajistit své parkovací místo.<br>
 Současně je nutné zavést rezidenční parkování pro větší pohodlí místních obyvatel.
 
 ### Cyklisté jsou na Jižáku vítáni<br>
-Praha 11 je kromě oblasti Roztyl v relativní rovině. Máme tedy vhodné podmínky pro rozvoj bezmotorové dopravy. Cyklistika je pro město vhodný způsob doplňkové dopravy z hlediska emisí i zdraví. Proto chceme vystavět páteřní cyklotrasy a pokračovat ve výstavbě cyklo stojanů po Jižním Městě.
+Praha 11 leží kromě oblasti Roztyl v relativní rovině. Máme tedy vhodné podmínky pro rozvoj bezmotorové dopravy. Cyklistika je pro město vhodný způsob doplňkové dopravy z hlediska emisí i zdraví. Proto chceme vystavět páteřní cyklotrasy a pokračovat ve výstavbě cyklo stojanů po Jižním Městě.
 
 ### Pěšky po Jižáku<br>
 Chůze je nejzdravější a nejpřirozenější způsob pohybu po městě na krátké vzdálenosti.  Pro děti je pěší chůze i základní způsob, jak se dopravit do školy.
