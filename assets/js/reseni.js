@@ -157,3 +157,10 @@ jQuery.cookie = function(name, value, options) {
         return cookieValue;
     }
 };
+
+
+var _base = 'https://praha11.pirati.cz/';
+var _showText = 'Ukaž řešení';
+var _hideText = 'Skryj řešení';
+var _showAllText = '';
+var _hideAllText = '';
