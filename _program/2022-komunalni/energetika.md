@@ -29,7 +29,7 @@ odborná konzultace: Václav Šebek*
   
   
 
-<div class="reseni">
+<div class="navrhovana-opatreni">
 Navrhovaná opatření:
 - Vytvoříme poradenské místo pro obyvatele P11 na podporu energetických úspor jako například instalace fotovoltaiky a její co nejlepší využití v rámci SVJ a BD a další udržitelná řešení (nakládání s dešťovou vodou, zelené střechy, chlazení). Většinu domů v MČ vlastní jejich obyvatelé. Aby P11 využila potenciál výroby z obnovitelných zdrojů a stala se energeticky robustním městem a zároveň aby obyvatelé dostali pod kontrolu své účty za elektřinu, bez spolupráce s občany P11 se to neobejde.
 - Vypíšeme sérii mikrograntů pro SVJ a BD na obnovitelná a udržitelná řešení – nakládání s dešťovou vodou, zelené střechy, založení energetické komunity, příprava projektu solárních elektráren apod.)
@@ -39,6 +39,6 @@ Navrhovaná opatření:
   
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<script type="text/javascript" src="/assets/js/reseni.js"></script>
+<script type="text/javascript" src="/assets/js/navrhovana-opatreni.js"></script>
 
 </div>
