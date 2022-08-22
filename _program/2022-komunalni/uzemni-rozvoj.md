@@ -55,7 +55,7 @@ AAAA
 <script type="text/javascript" src="/assets/js/reseni.js"></script>
 
 <script type="text/javascript">
-var _base = 'https://www.priklady.eu/';
+var _base = 'https://praha11.pirati.cz/';
 var _showText = 'Ukaž řešení';
 var _hideText = 'Skryj řešení';
 var _showAllText = '';
