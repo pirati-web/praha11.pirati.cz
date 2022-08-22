@@ -33,23 +33,19 @@ Zároveň dokončíme rekonstrukci ubytovny Sandra a budeme pokračovat v oprav�
 
 <div>
 
-<h2>PEPA: bla bla bla</h2>
+  
+  
+  
+<h2>Název</h2>
 <div class="reseni">
 Řešení:
-AAAA
+test
 </div>
-
-<h2>Jirka: bla bla bla</h2>
-<div class="reseni">
-Řešení:
-AAAA
-</div>
-
-<h2>Zdaněk: bla bla bla</h2>
-<div class="reseni">
-Řešení:
-AAAA
-</div>
+  
+  
+  
+  
+  
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <script type="text/javascript" src="/assets/js/reseni.js"></script>
