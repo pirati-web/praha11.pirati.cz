@@ -8,7 +8,7 @@ garant: zuzana.bohmova
 redmine:  
 img: program2022/verejna-sprava.jpg
 intro: >
-    Každý občan musí mít možnost zapojit se do veřejného života a sledovat a komentovat kroky radnice, a to pohodlně ze svého domova. Chceme výrazně vylepšit webové stránky Prahy 11, aby všichni zájemci rychle našli požadované informace a mohli s úřadem pohodlně komunikovat online.
+    Každý občan musí mít možnost zapojit se do veřejného života, sledovat a komentovat kroky radnice, a to pohodlně ze svého domova. Chceme výrazně vylepšit webové stránky Prahy 11, aby všichni zájemci rychle našli požadované informace a mohli s úřadem pohodlně komunikovat online.
 ---
 
 ### Každý z nás je součástí
@@ -35,8 +35,8 @@ Městské peníze chceme vydávat smysluplně. Budeme poskytovat dotace na kultu
 Chceme realizovat veřejná výběrová řízení do představenstev městských firem.
 
 ### Udržování vyrovnaného a hospodárného rozpočtu
-Chceme dlouhodobě vyrovnaný rozpočet a městskou část, která investuje do veřejného prostoru. Budeme se snažit získat a efektivně využívat veškeré možné financování, na které jako městská část Prahy máme nárok, aniž bychom rozprodávali městský majetek.<br>
-Jakožto řádní hospodáři si jsme vědomí odpovědnosti za to mít rozpočet dlouhodobě vyrovnaný. Z toho důvodu je naším cílem zvyšovat prostředky na příjmové straně a cíleně seškrtávat nedobré projekty na výdajové straně. <br>
+Naším cílem je dlouhodobě vyrovnaný rozpočet a městská část, která investuje do veřejného prostoru. Budeme se snažit získat a efektivně využívat veškeré možné financování, na které jako městská část Prahy máme nárok, aniž bychom rozprodávali městský majetek.<br>
+Jakožto řádní hospodáři si jsme vědomi odpovědnosti za to mít rozpočet dlouhodobě vyrovnaný. Z toho důvodu je naším cílem zvyšovat prostředky na příjmové straně a cíleně seškrtávat nedobré projekty na výdajové straně. <br>
 Je na vedení radnice, aby hledalo nové zdroje financování. Jako jedna z možností se jeví například dotace z Evropské unie, které svou výší mohou tvořit značnou část příjmů MČ. I z toho důvodu se vyplatí mít člověka na plný úvazek zabývající se pouze dotacemi z EU.
 
 
