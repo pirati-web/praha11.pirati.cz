@@ -39,24 +39,3 @@ Hostivařská přehrada je největší vodní plochou v Praze. Zároveň se jedn
 *autoři: Zuzana Böhmová, Martin Petrtýl, Josef Kocourek, Martin Muzikant <br>
 odborná konzultace: Otmar Litera, Martin Petrtýl, Petr Klán, Tomáš Kapler*
 
-
-<div>
-
-  
-  
-  
-<h2>Název</h2>
-<div class="reseni">
-Řešení:
-test
-</div>
-  
-  
-  
-  
-  
-
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<script type="text/javascript" src="/assets/js/reseni.js"></script>
-
-</div>
