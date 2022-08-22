@@ -31,23 +31,3 @@ Zároveň dokončíme rekonstrukci ubytovny Sandra a budeme pokračovat v oprav�
 *autoři: Petr Klán, Josef Kocourek*
 
 
-<div>
-
-  
-  
-  
-<h2>Název</h2>
-<div class="reseni">
-Řešení:
-test
-</div>
-  
-  
-  
-  
-  
-
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<script type="text/javascript" src="/assets/js/reseni.js"></script>
-
-</div>
