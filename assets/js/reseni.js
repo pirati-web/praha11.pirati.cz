@@ -11,14 +11,14 @@ $(function(){
 	if (!_allSolutionVisible)
 	{
 		$('div.reseni').hide();
-		$('div.solution_wrapper').prepend('<div class="control"><a class="showhide">' + _showText + '</a><br><br><a class="showhideall">' + _showAllText + '</a></div>');
+		$('div.solution_wrapper').prepend('<div class="control"><button class="showhide">' + _showText + '</button><br><br><a class="showhideall">' + _showAllText + '</a></div>');
 	}
 	else
 	{
-		$('div.solution_wrapper').prepend('<div class="control"><a class="showhide">' + _hideText + '</a><br><br><a class="showhideall">' + _hideAllText + '</a></div>');
+		$('div.solution_wrapper').prepend('<div class="control"><button class="showhide">' + _hideText + '</button><br><br><a class="showhideall">' + _hideAllText + '</a></div>');
 	}
 	//show hide one
-	$('a.showhide').click(function() {
+	$('button.showhide').click(function() {
 		if ($(this).parent().parent().children('div.reseni').is(':hidden'))
 		{
 			$(this).parent().parent().children('div.reseni').slideDown('normal;');
@@ -33,7 +33,7 @@ $(function(){
 		}
 	});	
 	//show hide all
-	$('a.showhideall').click(function() {
+	$('button.showhideall').click(function() {
 		if ($(this).text() == _showAllText)
 		{//show
 			$('div.reseni').slideDown('normal;');
