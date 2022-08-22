@@ -54,13 +54,4 @@ AAAA
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <script type="text/javascript" src="/assets/js/reseni.js"></script>
 
-<script type="text/javascript">
-var _base = 'https://praha11.pirati.cz/';
-var _showText = 'Ukaž řešení';
-var _hideText = 'Skryj řešení';
-var _showAllText = '';
-var _hideAllText = '';
-</script>
-
-
 </div>
