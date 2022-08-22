@@ -32,3 +32,26 @@ D1 bude přemostěna “zelenou skořepinou” u ulice Cigánkova.<br>
 
 
 *autoři: Martin Duška, Josef Kocourek*
+
+
+<div>
+
+  
+  
+  
+<h2>Název</h2>
+<div class="reseni">
+Řešení:
+test
+</div>
+  
+  
+  
+  
+  
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/js/reseni.js"></script>
+
+</div>
+
