@@ -26,34 +26,27 @@ Navrhovaná opatření:
 </ol>
 </div>
 
-</blocqoute>
 
-<blockquote style="border:margin:1em;1px solid black;padding:1em">
 
 <div class="reseni">
 Řešení:
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Duis bibendum, lectus ut viverra rhoncus, dolor nunc faucibus libero, eget facilisis enim ipsum id lacus. Integer rutrum, orci vestibulum ullamcorper ultricies, lacus quam ultricies odio, vitae placerat pede sem sit amet enim. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Phasellus enim erat, vestibulum vel, aliquam a, posuere eu, velit. Aliquam erat volutpat. Maecenas aliquet accumsan leo. Donec vitae arcu. In rutrum. Nullam dapibus fermentum ipsum. Donec iaculis gravida nulla. Aliquam ante. Morbi leo mi, nonummy eget tristique non, rhoncus non leo. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Maecenas libero.
 </div>
 
-</blocqoute>
 
-<blockquote style="border:margin:1em;1px solid black;padding:1em">
 
 <div class="reseni">
 Řešení:
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Duis bibendum, lectus ut viverra rhoncus, dolor nunc faucibus libero, eget facilisis enim ipsum id lacus. Integer rutrum, orci vestibulum ullamcorper ultricies, lacus quam ultricies odio, vitae placerat pede sem sit amet enim. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Phasellus enim erat, vestibulum vel, aliquam a, posuere eu, velit. Aliquam erat volutpat. Maecenas aliquet accumsan leo. Donec vitae arcu. In rutrum. Nullam dapibus fermentum ipsum. Donec iaculis gravida nulla. Aliquam ante. Morbi leo mi, nonummy eget tristique non, rhoncus non leo. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Maecenas libero.
 </div>
 
-</blocqoute>
-
-<blockquote style="border:margin:1em;1px solid black;padding:1em">
 
 <div class="reseni">
 Řešení:
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Duis bibendum, lectus ut viverra rhoncus, dolor nunc faucibus libero, eget facilisis enim ipsum id lacus. Integer rutrum, orci vestibulum ullamcorper ultricies, lacus quam ultricies odio, vitae placerat pede sem sit amet enim. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Phasellus enim erat, vestibulum vel, aliquam a, posuere eu, velit. Aliquam erat volutpat. Maecenas aliquet accumsan leo. Donec vitae arcu. In rutrum. Nullam dapibus fermentum ipsum. Donec iaculis gravida nulla. Aliquam ante. Morbi leo mi, nonummy eget tristique non, rhoncus non leo. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Maecenas libero.
 </div>
 
-</blocqoute>
+</blockquote>
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <script type="text/javascript" src="/assets/js/reseni.js"></script>
