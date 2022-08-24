@@ -3,6 +3,7 @@ title: Test
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: kultura-sport-volny-cas
+heroImg: praha-11.jpg
 order: 20
 garant: 
 redmine: 
