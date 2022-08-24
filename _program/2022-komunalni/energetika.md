@@ -25,8 +25,7 @@ Vytvoření městské energetické komunity ke sdílení vyrobené energie – b
 Vytvoříme energetickou koncepci MČ s výhledem na příštích 10 let, která stanoví ambiciózní cíle v oblasti vlastní výroby energie a snížení spotřeby energie.
 
 </div>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<script type="text/javascript" src="/assets/js/reseni.js"></script>
+
 </div>
 
 
@@ -42,10 +41,12 @@ I obyvatelé Prahy 11 se můžou stát výrobci energie a městská část jim m
 <li>Vytvoříme energetickou koncepci MČ s výhledem na příštích 10 let, která stanoví ambiciózní cíle v oblasti vlastní výroby energie a snížení spotřeby energie.</li>
 </ul>
 </div>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<script type="text/javascript" src="/assets/js/reseni.js"></script>
+
 </div>
 
 
 *autor: Zuzana Böhmová <br>
 odborná konzultace: Václav Šebek*
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/js/reseni.js"></script>
