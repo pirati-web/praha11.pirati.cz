@@ -11,28 +11,30 @@ img: program2022/vereny-prostor.jpg
 intro: >
   aaa
 ---
-    <article class="hero hero--image " style="--image-url: url(https://a.pirati.cz/praha11/img/UVODKA%20kopie.jpg)">
-  <div class="container grid lg:grid-rows-4 lg:grid-cols-7 gap-2 items-center">
-    <div class="lg:row-span-4 lg:col-span-3 order-1">
-      <h1 class="head-alt-md md:head-alt-xl" style="color:#000000;">JIŽÁK JE<br/>BUDOUCNOST!<br/><br/><br/><br/><br/><br/></h1>
-    </div>
-    <div class="lg:row-span-1 lg:col-span-3 order-3">
-      <div class="mt-4 md:mt-8 space-y-4">
-        <!-- <button class="btn btn--white btn--fullwidth md:btn--autowidth text-lg">
-          <div class="btn__body "><a href="/volby/2022-komunalni.html">S čím jdeme v Praze do voleb?</div>
-        </button>
 
-        <button class="btn btn--white btn--fullwidth md:btn--autowidth text-lg">
-          <div class="btn__body "><a href="/lide/mestske-casti/">Najdete nás v městských částech</a></div>
-        </button>
-        -->
-      </div>
-    </div>
-    <div class="lg:row-span-5 lg:col-span-4 order-2">
-    
-    </div>
-  </div>
+<article class="hero hero--image " style="--image-url: url(https://a.pirati.cz/praha11/img/UVODKA%20kopie.jpg)">
+<div class="container grid lg:grid-rows-4 lg:grid-cols-7 gap-2 items-center">
+<div class="lg:row-span-4 lg:col-span-3 order-1">
+<h1 class="head-alt-md md:head-alt-xl" style="color:#000000;">JIŽÁK JE<br/>BUDOUCNOST!<br/><br/><br/><br/><br/><br/></h1>
+</div>
+<div class="lg:row-span-1 lg:col-span-3 order-3">
+<div class="mt-4 md:mt-8 space-y-4">
+<!-- <button class="btn btn--white btn--fullwidth md:btn--autowidth text-lg">
+<div class="btn__body "><a href="/volby/2022-komunalni.html">S čím jdeme v Praze do voleb?</div>
+</button>
+
+<button class="btn btn--white btn--fullwidth md:btn--autowidth text-lg">
+<div class="btn__body "><a href="/lide/mestske-casti/">Najdete nás v městských částech</a></div>
+</button>
+-->
+</div>
+</div>
+<div class="lg:row-span-5 lg:col-span-4 order-2">
+
+</div>
+</div>
 </article>
+
 ### Testovací nadpis
 
 Nam quis nulla. In sem justo, commodo ut, suscipit at, pharetra vitae, orci. Nunc tincidunt ante vitae massa. Aliquam id dolor. Mauris metus. Aliquam erat volutpat. Fusce aliquam vestibulum ipsum. Duis viverra diam non justo. Quisque tincidunt scelerisque libero. Etiam egestas wisi a erat.
