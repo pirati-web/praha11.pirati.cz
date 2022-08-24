@@ -1,0 +1,13 @@
+---
+date: 2022-08-24
+category: blog
+title: "Plánované předvolební akce na Jižním Městě"
+layout: post
+author: Zuzana Böhmová
+authorId: zuzana.bohmova
+image: articles/2022/2022-08-04-centralnipark-rozhovor.jpg
+tags: 
+  - akce
+---
+
+*Pirátské listy Praha 11, léto 2022* – 
