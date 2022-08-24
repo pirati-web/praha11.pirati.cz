@@ -11,11 +11,11 @@ $(function(){
 	if (!_allSolutionVisible)
 	{
 		$('div.reseni').hide();
-		$('div.solution_wrapper').prepend('<div class="control"><button class="showhide">' + _showText + '</button><br><br><a class="showhideall">' + _showAllText + '</a></div>');
+		$('div.solution_wrapper').prepend('<div class="control"><button class="showhide" style="color:green">' + _showText + '</button><br><br><a class="showhideall">' + _showAllText + '</a></div>');
 	}
 	else
 	{
-		$('div.solution_wrapper').prepend('<div class="control"><button class="showhide">' + _hideText + '</button><br><br><a class="showhideall">' + _hideAllText + '</a></div>');
+		$('div.solution_wrapper').prepend('<div class="control"><button class="showhide" style="color:red">' + _hideText + '</button><br><br><a class="showhideall">' + _hideAllText + '</a></div>');
 	}
 	//show hide one
 	$('button.showhide').click(function() {
