@@ -66,8 +66,7 @@ $(function(){
 	});
 	
 	
-	
-	/*
+
 	
 	
 	//show hide all
@@ -75,6 +74,7 @@ $(function(){
 		if ($(this).text() == _showAllText)
 		{//show
 			$('div.reseni').slideDown('normal;');
+			$('div.reseni2').slideDown('normal;');
 			$('a.showhideall').text(_hideAllText);
 			$('a.showhide').text(_hideText);
 			$('a.showhide2').text(_hideText2);
@@ -85,6 +85,7 @@ $(function(){
 		else
 		{//hide
 			$('div.reseni').slideUp('normal;');
+			$('div.reseni2').slideUp('normal;');
 			$('a.showhideall').text(_showAllText);
 			$('a.showhide').text(_showText);
 			$('a.showhide2').text(_showText2);
@@ -94,7 +95,6 @@ $(function(){
 		}
 	});	
 
-	*/
 	
 	
 });
