@@ -19,11 +19,11 @@ Chceme snížit dopady energetické krize na rozpočet i životní prostředí. 
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li>Provedeme komplexní energetické řešení budov MČ, které bude zahrnovat:</li>
-<ul>
+<ol>
   <li>Instalaci obnovitelných zdrojů (zejm. solárních elektráren) na budovách MČ</li>
   <li>Renovaci budov – vytipování budov, kde lze odstranit tepelné ztráty</li>
   <li>Zavedení energetického managementu</li>
-  </ul>
+  </ol>
 <li>Vytvoření městské energetické komunity ke sdílení vyrobené energie – budovy s velkým potenciálem výroby mohou zásobovat elektřinou budovy s velkou spotřebou. Například sídlištní školy s velkými plochými střechami vyrobí hlavně v létě mnohem více, než samy spotřebují. V rámci městské energetické komunity můžou ale energii dodávat do jiných budov se stálou spotřebou jako jsou třeba domy s pečovatelskou službou.</li>
 <li>Vytvoříme energetickou koncepci MČ s výhledem na příštích 10 let, která stanoví ambiciózní cíle v oblasti vlastní výroby energie a snížení spotřeby energie.</li>
 </ul>
