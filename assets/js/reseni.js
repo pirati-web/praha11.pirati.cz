@@ -31,7 +31,35 @@ $(function(){
 			$(this).text(_showText);
 
 		}
-	});	
+	});
+	
+	
+	$('div.reseni2').wrap('<div class="solution_wrapper2"></div>');
+	if (!_allSolutionVisible)
+	{
+		$('div.reseni2').hide();
+		$('div.solution_wrapper2').prepend('<div class="control show"><button class="showhide2">' + _showText2 + '</button><br><br><a class="showhideall">' + _showAllText + '</a></div>');
+	}
+	else
+	{
+		$('div.solution_wrapper2').prepend('<div class="control hide"><button class="showhide2">' + _hideText2 + '</button><br><br><a class="showhideall">' + _hideAllText + '</a></div>');
+	}
+	//show hide one
+	$('button.showhide2').click(function() {
+		if ($(this).parent().parent().children('div.reseni2').is(':hidden'))
+		{
+			$(this).parent().parent().children('div.reseni2').slideDown('normal;');
+			$(this).text(_hideText2);
+
+		}
+		else
+		{
+			$(this).parent().parent().children('div.reseni2').slideUp('normal;');
+			$(this).text(_showText2);
+
+		}
+	});
+	
 	//show hide all
 	$('button.showhideall').click(function() {
 		if ($(this).text() == _showAllText)
