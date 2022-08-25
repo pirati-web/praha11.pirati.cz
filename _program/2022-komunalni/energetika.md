@@ -16,12 +16,14 @@ intro: >
 Chceme snížit dopady energetické krize na rozpočet i životní prostředí. Zasadíme se o využití obnovitelných zdrojů na území naší městské části. Praha 11 má díky velké ploše rovných střech na panelových domech obrovský potenciál pro fotovoltaiku a zelené střechy.  Chceme, aby MČ část šla příkladem. Budovy v majetku MČ proto chceme spojit do energetické komunity, instalovat na ně solární panely a díky sdílení výroby co nejvíce elektřiny využít přímo v místě. Potenciál výroby solární elektřiny může v nejlepším případě pokrýt většinu spotřeby městských budov.
 
 <div class="reseni">
-<b>Provedeme komplexní energetické řešení budov MČ, které bude zahrnovat:</b>
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ol>
-<li>Instalaci obnovitelných zdrojů (zejm. solárních elektráren) na budovách MČ</li>
-<li>Renovaci budov – vytipování budov, kde lze odstranit tepelné ztráty</li>
-<li>Zavedení energetického managementu</li>
+<li>Provedeme komplexní energetické řešení budov MČ, které bude zahrnovat:</li>
+<ol>
+  <li>Instalaci obnovitelných zdrojů (zejm. solárních elektráren) na budovách MČ</li>
+  <li>Renovaci budov – vytipování budov, kde lze odstranit tepelné ztráty</li>
+  <li>Zavedení energetického managementu</li>
+  </ol>
 <li>Vytvoření městské energetické komunity ke sdílení vyrobené energie – budovy s velkým potenciálem výroby mohou zásobovat elektřinou budovy s velkou spotřebou. Například sídlištní školy s velkými plochými střechami vyrobí hlavně v létě mnohem více, než samy spotřebují. V rámci městské energetické komunity můžou ale energii dodávat do jiných budov se stálou spotřebou jako jsou třeba domy s pečovatelskou službou.</li>
 <li>Vytvoříme energetickou koncepci MČ s výhledem na příštích 10 let, která stanoví ambiciózní cíle v oblasti vlastní výroby energie a snížení spotřeby energie.</li>
 </ol>
