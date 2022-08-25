@@ -16,6 +16,23 @@ Rozšíříme nabídku kulturního vyžití pro všechny věkové skupiny i žá
 Háje jsou místem, kde kulturní vyžití chybí. Chceme realizovat vznik nového kulturního centra v bývalé kotelně Anežky Malé. Toto centrum by mělo být multifunkčním prostorem nejen pro různá představení, ale také pro výstavy, či komunitní setkávání. <br>
 Chceme vytvořit projekty, které budou seznamovat místní s historií a kulturou. Vytvoříme online Jižácký uličník - aplikaci, ve které budete moci zjistit po kom se naše ulice jmenují. 
 
+<div class="reseni">
+<blockquote style="border:margin:1em;1px solid black;padding:1em">  
+<ul>
+<li>   </li>
+<li>   </li>
+<li>   </li>
+<li>   </li>
+<li>   </li>
+<li>   </li>
+<li>   </li>
+<li>   </li>
+<li>   </li>
+<li>   </li>
+</ul>
+</blockquote>
+</div>
+
 ### Pohyb jako základní pilíř zdravé společnosti <br>
 Pohyb je jedním ze základních předpokladů pro zdraví jednotlivce a tím i celé společnosti. Chceme, aby městská část podporovala nejen volnočasový pohyb, ale i sport.
 Chceme na školních hřištích zavést funkci odpoledního správce, který bude veřejnosti půjčovat sportovní vybavení. Budeme podporovat projekt trenéři ve školách.
@@ -39,3 +56,11 @@ Hostivařská přehrada je největší vodní plochou v Praze. Zároveň se jedn
 *autoři: Zuzana Böhmová, Martin Petrtýl, Josef Kocourek, Martin Muzikant <br>
 odborná konzultace: Otmar Litera, Martin Petrtýl, Petr Klán, Tomáš Kapler*
 
+
+<style>
+  .reseni .hide button { color: red; }
+  .reseni .show button { color: gren; }  
+</style>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/js/reseni.js"></script>
