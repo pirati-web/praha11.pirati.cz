@@ -161,6 +161,8 @@ jQuery.cookie = function(name, value, options) {
 
 var _base = 'https://praha11.pirati.cz/';
 var _showText = '+ Navrhovaná opatření';
+var _showTest2 = '+ Co už jsme udělali';
 var _hideText = '- Navrhovaná opatření';
+var _hideText2 = '- Co už jsme udělali';
 var _showAllText = '';
 var _hideAllText = '';
