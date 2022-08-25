@@ -15,14 +15,14 @@ intro: >
 Nadále podporujeme inovativní způsoby vzdělávání. Vycházíme z tradičních a ověřených způsobů vzdělávání, které chceme inovovat a přizpůsobovat požadavkům současné společnosti. Zajímá nás kvalita vzdělávání ve školských zařízeních zřizovaných městskou částí, chceme ji ve spolupráci s vedením škol rozvíjet.<br>
 Podporujeme využívání možností, které poskytuje Rámcový vzdělávací program. Podporujeme projektové vzdělávání, které dokáže propojit a aplikovat poznatky z různých předmětů a možnosti prostupnosti předmětů napříč ročníky. Každá škola by měla mít vizi vzdělávání, formativní hodnocení by mělo být samozřejmostí. Chceme, aby naši žáci uměli kriticky myslet a byli připraveni na život v moderní digitalizované společnosti.
 
-<div class="udelali">
+<div class="reseni">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
-<li>    </li>
-<li>    </li>
-<li>    </li>
-<li>   </li>
-<li>   </li>
+<li>a</li>
+<li>b</li>
+<li>c</li>
+<li>d</li>
+<li>e</li>
 </ul>
 </blockquote>
 </div>
