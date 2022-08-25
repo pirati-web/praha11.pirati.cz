@@ -19,16 +19,25 @@ Chceme vytvořit projekty, které budou seznamovat místní s historií a kultur
 <div class="reseni">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
-<li>   </li>
-<li>   </li>
-<li>   </li>
-<li>   </li>
-<li>   </li>
-<li>   </li>
-<li>   </li>
-<li>   </li>
-<li>   </li>
-<li>   </li>
+<li> Výběr vhodného online software pro dotace</li>
+<li> Pravidelné přidělování dotací v oblasti kultury</li>
+<li> Murál Opatov, graffiti u podchodu pod ulicí Ryšavého, trafostanice v Stříbrského ulici, postupné opravy menších graffiti ploch</li>
+<li> Rozšíření kulturní nabídky v KJM, podpora akci typu Dobytí Jižního pólu, rodinná výzva</li>
+<li> Pravidelná organizace dnů Prahy 11</li>
+<li> Studie kulturní centrum Anežky Malé (rekonstrukce bývalé kotelny)</li>
+</ul>
+</blockquote>
+</div>
+
+<div class="reseni">
+<blockquote style="border:margin:1em;1px solid black;padding:1em">  
+<ul>
+<li> Chceme zavést kulturní dotace pouze on-line</li>
+<li> Chceme výraznou část dotací udělovat projektům, za kterými stojí mladší 30 let</li>
+<li> Chceme 5 a více šedých míst na Jižním Městě změnit například s pomocí streetart</li>
+<li> Vytvoříme on-line uličník Jižního Města</li>
+<li> Podpoříme komunitní akce “Sžij se s JižŇákem!”</li>
+<li> Chceme realizovat kulturní centrum Anežky Malé</li>
 </ul>
 </blockquote>
 </div>
@@ -40,17 +49,126 @@ Budeme i nadále podporovat sportovní aktivity pro seniory v rámci Jihoměstsk
 Budeme pokračovat v dotačních titulech pro sportovní kluby i jednorázové sportovní akce. Dotace je třeba rozdělovat transparentně. Zrevidujeme pravidla pro proplácení dotačních titulů.<br>
 Podporujeme činnost současných sportovních aktivit pro naše děti. Chceme, aby byla zachována stávající sportovní hřiště na našem území. Hřiště, která jsou v majetku městské části budeme i nadále postupně rekonstruovat.
 
+<div class="reseni">
+<blockquote style="border:margin:1em;1px solid black;padding:1em">  
+<ul>
+<li> Pravidelné rozdělování dotací</li>
+<li> Rekonstrukce hřiště u ZŠ Pošepného náměstí</li>
+<li> Realizace volnočasového areálu VAK</li>
+<li> Workoutová hřiště Kupeckého, Hrabákova</li>
+<li> Nájemní smlouva pro hřiště na Hájích</li>
+<li> Rekonstrukce povrchu hřiště u ZŠ Milíčov</li>
+<li> Renovace multifunkčního hřiště a atletické dráhy u ZŠ Mendelova</li>
+<li> Oprava atletické dráhy u ZŠ Mendelova</li>
+</ul>
+</blockquote>
+</div>
+
+<div class="reseni">
+<blockquote style="border:margin:1em;1px solid black;padding:1em">  
+<ul>
+<li> Revize rozdělování peněz v rámci dotačních titulů</li>
+<li> Elektronizace podávání žádostí o dotační tituly</li>
+<li> Rekonstrukce sportovních hřišť</li>
+<li> Podpora provozu sportovních klubů na JM a zachování stávajících hřišť</li>
+<li> Zřízení funkce odpoledního správce u školních hřišť pro půjčování sportovního vybavení</li>
+<li> Podpora sportu seniorů v rámci Jihoměstské sociální a.s.</li>
+<li> Projekt trenéři do škol</li>
+<li> Semináře propojující trenéry a učitele z jednotlivých oblastí sportu </li>
+<li> Vytvoříme portál, či sekci na webu zaměřenou na sportování na Praze 11 včetně tréninků, členů a dotací (vzorem je například web Děčín sportuje)</li>
+</ul>
+</blockquote>
+</div>
+
 ### Na kolečkách ale i bez nich <br>
 Volnočasové aktivity mládeže jsou jedním ze způsobů prevence rizikového chování mládeže. Podporujeme sportovní a volnočasové aktivity mládeže. Proto chceme, aby Jižní Město mělo plnohodnotný park, který už mnoho let Jižáku chybí, ale zároveň nebude rušit život stávajících obyvatel. Zrealizujeme dlouho připravovaný Adrenalin park u ulice Mírového hnutí poblíž čerpací stanice OMV. Ten bude nejen pro skejťáky a skejťačky nebo inlinisty a inlajnistky, ale nabídne také využití pro parkour nebo bouldering.
+
+<div class="reseni">
+<blockquote style="border:margin:1em;1px solid black;padding:1em">  
+<ul>
+<li> Je zpracována studie na adrenalin park</li>
+<li> Získali jsme svěřené pozemky od hl. m. Prahy u ulice Mírového hnutí nedaleko čerpací stanice</li>
+</ul>
+</blockquote>
+</div>
+
+<div class="reseni">
+<blockquote style="border:margin:1em;1px solid black;padding:1em">  
+<ul>
+<li> Vypracujeme projektovou dokumentaci na park</li>
+<li> Seženeme financování na realizaci projektu</li>
+<li> Zajistíme transparentní výběrové řízení na zhotovitele</li>
+<li> Zahájíme výstavbu adrenalin parku</li>
+</ul>
+</blockquote>
+</div>
 
 ### Malé parky s vyžitím i mezi paneláky <br>
 Vnitrobloky jsou v podstatě malé městské parky na plochách mezi panelovými domy. Významně se podílí na celkovém vzhledu našeho sídliště. Chceme pokračovat v postupné rekonstrukci těchto ploch tak, aby odpovídaly dnešním potřebám. Do těchto prostor budeme instalovat drobnější herní a volnočasové prvky. Vždy chceme vnitrobloky rekonstruovat na základě požadavků místních obyvatel.
 
+<div class="reseni">
+<blockquote style="border:margin:1em;1px solid black;padding:1em">  
+<ul>
+<li> V tomto volebním období se rekonstruovalo několik vnitrobloků jako například: Stříbrského, Sulanského, Konstantinova atd, další jsou v různé fázi rozpracování. Vše lze sledovat na <a href="[http://www.seznam.cz/](https://www.praha11.cz/cs/archiv-neaktualni/mapa-vrstvy-test1/uzemni-rozvoj.html)">webu městské části Praha 11</a></li>
+</ul>
+</blockquote>
+</div>
+
+<div class="reseni">
+<blockquote style="border:margin:1em;1px solid black;padding:1em">  
+<ul>
+<li> Pokračování v regeneraci vnitrobloků při nichž chceme dbát na zadržování vody v krajině</li>
+<li> Zajištění finančních prostředků (dotace MHMP/EU)</li>
+<li> Zapojování veřejnosti ve fázi přípravný prací (vznik projektu)</li>
+</ul>
+</blockquote>
+</div>
+
 ### Občerstvení a oddech v Centrálním parku <br>
 V Centrálním parku dlouhodobě chybí občanská vybavenost a možnost posedět s rodinou a přáteli u občerstvení. V rámci závěrečné etapy revitalizace parku vybudujeme právě takové místo přímo v srdci parku. V hotovém parku pak chceme mít kavárnu, veřejné toalety, pítko a další vodní prvky.
 
+<div class="reseni">
+<blockquote style="border:margin:1em;1px solid black;padding:1em">  
+<ul>
+<li> Projekt je již v konečné fázi, ostatní části parku již mají svou projektovanou podobu, pouze centrální část nebyla dokončena</li>
+<li> Úzce jsme spolupracovali v rámci studie a připomínkování studie a projektu</li>
+</ul>
+</blockquote>
+</div>
+
+<div class="reseni">
+<blockquote style="border:margin:1em;1px solid black;padding:1em">  
+<ul>
+<li> V rámci probíhající výstavby budeme aktivně řídit změny ve výstavbě poslední etapy rekonstrukce parku</li>
+<li> Pokud bude nutné budeme navrhovat změny projektové dokumentaci či navrhovat navazující projekt</li>
+</ul>
+</blockquote>
+</div>
+
 ### Přehrada, ve které se znova budeme chtít koupat <br>
 Hostivařská přehrada je největší vodní plochou v Praze. Zároveň se jedná o místo pro rekreaci, které je na dosah dostupné velké části našich obyvatel. Naší snahou je, aby koupání v Hostivařské přehradě bylo dostupné co nejdelší dobu a kvalita vody byla co nejlepší. Proto je potřeba udělat mnoho dílčích kroků, prvním z nich je vytvoření kořenové čističky u ústí Botiče do přehrady. Dále zajištění čistoty toku v celé jeho délce. Budeme se ve spolupráci s ostatními městskými částmi podílet na řešení čistoty Botiče. Chceme iniciovat spolupráci se Středočeským krajem na jeho čistotě, protože ochrana vodních toků je jednou z našich priorit.
+
+<div class="reseni">
+<blockquote style="border:margin:1em;1px solid black;padding:1em">  
+<ul>
+<li> V nedávné době začala rekonstrukce hráze</li>
+<li> Pravidelně probíhá čištění dna nádrže</li>
+<li> Odeslali jsme na Středočeský kraj dopis, ve kterém žádáme o prověření kvality vody u čističek na povodí Botiče</li>
+</ul>
+</blockquote>
+</div>
+
+<div class="reseni">
+<blockquote style="border:margin:1em;1px solid black;padding:1em">  
+<ul>
+<li> Vytvoříme memorandum Prahy 11, 15, Petrovic a dalších o zájmu na udržení kvality vody </li>
+<li> Budeme iniciovat vytvoření memoranda na úrovni Prahy (dotčených městských částí), Středočeského kraje (dotčených obcí), povodí Vltavy a dalších dotčených uskupení</li>
+<li> Budeme se finančně podílet na vytvoření kořenové čističky před ústím Botiče do přehrady</li>
+<li> Iniciujeme vytvoření plánu na čistotu celého toku</li>
+<li> Podporujeme realizaci opatření vedoucích k odstranění splašků z povodí Botiče</li>
+</ul>
+</blockquote>
+</div>
 
 
 *autoři: Zuzana Böhmová, Martin Petrtýl, Josef Kocourek, Martin Muzikant <br>
