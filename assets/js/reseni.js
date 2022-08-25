@@ -43,14 +43,14 @@ $(function(){
 	if (!_allSolutionVisible)
 	{
 		$('div.reseni2').hide();
-		$('div.solution_wrapper').prepend('<div class="control show"><button class="showhide">' + _showText2 + '</button><br><br><a class="showhideall">' + _showAllText + '</a></div>');
+		$('div.reseni2 div.solution_wrapper').prepend('<div class="control show"><button class="showhide2">' + _showText2 + '</button><br><br><a class="showhideall">' + _showAllText + '</a></div>');
 	}
 	else
 	{
-		$('div.solution_wrapper').prepend('<div class="control hide"><button class="showhide">' + _hideText2 + '</button><br><br><a class="showhideall">' + _hideAllText + '</a></div>');
+		$('div.reseni2 div.solution_wrapper').prepend('<div class="control hide"><button class="showhide2">' + _hideText2 + '</button><br><br><a class="showhideall">' + _hideAllText + '</a></div>');
 	}
 	//show hide one
-	$('button.showhide').click(function() {
+	$('div.reseni2 button.showhide2').click(function() {
 		if ($(this).parent().parent().children('div.reseni2').is(':hidden'))
 		{
 			$(this).parent().parent().children('div.reseni2').slideDown('normal;');
@@ -77,6 +77,7 @@ $(function(){
 			$('div.reseni').slideDown('normal;');
 			$('a.showhideall').text(_hideAllText);
 			$('a.showhide').text(_hideText);
+			$('a.showhide2').text(_hideText2);
 
 			//set cookie
 			$.cookie(_cookieAllSolutionVisible, 'true', { path: '/', expires: 365 });
@@ -86,6 +87,7 @@ $(function(){
 			$('div.reseni').slideUp('normal;');
 			$('a.showhideall').text(_showAllText);
 			$('a.showhide').text(_showText);
+			$('a.showhide2').text(_showText2);
 
 			//set cookie
 			$.cookie(_cookieAllSolutionVisible, 'false', { path: '/', expires: 365 });
