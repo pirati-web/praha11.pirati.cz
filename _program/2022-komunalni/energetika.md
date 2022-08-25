@@ -47,9 +47,11 @@ I obyvatelé Prahy 11 se můžou stát výrobci energie a městská část jim m
 *autor: Zuzana Böhmová <br>
 odborná konzultace: Václav Šebek*
 
+<style>
+  .reseni .hide button { color: red; }
+  .reseni .show button { color: gren; }  
+</style>
+
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <script type="text/javascript" src="/assets/js/reseni.js"></script>
-<style>
-  .hide button { color: red; }
-  .show button { color: gren; }  
-</style>
+
