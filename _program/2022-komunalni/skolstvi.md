@@ -18,11 +18,10 @@ Podporujeme využívání možností, které poskytuje Rámcový vzdělávací p
 <div class="reseni2">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
-<li>a</li>
-<li>b</li>
-<li>c</li>
-<li>d</li>
-<li>e</li>
+<li>Program na podporu činnosti škol zaměřený na rozvoj jazyků, podporu třídních kolektivů, logopedii, rozvoj pedagogických pracovníků</li>
+<li>Místní akční plán ve své pokračování rozvíjí sdílení dobré praxe mezi školami a přináší inovace</li>
+<li>Při výběrových řízeních na ředitele je požadována koncepce školy</li>
+<li>Při prodloužení funkčního období ředitele je požadována koncepce školy a její plnění</li>
 </ul>
 </blockquote>
 </div>
@@ -46,11 +45,20 @@ Posílíme profese jako jsou speciální pedagogové, psychologové a preventist
 <div class="reseni">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
-<li>    </li>
-<li>    </li>
-<li>    </li>
-<li>   </li>
-<li>   </li>
+<li> Program na podporu činnosti škol</li>
+<li> Psychosociální podpora žáků a třídních kolektivů v ZŠ</li>
+<li> Psychosociální podpora a rozvoj pracovníků ZŠ a MŠ</li>
+<li> Projekt Demokratická kultura</li>
+</ul>
+</blockquote>
+</div>
+
+<div class="reseni">
+<blockquote style="border:margin:1em;1px solid black;padding:1em">  
+<ul>
+<li> Chceme zavést peer týmy v rámci MČ – tedy týmy zaměřené nejen na rizikové chování, které budou obsahovat lidi se zkušeností s danou problematikou</li>
+<li> S pomocí dotačních programů podpoříme zvýšení pohybové aktivity dětí</li>
+<li> Budeme realizovat programy na podporu činnosti škol zaměřené na budování kolektivu</li>
 </ul>
 </blockquote>
 </div>
@@ -64,11 +72,21 @@ Nadále podporujeme a chceme koncepčně uchopit práci školských rad.
 <div class="reseni">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
-<li>    </li>
-<li>    </li>
-<li>    </li>
-<li>   </li>
-<li>   </li>
+<li> Projekt Demokratická kultura do škol, který rozvíjí demokracii napříč školami</li>
+<li> Místní akční plán</li>
+<li> Dotazníkové šetření po první vlně covidu – anonymní možnost vyjádření se k průběhu distanční výuky na jednotlivých školách</li>
+</ul>
+</blockquote>
+</div>
+
+<div class="reseni">
+<blockquote style="border:margin:1em;1px solid black;padding:1em">  
+<ul>
+<li> Chceme zavést každoroční evaluační formuláře a dotazníková šetření</li>
+<li> Podporujeme projekt Rozvoj demokratické kultury ve školách Prahy 11</li>
+<li> Podporujeme činnosti žákovských samospráv a podpora jejich průvodců</li>
+<li> Chceme pravidelné setkávání zástupců MČ a nominantů ve školských radách</li>
+<li> Budeme organizace setkávání zástupců školských samospráv napříč městskou částí</li>
 </ul>
 </blockquote>
 </div>
@@ -80,11 +98,23 @@ Pomůžeme školám vytvářet moderní a přehledné webové stránky, kde budo
 <div class="reseni">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
-<li>    </li>
-<li>    </li>
-<li>    </li>
-<li>   </li>
-<li>   </li>
+<li> Elektronické nástěnky v MŠ</li>
+<li> Elektronické registrace do MŠ</li>
+<li> Iniciovali jsme celopražský projekt elektronických registrací do MŠ a ZŠ</li>
+<li> Iniciovali jsme celopražský projekt elektronických výročních zpráv</li>
+<li> MŠ, které měly zájem, jsme pomohli inovovat webové stránky</li>
+</ul>
+</blockquote>
+</div>
+
+<div class="reseni">
+<blockquote style="border:margin:1em;1px solid black;padding:1em">  
+<ul>
+<li> Chceme sdílené dokumenty mezi vedením škol a školským odborem městské části</li>
+<li> Vykazování informací bude v jednotném informačním systému ve spolupráci s HMP a MŠMT</li>
+<li> Dokončíme elektronické zápisy do škol skrze Portál Pražana, nikoliv pouze registrace</li>
+<li> Nabídneme školám podporu s dotačními tituly formou konzultace</li>
+<li> Obnovíme web skolstvijm.cz, který přehledně informuje rodiče o aktualitách ze školství a pomůže například s přijímacím řízením na naše školy</li>
 </ul>
 </blockquote>
 </div>
@@ -96,12 +126,28 @@ Transparetní výběrová řízení na veškeré investice jsou samozřejmostí,
 <div class="reseni">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
-<li>    </li>
-<li>    </li>
-<li>    </li>
-<li>   </li>
-<li>   </li>
+<li> Dostavba západního křídla ZŠ a MŠ Chodov</li>
+<li> Rekonstrukce kuchyně ZŠ Mendelova</li>
+<li> Část zateplení ZŠ Ke kateřinkám</li>
+<li> Rekonstrukce střechy včetně zateplení ZŠ Pošepného náměstí</li>
+<li> Rekonstrukce sociálního zařízení u tělocvičny ZŠ Mikulova</li>
+<li> Drobné pravidelné opravy na základě požadavků škol</li>
 </ul>
+</blockquote>
+</div>
+
+<div class="reseni">
+<blockquote style="border:margin:1em;1px solid black;padding:1em">  
+<ul>
+<li> Dokončíme připravený projekt ZŠ Ke Kateřinkám – zateplení obvodového pláště a výměna oken</li>
+<li> Dokončíme stavební úpravy hlavního vchodu ZŠ Ke Kateřinkám</li>
+<li> Zrealizujeme rekonstrukci vzduchotechniky – MŠ Hroncova</li>
+<li> Zrealizujeme rekonstrukci regulace topného systému ZŠ Donovalská</li>
+<li> Zrealizujeme rekonstrukci povrchu hřiště – ZŠ Campanus</li>
+<li> Zrekonstruujeme atrium ZŠ Květnového vítězství II</li>
+<li> Zrekonstruujeme školní kuchyni MŠ Markušova</li>
+<li> Budeme realizovat pravidelné drobné opravy školních budov dle požadavků našich škol a jejich důležitosti</li>
+  </ul>
 </blockquote>
 </div>
 
