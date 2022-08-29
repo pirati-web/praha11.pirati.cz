@@ -1,5 +1,5 @@
 ---
-title: Energie můžeme nejen čerpat, ale i vyráběr
+title: Energie můžeme nejen čerpat, ale i vyrábět
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: energetika
