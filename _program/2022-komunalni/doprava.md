@@ -32,6 +32,7 @@ Současně je nutné zavést rezidenční parkování pro větší pohodlí mís
 </blockquote>
 </div>
 </div>
+<br>
 
 <div class="resenicko">
 <button class="hide">- Co už jsme udělali</button>
@@ -70,7 +71,7 @@ Praha 11 leží kromě oblasti Roztyl v relativní rovině. Máme tedy vhodné p
 </blockquote>
 </div>
 </div>
-
+<br>
 <div class="resenicko">
 <button class="hide">- Co už jsme udělali</button>
 <button class="show">+ Co už jsme udělali</button>
@@ -111,7 +112,7 @@ Proto budeme pokračovat v pravidelných opravách našich chodníků a pěšíc
 </blockquote>
 </div>
 </div>
-
+<br>
 <div class="resenicko">
 <button class="hide">- Co už jsme udělali</button>
 <button class="show">+ Co už jsme udělali</button>
@@ -162,7 +163,7 @@ D1 bude přemostěna “zelenou skořepinou” u ulice Cigánkova.<br>
 </blockquote>
 </div>
 </div>
-
+<br>
 <div class="resenicko">
 <button class="hide">- Co už jsme udělali</button>
 <button class="show">+ Co už jsme udělali</button>
