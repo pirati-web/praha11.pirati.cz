@@ -15,7 +15,24 @@ intro: >
 ### Snižujeme náklady, zvyšujeme soběstačnost<br>
 Chceme snížit dopady energetické krize na rozpočet i životní prostředí. Zasadíme se o využití obnovitelných zdrojů na území naší městské části. Praha 11 má díky velké ploše rovných střech na panelových domech obrovský potenciál pro fotovoltaiku a zelené střechy.  Chceme, aby MČ část šla příkladem. Budovy v majetku MČ proto chceme spojit do energetické komunity, instalovat na ně solární panely a díky sdílení výroby co nejvíce elektřiny využít přímo v místě. Potenciál výroby solární elektřiny může v nejlepším případě pokrýt většinu spotřeby městských budov.
 
-<div class="reseni">
+<!--
+<div class="resenicko">
+<button class="hide">- Co už jsme udělali</button>
+<button class="show">+ Co už jsme udělali</button>
+
+<div class="text">
+<blockquote style="border:margin:1em;1px solid black;padding:1em">  
+
+</blockquote>
+</div>
+</div>
+-->
+
+<div class="resenicko">
+<button class="hide">- Navrhovaná opatření</button>
+<button class="show">+ Navrhovaná opatření</button>
+
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li>Provedeme komplexní energetické řešení budov MČ, které bude zahrnovat:</li>
@@ -29,12 +46,37 @@ Chceme snížit dopady energetické krize na rozpočet i životní prostředí. 
 </ul>
 </blockquote>
 </div>
+</div>
+
+
+
+
+
+
+
+
 
 ### Podpora energetické soběstačnosti našich obyvatel<br>
 I obyvatelé Prahy 11 se můžou stát výrobci energie a městská část jim může pomoc. Pro SVJ, BD i rodinné domy zřídíme poradenské centrum, kde pomůžeme našim obyvatelům využít střechy svých domů k instalaci solárních panelů, snížení účtů za elektřinu a s dalšími možnostmi úspor energií. Pokud to bude možné, chceme i našim obyvatelům pomoci se sdílenou energetikou.
 
-<div class="reseni">
+<!--
+<div class="resenicko">
+<button class="hide">- Co už jsme udělali</button>
+<button class="show">+ Co už jsme udělali</button>
 
+<div class="text">
+<blockquote style="border:margin:1em;1px solid black;padding:1em">  
+
+</blockquote>
+</div>
+</div>
+-->
+
+<div class="resenicko">
+<button class="hide">- Navrhovaná opatření</button>
+<button class="show">+ Navrhovaná opatření</button>
+
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li>Vytvoříme poradenské místo pro obyvatele P11 na podporu energetických úspor jako například instalace fotovoltaiky a její co nejlepší využití v rámci SVJ a BD a další udržitelná řešení (nakládání s dešťovou vodou, zelené střechy, chlazení). Většinu domů v MČ vlastní jejich obyvatelé. Aby P11 využila potenciál výroby z obnovitelných zdrojů a stala se energeticky robustním městem a zároveň aby obyvatelé dostali pod kontrolu své účty za elektřinu, bez spolupráce s občany P11 se to neobejde.</li>
@@ -43,6 +85,7 @@ I obyvatelé Prahy 11 se můžou stát výrobci energie a městská část jim m
 </ul>
 </blockquote>
 </div>
+</div>
 
 
 
@@ -50,10 +93,26 @@ I obyvatelé Prahy 11 se můžou stát výrobci energie a městská část jim m
 odborná konzultace: Václav Šebek*
 
 <style>
-  .reseni .hide button { color: red; }
-  .reseni .show button { color: gren; }  
+  .resenicko  button.hide { color: red; }
+  .resenicko  button.show { color: gren; }  
+  .resenicko { padding:1em; }  
 </style>
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<script type="text/javascript" src="/assets/js/reseni.js"></script>
 
+<script>
+$(document).ready(function(){
+ $('.resenicko .hide').hide();
+ $('.resenicko .text').hide();
+  $(".resenicko .hide").click(function(){
+    $(this).parent().children('.hide').hide();
+    $(this).parent().children('.show').show();
+    $(this).parent().children('.text').slideUp('normal;');;
+  });
+  $(".resenicko .show").click(function(){
+    $(this).parent().children('.hide').show();
+    $(this).parent().children('.show').hide();
+    $(this).parent().children('.text').slideDown('normal;');;
+  });
+});
+</script>
