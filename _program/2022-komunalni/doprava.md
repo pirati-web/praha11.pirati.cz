@@ -18,8 +18,8 @@ Chceme do realizace výstavby zapojit i místní obyvatele a nabídnout alternat
 Současně je nutné zavést rezidenční parkování pro větší pohodlí místních obyvatel.
 
 <div class="resenicko">
-<button class="hide">- Navrhovaná opatření</button>
-<button class="show">+ Navrhovaná opatření</button>
+<button class="hide">- Co už jsme udělali</button>
+<button class="show">+ Co už jsme udělali</button>
 
 <div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
@@ -35,8 +35,8 @@ Současně je nutné zavést rezidenční parkování pro větší pohodlí mís
 <br>
 
 <div class="resenicko">
-<button class="hide">- Co už jsme udělali</button>
-<button class="show">+ Co už jsme udělali</button>
+<button class="hide">- Navrhovaná opatření</button>
+<button class="show">+ Navrhovaná opatření</button>
 
 <div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
@@ -57,8 +57,8 @@ Praha 11 leží kromě oblasti Roztyl v relativní rovině. Máme tedy vhodné p
 
 
 <div class="resenicko">
-<button class="hide">- Navrhovaná opatření</button>
-<button class="show">+ Navrhovaná opatření</button>
+<button class="hide">- Co už jsme udělali</button>
+<button class="show">+ Co už jsme udělali</button>
 
 <div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
@@ -73,8 +73,8 @@ Praha 11 leží kromě oblasti Roztyl v relativní rovině. Máme tedy vhodné p
 </div>
 <br>
 <div class="resenicko">
-<button class="hide">- Co už jsme udělali</button>
-<button class="show">+ Co už jsme udělali</button>
+<button class="hide">- Navrhovaná opatření</button>
+<button class="show">+ Navrhovaná opatření</button>
 
 <div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
@@ -95,8 +95,8 @@ Chůze je nejzdravější a nejpřirozenější způsob pohybu po městě na kr�
 Proto budeme pokračovat v pravidelných opravách našich chodníků a pěších lávek. Je důležité, aby cesty, kterými běžně chodíme byly funkční. U vybraných povrchů chceme využívat propustnou dlažbu.
 
 <div class="resenicko">
-<button class="hide">- Navrhovaná opatření</button>
-<button class="show">+ Navrhovaná opatření</button>
+<button class="hide">- Co už jsme udělali</button>
+<button class="show">+ Co už jsme udělali</button>
 
 <div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
@@ -114,8 +114,8 @@ Proto budeme pokračovat v pravidelných opravách našich chodníků a pěšíc
 </div>
 <br>
 <div class="resenicko">
-<button class="hide">- Co už jsme udělali</button>
-<button class="show">+ Co už jsme udělali</button>
+<button class="hide">- Navrhovaná opatření</button>
+<button class="show">+ Navrhovaná opatření</button>
 
 <div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
@@ -147,8 +147,8 @@ D1 bude přemostěna “zelenou skořepinou” u ulice Cigánkova.<br>
 
 
 <div class="resenicko">
-<button class="hide">- Navrhovaná opatření</button>
-<button class="show">+ Navrhovaná opatření</button>
+<button class="hide">- Co už jsme udělali</button>
+<button class="show">+ Co už jsme udělali</button>
 
 <div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
@@ -165,9 +165,8 @@ D1 bude přemostěna “zelenou skořepinou” u ulice Cigánkova.<br>
 </div>
 <br>
 <div class="resenicko">
-<button class="hide">- Co už jsme udělali</button>
-<button class="show">+ Co už jsme udělali</button>
-
+<button class="hide">- Navrhovaná opatření</button>
+<button class="show">+ Navrhovaná opatření</button>
 <div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
