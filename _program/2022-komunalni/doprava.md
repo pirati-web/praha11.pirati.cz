@@ -17,7 +17,11 @@ Jedním z nejvhodnějších, ale také dlouhotrvajících řešení parkování 
 Chceme do realizace výstavby zapojit i místní obyvatele a nabídnout alternativu nájemního garážového stání v podobě družstevních parkovacích domů, kde si budou místní moci zajistit své parkovací místo.<br>
 Současně je nutné zavést rezidenční parkování pro větší pohodlí místních obyvatel.
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Navrhovaná opatření</button>
+<button class="show">+ Navrhovaná opatření</button>
+
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Studie dopravy v klidu 2021    </li>
@@ -27,8 +31,13 @@ Současně je nutné zavést rezidenční parkování pro větší pohodlí mís
 </ul>
 </blockquote>
 </div>
+</div>
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Co už jsme udělali</button>
+<button class="show">+ Co už jsme udělali</button>
+
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Požádáme o svěření parkovišť do správy Prahy 11   </li>
@@ -39,11 +48,18 @@ Současně je nutné zavést rezidenční parkování pro větší pohodlí mís
 </ul>
 </blockquote>
 </div>
+</div>
+
 
 ### Cyklisté jsou na Jižáku vítáni<br>
 Praha 11 leží kromě oblasti Roztyl v relativní rovině. Máme tedy vhodné podmínky pro rozvoj bezmotorové dopravy. Cyklistika je pro město vhodný způsob doplňkové dopravy z hlediska emisí i zdraví. Proto chceme vystavět páteřní cyklotrasy a pokračovat ve výstavbě cyklo stojanů po Jižním Městě.
 
-<div class="reseni">
+
+<div class="resenicko">
+<button class="hide">- Navrhovaná opatření</button>
+<button class="show">+ Navrhovaná opatření</button>
+
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Studie proveditelnosti na cyklostezky U Kunratického lesa a u Košíkovských nádrží</li>
@@ -53,8 +69,13 @@ Praha 11 leží kromě oblasti Roztyl v relativní rovině. Máme tedy vhodné p
 </ul>
 </blockquote>
 </div>
+</div>
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Co už jsme udělali</button>
+<button class="show">+ Co už jsme udělali</button>
+
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Chceme vybudovat páteřní cyklotrasy   </li>
@@ -64,12 +85,19 @@ Praha 11 leží kromě oblasti Roztyl v relativní rovině. Máme tedy vhodné p
 </ul>
 </blockquote>
 </div>
+</div>
+
+
 
 ### Pěšky po Jižáku<br>
 Chůze je nejzdravější a nejpřirozenější způsob pohybu po městě na krátké vzdálenosti.  Pro děti je pěší chůze i základní způsob, jak se dopravit do školy.
 Proto budeme pokračovat v pravidelných opravách našich chodníků a pěších lávek. Je důležité, aby cesty, kterými běžně chodíme byly funkční. U vybraných povrchů chceme využívat propustnou dlažbu.
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Navrhovaná opatření</button>
+<button class="show">+ Navrhovaná opatření</button>
+
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Opravili lávku přes D1   </li>
@@ -79,11 +107,16 @@ Proto budeme pokračovat v pravidelných opravách našich chodníků a pěšíc
 <li> Koordinovali dopravní studii Pěšky do školy Květnového vítězství  </li>
 <li> Zadali jsme projekt obnovy lávky u poliklinika Opatovská a zajistili financování   </li>
 <li> Nová bezbariérová rampa na metro v ulici Bajkonurská   </li>
-  </ul>
+</ul>
 </blockquote>
 </div>
+</div>
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Co už jsme udělali</button>
+<button class="show">+ Co už jsme udělali</button>
+
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Dokončíme opravu lávky u metra Háje   </li>
@@ -94,6 +127,13 @@ Proto budeme pokračovat v pravidelných opravách našich chodníků a pěšíc
   </ul>
 </blockquote>
 </div>
+</div>
+
+
+
+
+
+
 
 ### Strategické dopravní stavby<br>
 Potřebujeme stavby posouvat, ne blokovat.  Pro dopravu na Praze 11 je nutná kolaudace okruhu 511 pro odklon tranzitní nákladní dopravy. <br>
@@ -101,7 +141,15 @@ Tramvajová trať v ulici Türkova a Opatovská posílí a zkvalitní stávajíc
 Zajistíme skrze Prahu a TSK zkapacitnění křižovatek Chilská – Na Jelenách a U Kunratického lesa - Roztylská.<br>
 D1 bude přemostěna “zelenou skořepinou” u ulice Cigánkova.<br>
 
-<div class="reseni">
+
+
+
+
+<div class="resenicko">
+<button class="hide">- Navrhovaná opatření</button>
+<button class="show">+ Navrhovaná opatření</button>
+
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Územní studie Opatov – Na Jelenách   </li>
@@ -110,11 +158,16 @@ D1 bude přemostěna “zelenou skořepinou” u ulice Cigánkova.<br>
 <li> Nová lávka u polikliniky Opatovská počítá s tramvají  </li>
 <li> Zadání projektů křižovatek pod TSK  </li>
 <li> Neházíme klacky pod nohy 511  </li>
-  </ul>
+</ul>
 </blockquote>
 </div>
+</div>
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Co už jsme udělali</button>
+<button class="show">+ Co už jsme udělali</button>
+
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Budeme prosazovat obnovení projektu zastřešení Spořilovské ulice pro dotažení tramvaje na MČ 11</li>
@@ -126,6 +179,7 @@ D1 bude přemostěna “zelenou skořepinou” u ulice Cigánkova.<br>
 </ul>
 </blockquote>
 </div>
+</div>
 
 *autoři: Martin Duška, Josef Kocourek*
 
@@ -135,5 +189,21 @@ D1 bude přemostěna “zelenou skořepinou” u ulice Cigánkova.<br>
 </style>
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<script type="text/javascript" src="/assets/js/reseni.js"></script>
+
+<script>
+$(document).ready(function(){
+ $('.resenicko .hide').hide();
+ $('.resenicko .text').hide();
+  $(".resenicko .hide").click(function(){
+    $(this).parent().children('.hide').hide();
+    $(this).parent().children('.show').show();
+    $(this).parent().children('.text').slideUp('normal;');;
+  });
+  $(".resenicko .show").click(function(){
+    $(this).parent().children('.hide').show();
+    $(this).parent().children('.show').hide();
+    $(this).parent().children('.text').slideDown('normal;');;
+  });
+});
+</script>
 
