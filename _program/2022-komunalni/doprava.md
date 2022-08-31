@@ -32,7 +32,7 @@ Současně je nutné zavést rezidenční parkování pro větší pohodlí mís
 </blockquote>
 </div>
 </div>
-<br>
+
 
 <div class="resenicko">
 <button class="hide">- Navrhovaná opatření</button>
@@ -71,7 +71,7 @@ Praha 11 leží kromě oblasti Roztyl v relativní rovině. Máme tedy vhodné p
 </blockquote>
 </div>
 </div>
-<br>
+
 <div class="resenicko">
 <button class="hide">- Navrhovaná opatření</button>
 <button class="show">+ Navrhovaná opatření</button>
@@ -112,7 +112,7 @@ Proto budeme pokračovat v pravidelných opravách našich chodníků a pěšíc
 </blockquote>
 </div>
 </div>
-<br>
+
 <div class="resenicko">
 <button class="hide">- Navrhovaná opatření</button>
 <button class="show">+ Navrhovaná opatření</button>
@@ -163,7 +163,7 @@ D1 bude přemostěna “zelenou skořepinou” u ulice Cigánkova.<br>
 </blockquote>
 </div>
 </div>
-<br>
+
 <div class="resenicko">
 <button class="hide">- Navrhovaná opatření</button>
 <button class="show">+ Navrhovaná opatření</button>
@@ -184,8 +184,9 @@ D1 bude přemostěna “zelenou skořepinou” u ulice Cigánkova.<br>
 *autoři: Martin Duška, Josef Kocourek*
 
 <style>
-  .reseni .hide button { color: red; }
-  .reseni .show button { color: gren; }  
+  .resenicko  button.hide { color: red; }
+  .resenicko  button.show { color: gren; }  
+  .resenicko { padding:1em; }  
 </style>
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
