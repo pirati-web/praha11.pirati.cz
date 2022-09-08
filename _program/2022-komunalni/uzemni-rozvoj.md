@@ -1,5 +1,5 @@
 ---
-title: Ať Jižák nezamrzne - férový a smysluplný rozvoj
+title: AŤ JIŽÁK NEZAMRZNE – FÉROVÝ A SMYSLUPLNÝ ROZVOJ
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: uzemni-rozvoj
