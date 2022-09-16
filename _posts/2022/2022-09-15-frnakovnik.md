@@ -5,7 +5,7 @@ title: "Zelenější Jižní Město - obnovíme Jihoměstský Frňákovník"
 layout: post
 author: Zuzana Böhmová
 authorId: zuzana.bohmova
-image: articles/2022/2022-09-15-frnakovnik
+image: articles/2022/2022-09-15-frnakovnik.jpg
 tags: 
   - akce
   - veřejný prostor
