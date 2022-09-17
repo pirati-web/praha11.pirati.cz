@@ -15,7 +15,11 @@ intro: >
 Nadále podporujeme inovativní způsoby vzdělávání. Vycházíme z tradičních a ověřených způsobů vzdělávání, které chceme inovovat a přizpůsobovat požadavkům současné společnosti. Zajímá nás kvalita vzdělávání ve školských zařízeních zřizovaných městskou částí, chceme ji ve spolupráci s vedením škol rozvíjet.<br>
 Podporujeme využívání možností, které poskytuje Rámcový vzdělávací program. Podporujeme projektové vzdělávání, které dokáže propojit a aplikovat poznatky z různých předmětů a možnosti prostupnosti předmětů napříč ročníky. Každá škola by měla mít vizi vzdělávání, formativní hodnocení by mělo být samozřejmostí. Chceme, aby naši žáci uměli kriticky myslet a byli připraveni na život v moderní digitalizované společnosti.
 
-<div class="reseni2">
+<div class="resenicko">
+<button class="hide">- Co už jsme udělali</button>
+<button class="show">+ Co už jsme udělali</button>
+
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li>Program na podporu činnosti škol zaměřený na rozvoj jazyků, podporu třídních kolektivů, logopedii, rozvoj pedagogických pracovníků</li>
@@ -25,8 +29,12 @@ Podporujeme využívání možností, které poskytuje Rámcový vzdělávací p
 </ul>
 </blockquote>
 </div>
+</div>
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Navrhovaná opatření</button>
+<button class="show">+ Navrhovaná opatření</button>
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li>Budeme finančně podporovat inovativní vzdělávání v našich veřejných školách (prvky alternativních výukových směrů, dělenou výuku, projektové vyučování)</li>
@@ -37,12 +45,17 @@ Podporujeme využívání možností, které poskytuje Rámcový vzdělávací p
 </ul>
 </blockquote>
 </div>
+</div>
 
 ### Restart škol po krizi <br>
 Školy se stále nacházejí ve složitém období, které může být nejen pro děti velmi psychicky náročné. <br>
 Posílíme profese jako jsou speciální pedagogové, psychologové a preventisté, stejně jako samotné preventivní programy. Chceme podpořit dobré klima škol.
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Co už jsme udělali</button>
+<button class="show">+ Co už jsme udělali</button>
+
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Program na podporu činnosti škol</li>
@@ -52,8 +65,12 @@ Posílíme profese jako jsou speciální pedagogové, psychologové a preventist
 </ul>
 </blockquote>
 </div>
+</div>
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Navrhovaná opatření</button>
+<button class="show">+ Navrhovaná opatření</button>
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Chceme zavést peer týmy v rámci MČ – tedy týmy zaměřené nejen na rizikové chování, které budou obsahovat lidi se zkušeností s danou problematikou</li>
@@ -62,6 +79,7 @@ Posílíme profese jako jsou speciální pedagogové, psychologové a preventist
 </ul>
 </blockquote>
 </div>
+</div>
 
 ### Participace směrem nahoru<br>
 Chceme znát názory rodičů, žáků, učitelů a vedení škol. Budeme podporovat vedení škol, aby naslouchalo návrhům všech aktérů vzdělávání, které povedou ke zlepšení kvality výuky.<br>
@@ -69,7 +87,11 @@ Chceme aktivizovat děti. Žákovské samosprávy považujeme za nutnou platform
 Zajímá nás zpětná vazbu rodičů a učitelů. Budeme se snažit hledat věcné a řešení problémů ve prospěch všech zúčastněných stran.<br>
 Nadále podporujeme a chceme koncepčně uchopit práci školských rad.
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Co už jsme udělali</button>
+<button class="show">+ Co už jsme udělali</button>
+
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Projekt Demokratická kultura do škol, který rozvíjí demokracii napříč školami</li>
@@ -78,8 +100,12 @@ Nadále podporujeme a chceme koncepčně uchopit práci školských rad.
 </ul>
 </blockquote>
 </div>
+</div>
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Navrhovaná opatření</button>
+<button class="show">+ Navrhovaná opatření</button>
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Chceme zavést každoroční evaluační formuláře a dotazníková šetření</li>
@@ -90,12 +116,17 @@ Nadále podporujeme a chceme koncepčně uchopit práci školských rad.
 </ul>
 </blockquote>
 </div>
+</div>
 
 ### Kvalitní administrativa<br>
 Pomůžeme školám s přístupem ke kvalitnímu softwaru a elektronickým výukovým materiálům bez zbytečných nákladů.<br>
 Pomůžeme školám vytvářet moderní a přehledné webové stránky, kde budou srozumitelně prezentovat koncepci školy. Podporujeme zavedení elektronických třídních a žákovských knih i v MŠ. Budeme prosazovat elektronické výroční zprávy, které povedou ke snížení administrativní práce vedení škol. Zajistíme maximální součinnost radnice s našimi školami.
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Co už jsme udělali</button>
+<button class="show">+ Co už jsme udělali</button>
+
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Elektronické nástěnky v MŠ</li>
@@ -106,8 +137,12 @@ Pomůžeme školám vytvářet moderní a přehledné webové stránky, kde budo
 </ul>
 </blockquote>
 </div>
+</div>
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Navrhovaná opatření</button>
+<button class="show">+ Navrhovaná opatření</button>
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Chceme sdílené dokumenty mezi vedením škol a školským odborem městské části</li>
@@ -118,12 +153,17 @@ Pomůžeme školám vytvářet moderní a přehledné webové stránky, kde budo
 </ul>
 </blockquote>
 </div>
+</div>
 
 ### Rekonstrukce budov škol a školek<br>
 Budeme pokračovat v rekonstrukcích budov mateřských a základních škol. Je třeba postupně snižovat energetickou náročnost budov a zajistit moderní a přívětivé prostředí pro vzdělávání hodné 21. století. Při rekonstrukcích budeme dbát na energetickou udržitelnost.<br>
 Transparetní výběrová řízení na veškeré investice jsou samozřejmostí, ze které neselvíme. Cílem je dosažení co nejnižší ceny a nejvyšší možné kvality.
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Co už jsme udělali</button>
+<button class="show">+ Co už jsme udělali</button>
+
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Dostavba západního křídla ZŠ a MŠ Chodov</li>
@@ -135,8 +175,12 @@ Transparetní výběrová řízení na veškeré investice jsou samozřejmostí,
 </ul>
 </blockquote>
 </div>
+</div>
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Navrhovaná opatření</button>
+<button class="show">+ Navrhovaná opatření</button>
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Dokončíme připravený projekt ZŠ Ke Kateřinkám – zateplení obvodového pláště a výměna oken</li>
@@ -150,16 +194,34 @@ Transparetní výběrová řízení na veškeré investice jsou samozřejmostí,
   </ul>
 </blockquote>
 </div>
+</div>
 
 *autoři: Zuzana Ujhelyiová, Pavel Podgorný <br>
 odborná konzultace: Lukáš Truksa, Zuzana Böhmová*
 
 <style>
-  .reseni .hide button { color: red; }
-  .reseni .show button { color: gren; }  
+  .resenicko  button.hide { color: red; }
+  .resenicko  button.show { color: gren; }  
+  .resenicko { padding:1em; }  
 </style>
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<script type="text/javascript" src="/assets/js/reseni.js"></script>
+
+<script>
+$(document).ready(function(){
+ $('.resenicko .hide').hide();
+ $('.resenicko .text').hide();
+  $(".resenicko .hide").click(function(){
+    $(this).parent().children('.hide').hide();
+    $(this).parent().children('.show').show();
+    $(this).parent().children('.text').slideUp('normal;');;
+  });
+  $(".resenicko .show").click(function(){
+    $(this).parent().children('.hide').show();
+    $(this).parent().children('.show').hide();
+    $(this).parent().children('.text').slideDown('normal;');;
+  });
+});
+</script>
 
 
