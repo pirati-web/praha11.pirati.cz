@@ -8,7 +8,7 @@ garant: josef.kocourek
 redmine: 
 img: program2022/uzemni-rozvoj2.jpg
 intro: >
-  Občané si zaslouží moderní a smysluplný rozvoj Jižního Města. Chceme dostavbu center v místech stanic metra, která poskytnou obchody, restaurace a další služby. Po investorech budeme vyžadovat zajištění dostatečných parkovacích míst, maximalizaci zeleně a další investice do veřejného prostoru. Chceme podpořit výstavbu družstevního bydlení s účastí radnice. Dokončíme rekonstrukci ubytovny Sandra, kde vznikne 164 nových městských bytů. 
+  Občané si zaslouží moderní a smysluplný rozvoj Jižního Města. Chceme dostavbu center v místech stanic metra, která poskytnou obchody, restaurace a další služby. Po investorech budeme vyžadovat zajištění dostatečných parkovacích míst, maximalizaci zeleně a další investice do veřejného prostoru. Chceme podpořit výstavbu družstevního bydlení s účastí radnice. Dokončíme rekonstrukci ubytovny Sandra, kde vznikne 174 nových městských bytů. 
 ---
 
 ### Budoucnost Jižního Města
