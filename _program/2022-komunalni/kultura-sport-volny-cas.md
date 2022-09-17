@@ -16,7 +16,11 @@ Rozšíříme nabídku kulturního vyžití pro všechny věkové skupiny i žá
 Háje jsou místem, kde kulturní vyžití chybí. Chceme realizovat vznik nového kulturního centra v bývalé kotelně Anežky Malé. Toto centrum by mělo být multifunkčním prostorem nejen pro různá představení, ale také pro výstavy, či komunitní setkávání. <br>
 Chceme vytvořit projekty, které budou seznamovat místní s historií a kulturou. Vytvoříme online Jižácký uličník - aplikaci, ve které budete moci zjistit po kom se naše ulice jmenují. 
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Co už jsme udělali</button>
+<button class="show">+ Co už jsme udělali</button>
+
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Výběr vhodného online software pro dotace</li>
@@ -49,7 +53,11 @@ Budeme i nadále podporovat sportovní aktivity pro seniory v rámci Jihoměstsk
 Budeme pokračovat v dotačních titulech pro sportovní kluby i jednorázové sportovní akce. Dotace je třeba rozdělovat transparentně. Zrevidujeme pravidla pro proplácení dotačních titulů.<br>
 Podporujeme činnost současných sportovních aktivit pro naše děti. Chceme, aby byla zachována stávající sportovní hřiště na našem území. Hřiště, která jsou v majetku městské části budeme i nadále postupně rekonstruovat.
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Co už jsme udělali</button>
+<button class="show">+ Co už jsme udělali</button>
+
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Pravidelné rozdělování dotací</li>
@@ -83,7 +91,11 @@ Podporujeme činnost současných sportovních aktivit pro naše děti. Chceme, 
 ### Na kolečkách ale i bez nich <br>
 Volnočasové aktivity mládeže jsou jedním ze způsobů prevence rizikového chování mládeže. Podporujeme sportovní a volnočasové aktivity mládeže. Proto chceme, aby Jižní Město mělo plnohodnotný park, který už mnoho let Jižáku chybí, ale zároveň nebude rušit život stávajících obyvatel. Zrealizujeme dlouho připravovaný Adrenalin park u ulice Mírového hnutí poblíž čerpací stanice OMV. Ten bude nejen pro skejťáky a skejťačky nebo inlinisty a inlajnistky, ale nabídne také využití pro parkour nebo bouldering.
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Co už jsme udělali</button>
+<button class="show">+ Co už jsme udělali</button>
+
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Je zpracována studie na adrenalin park</li>
@@ -106,7 +118,11 @@ Volnočasové aktivity mládeže jsou jedním ze způsobů prevence rizikového 
 ### Malé parky s vyžitím i mezi paneláky <br>
 Vnitrobloky jsou v podstatě malé městské parky na plochách mezi panelovými domy. Významně se podílí na celkovém vzhledu našeho sídliště. Chceme pokračovat v postupné rekonstrukci těchto ploch tak, aby odpovídaly dnešním potřebám. Do těchto prostor budeme instalovat drobnější herní a volnočasové prvky. Vždy chceme vnitrobloky rekonstruovat na základě požadavků místních obyvatel.
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Co už jsme udělali</button>
+<button class="show">+ Co už jsme udělali</button>
+
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> V tomto volebním období se rekonstruovalo několik vnitrobloků jako například: Stříbrského, Sulanského, Konstantinova atd, další jsou v různé fázi rozpracování. Vše lze sledovat na <a href="[http://www.seznam.cz/](https://www.praha11.cz/cs/archiv-neaktualni/mapa-vrstvy-test1/uzemni-rozvoj.html)">webu městské části Praha 11</a></li>
@@ -127,7 +143,11 @@ Vnitrobloky jsou v podstatě malé městské parky na plochách mezi panelovými
 ### Občerstvení a oddech v Centrálním parku <br>
 V Centrálním parku dlouhodobě chybí občanská vybavenost a možnost posedět s rodinou a přáteli u občerstvení. V rámci závěrečné etapy revitalizace parku vybudujeme právě takové místo přímo v srdci parku. V hotovém parku pak chceme mít kavárnu, veřejné toalety, pítko a další vodní prvky.
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Co už jsme udělali</button>
+<button class="show">+ Co už jsme udělali</button>
+
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Projekt je již v konečné fázi, ostatní části parku již mají svou projektovanou podobu, pouze centrální část nebyla dokončena</li>
@@ -148,7 +168,11 @@ V Centrálním parku dlouhodobě chybí občanská vybavenost a možnost posedě
 ### Přehrada, ve které se znova budeme chtít koupat <br>
 Hostivařská přehrada je největší vodní plochou v Praze. Zároveň se jedná o místo pro rekreaci, které je na dosah dostupné velké části našich obyvatel. Naší snahou je, aby koupání v Hostivařské přehradě bylo dostupné co nejdelší dobu a kvalita vody byla co nejlepší. Proto je potřeba udělat mnoho dílčích kroků, prvním z nich je vytvoření kořenové čističky u ústí Botiče do přehrady. Dále zajištění čistoty toku v celé jeho délce. Budeme se ve spolupráci s ostatními městskými částmi podílet na řešení čistoty Botiče. Chceme iniciovat spolupráci se Středočeským krajem na jeho čistotě, protože ochrana vodních toků je jednou z našich priorit.
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Co už jsme udělali</button>
+<button class="show">+ Co už jsme udělali</button>
+
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> V nedávné době začala rekonstrukce hráze</li>
