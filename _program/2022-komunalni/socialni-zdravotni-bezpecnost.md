@@ -14,7 +14,11 @@ intro: >
 ### Efektivní řešení problémů našich obyvatel
 Současná sociální a ekonomická situace přináší různé životní problémy. Aktualizujeme analýzu potřeb občanů Prahy 11 v oblasti dostupnosti a spokojenosti s nabídkou sociálních a zdravotních služeb na městské části. Přizpůsobíme a budeme podporovat rozvoj sociálních a zdravotních služeb dle zjištěných požadavků a potřeb. Budeme i nadále podporovat stávající i nové subjekty poskytující sociální a zdravotní služby.
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Co už jsme udělali</button>
+<button class="show">+ Co už jsme udělali</button>
+
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Dokončení koncepce Sociálních a návazných služeb na Praze 11 a příprava nové koncepce na následující období</li>
@@ -24,8 +28,12 @@ Současná sociální a ekonomická situace přináší různé životní probl�
 </ul>
 </blockquote>
 </div>
+</div>
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Navrhovaná opatření</button>
+<button class="show">+ Navrhovaná opatření</button>
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Aktualizujeme analýzu potřeb sociálních služeb na Praze 11</li>
@@ -34,11 +42,16 @@ Současná sociální a ekonomická situace přináší různé životní probl�
 </ul>
 </blockquote>
 </div>
+</div>
 
 ### Prevence je cestou k bezstarostnému dětství
 Prosazujeme moderní a efektivní řešení rizikového chování mládeže a dětí, kterému chceme aktivně předcházet. Vytvoříme komplexní mezioborovou analýzu závislostního chování rizikových skupin dětí a mládeže a následné řešení jejich situace (například užívání návykových látek, šikana, krádeže...). Budeme iniciovat spolupráci rodin a subjektů kliniky adiktologie, škol na území MČ, radnice, neziskových organizací z Prahy 11 a příslušného oddělení městské policie.
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Co už jsme udělali</button>
+<button class="show">+ Co už jsme udělali</button>
+
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Finanční podpora programů prevence šikany, a prevence sociálně-patologických jevů v ZŠ</li>
@@ -46,8 +59,12 @@ Prosazujeme moderní a efektivní řešení rizikového chování mládeže a d�
 </ul>
 </blockquote>
 </div>
+</div>
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Navrhovaná opatření</button>
+<button class="show">+ Navrhovaná opatření</button>
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Budeme finančně podporovat programy primární prevence ve spolupráci kliniky adiktologie, neziskového sektoru, radnice, škol a městské policie</li>
@@ -58,12 +75,17 @@ Prosazujeme moderní a efektivní řešení rizikového chování mládeže a d�
 </ul>
 </blockquote>
 </div>
+</div>
 
 ### Nikoho v tom nenecháme samotného
 Vzhledem k poměrně vysokému počtu rodičů samoživitelů a jejich dětí na území Prahy 11 chceme zlepšit jejich životní situaci pravidelnou nejen potravinovou pomocí a dostupnou bezplatnou právní poradnou. Stejně tak ale nezapomínáme ani na seniory a budeme i nadále podporovat širokou nabídku pro jejich volnočasové aktivity.<br>
 Pro zájemce na Praze 11 chceme mít vhodná prostředí v podobě komunitních center, kde by se mohli různé skupiny zapojit do společných aktivit (například senioři, děti, studenti, rodiče samoživitelé). V projektu Sousedské pomoci chceme posilovat komunitní solidární občanskou společnost. 
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Co už jsme udělali</button>
+<button class="show">+ Co už jsme udělali</button>
+
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Získáváme zájemce o účast v projektu Sousedské pomoci</li>
@@ -73,8 +95,12 @@ Pro zájemce na Praze 11 chceme mít vhodná prostředí v podobě komunitních 
 </ul>
 </blockquote>
 </div>
+</div>
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Navrhovaná opatření</button>
+<button class="show">+ Navrhovaná opatření</button>
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Budeme i nadále pokračovat v podpoře bezplatné právní poradny</li>
@@ -84,11 +110,16 @@ Pro zájemce na Praze 11 chceme mít vhodná prostředí v podobě komunitních 
 </ul>
 </blockquote>
 </div>
+</div>
 
 ### Naši občané si zaslouží dostupné a důstojné bydlení
 Podporujeme sociální bydlení v zájmu dostupnosti bydlení pro všechny. Podporujeme výstavbu domovů pro seniory z důvodu zvyšující se poptávky z řad občanů Prahy 11. Chceme v městských bytech umožnit alternativní možnosti bydlení v podobě sdíleného bydlení.
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Co už jsme udělali</button>
+<button class="show">+ Co už jsme udělali</button>
+
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Začali jsme rekonstrukci ubytovny Sandra a získali na ní financování</li>
@@ -96,8 +127,12 @@ Podporujeme sociální bydlení v zájmu dostupnosti bydlení pro všechny. Podp
 </ul>
 </blockquote>
 </div>
+</div>
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Navrhovaná opatření</button>
+<button class="show">+ Navrhovaná opatření</button>
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Dokončíme rekonstrukci ubytovny Sandra</li>
@@ -107,11 +142,16 @@ Podporujeme sociální bydlení v zájmu dostupnosti bydlení pro všechny. Podp
 </ul>
 </blockquote>
 </div>
+</div>
 
 ### Bezpečné Jižní Město
 V okolí svého bydliště bychom se měli cítit bezpečně. Budeme pokračovat v cíleném vytipovávání rizikových lokalit, a to ve spolupráci s místními obyvateli, ale i s neziskovým sektorem. Následně ve spolupráci s městskou policií a MHMP zvýšíme hlídky na vytipovaných lokalitách. Strážníků zároveň musí být dostatečné množství. Budeme finančně i materiální podporovat městskou i státní policii a hasiče na našem území. Zajistíme možnost ubytování pro policisty a hasiče.
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Co už jsme udělali</button>
+<button class="show">+ Co už jsme udělali</button>
+
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Byty pro policisty ve veřejném zájmu</li>
@@ -121,8 +161,12 @@ V okolí svého bydliště bychom se měli cítit bezpečně. Budeme pokračovat
 </ul>
 </blockquote>
 </div>
+</div>
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Navrhovaná opatření</button>
+<button class="show">+ Navrhovaná opatření</button>
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Budeme pracovat na základě analýzy rizikových míst</li>
@@ -133,14 +177,34 @@ V okolí svého bydliště bychom se měli cítit bezpečně. Budeme pokračovat
 </ul>
 </blockquote>
 </div>
+</div>
 
 *autoři: Šárka Hozmanová, Zuzana Böhmová <br>
 odborná konzultace: Jan Mejsnar, Petra Mžourková*
 
 <style>
-  .reseni .hide button { color: red; }
-  .reseni .show button { color: gren; }  
+  .resenicko  button.hide { color: red; }
+  .resenicko  button.show { color: gren; }  
+  .resenicko { padding:1em; }  
 </style>
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<script type="text/javascript" src="/assets/js/reseni.js"></script>
+
+<script>
+$(document).ready(function(){
+ $('.resenicko .hide').hide();
+ $('.resenicko .text').hide();
+  $(".resenicko .hide").click(function(){
+    $(this).parent().children('.hide').hide();
+    $(this).parent().children('.show').show();
+    $(this).parent().children('.text').slideUp('normal;');;
+  });
+  $(".resenicko .show").click(function(){
+    $(this).parent().children('.hide').show();
+    $(this).parent().children('.show').hide();
+    $(this).parent().children('.text').slideDown('normal;');;
+  });
+});
+</script>
+
+
