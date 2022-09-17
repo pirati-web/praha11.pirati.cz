@@ -1,5 +1,5 @@
 ---
-title: AŤ JIŽÁK NEZAMRZNE – FÉROVÝ A SMYSLUPLNÝ ROZVOJ
+title: Ať Jižák nezamrzne: férový a smysluplný rozvoj
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: uzemni-rozvoj
@@ -15,15 +15,23 @@ intro: >
 V současnosti Jižní Město nemá ucelenou představu o svém rozvoji a pokud dochází ke změnám, tak nejsou navzájem provázané a není jasný jejich výstup. Jednotlivé investice a opravy sice jsou samostatně odůvodnitelné, ale v celkovém pohledu nejsou zcela koncepční.<br>
 Piráti chtějí zohlednit názory obyvatel MČ, navrhnout strategii rozvoje Jižního Města a zaměřit se jak na podporu silných stránek (dobrá dopravní dostupnost, velké zelené plochy, dostupnost vzdělávání) tak i řešení problematických témat (bezpečnost, dostupnost kulturního vyžití, zanedbané okolí stanic metra, parkování, absence služeb a volnočasového využití parteru, sportoviště, spolkový život).<br>
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Co už jsme udělali</button>
+<button class="show">+ Co už jsme udělali</button>
+
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Vytvořili jsme demografickou studii, která tvoří jeden z podkladů pro tvorbu strategie rozvoje MČ</li>
 </ul>
 </blockquote>
 </div>
+</div>
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Navrhovaná opatření</button>
+<button class="show">+ Navrhovaná opatření</button>
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Provedeme průzkum mezi obyvateli MČ, na téma silných a slabých míst Jižního Města</li>
@@ -31,11 +39,16 @@ Piráti chtějí zohlednit názory obyvatel MČ, navrhnout strategii rozvoje Ji�
 </ul>
 </blockquote>
 </div>
+</div>
 
 ###  Chceš stavět? Přispěj!
 Investiční záměr vždy vnáší do dané lokality dopady odpovídající velikosti záměru. Proto na hl. m. Praze byla schválena “Kontribuce” která stanovuje pravidla spoluúčasti investora k městu. Chceme aby se investoři více podíleli na rozvoji oblasti, ve které staví. Budeme důsledně dbát na jejich finančním zapojení do rozvoje okolí výstavby, a to jak v oblasti veřejného prostoru jako jsou parky, tak i do okolní infrastruktury (silnice, chodníky, cyklostezky, školy, další veřejná vybavenost).
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Co už jsme udělali</button>
+<button class="show">+ Co už jsme udělali</button>
+
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Vytvořili jsme metodiku na MHMP</li>
@@ -43,8 +56,12 @@ Investiční záměr vždy vnáší do dané lokality dopady odpovídající vel
 </ul>
 </blockquote>
 </div>
+</div>
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Navrhovaná opatření</button>
+<button class="show">+ Navrhovaná opatření</button>
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Implementace kontribuce (pravidel schválených HMP</li>
@@ -52,13 +69,18 @@ Investiční záměr vždy vnáší do dané lokality dopady odpovídající vel
 </ul>
 </blockquote>
 </div>
+</div>
 
 ### Rozvoj přirozených center Jižního Města
 Okolí stanic metra tvoří přirozená centra Jižního Města, která se do dnešní doby nepodařilo rozvinout do jejich skutečného potenciálu. <br>
 Od zprovoznění linky C se na Jižním Městě do okolí stanic metra neinvestovalo a v současnosti je okolí stanic (kromě stanice Chodov a interiéru metra Opatov) ve špatném technickém stavu a nejsou zcela dotvořeny. <br>
 Proto podporujeme dotvoření okolí stanic metra. Tím se vytvoří zázemí pro nové obchody, restaurace, kavárny a další služby a dojde k zatraktivnění Jižního Města pro širokou veřejnost. <br>
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Co už jsme udělali</button>
+<button class="show">+ Co už jsme udělali</button>
+
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Územní studie Opatov – Na Jelenách</li>
@@ -66,8 +88,12 @@ Proto podporujeme dotvoření okolí stanic metra. Tím se vytvoří zázemí pr
 </ul>
 </blockquote>
 </div>
+</div>
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Navrhovaná opatření</button>
+<button class="show">+ Navrhovaná opatření</button>
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Připomínkujeme Metropolitní plán, který je predispozicí pro tvorbu urbanistických studií a rozvoje území.</li>
@@ -78,13 +104,18 @@ Proto podporujeme dotvoření okolí stanic metra. Tím se vytvoří zázemí pr
 </ul>
 </blockquote>
 </div>
+</div>
 
 ### Cesta k dostupnému bydlení
 Budeme aktivně podporovat vznik družstevního bydlení. Cílem je přispět k rozšíření možností cenově dostupného bydlení pro obyvatele na území Prahy. <br>
 Družstevní bydlení bude výhodné také pro město, které se rovněž stane členem družstva a v realizovaných projektech bude mít dispoziční právo k jedné třetině bytů. Byty bude následně pronajímat občanům. Tímto způsobem Praha obrátí trend dosavadních let, kdy se neustále snižoval počet městských bytů, kterých má město v současnosti velký nedostatek. <br>
 Zároveň dokončíme rekonstrukci ubytovny Sandra a budeme pokračovat v opravách městských bytů. Město musí mít dostatečné kapacity bydlení pro ty, kteří jej potřebují. Byty budeme přednostně přidělovat potřebným profesím – učitelům, zdravotníkům, hasičům, policistům a dalším pomáhajícím profesím. <br>
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Co už jsme udělali</button>
+<button class="show">+ Co už jsme udělali</button>
+
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Zásady projektu Dostupné družstevní bydlení s účastí hl. m. Prahy schválilo Zastupitelstvo hl. m. Prahy v prosinci 2020</li>
@@ -95,8 +126,12 @@ Zároveň dokončíme rekonstrukci ubytovny Sandra a budeme pokračovat v oprav�
 </ul>
 </blockquote>
 </div>
+</div>
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Navrhovaná opatření</button>
+<button class="show">+ Navrhovaná opatření</button>
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Vytipujeme vhodné pozemky pro výstavbu družstevního bydlení</li>
@@ -108,14 +143,34 @@ Zároveň dokončíme rekonstrukci ubytovny Sandra a budeme pokračovat v oprav�
 </ul>
 </blockquote>
 </div>
+</div>
 
 *autoři: Petr Klán, Josef Kocourek*
 
 
 <style>
-  .reseni .hide button { color: red; }
-  .reseni .show button { color: gren; }  
+  .resenicko  button.hide { color: red; }
+  .resenicko  button.show { color: gren; }  
+  .resenicko { padding:1em; }  
 </style>
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<script type="text/javascript" src="/assets/js/reseni.js"></script>
+
+<script>
+$(document).ready(function(){
+ $('.resenicko .hide').hide();
+ $('.resenicko .text').hide();
+  $(".resenicko .hide").click(function(){
+    $(this).parent().children('.hide').hide();
+    $(this).parent().children('.show').show();
+    $(this).parent().children('.text').slideUp('normal;');;
+  });
+  $(".resenicko .show").click(function(){
+    $(this).parent().children('.hide').show();
+    $(this).parent().children('.show').hide();
+    $(this).parent().children('.text').slideDown('normal;');;
+  });
+});
+</script>
+
+
