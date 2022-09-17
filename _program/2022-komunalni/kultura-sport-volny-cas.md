@@ -32,8 +32,12 @@ Chceme vytvořit projekty, které budou seznamovat místní s historií a kultur
 </ul>
 </blockquote>
 </div>
+</div>
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Navrhovaná opatření</button>
+<button class="show">+ Navrhovaná opatření</button>
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Chceme zavést kulturní dotace pouze on-line</li>
@@ -44,6 +48,7 @@ Chceme vytvořit projekty, které budou seznamovat místní s historií a kultur
 <li> Chceme realizovat kulturní centrum Anežky Malé</li>
 </ul>
 </blockquote>
+</div>
 </div>
 
 ### Pohyb jako základní pilíř zdravé společnosti <br>
@@ -71,8 +76,12 @@ Podporujeme činnost současných sportovních aktivit pro naše děti. Chceme, 
 </ul>
 </blockquote>
 </div>
+</div>
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Navrhovaná opatření</button>
+<button class="show">+ Navrhovaná opatření</button>
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Revize rozdělování peněz v rámci dotačních titulů</li>
@@ -86,6 +95,7 @@ Podporujeme činnost současných sportovních aktivit pro naše děti. Chceme, 
 <li> Vytvoříme portál, či sekci na webu zaměřenou na sportování na Praze 11 včetně tréninků, členů a dotací (vzorem je například web Děčín sportuje)</li>
 </ul>
 </blockquote>
+</div>
 </div>
 
 ### Na kolečkách ale i bez nich <br>
@@ -103,8 +113,12 @@ Volnočasové aktivity mládeže jsou jedním ze způsobů prevence rizikového 
 </ul>
 </blockquote>
 </div>
+</div>
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Navrhovaná opatření</button>
+<button class="show">+ Navrhovaná opatření</button>
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Vypracujeme projektovou dokumentaci na park</li>
@@ -113,6 +127,7 @@ Volnočasové aktivity mládeže jsou jedním ze způsobů prevence rizikového 
 <li> Zahájíme výstavbu adrenalin parku</li>
 </ul>
 </blockquote>
+</div>
 </div>
 
 ### Malé parky s vyžitím i mezi paneláky <br>
@@ -129,8 +144,12 @@ Vnitrobloky jsou v podstatě malé městské parky na plochách mezi panelovými
 </ul>
 </blockquote>
 </div>
+</div>
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Navrhovaná opatření</button>
+<button class="show">+ Navrhovaná opatření</button>
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Pokračování v regeneraci vnitrobloků při nichž chceme dbát na zadržování vody v krajině</li>
@@ -138,6 +157,7 @@ Vnitrobloky jsou v podstatě malé městské parky na plochách mezi panelovými
 <li> Zapojování veřejnosti ve fázi přípravný prací (vznik projektu)</li>
 </ul>
 </blockquote>
+</div>
 </div>
 
 ### Občerstvení a oddech v Centrálním parku <br>
@@ -155,14 +175,19 @@ V Centrálním parku dlouhodobě chybí občanská vybavenost a možnost posedě
 </ul>
 </blockquote>
 </div>
+</div>
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Navrhovaná opatření</button>
+<button class="show">+ Navrhovaná opatření</button>
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> V rámci probíhající výstavby budeme aktivně řídit změny ve výstavbě poslední etapy rekonstrukce parku</li>
 <li> Pokud bude nutné budeme navrhovat změny projektové dokumentaci či navrhovat navazující projekt</li>
 </ul>
 </blockquote>
+</div>
 </div>
 
 ### Přehrada, ve které se znova budeme chtít koupat <br>
@@ -181,8 +206,12 @@ Hostivařská přehrada je největší vodní plochou v Praze. Zároveň se jedn
 </ul>
 </blockquote>
 </div>
+</div>
 
-<div class="reseni">
+<div class="resenicko">
+<button class="hide">- Navrhovaná opatření</button>
+<button class="show">+ Navrhovaná opatření</button>
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 <li> Vytvoříme memorandum Prahy 11, 15, Petrovic a dalších o zájmu na udržení kvality vody </li>
@@ -193,6 +222,7 @@ Hostivařská přehrada je největší vodní plochou v Praze. Zároveň se jedn
 </ul>
 </blockquote>
 </div>
+</div>
 
 
 *autoři: Zuzana Böhmová, Martin Petrtýl, Josef Kocourek, Martin Muzikant <br>
@@ -200,9 +230,28 @@ odborná konzultace: Otmar Litera, Martin Petrtýl, Petr Klán, Tomáš Kapler*
 
 
 <style>
-  .reseni .hide button { color: red; }
-  .reseni .show button { color: gren; }  
+  .resenicko  button.hide { color: red; }
+  .resenicko  button.show { color: gren; }  
+  .resenicko { padding:1em; }  
 </style>
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<script type="text/javascript" src="/assets/js/reseni.js"></script>
+
+<script>
+$(document).ready(function(){
+ $('.resenicko .hide').hide();
+ $('.resenicko .text').hide();
+  $(".resenicko .hide").click(function(){
+    $(this).parent().children('.hide').hide();
+    $(this).parent().children('.show').show();
+    $(this).parent().children('.text').slideUp('normal;');;
+  });
+  $(".resenicko .show").click(function(){
+    $(this).parent().children('.hide').show();
+    $(this).parent().children('.show').hide();
+    $(this).parent().children('.text').slideDown('normal;');;
+  });
+});
+</script>
+
+
