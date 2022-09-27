@@ -10,7 +10,6 @@ category:
 description: člen MS Praha 11
 teamDescription:
   clenove: člen MS Praha 11
-  zas: místopředseda zastupitelského klubu
 img: people/jan-mejsnar.jpg
 heroImg: praha-11.jpg
 mail:
@@ -19,13 +18,6 @@ profiles:
   facebook: https://www.facebook.com/jan.mejsnar.1
   evidence: 
   odmeny: 
-funkce: 
-- zastupitel Prahy 11
-- místipředseda zastupitelského klubu P 11
-- předseda Komise pro životní prostředí RMČ P 11
-- člen Komise sociální a zdravotní RMČ P11
-- člen Kontrolního výboru ZMČ P 11
-- místopředseda dozorčí rady Jihoměstská sociální
 profession: meteorolog, vědecký pracovník
 ---
 
