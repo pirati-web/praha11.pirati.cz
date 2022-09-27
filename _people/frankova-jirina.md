@@ -1,11 +1,9 @@
 ---
 uid: jirina.frankova
 name: Jiřina Franková
-
 category:
   - delegati
 ordpms: 3  
-description: ▪ členka Komise pro seniory
 img: people/jirina-frankova.jpg
 heroImg: praha-11.jpg
 age: 
