@@ -6,7 +6,6 @@ titles:
   after: Ph.D.
 category:
   - kandidat-obec
-  - zas
   - clenove
 description: člen MS Praha 11
 teamDescription:
