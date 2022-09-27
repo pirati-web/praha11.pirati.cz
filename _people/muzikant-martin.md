@@ -7,7 +7,6 @@ titles:
 category:
   - clenove
   - kandidat-obec
-  - zas
 description: člen MS Praha 11
 teamDescription:
   clenove: člen MS Praha 11
