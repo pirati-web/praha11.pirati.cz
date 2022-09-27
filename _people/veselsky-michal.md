@@ -4,7 +4,6 @@ name: Michal Veselský
 
 category:
   - kandidat-obec
-  - zas
 description: zastupitel, člen SZ
 img: people/michal-veselsky.jpg
 heroImg: praha-11.jpg
