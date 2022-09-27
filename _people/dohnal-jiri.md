@@ -9,12 +9,10 @@ category:
 description: člen MS Praha 11
 teamDescription:
   clenove: člen MS Praha 11
-  zas: starosta Prahy 11
-profession: starosta Prahy 11
 img: people/jiri-dohnal-2022.jpg
 heroImg: praha-11.jpg
 address: Ocelíkova 672/1, 149 00 Praha 11
-clock: den pro veřejnost se starostou každé pondělí od 17:00 do 18:30
+#clock: 
 mail:
   - jiri.dohnal@pirati.cz
 #wiki: https://wiki.pirati.cz/lide/jiri_dohnal
@@ -24,8 +22,7 @@ profiles:
   instagram: https://www.instagram.com/jiridohnal.praha11/
   evidence: https://evidence.pirati.cz/author/161/
   odmeny: https://nalodeni.pirati.cz/odmeny/
-funkce:
-  - starosta Prahy 11 s gescemi informační technologie, digitalizace, finance, krizové řízení, bydlení 
+
 calendar: difpl1tdlua3q599bf6vs1nbnbsv307g@import.calendar.google.com
 ---
 
@@ -35,7 +32,7 @@ calendar: difpl1tdlua3q599bf6vs1nbnbsv307g@import.calendar.google.com
 
 ### Odkazy
 
-* [Veřejný kalendář starosty](https://webmail.praha11.cz/owa/calendar/dohnalJ@praha11.cz/Kalendář/calendar.html)
+* [Veřejný kalendář](https://webmail.praha11.cz/owa/calendar/dohnalJ@praha11.cz/Kalendář/calendar.html)
 
 
 <iframe src="https://webmail.praha11.cz/owa/calendar/dohnalJ@praha11.cz/Kalendář/calendar.html" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
