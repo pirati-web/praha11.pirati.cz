@@ -9,11 +9,9 @@ category:
 description: člen MS Praha 11
 teamDescription:
   clenove: koordinátor gesce doprava
-  zas: radní Prahy 11
+
 img: people/martin-duska.jpg
 heroImg: praha-11.jpg
-address: Ocelíkova 672/1, 149 00 Praha 11
-clock: den pro veřejnost každou středu od 17:00 do 18:30
 mail:
   - martin.duska@pirati.cz
 profiles:
@@ -21,9 +19,6 @@ profiles:
   instagram: https://www.instagram.com/martin_duska/
   evidence: https://evidence.pirati.cz/author/163/
   odmeny: https://nalodeni.pirati.cz/odmeny/martin.duska
-funkce: 
-- radní Prahy 11 s gescí doprava a otevřená radnice
-profession: radní Prahy 11
 calendar: elm0jo19g99tskirlru32894mg@group.calendar.google.com
 ---
 
