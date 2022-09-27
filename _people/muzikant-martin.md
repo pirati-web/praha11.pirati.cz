@@ -10,7 +10,6 @@ category:
 description: člen MS Praha 11
 teamDescription:
   clenove: člen MS Praha 11
-  zas: předseda zastupitelského klubu
 img: people/martin-muzikant.jpg
 heroImg: praha-11.jpg
 mail:
@@ -19,14 +18,6 @@ profiles:
   facebook: https://www.facebook.com/martin.muzikant.313
   evidence: 
   odmeny: https://nalodeni.pirati.cz/odmeny/martin.muzikant
-funkce: 
-- zastupitel Prahy 11
-- předseda zastupitelského klubu P 11
-- člen Komise investic RMČ P 11
-- předseda Komise pro dotace a EU fondů RMČ P11
-- člen Komise pro správu majetku a podporu podnikání RMČ P 11
-- místopředseda Finančního výboru ZMČ P 11
-- člen dozorčí rady Jihoměstská majetková 
 profession: manažer
 ---
 
