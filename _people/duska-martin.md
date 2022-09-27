@@ -6,7 +6,6 @@ titles:
 category:
   - kandidat-obec
   - clenove
-  - zas
 description: člen MS Praha 11
 teamDescription:
   clenove: koordinátor gesce doprava
