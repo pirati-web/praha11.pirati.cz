@@ -7,7 +7,6 @@ category:
   - kandidat-obec
   - clenove
   - mhmp
-  - zas
 ordpms: 4
 description: člen MS Praha 11
 teamDescription:
