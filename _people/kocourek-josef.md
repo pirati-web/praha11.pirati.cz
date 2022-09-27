@@ -13,9 +13,7 @@ ordclenove: 4
 description: předseda MS Praha 11
 teamDescription:
   pms: předseda MS Praha 11
-  clenove: koordinátor gesce územní rozvoj
-  zas: uvolněný zastupitel
-profesion: uvolněný místopředseda výboru pro územní rozvoj a životní prostředí
+profesion: 
 img: people/josef-kocurek.jpg
 heroImg: praha-11.jpg
 mail:
@@ -27,12 +25,7 @@ profiles:
   evidence: 
   odmeny: https://nalodeni.pirati.cz/odmeny/josef.kocourek
 funkce:
-  - kandidát do ZMČ Praha 11
-  - předseda MS Praha 11
-  - předsedka místního expertního týmu územní rozvoj, strategické  plánování, doprava, životní prostředí, infrastruktura, veřejný prostor a bydlení 
-  - uvolněný zastupitel Prahy 11
-  - místopředseda Výboru pro územní rozvoj a životní prostředí ZMČ P11
-  - člen Komise pro strategické a územní plánování  RMČ P11
+  - zastuptel ZMČ Praha 11
 calendar: f3qhbmobjuqjojhmjbihr480cc@group.calendar.google.com
 ---
 
