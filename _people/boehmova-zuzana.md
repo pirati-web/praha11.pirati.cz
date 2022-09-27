@@ -6,6 +6,7 @@ titles:
 category:
   - kandidat-obec
   - clenove
+  - zas
 categories: kontaktni_osoba    
 description: mediální spojka 
 teamDescription:
