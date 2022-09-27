@@ -5,6 +5,7 @@ titles:
   before: Mgr.
 category:
   - clenove
+  - mhmp
 ordpms: 2
 description: členka MS Praha 11
 teamDescription:
@@ -22,7 +23,7 @@ profiles:
 funkce:
 - členka a jednatelka republikového výboru
 - 5. místopředsedkyně KS Praha
-- kandidátka do zastupitelstva HMP
+- zastupitelka HMP
 ---
 
 Bára Soukupová (*1988) je geoinformatička. Dětství prožila v České Třebové v Pardubickém kraji. Studovala na Přírodovědecké fakultě UK geografii a kartografii, aplikovanou geoinformatiku a učitelství geografie.
