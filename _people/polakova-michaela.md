@@ -6,7 +6,6 @@ titles:
 category:
   - priznivci
   - kandidat-obec
-  - zas
 description: registrovaná příznivkyně
 teamDescription:
   priznivci: registrovaná příznivkyně
