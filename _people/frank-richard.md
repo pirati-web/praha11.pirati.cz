@@ -6,7 +6,6 @@ titles:
 category:
   - delegati
 ordpms: 2  
-description: ▪ člen Bytové komise
 img: people/richard-frank.jpg
 heroImg: praha-11.jpg
 age: 
