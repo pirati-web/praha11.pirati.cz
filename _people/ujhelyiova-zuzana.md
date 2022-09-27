@@ -7,7 +7,6 @@ category:
   - kandidat-obec
   - pms
   - clenove
-  - zas
 ordpms: 4
 description: 3. místopředsedkyně MS Praha 11
 teamDescription:
