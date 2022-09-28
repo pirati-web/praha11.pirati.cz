@@ -5,6 +5,7 @@ titles:
   before: Ing.
 category:
   - clenove
+  - pms
 description: člen MS Praha 11
 teamDescription:
   clenove: koordinátor gesce finance, majetek a podpora podnikání
