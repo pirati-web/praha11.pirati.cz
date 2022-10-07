@@ -10,6 +10,7 @@ ordpms: 2
 description: členka MS Praha 11
 teamDescription:
   clenove: členka MS Praha 11
+  mhmp: zastupitelka HMP
 profession: geoinformatička
 img: people/bara-soukupova.jpg
 heroImg: praha-11.jpg
