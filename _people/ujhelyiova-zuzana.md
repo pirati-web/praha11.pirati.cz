@@ -8,9 +8,9 @@ category:
   - pms
   - clenove
 ordpms: 4
-description: 3. místopředsedkyně MS Praha 11
+description: 2. místopředsedkyně MS Praha 11
 teamDescription:
-  pms: 3. místopředsedkyně MS Praha 11
+  pms: 2. místopředsedkyně MS Praha 11
   clenove: koordinátorka gesce školství
   zas: zastupitelka
 mail:
