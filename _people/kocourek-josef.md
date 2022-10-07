@@ -13,6 +13,7 @@ ordclenove: 4
 description: předseda MS Praha 11
 teamDescription:
   pms: předseda MS Praha 11
+  zas: zastupitel MČ Praha 11
 profesion: 
 img: people/josef-kocurek.jpg
 heroImg: praha-11.jpg
