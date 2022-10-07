@@ -9,6 +9,7 @@ category:
 description: člen MS Praha 11
 teamDescription:
   clenove: člen MS Praha 11
+  zas: starosta MČ Praha 11
 img: people/jiri-dohnal-2022.jpg
 heroImg: praha-11.jpg
 address: Ocelíkova 672/1, 149 00 Praha 11
