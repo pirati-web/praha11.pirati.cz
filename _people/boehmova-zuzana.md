@@ -12,7 +12,7 @@ categories: kontaktni_osoba
 description: mediální spojka 
 teamDescription:
   clenove: koordinátorka gesce otevřená radnice a digitalizace
-  zas: zastupitelka Prahy 11
+  zas: zastupitelka MČ Praha 11
   pms: 3. místopředsedkyně MS Praha 11
 img: people/zuzana-boehmova3.jpg
 heroImg: praha-11.jpg
