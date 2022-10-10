@@ -9,7 +9,6 @@ category:
   - zas
 categories: kontaktni_osoba    
 ordpms: 1
-ordclenove: 4
 description: předseda MS Praha 11
 teamDescription:
   pms: předseda MS Praha 11
