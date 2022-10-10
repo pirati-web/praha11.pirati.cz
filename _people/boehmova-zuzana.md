@@ -14,6 +14,7 @@ teamDescription:
   clenove: koordinátorka gesce otevřená radnice a digitalizace
   zas: zastupitelka MČ Praha 11
   pms: 3. místopředsedkyně MS Praha 11
+ordpms: 4
 img: people/zuzana-boehmova3.jpg
 heroImg: praha-11.jpg
 mail:
