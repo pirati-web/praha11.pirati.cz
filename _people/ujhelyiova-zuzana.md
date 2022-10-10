@@ -7,7 +7,7 @@ category:
   - kandidat-obec
   - pms
   - clenove
-ordpms: 4
+ordpms: 3
 description: 2. místopředsedkyně MS Praha 11
 teamDescription:
   pms: 2. místopředsedkyně MS Praha 11
