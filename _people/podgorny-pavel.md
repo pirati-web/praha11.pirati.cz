@@ -10,6 +10,7 @@ description: člen MS Praha 11
 teamDescription:
   clenove: koordinátor gesce finance, majetek a podpora podnikání
   pms: 1. místopředseda MS
+ordpms: 2
 img: people/pavel-podgorny.jpg
 heroImg: praha-11.jpg
 mail:
