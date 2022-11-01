@@ -3,9 +3,9 @@ date: 2022-08-04
 category: blog
 title: "Jak je to ve skutečnosti s parkovištěm Kaplanova?"
 layout: post
-author: Martin Duškaq
+author: Martin Duška
 authorId: martin.duska
-image: articles/2022/2022-08-04-kaplanova.jpg
+image: articles/2022/2022-11-01-help-ukraine.jpg
 tags: 
   - doprava
   - veřejný prostor
