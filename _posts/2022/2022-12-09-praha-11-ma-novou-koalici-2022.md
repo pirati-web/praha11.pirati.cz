@@ -5,7 +5,7 @@ title: "Piráti Praha 11, Hnutí pro Prahu 11 a Praha 11 Sobě uzavřeli koalič
 layout: post
 author: redakce
 authorId: 
-#image: articles/2022/2022-12-09-praha-11-ma-novou-koalici-2022.jpg
+image: articles/2022/2022-12-09-praha-11-ma-novou-koalici-2022.jpg
 tags: 
   - koalice
 ---
