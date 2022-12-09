@@ -10,4 +10,4 @@ tags:
   - koalice
 ---
 
-[Koaliční smlouva ke stažení](https://a.pirati.cz/praha11/pdf/Koalic%CC%8Cni%CC%81%20smlouva%20HPP+P11S+Pir.pdf).
+[Koaliční smlouva ke stažení]((https://a.pirati.cz/praha11/pdf/Koali%C4%8Dn%C3%AD%20smlouva%20HPP%2BP11S%2BPir.pdf).
