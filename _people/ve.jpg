@@ -1,9 +1,9 @@
 ---
-uid: michal.veselsky
-name: Michal Veselský
+#uid: michal.veselsky
+#name: Michal Veselský
 
 category:
-  - kandidat-obec
+#  - kandidat-obec
 description: zastupitel, člen SZ
 img: people/michal-veselsky.jpg
 heroImg: praha-11.jpg
