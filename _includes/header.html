@@ -120,7 +120,7 @@
         </div>
         <div class="subnav-aside__item" :class="{'subnav-aside__item--visible': isCurrentView('calendar')}">
           <a @click="toggleView('calendar');replaceHTMLEnts();" class="subnav-aside__close"><i class="ico--close"></i></a>
-          <div class="container container--default">
+          <div class="container container--default"  style="overflow: hidden">
             {% if calendarProvided %}
               <ui-calendar-renderer :events="events" :on-show-more="onShowMore" :has-more="hasMore" :name="'{{ site.calendar.title }}'"></ui-calendar-renderer>
             {% elsif site.calendar.page %}
