@@ -21,8 +21,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 32
     profession: Konzultatnt online marketingu
     party: Piráti
-  - uid: michal.kovarik
-    name: Michal Kovařík
+  - name: Michal Kovařík
     age: 30
     profession: Nakladatelský pracovník, publicista
     party: Piráti  
@@ -42,7 +41,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 47 
     profession: Manažer kvality
     party: Piráti 
-  - uid: michal.veselsky
+  - name: Michal Veselský
     profession: Výzkumný pracovník, šachista a koloběžkář
     party: Zelení
     age: 38
