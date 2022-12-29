@@ -13,6 +13,7 @@ mail:
   - honza@suchanek.cz
 profiles:
   facebook: https://www.facebook.com/suchanek.honza
+  odmeny: https://nalodeni.pirati.cz/odmeny/jan.suchanek
 funkce: 
 - člen MS Praha 11
 - člen mediální komise RMČ P 11
