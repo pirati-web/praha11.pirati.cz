@@ -12,7 +12,7 @@ categories: kontaktni_osoba
 description: mediální spojka 
 teamDescription:
   clenove: koordinátorka gesce otevřená radnice a digitalizace
-  zas: zastupitelka MČ Praha 11
+  zas: místostarostka MČ Praha 11
   pms: 3. místopředsedkyně MS Praha 11
 ordpms: 4
 img: people/zuzana-boehmova3.jpg
@@ -26,8 +26,7 @@ profiles:
   evidence: https://evidence.pirati.cz/author/291/
   odmeny: https://nalodeni.pirati.cz/odmeny/zuzana.boehmova
 funkce: 
-- kandidátka na starostu Prahy 11
-- koordinátorka krajských expertních týmů v oblasti IT a Smart City
+- místostarostka Prahy 11 (sport a kultura, digitalizace)
 - mediální spojka P11 
 - předsedkyně místního expertního týmu otevřená radnice a digitalizace P11
 - členka Výboru pro otevřenou radnici a digitalizaci ZMČ P11
