@@ -12,7 +12,7 @@ ordpms: 1
 description: předseda MS Praha 11
 teamDescription:
   pms: předseda MS Praha 11
-  zas: zastupitel MČ Praha 11
+  zas: radní MČ Praha 11
 profesion: 
 img: people/josef-kocurek.jpg
 heroImg: praha-11.jpg
@@ -25,7 +25,7 @@ profiles:
   evidence: 
   odmeny: https://nalodeni.pirati.cz/odmeny/josef.kocourek
 funkce:
-  - zastuptel ZMČ Praha 11
+  - radní Prahy 11 (bydlení, otevřená radnice)
 calendar: f3qhbmobjuqjojhmjbihr480cc@group.calendar.google.com
 ---
 
