@@ -40,6 +40,4 @@ profession: projektová manažerka
 Za Piráty kandidovala v roce 2018 do zastupitelstva městské části Praha 11, byla zvolena zastupitelkou a následně se stala radní s gescí školství. Od roku 2021 je členkou komise pro výchovu, vzdělávání a národnostní menšiny MČ Praha 11, členka komise pro školskou infrastrukturu při MHMP. Podílí se na programových cílech a prioritách v oblasti školství za Piráty v rámci resortního týmu školství a krajského expertního týmu školství.
 
 
-<iframe width="700" height="750" src="https://calendar.google.com/calendar/u/0/embed?src=80pl8p1mv39g3gljau4l4qfu9o@group.calendar.google.com&ctz=Europe/Prague"></iframe>
-
 ---
