@@ -32,15 +32,11 @@ calendar: https://webmail.praha11.cz/owa/calendar/dohnalJ@praha11.cz/Kalendář/
 
 >*"Jako jihoměstský patriot chci pracovat na tom, aby se Praha 11 opět stala místem, kde se lidé setkávají, pracují a jsou hrdí, že je jejich domovskou adresou. Pro naplnění téhle vize považuji za nezbytné zajistit naší městské části udržitelný rozvoj a otevřít ji jejím občanům, kteří musí mít možnost přímo se na samosprávě podílet.*, Jiří Dohnal.
 
-### Odkazy
-
-* [Veřejný kalendář](https://webmail.praha11.cz/owa/calendar/dohnalJ@praha11.cz/Kalendář/calendar.html)
 
 
-<iframe src="https://webmail.praha11.cz/owa/calendar/dohnalJ@praha11.cz/Kalendář/calendar.html" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe width="700" height="750" src="https://webmail.praha11.cz/owa/calendar/dohnalJ@praha11.cz/Kalendář/calendar.html"></iframe>
 
-<!--
-<iframe width="700" height="750" src="https://calendar.google.com/calendar/u/0/embed?src=difpl1tdlua3q599bf6vs1nbnbsv307g@import.calendar.google.com&ctz=Europe/Prague"></iframe>
--->
+
+
 
 ---
