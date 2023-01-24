@@ -26,7 +26,7 @@ profiles:
   odmeny: https://nalodeni.pirati.cz/odmeny/josef.kocourek
 funkce:
   - radní Prahy 11 (bydlení, otevřená radnice)
-calendar: f3qhbmobjuqjojhmjbihr480cc@group.calendar.google.com
+calendar: https://webmail.praha11.cz/owa/calendar/1e85bb90efc24ccd899097f37aa6948b@praha11.cz/cfb038021fc842b3b3aa4e050b61bd038159951706866983786/calendar.html
 ---
 
 
@@ -41,6 +41,6 @@ K Pirátům se přihlásil v prosinci 2017. Členem strany se stal v dubnu 2018.
 <br> 
 
 
-<iframe width="700" height="750" src="https://calendar.google.com/calendar/u/0/embed?src=f3qhbmobjuqjojhmjbihr480cc@group.calendar.google.com&ctz=Europe/Prague"></iframe>
+<iframe width="700" height="750" src="https://webmail.praha11.cz/owa/calendar/1e85bb90efc24ccd899097f37aa6948b@praha11.cz/cfb038021fc842b3b3aa4e050b61bd038159951706866983786/calendar.html"></iframe>
 
 ---
