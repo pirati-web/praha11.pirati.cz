@@ -2,16 +2,14 @@
 uid: josef.kocourek
 name: Josef Kocourek
 category:
-  - pms
   - kandidat-obec
   - kontaktni_osoba
   - clenove
-  - zas
 categories: kontaktni_osoba    
 ordpms: 1
-description: předseda MS Praha 11
+description: 
 teamDescription:
-  pms: předseda MS Praha 11
+  pms: 
   zas: radní MČ Praha 11
 profesion: 
 img: people/josef-kocurek.jpg
