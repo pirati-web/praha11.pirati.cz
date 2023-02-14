@@ -5,12 +5,9 @@ titles:
   before: Mgr. 	
 category:
   - kandidat-obec
-  - pms
   - clenove
-ordpms: 3
-description: 2. místopředsedkyně MS Praha 11
+description: 
 teamDescription:
-  pms: 2. místopředsedkyně MS Praha 11
   clenove: koordinátorka gesce školství
   zas: zastupitelka
 mail:
