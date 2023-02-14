@@ -11,7 +11,7 @@ category:
 description: 3. místopředseda MS Praha 11
 teamDescription:
   clenove: 3. místopředseda MS Praha 11
-ordpms: 3
+ordpms: 4
 img: people/jan-mejsnar.jpg
 heroImg: praha-11.jpg
 mail:
