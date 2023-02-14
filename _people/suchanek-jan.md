@@ -18,7 +18,7 @@ profiles:
   odmeny: https://nalodeni.pirati.cz/odmeny/jan.suchanek
 funkce: 
 - člen MS Praha 11
-- člen mediální komise RMČ P 11
+- člen IT komise RMČ P 11
 - člen komise pro kulturu a spolky RMČ P 11
 profession: webmaster
 ---
