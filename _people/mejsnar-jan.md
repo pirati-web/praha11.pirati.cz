@@ -7,9 +7,11 @@ titles:
 category:
   - kandidat-obec
   - clenove
-description: člen MS Praha 11
+  - pms
+description: 3. místopředseda MS Praha 11
 teamDescription:
-  clenove: člen MS Praha 11
+  clenove: 3. místopředseda MS Praha 11
+ordpms: 3
 img: people/jan-mejsnar.jpg
 heroImg: praha-11.jpg
 mail:
