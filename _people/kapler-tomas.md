@@ -3,9 +3,11 @@ uid: tomas.kapler
 name: Tomáš Kapler
 category:
   - clenove  
-description: člen MS Praha 11
+  - pms
+description: předseda MS Praha 11
 teamDescription:
-  clenove: člen MS Praha 11
+  clenove: předseda MS Praha 11
+ordpms: 1
 img: people/tomas-kapler.jpg
 heroImg: praha-11.jpg  
 age: 
