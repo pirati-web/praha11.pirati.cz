@@ -4,9 +4,11 @@ name:     Jan Suchánek
 category:
   - clenove
   - kandidat-obec
-description: člen MS Praha 11 
+  - pms
+description: 2. místopředseda MS Praha 11 
 teamDescription:
-  clenove: člen MS Praha 11
+  clenove: 2. místopředseda MS Praha 11
+ordpms: 3
 img: people/jan-suchanek.jpg
 heroImg: praha-11.jpg
 mail:
