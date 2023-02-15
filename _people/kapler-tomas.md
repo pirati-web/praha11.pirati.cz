@@ -4,6 +4,7 @@ name: Tomáš Kapler
 category:
   - clenove  
   - pms
+  - kontaktni_osoba
 description: předseda MS Praha 11
 teamDescription:
   clenove: předseda MS Praha 11
@@ -13,6 +14,8 @@ heroImg: praha-11.jpg
 age: 
 mail:
   - tomas.kapler@pirati.cz
+phone:
+  - +420 724 443 926
 profiles:
   facebook: https://www.facebook.com/tomas.kapler
   instagram: https://www.instagram.com/tomkapler/
