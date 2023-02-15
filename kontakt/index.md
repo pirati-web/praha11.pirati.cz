@@ -5,8 +5,8 @@ description: Pirátská strana v Praze 11 je otevřená a ráda přivítá nové
 keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 noresidence: yes
 contactPersons:
-  - josef.kocourek
-  - zuzana.bohmova
+  - tomas.kapler
+  - pavel.podgorny
 ---
  <h1>Přidejte se k nám</h1>
 
