@@ -3,7 +3,6 @@ uid: josef.kocourek
 name: Josef Kocourek
 category:
   - kandidat-obec
-  - kontaktni_osoba
   - clenove
   - zas   
 categories: kontaktni_osoba    
