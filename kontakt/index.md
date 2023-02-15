@@ -15,7 +15,7 @@ Zajámá vás co Piráti dělají a jak? [Ozvěte se nám](mailto:praha11@pirati
 <h1>Přispějte nám</h1>
 Pokud chcete darovat peníze přímo MS Piráti Praha 11:<br>
 Číslo účtu: 2100048174/2010<br>
-Specifický symbol: 190111<br>
+Specifický symbol: 110111<br>
 Popis platby: MS PRAHA 11<br>
 *Budete-li zasílat platbu z účtu který není na vaše jméno, je třeba plné jméno uvést v popisu platby!*<br>
 Platbu je také možné provést přes [formulář](https://dary.pirati.cz/podpor-kraj/praha/adresne-dary-pro-ks-praha/).
