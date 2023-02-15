@@ -8,6 +8,7 @@ category:
 categories: kontaktni_osoba    
 description: člen MS Praha 11
 teamDescription:
+  clenove: člen MS Praha 11
   zas: radní MČ Praha 11
 profesion: 
 img: people/josef-kocurek.jpg
