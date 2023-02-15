@@ -54,6 +54,7 @@ bottom:
         name: Otevřené účetnictví
 
 # Display transparency section in the footer?
-transparencySection: false
+transparencySection: true
 
 contact:
+  -
