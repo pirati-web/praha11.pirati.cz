@@ -14,8 +14,7 @@ heroImg: praha-11.jpg
 age: 
 mail:
   - tomas.kapler@pirati.cz
-phone:
-  - +420 724 443 926
+mob: +420 724 443 926
 profiles:
   facebook: https://www.facebook.com/tomas.kapler
   instagram: https://www.instagram.com/tomkapler/
