@@ -5,6 +5,7 @@ category:
   - kandidat-obec
   - kontaktni_osoba
   - clenove
+  - zas   
 categories: kontaktni_osoba    
 description: člen MS Praha 11
 teamDescription:
