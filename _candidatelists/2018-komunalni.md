@@ -53,7 +53,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 42
     profession: Webmaster
     party: BEZ PP
-  - uid: michaela.polakova
+  - name: Michaela Poláková
     age: 44
     profession: Stavební inženýrka
     party: BEZ PP
