@@ -9,7 +9,6 @@ top:
     url:  "http://www.piratskelisty.cz"
     icon: "ico--newspaper"
 
-
 main:
   - name: Aktuality
     link: /aktuality/
@@ -17,12 +16,12 @@ main:
     link: /lide/
   - name: Volby
     submenu:
-      - name: Komunální volby 2022
-        link: /volby/2022-komunalni.html
-     - name: Plnění programu 2018
-       link:  /program/
-     - name: Komunální volby 2018
-       link:  /volby/2018-komunalni.html
+    - name: Komunální volby 2022
+      link: /volby/2022-komunalni.html
+    - name: Plnění programu 2018
+      link:  /program/
+    - name: Komunální volby 2018
+      link:  /volby/2018-komunalni.html
   - name: Pirátské listy
     link: https://a.pirati.cz/praha11/plisty5
   - name: Kontakt
