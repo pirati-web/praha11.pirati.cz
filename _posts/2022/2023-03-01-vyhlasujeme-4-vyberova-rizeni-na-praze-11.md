@@ -10,13 +10,11 @@ tags:
   - výběrová řízení
 ---
 
-## Seznam výběrových řízení:
-
-- člen dozorčí rady: KULTURNÍ JIŽNÍ MĚSTO, o. p. s.
-- člen správní rady společnosti KULTURNÍ JIŽNÍ MĚSTO o.p.s
-- dozorčí rada akciové společnosti Jihoměstká majetková - Praha
-- dozorčí rada akciové společnosti Jihoměstká sociální - Praha
-- člen dozorčí rady: KULTURNÍ JIŽNÍ MĚSTO, o. p. s.
+Vyhlašujeme výběrová řízení na člena dozorčí rady: KULTURNÍ JIŽNÍ MĚSTO, o. p. s.,
+člena správní rady společnosti KULTURNÍ JIŽNÍ MĚSTO o.p.s,
+člena dozorčí rada akciové společnosti Jihoměstká majetková - Praha,
+člena dozorčí rada akciové společnosti Jihoměstká sociální - Praha,
+a člena dozorčí rady: KULTURNÍ JIŽNÍ MĚSTO, o. p. s. .
 
 ## Člen dozorčí rady KULTURNÍ JIŽNÍ MĚSTO, o. p. s.
 
