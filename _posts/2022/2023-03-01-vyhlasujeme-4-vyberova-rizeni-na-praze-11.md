@@ -5,7 +5,7 @@ title: "Vyhlašujeme 4 výběrová řízení na Praze 11"
 layout: post
 author: redakce
 authorId: 
-image: articles/2018/2018-09-23-sprava-majetku-jizniho-mesta-a-jeji-efektivita.jpg
+image: articles/2022/2022-02-28-kontribuce.jpg
 tags: 
   - výběrová řízení
 ---
