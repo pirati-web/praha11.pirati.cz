@@ -3,7 +3,7 @@ date: 2023-03-02
 category: blog
 title: "Na Hájeckém travnatém hřišti i letos budou sportovat děti"
 layout: post
-author: Zuzana Böhmová
+author: "Zuzana Böhmová"
 authorId: zuzana.boehmova
 image: articles/2023/2023_03_01_hriste_Haje.jpg
 tags: 
