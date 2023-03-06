@@ -3,12 +3,13 @@ date: 2023-03-02
 category: blog
 title: "Na Hájeckém travnatém hřišti i letos budou sportovat děti"
 layout: post
-author: "Zuzana Böhmová"
-authorId: zuzana.boehmova
+author: Zuzana Böhmová
+authorId: zuzana.bohmova
 image: articles/2023/2023_03_01_hriste_Haje.jpg
 tags: 
   - sport
 ---
+
 
 **Hájecké travnaté fotbalové hřiště i v letošním roce bude sloužit dětem z FC Háje JM!**
 
