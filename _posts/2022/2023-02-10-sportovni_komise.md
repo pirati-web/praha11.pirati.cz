@@ -1,14 +1,15 @@
 ---
 date: 2023-02-10
 category: blog
-title: "Nové vedení Prahy 11 fandí pestřejšímu složení sportovní komise."
+title: "Nové vedení Prahy 11 fandí pestřejšímu složení sportovní komise"
 layout: post
 author: Zuzana Böhmová
-authorId: zuzana.boehmova
+authorId: zuzana.bohmova
 image: articles/2023/2023_02_10_sportovni_komise.jpg
 tags: 
   - sport
 ---
+
 
 Sport je rozmanité odvětví, to potvrdí každá letní i zimní Olympiáda. Na Praze 11 se snažíme tuto rozmanitost odrážet i ve složení sportovní komise, poradního orgánu Rady MČ.
 
