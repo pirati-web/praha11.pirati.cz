@@ -1,7 +1,7 @@
 ---
 date: 2023-03-02
 category: blog
-title: "Vyhlašujeme 4 výběrová řízení na Praze 11"
+title: "Na Hájeckém travnatém hřišti i letos budou sportovat děti"
 layout: post
 author: Zuzana Böhmová
 authorId: zuzana.boehmova
