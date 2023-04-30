@@ -21,6 +21,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 32
     profession: Konzultatnt online marketingu
     party: Piráti
+tail: 
   - name: Michal Kovařík
     age: 30
     profession: Nakladatelský pracovník, publicista
@@ -53,7 +54,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 42
     profession: Webmaster
     party: BEZ PP
-  - name: Michaela Poláková
+  - name: Ing. Michaela Al-Ali Poláková
     age: 44
     profession: Stavební inženýrka
     party: BEZ PP
@@ -69,7 +70,6 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 28
     profession: Studentka MFF Univerzity Karlovy
     party: BEZ PP        
-tail: 
   - name: Mgr. Van Anh Tranová
     age: 32
     profession: Tlumočnice
@@ -86,7 +86,7 @@ tail:
     age: 41
     profession: Technik vzduchotechniky
     party: BEZ PP    
-  - name: Andrea Dutková MUDr.
+  - name: MUDr. Andrea Dutková
     age: 52
     profession: Lékařka
     party: BEZ PP    
