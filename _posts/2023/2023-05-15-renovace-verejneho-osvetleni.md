@@ -5,7 +5,7 @@ title: "Renovace veřejného osvětlení"
 layout: post
 author: redakce
 authorId: 
-image: articles/2023/2023-05-15-renovace-verejneho-osvetleni.jpg
+image: articles/2023/2023-05-15-renovace-verejneho-osvetleni-01.jpg
 tags: 
   - veřejné osvětlení
 ---
