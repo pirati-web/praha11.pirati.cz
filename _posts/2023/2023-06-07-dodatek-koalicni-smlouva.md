@@ -20,5 +20,5 @@ Zástupci stran si vyjasnily problematické body dosavadní spolupráce a vytvo�
 
 Celý text koaliční smlouvy najdete [ZDE](https://a.pirati.cz/praha11/pdf/Koali%C4%8Dn%C3%AD%20smlouva%20HPP%2BP11S%2BPir.pdf).
 
-Celý text dodatku koaliční smlouvy najdete [ZDE](https://a.pirati.cz/praha11/pdf/2023-06-07-dodatek-koalicni-smlouva).
+Celý text dodatku koaliční smlouvy najdete [ZDE](https://a.pirati.cz/praha11/pdf/2023-06-07-dodatek-koalicni-smlouva.pdf).
 
