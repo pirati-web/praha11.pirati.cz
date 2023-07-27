@@ -28,7 +28,7 @@ organization:
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
   transparentAccountSpecificSymbol: 110111
-    daonetelink: https://dary.pirati.cz/podpor-kraj/praha/adresne-dary-pro-ks-praha/?p=110111
+  donatelink: https://dary.pirati.cz/podpor-kraj/praha/adresne-dary-pro-ks-praha/?p=110111
   onboardingLink: https://nalodeni.pirati.cz/
 
 contactSummaryItems:

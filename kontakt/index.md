@@ -18,7 +18,7 @@ Pokud chcete darovat peníze přímo MS Piráti Praha 11:<br>
 Specifický symbol: 110111<br>
 Popis platby: MS PRAHA 11<br>
 *Budete-li zasílat platbu z účtu který není na vaše jméno, je třeba plné jméno uvést v popisu platby!*<br>
-Platbu je také možné provést přes [formulář](https://dary.pirati.cz/podpor-kraj/praha/adresne-dary-pro-ks-praha/?p=190111).
+Platbu je také možné provést přes [formulář](https://dary.pirati.cz/podpor-kraj/praha/adresne-dary-pro-ks-praha/?p=110111).
 
 Budeme rádi za jákekoliv vaše náměty, nebo připomínky.
 
