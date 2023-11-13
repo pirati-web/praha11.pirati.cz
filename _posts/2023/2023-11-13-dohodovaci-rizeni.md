@@ -8,7 +8,7 @@ image: articles/2023/2023-11-13-dohodovaci-rizeni.jpg
 tags: 
   - radnice
 ---
-*Praha, 13. listopadu 2023* – **Piráti Praha 11 v minulém týdnu požádali o zahájení dohodovacího řízení. Neudržitelnost současné situace v rámci koalice byla znatelná již na minulém zasedání zastupitelstva konaném dne 19. 10. 2023. V návaznosti na toto jednání svolalo předesnictvo místního sdružení Pirátů Praha 11 schůzi, na které se postavilo za klub a souhlasilo s výzvou k výměně na postu starostky. Zastupitelský klub pak sepsal hlavní důvody pro výměnu na postu.**
+*Praha, 13. listopadu 2023* – **Piráti Praha 11 v minulém týdnu požádali o zahájení dohodovacího řízení. Neudržitelnost současné situace v rámci koalice byla znatelná již na minulém zasedání zastupitelstva konaném dne 19. 10. 2023. V návaznosti na toto jednání svolalo předesnictvo místního sdružení Pirátů Praha 11 schůzi, na které se postavilo za klub a souhlasilo s výzvou k výměně na postu starostky. Zastupitelský klub pak sepsal hlavní důvody pro výměnu na postu:**
 
 
 **1. Zablokování řešení situace ve společnosti Kulturní Jižní Město o. p. s.**
