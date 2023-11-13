@@ -3,7 +3,7 @@ date: 2023-03-29
 category: blog
 title: 'Na Seznamzpravy.cz mají špatnou zprávu nejen pro Babiše'
 layout: post
-author: mediální tým
+author: redakce
 image: articles/2023/2023-03-29-seznamzpravy-spatna-zprava-nejen-pro-babise.jpg
 tags:
 ---
