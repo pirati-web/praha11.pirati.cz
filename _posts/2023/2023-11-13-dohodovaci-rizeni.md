@@ -12,7 +12,9 @@ tags:
 
 
 **1. Zablokování řešení situace ve společnosti Kulturní Jižní Město o. p. s.**
+
 **2. Chování poškozující ekonomické zájmy městské části Praha 11**
+
 **3. Naprosto nevhodné a neakceptovatelné chování k zaměstnancům úřadu i koaličním partnerům**
 
 Hnutí pro Prahu 11 v čele se starostkou PhDr. Šárkou Zdeňkovou navzdory právním a účetním argumentům odmítá navýšit dotaci ve výši dvou milionů korun na provoz společnosti KULTURNÍ JIŽNÍ MĚSTO o. p. s. (dále jen KJM). KJM čelí v uplynulých dvou letech extrémnímu nárůstu finančních nákladů. Bez finanční pomoci není schopna uhradit za měsíc říjen ani platy svých zaměstnanců. Pomoc přišla díky krátkodobé účelové půjčce ze sesterské organizace Jihoměstská majetková, a. s. Prostředky musí KJM ovšem do konce roku vrátit, situace se tedy nedá považovat za vyřešenou. Zaměstnanci ovšem nezůstali v říjnu bez prostředků.
