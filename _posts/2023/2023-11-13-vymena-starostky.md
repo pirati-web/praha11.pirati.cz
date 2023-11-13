@@ -1,7 +1,7 @@
 ---
 date: 2023-11-113
 category: blog
-title: "Důvody k žádosti o výměnu starostky za jiného přijatelného člena ZMČ"
+title: "Důvody k žádosti o výměnu starostky"
 layout: post
 author: redakce
 image: articles/2023/2023-11-13-dohodovaci-rizeni.jpg
