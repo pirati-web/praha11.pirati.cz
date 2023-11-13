@@ -7,7 +7,7 @@ author: redakce
 authorId: 
 image: articles/2023/2023-05-15-renovace-verejneho-osvetleni-01.jpg
 tags: 
-  - veřejné osvětlení
+  - doprava
 ---
 
 V minulém volebním období se spustila obnova veřejného osvětlení na velké části naší městské části. Iniciátorem této rekonstrukce byl náš tehdejší radní Martin Duška.
