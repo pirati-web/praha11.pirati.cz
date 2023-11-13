@@ -1,5 +1,5 @@
 ---
-date: 2023-11-113
+date: 2023-11-13
 category: blog
 title: "Důvody k žádosti o výměnu starostky"
 layout: post
