@@ -11,9 +11,9 @@ tags:
 *Praha, 13. listopadu 2023* – **Piráti Praha 11 v minulém týdnu požádali o zahájení dohodovacího řízení. Neudržitelnost současné situace v rámci koalice byla znatelná již na minulém zasedání zastupitelstva konaném dne 19. 10. 2023. V návaznosti na toto jednání svolalo předesnictvo místního sdružení Pirátů Praha 11 schůzi, na které se postavilo za klub a souhlasilo s výzvou k výměně na postu starostky. Zastupitelský klub pak sepsal hlavní důvody pro výměnu na postu.**
 
 
-**1. Zablokování řešení situace ve společnosti Kulturní Jižní Město o. p. s.
-2. Chování poškozující ekonomické zájmy městské části Praha 11
-3. Naprosto nevhodné a neakceptovatelné chování k zaměstnancům úřadu i koaličním partnerům**
+**1. Zablokování řešení situace ve společnosti Kulturní Jižní Město o. p. s.**
+**2. Chování poškozující ekonomické zájmy městské části Praha 11**
+**3. Naprosto nevhodné a neakceptovatelné chování k zaměstnancům úřadu i koaličním partnerům**
 
 Hnutí pro Prahu 11 v čele se starostkou PhDr. Šárkou Zdeňkovou navzdory právním a účetním argumentům odmítá navýšit dotaci ve výši dvou milionů korun na provoz společnosti KULTURNÍ JIŽNÍ MĚSTO o. p. s. (dále jen KJM). KJM čelí v uplynulých dvou letech extrémnímu nárůstu finančních nákladů. Bez finanční pomoci není schopna uhradit za měsíc říjen ani platy svých zaměstnanců. Pomoc přišla díky krátkodobé účelové půjčce ze sesterské organizace Jihoměstská majetková, a. s. Prostředky musí KJM ovšem do konce roku vrátit, situace se tedy nedá považovat za vyřešenou. Zaměstnanci ovšem nezůstali v říjnu bez prostředků.
 
