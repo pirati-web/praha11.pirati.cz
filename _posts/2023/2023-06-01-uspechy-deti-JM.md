@@ -1,5 +1,5 @@
 ---
-date: 2023-02-10
+date: 2023-06-01
 category: blog
 title: "Jihoměstské děti sbírají úspěchy po celém světě jak v kulturní, tak i sportovní sféře"
 layout: post
