@@ -5,7 +5,7 @@ title: ŠABLONA: XXX schůze v XXX
 date: 2018-01-17T22:59:00+01:00  
 tags: schůze
 author: Piráti Pardubického kraje / Piráti Svitavsko / Piráti Chrudim
-image: assets/img/miscellaneous/schuze-foto-pardubicky-kraj-pirati.jpg #751x422
+image: assets/img/miscellaneous/schuze-foto-pardubicky-kraj-pirati.jpg *751x422
 ---
 
 Dne *dopln-datum* od *dopln-hodinu* se sejdeme v salónku pivovaru Faltus v [Text odkazu - místo][1] - adresa je XXX.  

@@ -11,7 +11,7 @@ title: Praha 11 má nové odběrové místo pro testy na Covid-19
 image: articles/2020/2020-06-03-tz-to.jpg
 ---
 
-Dva měsíce práce, a je hotovo. Od pondělí je i v městské části Praha 11 funkční odběrové místo pro testy na nemoc #Covid19. Je umístěno u sportovního areálu Multifunkční haly Jedenáctka VS a Jižní Město na parkovišti vlevo tak, aby nebyl omezen provoz areálu. 
+Dva měsíce práce, a je hotovo. Od pondělí je i v městské části Praha 11 funkční odběrové místo pro testy na nemoc *Covid19. Je umístěno u sportovního areálu Multifunkční haly Jedenáctka VS a Jižní Město na parkovišti vlevo tak, aby nebyl omezen provoz areálu. 
 
 > „Jsem velmi rád, že se nám po několika týdnech podařilo ve spolupráci s hlavním městem a uvedenou společností vyřešit veškeré administrativní požadavky a spustit tak provoz odběrového místa pro obyvatele naší městské části. Pevně doufám, že provoz místa pomůže v boji s COVID-19 na území celé Prahy," uvedl Jiří Dohnal (Piráti), starosta městské části Praha 11.
 

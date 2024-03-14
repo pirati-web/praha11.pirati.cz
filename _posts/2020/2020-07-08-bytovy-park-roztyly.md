@@ -12,8 +12,8 @@ image: articles/2020/2020-07-08-bytovy-park-roztyly.jpg
 ---
 
 *Na Jižním městě existuje řada pozemků soukromých vlastníků, které jsou dle platného územního plánu vhodné k výstavbě. Jedním z takových projektů je i Bytový park Roztyly realizovaný YIT Stavo s.r.o. K jeho poslední verzi architektonické studie přijala Rada městské části Praha 11 stanovisko s požadavky na změny projektu.*
-<br>
-<br>
+
+
 
 Projekt Bytového parku Roztyly budí veliké rozbroje již od svého počátku v roce 2008. Tehdejší starosta Mlejnský (nyní za Jižní město náš domov) rozprodal veřejné pozemky, navíc za velmi nevýhodnou cenu a prosadil na tehdejším magistrátu změnu [územního plánu](https://app.iprpraha.cz/apl/app/vykresyUP/) tak, aby na nich mohl investor postavit dvakrát vyšší domy. Navíc bez jakékoliv diskuse s veřejností. Vše pak bylo stvrzeno v roce 2011 územním rozhodnutím. To sice bylo později soudně napadeno, ale návrh bohužel žalobce stáhl, a tak je toto rozhodnutí stále platné. [Podrobnou historii a popis současného projektu naleznete zde](https://www.praha11.cz/cs/mestska-cast/uzemni-rozvoj-a-regenerace/zamery-na-jiznim-meste/16-bytovy-park-roztyly.html).
 
@@ -49,5 +49,5 @@ Oceňujeme vstřícné kroky investora, který by se s námi až do zahájení s
 Máte-li zájem účastnit se budoucích jednáních o tomto projektu či o něm zasílat informace, napište na <josef.kocourek@pirati.cz>.
 
 
-***Josef Kocurek***<br>
+***Josef Kocurek***
 *místopředseda výboru pro územní rozvoj a životní prostředí*

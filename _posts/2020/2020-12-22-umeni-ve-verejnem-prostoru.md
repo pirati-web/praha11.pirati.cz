@@ -30,25 +30,25 @@ U podchodů ještě zůstaneme.  Další podchod který je nejblíže nové vým
 
 Napište mi Vaše názory na [martin.duska@pirati.cz](mailto:martin.duska@pirati.cz) nebo na [duskam@praha11.cz](mailto:duskam@praha11.cz), případě mě můžete navštívit přímo na radnici Prahy 11 v Ocelíkově ulici.
 
-![Mural Opatov - detail](/assets/img/articles/2020/2020-12-22-umeni-ve-verejnem-prostoruI.JPG) 
+ 
 *Mural Opatov - detail*
 
 
-![Mural Opatov](/assets/img/articles/2020/2020-12-22-umeni-ve-verejnem-prostoruII.JPG) 
+ 
 *Mural Opatov*
 
 
-![podchod pod ulicí Ryšavého 1](/assets/img/articles/2020/2020-12-22-umeni-ve-verejnem-prostoruIII.JPG) 
+ 
 *Graffiti na rampě u podchodu pod ulicí Ryšavého*
 
 
-![podchod pod ulicí Ryšavého 2](/assets/img/articles/2020/2020-12-22-umeni-ve-verejnem-prostoruIV.JPG) 
+ 
 *Graffiti na rampě u podchodu pod ulicí Ryšavého*
 
 
-![podchod pod ulicí Ryšavého 3](/assets/img/articles/2020/2020-12-22-umeni-ve-verejnem-prostoruV.JPG) 
+ 
 *Graffiti na rampě u podchodu pod ulicí Ryšavého*
 
 
-![podchod Türkova](/assets/img/articles/2020/2020-12-22-umeni-ve-verejnem-prostoruVI.JPG) 
+ 
 *Místo vhodné k umístění legálního graffiti - podchod Türkova*

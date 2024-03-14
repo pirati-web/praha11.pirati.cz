@@ -19,26 +19,26 @@ společnosti AR DELTA, a.s. Oficiální odkaz na výběrové řízení na [Pirá
 
 Činnost společnosti je popsána [ZDE](https://arealls.cz/). Pozice není finančně ohodnocena.
 
-**Každý uchazeč by měl splňovat následující požadavky:**<br>
-Není zaměstnancem úřadu Městské části Praha 11<br>
-Není zaměstnancem, vlastníkem nebo řídícím pracovníkem dodavatelské nebo konkurenční společnosti a ani není v žádném jiném střetu zájmu, ve vztahu ke společnosti, do jejíž správní rady se hlásí.<br>
-Nemá záznam v trestním rejstříku.<br>
-Není členem žádné politické strany či hnutí.<br>
+**Každý uchazeč by měl splňovat následující požadavky:**
+Není zaměstnancem úřadu Městské části Praha 11
+Není zaměstnancem, vlastníkem nebo řídícím pracovníkem dodavatelské nebo konkurenční společnosti a ani není v žádném jiném střetu zájmu, ve vztahu ke společnosti, do jejíž správní rady se hlásí.
+Nemá záznam v trestním rejstříku.
+Není členem žádné politické strany či hnutí.
 
-**Co požadujeme:**<br>
-Vzdělání v oboru finančním, technickém nebo právním.<br>
-Bezúhonnost a vysokou osobní integritu.<br>
-Názorovou shodu s programem Pirátů.<br>
-Pravidelnou komunikaci se zastupitelským klubem Pirátů MČ Praha 11.<br>
-Výhodou je prokazatelná praxe v oblasti správy majetku, řízení podniku nebo práva.<br>
-Pracovní pozice není na plný úvazek!<br>
+**Co požadujeme:**
+Vzdělání v oboru finančním, technickém nebo právním.
+Bezúhonnost a vysokou osobní integritu.
+Názorovou shodu s programem Pirátů.
+Pravidelnou komunikaci se zastupitelským klubem Pirátů MČ Praha 11.
+Výhodou je prokazatelná praxe v oblasti správy majetku, řízení podniku nebo práva.
+Pracovní pozice není na plný úvazek!
 
-**Podmínkou zařazení do výběrového řízení je zaslání následujících podkladů:**<br>
-Strukturovaný životopis<br>
-Uchazeč zašle potřebnou dokumentaci na mail: milan.minarik@pirati.cz do 29. února 2020.<br>
+**Podmínkou zařazení do výběrového řízení je zaslání následujících podkladů:**
+Strukturovaný životopis
+Uchazeč zašle potřebnou dokumentaci na mail: milan.minarik@pirati.cz do 29. února 2020.
 
-**Hodnotící kritéria:**<br>
-Odbornost 45 %<br>
-Celkový dojem 20 %<br>
-Praxe v oblasti správy majetku, řízení podniku nebo práva 20 %<br>
-Znalost pirátského programu a argumentace 15 %<br>
+**Hodnotící kritéria:**
+Odbornost 45 %
+Celkový dojem 20 %
+Praxe v oblasti správy majetku, řízení podniku nebo práva 20 %
+Znalost pirátského programu a argumentace 15 %
