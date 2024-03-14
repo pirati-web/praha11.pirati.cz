@@ -10,7 +10,7 @@ tags:
   - akce
 ---
 
-**1. 6. 2022 15:00-18:00 - Centrální park**<br>
+**1. 6. 2022 15:00-18:00 - Centrální park**
 *Chcete se dozvědět něco o dění na Jižním Městě a zároveň strávit s dětmi zábavné odpoledne? Pak je tato akce určena právě pro Vás!*
 >*Tématem pro dospělé bude budoucí podoba Centrálního parku - na místě budou připravené materiály k plánované poslední etapě rekonstrukce parku. O podrobnostech se budete moci pobavit s primátorem Zdeňkem Hřibem. Dalším neméně důležitým tématem bude probíhající rekonstrukce nedaleké ubytovny Sandra, ke které Vám informace dodá starosta Jiří Dohnal.*
 >*Začátek stopovačky a s ním i naše stánky leží v centrální části parku, kousek od Staré pošty. Těšte se na cukrovou vatu a pro úspěšné řešitele úkolů máme připraveny drobné ceny.*

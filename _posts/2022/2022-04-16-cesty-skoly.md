@@ -30,4 +30,4 @@ Uděláme vše pro to, aby tato studie byla co nejdříve schválena komisí BES
 
 
 
-![https://a.pirati.cz/praha11/img/articles/2022/2022-04-16-cesty-skoly-2.png](https://a.pirati.cz/praha11/img/articles/2022/2022-04-16-cesty-skoly-2.png)
+

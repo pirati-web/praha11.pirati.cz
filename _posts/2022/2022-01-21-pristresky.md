@@ -20,12 +20,12 @@ Podoba přístřešků vzešla ze soutěže a instalaci provádí Technologie hl
 
 U nás na Praze 11 se začíná šesti přístřešky na čtyřech zastávkách. První tři níže vyjmenované budou mít v době mezi demontáží starého a instalací nového dočasný mobilní přístřešek. Mezi demontáží a montáží bude prostoj jeden měsíc. Na montáž je pak vyhrazeno 14 dní. Začíná se v týdnu od 24. ledna. Až bude znám harmonogram pro jaro 2022, budeme vás informovat.
 
-**Zastávky v první fázi:**<br>
-- Zdiměřická <br>
-- Ke Kateřinkám <br>
-- Petýrkova <br>
-- U Kunratického lesa <br>
+**Zastávky v první fázi:**
+- Zdiměřická 
+- Ke Kateřinkám 
+- Petýrkova 
+- U Kunratického lesa 
 
-<br>
+
 
 *Fotografie je pouze ilustrační.*

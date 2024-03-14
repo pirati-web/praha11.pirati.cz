@@ -19,4 +19,4 @@ Dodnes městská část Praha 11 každý rok majitelům pozemků, kteří vlastn
 
 Dohoda, která byla včera schválena si na půdě hlavního města i městské části vyžádala nespočet hodin jednání. Za směněné pozemky se již nebude platit nájem. Na směněných parkovištích bude zachován stejný režim parkování, jaký je v současnosti.
 
-![https://a.pirati.cz/praha11/img/articles/2022/2022-02-18-opatovska-smena2.jpg](https://a.pirati.cz/praha11/img/articles/2022/2022-02-18-opatovska-smena2.jpg)
+
