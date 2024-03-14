@@ -11,7 +11,7 @@ tags:
   - veřejný prostor
 ---
 
-*"Jižní Město si 40 let od svého vzniku zasluhuje otevřít diskusi o vzniku veřejného koupaliště. Piráti chtějí být iniciátorem této diskuse s cílem nalezení vhodného pozemku a zahájení realizace vedoucí k jeho vybudování.”* <br>
+*"Jižní Město si 40 let od svého vzniku zasluhuje otevřít diskusi o vzniku veřejného koupaliště. Piráti chtějí být iniciátorem této diskuse s cílem nalezení vhodného pozemku a zahájení realizace vedoucí k jeho vybudování.”* 
 citace z volebního programu Pirátů Prahy 11
 
 Snažíme se naplňovat náš volební program, také proto na jaře roku 2019 nová rada MČ Praha 11 deklarovala, že prověří možnost vybudování veřejného venkovního koupaliště na Praze 11. V létě započali přípravné práce a na podzim roku 2019 vznikla na půdě radnice oficiální pracovní skupina MČ Praha 11 složená ze zástupců všech politických stran a vytipovala několik vhodných lokalit. Ty následně na dalších zasedáních postupně prověřovala a hodnotila s tím, že ze všech možných variant vyšla jako nejvhodnější lokalita v blízkosti areálu Jedenáctka Vodní svět u ulice Mírového hnutí. Hlavními důvody byly scelené pozemky ve vlastnictví hlavního města Prahy a ve svěřené správě MČ Praha 11, soulad možné stavby s platným územním plánem, dobrá dopravní dostupnost městskou i individuální dopravou, sousedství s cyklostezkou, dostupnost inženýrských síti na hranici území apod.

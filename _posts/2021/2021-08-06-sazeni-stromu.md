@@ -17,14 +17,14 @@ Městské společnosti se tak podílejí na  ekologických aktivitách, které p
 
 Sázení stromů probíhá v rámci výzvy pražského magistrátu, přijaté v Programovém prohlášení Rady hlavního města Prahy pro roky 2018–2022, jejímž cílem je vysadit na území hlavního města milion nových stromů. Nejvíce se v Praze dřeviny vysazovaly na původně zemědělských plochách a v již existujících lesích, dále také v pražských parcích, sadech a podél vodních toků. Do prací se zapojila veřejnost, ale také městské části, školy a v neposlední řadě take společnosti vlastněné magistrate. Doufejme, že po odeznění pandemie budou tyto aktivity brzy pokračovat.
 
-![stromy](/assets/img/articles/2021/sazeni_stromu/P1050030_.JPG)
 
-![stromy](/assets/img/articles/2021/sazeni_stromu/P1050027_.JPG)
 
-![stromy](/assets/img/articles/2021/sazeni_stromu/P1050038_.JPG)
 
-![stromy](/assets/img/articles/2021/sazeni_stromu/P1050042_.JPG)
 
-![stromy](/assets/img/articles/2021/sazeni_stromu/P1050022_.JPG)
 
-![stromy](/assets/img/articles/2021/sazeni_stromu/P1050023_.JPG)
+
+
+
+
+
+

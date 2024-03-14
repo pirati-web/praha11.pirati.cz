@@ -21,10 +21,10 @@ Letos spouštíme ve spolupráci s hl. městem Praha pilotní projekt elektronic
 
 Hlavní úlohou tohoto systému je zajistit transparentnost zápisů do základních škol zřizovaných městem a zjednodušit jeho průběh. Vedle tohoto poslání systém umožňuje snížit administrativní složitost zápisů a poskytuje zpětnou vazbu pro město i veřejnost.
 
-✅ Jak vygenerovat žádost o přijetí? <br>
-✅ Jak odevzdat vyplněnou žádost do zvolené základní školy? <br>
-✅ Jak probíhá přijímací řízení? <br>
-✅ Jaká jsou kritéria pro stanovení přijetí dětí? <br>
+✅ Jak vygenerovat žádost o přijetí? 
+✅ Jak odevzdat vyplněnou žádost do zvolené základní školy? 
+✅ Jak probíhá přijímací řízení? 
+✅ Jaká jsou kritéria pro stanovení přijetí dětí? 
 
 To vše najdete na **[webových stránkách městské části Prahy 11](https://www.praha11.cz/redakce/index.php?clanek=9845&xuser=874984831388604780&lanG=cs&slozka=309&fbclid=IwAR2ag2eWdGqOzJ6gqnOk5aGnq91DLB_9TQMKEZt7a29RiALPNb4OUAW2ncA)**, včetně seznamu škol a odkazů na webové stránky základních škol.
 

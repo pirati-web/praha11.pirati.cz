@@ -20,8 +20,8 @@ Záminkou pro zařazení neprojednaného bodu je kriticky laděný Otevřený do
 Rozpory mezi stranami se mají dle smlouvy na prvním místě řešit vždy tzv. dohodovacím řízením, nikoli veřejnými ultimáty na sociálních sítích. Zastupitelský klub Pirátů na nedodržení Koaliční smlouvy reagovalo nepodpořením programu jako celku.
 
 *“Velice mě mrzí, že bylo zbytečně svoláno jednání zastupitelstva, které stojí MČ nemalé finanční prostředky. Přitom kolegům muselo být zřejmé, že na projednání tohoto bodu není v tuto chvíli většinová koaliční shoda, protože je stále v procesu řešení. V návaznosti na dění v koalici zastupitelstvo městské části neschválilo program jednání a tímto bylo zahájeno dohodovací řízení,”* dodává starosta Dohnal. 
-<br>
-<br>
+
+
 
 **Kontakt pro média:**
 

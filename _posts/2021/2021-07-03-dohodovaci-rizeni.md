@@ -21,9 +21,9 @@ Předmětem dohodovacího řízení byla i situace ve školství. *„Od přijet
 *„Očerňující kampaň, kterou proti Pirátům vede v poslední době hnutí ANO prostřednictvím svých novin a sociálních sítí, považuji za naprosto zbytečnou a nepomáhající k vzájemné dohodě a důvěře. Je to již několikáté porušení koaliční smlouvy ze strany hnutí ANO,“* komentuje obsah časopisu „Jižní Město žije“ pirátský radní pro dopravu a otevřenou radnici Martin Duška. Ten byl za Piráty členem vyjednávacího týmu a vyjádřil se i k průběhu dohodovacího řízení: *„Nabídli jsme velkorysé řešení, které zahrnuje jak dorovnání počtu uvolněných zastupitelů, dokonce i post starosty, tak i komplexní řešení školství. Nekonstruktivní diskuze s koaličními partnery nadále krizi zbytečně prohlubuje a paralyzuje činnost úřadu. Jako Piráti odmítáme tupé padání hlav, chceme skutečný rozbor a řešení všech problémů.“*
 
 Piráti jsou připraveni nadále jednat o podobě koalice Spolu pro Jižní Město se všemi dosavadními koaličními partnery.
-<br>
-<br>
+
+
   
-**Kontakt pro média:**  <br>
-**Jiří Dohnal**, starosta MČ Praha 11, tel: +420 778 421 040; mail: jiri.dohnal@pirati.cz  <br>
+**Kontakt pro média:**  
+**Jiří Dohnal**, starosta MČ Praha 11, tel: +420 778 421 040; mail: jiri.dohnal@pirati.cz  
 **Michal Polák**, media manager KS Praha, tel: +420 608 517 127; mail: michal.polak@pirati.cz
