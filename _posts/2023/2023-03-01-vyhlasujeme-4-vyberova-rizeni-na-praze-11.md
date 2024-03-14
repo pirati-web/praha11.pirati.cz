@@ -16,7 +16,7 @@ Vyhlašujeme výběrová řízení na člena dozorčí rady: KULTURNÍ JIŽNÍ M
 člena dozorčí rada akciové společnosti Jihoměstká sociální - Praha,
 a člena dozorčí rady: KULTURNÍ JIŽNÍ MĚSTO, o. p. s. .
 
-## Člen dozorčí rady KULTURNÍ JIŽNÍ MĚSTO, o. p. s.
+** Člen dozorčí rady KULTURNÍ JIŽNÍ MĚSTO, o. p. s.
 
 Vyhlašujeme veřejné výběrové řízení na člena dozorčí rady: KULTURNÍ JIŽNÍ MĚSTO, o. p. s.
 
@@ -51,7 +51,7 @@ Vyhlašujeme veřejné výběrové řízení na člena dozorčí rady: KULTURNÍ
 
 **Výběrová komise:** člen PMS, člen PKS, člen klubu
 
-## Člen správní rady společnosti KULTURNÍ JIŽNÍ MĚSTO o.p.s
+** Člen správní rady společnosti KULTURNÍ JIŽNÍ MĚSTO o.p.s
 
 Vyhlašujeme veřejné výběrové řízení na místopředsedu správní rady společnosti KULTURNÍ JIŽNÍ MĚSTO o.p.s
 
@@ -83,7 +83,7 @@ Vyhlašujeme veřejné výběrové řízení na místopředsedu správní rady s
 
 **Výběrová komise:** člen PMS, člen PKS, člen klubu
 
-## Dozorčí rada akciové společnosti Jihoměstká majetková - Praha
+** Dozorčí rada akciové společnosti Jihoměstká majetková - Praha
 
 Vyhlašujeme veřejné výběrové řízení na člena dozorčí rady akciové společnosti Jihoměstká majetková
 
@@ -117,7 +117,7 @@ Vyhlašujeme veřejné výběrové řízení na člena dozorčí rady akciové s
 
 **Výběrová komise:** člen PMS, člen PKS, člen klubu
 
-## Dozorčí rada akciové společnosti Jihoměstká sociální - Praha
+** Dozorčí rada akciové společnosti Jihoměstká sociální - Praha
 
 Vyhlašujeme veřejné výběrové řízení na místopředsedu dozorčí rady akciové společnosti Jihoměstká sociální
 
