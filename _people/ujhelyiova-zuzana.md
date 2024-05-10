@@ -21,20 +21,17 @@ profiles:
   odmeny:   https://nalodeni.pirati.cz/odmeny/zuzana.ujhelyiova
   evidence: https://evidence.pirati.cz/author/277/
 funkce:
-  - 3. místopředsedkyně MS Praha 11
-  - předsedkyně místního expertního týmu školství
-  - zastupitelka Prahy 11
-  - členka <a href="https://www.praha11.cz/cs/radnice/rada-mc/komise-rmc/komise-pro-vychovu-vzdelavani-a-narodnostni-mensiny.html">Komise pro výchovu, vzdělávání a národnostní menšiny RMČ P11</a>
-  - členka <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/rada/komise_rady/index.html?commissionId=35384">Komise pro školskou infrastrukturu HMP</a>
+  - členka Komise pro výchovu a vzdělávání MČ Praha 11
+  - členka Komise pro životní prostředí MČ Praha 11
+  - členka Školské komise MHMP
+  - členka Krajského expertního týmu školství
+  - členka Rezortního týmu školství
+
 profession: projektová manažerka
 ---
 
+Zuzana Ujhelyiová (*1983) pochází z Prahy, kde vystudovala geodézii, teologii a předškolní pedagogiku. Profesně se věnovala práci v oblasti personalistiky a financí v českých i mezinárodních firmách a ve startupech. Byla členkou kabinetu místopředsedy vlády pro digitalizaci a nyní pracuje v Digitální a informační agentuře.
 
->*"Jako v Praze narozená jsem si nedovedla přestavit život jinde, a tak jsem jen Severní město vyměnila za to Jižní. Vždy mě zajímalo dění kolem mě, od mládí jsem byla v tomto směru aktivní. Jsem ráda, že se mi za dobu mého působení na radnici podařilo posunout řadu věcí kupředu. Školství pro mě zůstává srdcovou záležitostí",* Zuzana Ujhelyiová.
-
-**Zuzana Ujhelyiová (*1983)** pochází z Prahy, kde vystudovala SPŠ zeměměřickou a následně katolickou teologii na Katolické teologické fakultě Univerzity Karlovy. Nyní dokončuje studium předškolní a mimoškolní pedagogiky. Profesně se věnovala práci v oblasti personalistiky a financí v českých i mezinárodních firmách a ve startupech. Nyní pracuje jako projektová manažerka na Úřadu vlády v kabinetu místopředsedy vlády pro digitalizaci.
-
-Za Piráty kandidovala v roce 2018 do zastupitelstva městské části Praha 11, byla zvolena zastupitelkou a následně se stala radní s gescí školství. Od roku 2021 je členkou komise pro výchovu, vzdělávání a národnostní menšiny MČ Praha 11, členka komise pro školskou infrastrukturu při MHMP. Podílí se na programových cílech a prioritách v oblasti školství za Piráty v rámci resortního týmu školství a krajského expertního týmu školství.
-
+Za Piráty kandidovala v roce 2018 do zastupitelstva městské části Praha 11, byla zvolena zastupitelkou a následně se stala radní s gescí školství. Od roku 2021 je členkou komise pro výchovu a vzdělávání a národnostní menšiny MČ Praha 11. Do roku 2022 také členkou komise pro životní prostředí na téže městské části. Na Magistrátu hlavního města Prahy pak členkou školské komise. Podílí se na programových cílech a prioritách v oblasti školství za Piráty v rámci resortního týmu školství a krajského expertního týmu školství.
 
 ---
